@@ -1,0 +1,13 @@
+titles:
+  c: "Class-level RCT"
+  e: "Exam-based Assessment"
+  t: "Term Duration"
+  d: "Documented Control Group"
+  s: "School-level RCT"
+  a: "All Exams"
+  y: "Year Duration"
+  b: "Balanced Resources"
+  g: "Graduation Tracking"
+  r: "Reproduced Results"
+  i: "Independent Conduct"
+  p: "Pre-Registered Protocol"

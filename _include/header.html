@@ -1,0 +1,18 @@
+<header class="header">
+	<div class="header__container">
+		<div class="header__logo header__logo--contain">
+			<a aria-label="Go to Home Page" href="{{ '/' | relative_url }}">
+				<img src="{{ '/assets/img/logo.svg' | relative_url }}" alt="company logo">
+			</a>
+		</div>
+		<nav class="header__menu menu">
+			<ul>
+				<li><a class="menu__active" href="{{ '/' | relative_url }}">Home</a></li>
+				<li><a href="{{ '/standard.html' | relative_url }}">ERCT Standard</a></li>
+				<li><a href="{{ '/papers' | relative_url }}">Papers</a></li>
+				<li><a href="{{ '/about' | relative_url }}">About</a></li>
+			</ul>
+		</nav>
+		<button type="button" aria-label="open/closed menu" class="header__icon icon-menu"><span></span></button>
+	</div>
+</header>

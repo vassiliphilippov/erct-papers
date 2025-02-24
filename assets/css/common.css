@@ -1,0 +1,40 @@
+[class*='--cover'] img,
+[class*='--cover'] svg {
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: cover;
+}
+[class*='--contain'] img,
+[class*='--contain'] svg {
+  inline-size: 100%;
+  block-size: 100%;
+  object-fit: contain;
+}
+.title {
+  font-family: var(--title-font-family);
+  color: var(--primary-title);
+  font-weight: 600;
+}
+.link {
+  font-weight: 500;
+  line-height: 1.25; /* 125% */
+  padding-block: 1.0625rem; /* 17/16 */
+  padding-inline: 1.9375rem; /* 31/16 */
+  border-radius: 1rem; /* 16/16 */
+  text-align: center;
+}
+.link--black {
+  color: var(--header-bg);
+  background: var(--primary-title);
+  border: 0.0625rem solid var(--primary-title);
+}
+.link--white {
+  color: var(--primary-title);
+  border: 0.0625rem solid var(--link-border);
+  background: var(--header-bg);
+}
+@media (max-width: 66.9988em) {
+  .link {
+    min-inline-size: 15.9375rem; /* 255/16 */
+  }
+}

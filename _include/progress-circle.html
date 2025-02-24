@@ -1,0 +1,37 @@
+<section class="main__progress progress">
+	<div class="progress__container">
+		<div class="progress__body">
+			<div class="progress__circle progress__circle--contain">
+				<svg viewBox="0 0 100 100">
+					<circle cx="50" cy="50" r="45" stroke="var(--header-active)" stroke-width="10" fill="none">
+					</circle>
+					<circle cx="50" cy="50" r="45" stroke="var(--burger-color)" stroke-width="10" fill="none"
+						stroke-dasharray="314" stroke-dashoffset="150" stroke-linecap="round"
+						transform="rotate(-90 50 50)">
+					</circle>
+					<text x="50%" y="52%" text-anchor="middle" dy="8px">{{ page.erct_level }}</text>
+					<defs>
+						<linearGradient x1="0%" y1="0%" x2="100%" y2="0%">
+							<stop offset="0%" stop-color="yellow"></stop>
+							<stop offset="100%" stop-color="red"></stop>
+						</linearGradient>
+					</defs>
+				</svg>
+			</div>
+			<ul class="progress__lessons lessons">
+				{% for criterion in page.criteria %}
+				{% assign letter = criterion[0] | upcase %}
+				{% assign details = criterion[1] %}
+				<li class="lessons__{% if details.met %}active{% endif %}">{{ letter }}
+					<div class="lessons__info">
+						<h2 class="lessons__title">{{ details.explanation }}</h2>
+						<p class="lessons__text">
+							{{ details.quote }}
+						</p>
+					</div>
+				</li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>
