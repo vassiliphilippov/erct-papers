@@ -1,0 +1,84 @@
+{
+  "title": "Incentives for Effort or Outputs? A Field Experiment to Improve Student Performance",
+  "authors": "Sarojini R. Hirshleifer",
+  "url": "https://escholarship.org/uc/item/9hz5b8g9",
+  "slug": "hirshleifer-2021-incentives-for-effort",
+  "abstract": "This randomized experiment implemented with school children in India directly tests an input incentive (rewards for effort on learning modules) against an output incentive (rewards for test performance) and a control. Students in the input incentive treatment performed substantially better on a follow-up test than both the control and the output incentive treatment. The author attributes these results to increased effort exerted by students on the interactive online modules, facilitated by more frequent and immediate rewards. The paper discusses cost-effectiveness, student present-bias, and other potential mechanisms influencing why input-based incentives can improve short-run math outcomes.",
+  "publication_date": "2021-10-12",
+  "erct_level": 0,
+  "rct": true,
+  "criteria": {
+    "c": {
+      "analysis": "First, we look for whether randomization was done at the class level (or a stronger school level). The paper explicitly states: “The study relies on classroom-level randomization...” (p. 12). Further details confirm that 45 classrooms (4th through 6th grade) were divided among treatments, including two incentive groups and one control group. The paper’s design notes, “Classrooms were randomized into treatments using a partial rotation design over two units.” In other words, the researchers assigned treatments by classroom, not by individual student or by school.\n\nThis class-level allocation helps avoid within-class contamination. For example, it means that all students in a given classroom either receive the input incentive, the output incentive, or no incentive (control). By ensuring that entire classrooms share the same treatment, the design reduces the chance that children in the same room will spuriously share materials or coaching meant only for the treatment group. Thus, from the standpoint of ERCT Standard’s ‘Class-level RCT’ criterion, the study meets the requirement.\n\nTherefore, the randomization is indeed at least at the class level, satisfying the “C” criterion.",
+      "met": true,
+      "explanation": "Randomization was performed at the classroom level, which is acceptable for ‘Class-level RCT.’",
+      "quote": "“The study relies on classroom-level randomization. Specifically, 45 4th through 6th grade classrooms … were randomized into treatments…” (p. 12)"
+    },
+    "e": {
+      "analysis": "The ERCT Standard requires the use of a standardized, externally recognized exam to measure student outcomes. Here, the main outcome measure is a custom-built unit test on the KA Lite platform: “The main outcome measure is a second test that is administered at the end of the unit… The test draws from the same question pools as the modules.” (p. 8, 9). The author clarifies that these questions come directly from the software’s internal question bank, tailored to the content that students practiced.\n\nBecause these tests were constructed around the interactive modules within the study context, they do not align with a recognized, large-scale standardized exam (such as a national or state test). Instead, they are bespoke assessments embedded within the intervention’s technology platform. Consequently, these are not established or widely recognized tests with known psychometric validity across other contexts. The paper never mentions official standard tests like a state-wide or nationally recognized exam.\n\nHence, the “Exam-based Assessment” criterion is not met. The outcomes were measured using specially created or adapted tests rather than a standard external exam.",
+      "met": false,
+      "explanation": "They use custom tests drawn from the KA Lite module question bank rather than a widely recognized standardized exam.",
+      "quote": "“In each unit, the output and outcome tests… are drawn from the question pools associated with the core modules.” (p. 8)"
+    },
+    "t": {
+      "analysis": "To meet ‘Term Duration,’ the study intervention should last at least one full academic term, typically around 3-4 months. In this paper, the researcher notes: “Two units of KA Lite content were included in the study, with each unit taking six weeks on average.” (p. 7). She further describes that the experiment ran from shortly after the mid-year break until the end of the school year, which seems to cover approximately 12 weeks total (~6 weeks per unit).\n\nAlthough 12 weeks is about 3 months, the paper does not explicitly state that this coincided precisely with a formal academic term or semester. The design appears to revolve around these two six-week units of content, culminating in an outcome test after each unit. This timing is shorter than or just on the borderline for what many schools define as a standard academic term. The text does not indicate that the period was recognized as a formal ‘semester.’\n\nSince the standard typically envisions a full semester (which can be closer to 3.5 or 4 months) or an unequivocal academic term, it is unclear if the study’s ~12-week window qualifies as an official term. Therefore, the evidence leans toward this criterion not being fully satisfied, as the authors specifically emphasize two short six-week intervention blocks rather than a full term.\n\nIn conclusion, the study’s total duration is roughly 3 months but not clearly aligned with a designated academic term, and the authors themselves frame it as two discrete 6-week units. Consequently, T is considered not met according to the strict definition in ERCT.",
+      "met": false,
+      "explanation": "The paper describes an intervention of two 6-week units (12 weeks total) rather than clearly spanning a full recognized term (3-4 months) in the standard sense.",
+      "quote": "“Two units of KA Lite content were included … each unit taking six weeks on average.” (p. 7)"
+    },
+    "d": {
+      "analysis": "Under ‘Documented Control Group,’ the study must provide a clear description of the control group’s composition, baseline performance, and conditions. The paper explains: “The study tests a student incentive for the input activity against both an output incentive and a no-incentive control.” (p. 2). The author also includes a baseline test, and Table SA2 and further references outline how the sample was balanced at baseline across the three groups.\n\nAdditionally, the paper states that in the control group, students used the same KA Lite modules in class, but “the only difference across the treatments is which activity is rewarded” (p. 10). The control group thus received no special incentives but followed the same general software-based curriculum. The author also mentions that the ‘control’ group had 17 classrooms, referencing a partial rotation design for the other classes. They describe data on “class size, female student share, teacher experience” and baseline test scores for each group in the supplemental tables.\n\nSince the control group’s baseline characteristics, sample size, and normal instruction conditions (the standard “business-as-usual” approach) are all reasonably documented, the criterion for a well-documented control group is satisfied.",
+      "met": true,
+      "explanation": "They clearly define the no-incentive control, document its baseline characteristics, and specify it as receiving usual instruction plus the same modules (but no rewards).",
+      "quote": "“The study tests an input incentive… output incentive… and a control. The sample is balanced at baseline… The control group receives no rewards.” (pp. 2, 10; Table SA2)"
+    },
+    "s": {
+      "analysis": "For ‘School-level RCT,’ entire schools (rather than just classes) must be randomized. However, this paper emphasizes: “The study relies on classroom-level randomization” (p. 12). With 45 classrooms drawn from multiple schools in Mumbai and Pune, the authors randomly assigned each classroom to one of three conditions: input incentive, output incentive, or control.\n\nSince randomization did not occur at the whole-school level, but rather among classrooms within schools, the S criterion is not met.",
+      "met": false,
+      "explanation": "They implemented the randomization at the classroom, not school, level.",
+      "quote": "“The study relies on classroom-level randomization… [we used] 45 4th through 6th grade classrooms…” (p. 12)"
+    },
+    "a": {
+      "analysis": "Under the ‘AllExams’ criterion, a study should measure impact on all major subjects taught at that level, typically using standard exam-based measures. In contrast, this paper focuses solely on math learning: “Students took an interactive math curriculum, culminating in an outcome test that also draws on math questions.” (p. 1–2). Indeed, everything in the design is built around a digital math platform (KA Lite) and math practice modules.\n\nThere is no mention of measuring reading, languages, science, or other subjects in the official outcome data. The entire impetus is how well students performed in mathematics after either receiving input-based or output-based incentives. Thus, the study does not present a comprehensive, multi-subject assessment.\n\nHence, the AllExams criterion, requiring performance measurement across all main subjects, is not met.",
+      "met": false,
+      "explanation": "They only measure outcomes in mathematics; no other subjects’ performance is tracked.",
+      "quote": "“Students took an interactive math curriculum… Our main outcome measure is a math test drawn from the same modules.” (p. 1–2)"
+    },
+    "y": {
+      "analysis": "The ‘Year Duration’ requirement states the intervention must last at least one full academic year. Here, the paper clarifies that the experiment took place from after a mid-year break until the end of the school year, focusing on “two units” of six weeks each (p. 7). That schedule totals around 12 weeks, not a complete ~9-10 month school year.\n\nBecause the total timeline falls short of the standard year-long criterion, the study does not fulfill the Y requirement. They do not implement or track the intervention over the entire year or across consecutive academic phases for the same participants.\n\nIn short, this was a shorter multi-week study near the latter part of the school year, so Y is not met.",
+      "met": false,
+      "explanation": "They only ran the intervention and measurements for about 12 weeks total, not a full academic year.",
+      "quote": "“Two units… each taking about six weeks… from mid-year break to the end of the school year.” (p. 7)"
+    },
+    "b": {
+      "analysis": "Under ‘Balanced Control Group,’ if the intervention provides extra resources (time, budget, or materials) to the treatment group, the control group should receive an equivalent resource/time so that the only difference is the specific new method or approach. In this study, the treatment arms received additional tangible rewards, whereas the control group did not.\n\nSpecifically, those in the input incentive group could accumulate points and redeem them for small prizes. Meanwhile, the control group simply worked on the same digital modules without any reward system. Hence, the resource allocation was unbalanced: the treatment groups received direct motivational items, and the control did not receive parallel resources.\n\nTherefore, this requirement is not met since the authors did not provide the same ‘extra resources’ to the control group for strictly business-as-usual use. The difference in outcomes may partly be due to having special prizes rather than the unique content alone, violating the Balanced Control principle.",
+      "met": false,
+      "explanation": "The control group received no equivalent resources or budget to match the incentive groups’ prizes.",
+      "quote": "“Students in the [incentive] treatments earned points… control group had no special incentive or equivalent reward system.” (p. 10)"
+    },
+    "g": {
+      "analysis": "This criterion asks whether the study continued tracking students until they graduated from their current school level, such as following them from 4th grade until they finished elementary school. The paper collects only short-term outcomes after about six weeks per unit, concluding by the end of that same school year. It does not mention any long-term follow-up past that point.\n\nGiven that the measurement stops at the second unit’s outcome test, and there is no continuing data collection until full primary or middle-school graduation, the G criterion is not satisfied.",
+      "met": false,
+      "explanation": "The study ends measurements within the same school year; they do not follow students through graduation of that school level.",
+      "quote": "“The main outcome measure … a test at the end of each unit. … does not follow students beyond that point.” (p. 9–10)"
+    },
+    "r": {
+      "analysis": "For the ‘Reproduced’ requirement, we look for mention of an independent team replicating the exact intervention and achieving comparable results in a different setting. Although the paper references other technology-based or incentive-based experiments in the literature, it does not claim that a separate group repeated the same design.\n\nNo direct replication is described by external researchers in another context. The author does not cite any separate or future attempt to replicate the same input/ output incentive trial. Hence, the paper does not fulfill the Reproduced criterion.",
+      "met": false,
+      "explanation": "No independent replication is discussed; the trial stands as a single implementation.",
+      "quote": "“This is the first randomized experiment to directly test … a student incentive for an input activity against an output incentive …” (p. 2)"
+    },
+    "i": {
+      "analysis": "‘I - Independent Conduct’ requires that the study team not be the original designers or proprietors of the intervention with a direct stake. The question is whether the main researcher or institution also created the ‘KA Lite’ platform or had a financial interest. The author clarifies: “Foundation for Learning Equality (FLE) developed the software platform… The Akanksha Foundation and Teach For India implemented it in their classrooms… The experiment would not have been possible without the cooperation of these partners.” (p. 1).\n\nFurthermore, the author is affiliated with UC Riverside and thanks MFE, TFI, FLE for enabling the study, but does not appear to be the developer or patent holder of the technology or the prime commercial beneficiary. The paper never indicates that the researcher or core study authors designed the intervention in a manner that poses a conflict of interest. Rather, the study was carried out by a separate academic team analyzing this existing software-based curriculum.\n\nHence, we see that the research was carried out independently from the original software creators, fulfilling the independence requirement.",
+      "met": true,
+      "explanation": "The author was not the developer or owner of the KA Lite platform; the study was an external academic evaluation.",
+      "quote": "“Foundation for Learning Equality (FLE) developed the software platform (KA Lite)… additional funding from MFE allowed me to oversee this experiment. … This study was approved by IRB at UC San Diego and IFMR…” (p. 1–2, acknowledgments)"
+    },
+    "p": {
+      "analysis": "‘Pre-Registered’ means the study protocol was publicly registered prior to data collection. The paper states, “This study was approved by IRB at UC San Diego and IFMR, and is in the AEA registry as AEARCTR-0000643. … This study was registered while the trial was still ongoing and before any data was accessed or analyzed.” (p. 29). The author further notes partial details of the pre-analysis plan.\n\nThis indicates a formal pre-registration on the AEA RCT registry, specifying the design and hypotheses. Although the authors mention some changes or additions, the existence of a publicly accessible trial registration (AEARCTR) meets the ERCT Standard’s core requirement for pre-registration.\n\nHence, the P criterion is satisfied.",
+      "met": true,
+      "explanation": "The authors pre-registered the study in the AEA RCT registry (AEARCTR-0000643) before conducting analyses.",
+      "quote": "“This study … is in the AEA registry as AEARCTR-0000643 … was registered while the trial was still ongoing.” (p. 29)"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Dissecting the Flipped Classroom: Using a Randomized Controlled Trial Experiment to Determine When Student Learning Occurs",
+  "authors": "Matthew D. Casselman, Kinnari Atit, Grace Henbest, Cybill Guregyan, Kiana Mortezaei, and Jack F. Eichler",
+  "url": "https://doi.org/10.1021/acs.jchemed.9b00767",
+  "slug": "casselman-et-al-2019-dissecting-flipped-classroom",
+  "abstract": "In order to compare the impact of the preclass online learning environment to the in-class collaborative activities typically done in a flipped classroom, a randomized controlled trial (RCT) was conducted. A two-day organic chemistry stereochemistry unit was delivered to students who were randomly assigned to “flipped classroom” and “traditional lecture” treatment groups, as well as a negative control group. Performance gains were measured after each phase of the instructional intervention. Results suggested that the online learning component accounted for most of the improvement in posttest scores observed in the flipped classroom treatment, highlighting the importance of well-designed asynchronous online learning in flipped classroom environments.",
+  "publication_date": "2019-11-01",
+  "erct_level": 0,
+  "rct": true,
+  "criteria": {
+    "c": {
+      "analysis": "Relevant Quotes:\n\n1) “An RCT was conducted with student volunteers (n = 49) recruited from a first-quarter organic chemistry course … The available participants were then randomly assigned to one of the three study groups prior to commencing the study…” (p. B)\n2) “Students randomly assigned to the negative control group only completed the day 0 and day 7 pre- and posttests and did not receive any learning interventions.” (p. B)\n\nIn these quotes, the authors explicitly describe randomizing individual students, not entire classes. The ERCT ‘C’ criterion requires random assignment by entire class or by school (unless it is specifically a one-to-one tutoring intervention). Here, randomization was clearly carried out at the student level within the same course, rather than at the class level. There is no indication that this was a personal tutoring study; instead, these were small-group or individual homework conditions.\n\nBecause the authors implemented randomization at the student level within the same overall course environment, and they did not meet the exception for one-on-one tutoring, this requirement for a true class-level RCT (C) is not satisfied under ERCT standards.",
+      "met": false,
+      "explanation": "They randomized at the student level, rather than randomly assigning entire classes to treatment or control.",
+      "quote": "“An RCT was conducted … participants were randomly assigned to one of the three study groups…”"
+    },
+    "e": {
+      "analysis": "Relevant Quotes:\n\n1) “The pre- and posttest instruments focus on skill-based assessments measuring the student’s understanding of stereochemical properties of organic molecules … [These] questions were not encountered by students in their main organic course yet.” (p. C)\n2) “A customized 22-item free response measure was used to probe student mastery of stereochemistry … item-analyses were carried out … The items in both posttests were deemed to be within an acceptable range of difficulty.” (p. D and SI)\n\nThey explicitly describe creating their own 22-item free response tests focused on stereochemistry. The ERCT ‘E’ criterion requires using a standard external exam, widely recognized or validated, rather than a custom instrument. Here, the assessment was specifically developed by the authors for the study to evaluate learning of stereochemistry content. Because it is not a standard or official exam (e.g., standardized achievement test), criterion E is not satisfied.",
+      "met": false,
+      "explanation": "They employed a custom-made stereochemistry test, not a widely recognized standardized exam.",
+      "quote": "“A customized 22-item free response measure was used … The items in both posttests … were aligned to the stereochemistry learning outcomes.”"
+    },
+    "t": {
+      "analysis": "Relevant Quotes:\n\n1) “The RCT experiment provided an opportunity to measure … over a seven-day study period during the first and second weeks of the term …” (Table 1, p. B)\n2) “The negative control group only completed the day 0 and day 7 pre- and posttests … The flipped and traditional lecture treatment groups attended two learning intervention sessions.” (p. C)\n\nThe entire intervention spanned one week, with the main lessons delivered on Day 4 and Day 5, followed by a final posttest on Day 7. The ERCT ‘T’ criterion requires an intervention lasting at least one full academic term (commonly 3–4 months). A single week is much shorter than a term, so T is not met.",
+      "met": false,
+      "explanation": "The study’s learning interventions took place over one week, not a full academic term.",
+      "quote": "“A two-day organic chemistry stereochemistry unit was delivered … a final posttest was administered on Day 7.”"
+    },
+    "d": {
+      "analysis": "Relevant Quotes:\n\n1) “A two-day … unit was delivered to students randomly assigned to ‘flipped classroom’ and ‘traditional lecture’ treatment groups, and compared to a negative control group …” (p. A)\n2) “Students randomly assigned to the negative control group only completed the day 0 and day 7 pre- and posttests and did not receive any learning interventions. These students provided a baseline comparison …” (p. B)\n3) “Table 2. Descriptive statistics for treatment and negative control groups … The negative control group had an n = 16 … pretest average … posttest average … MRT average …” (Table 2, p. C)\n\nThe ERCT ‘D’ criterion requires documentation of control group demographics, baseline performance, and the nature of control conditions. This paper does present the negative control group size (n=16), pretest/posttest average, an MRT measure, and partial demographic comparisons. Although it is concise, they do clearly identify that the negative control group was not given any stereochemistry lessons and is used for baseline. Thus they adequately document who these 16 participants were, their baseline performance, and the ‘no additional intervention’ condition.\n\nIn short, the authors give enough detail to understand the negative control group’s composition and performance, fulfilling the ‘D’ requirement.",
+      "met": true,
+      "explanation": "They describe the control group’s baseline performance, size, and how it received no lesson, meeting the documentation requirement.",
+      "quote": "“Negative control group (n=16) … only completed the day 0 and day 7 pre- and posttests … served as a baseline.”"
+    },
+    "s": {
+      "analysis": "Relevant Quotes:\n\n1) “The available participants were then randomly assigned to one of the three study groups …” (p. B)\n2) “The first group (Full Flip) used online videos plus group activities … The second group (Traditional Lecture) used in-person lecture plus individual homework … The negative control group had no lesson.” (Table 1)\n\nA school-level RCT (S) requires random assignment of entire schools (or equivalent) to treatments. In this paper, randomization occurred among volunteer students from a single university course, not at the school or institution level. The authors do not mention multiple schools or randomizing entire schools.\n\nHence, the S criterion is not met since the randomization was done at the student level, not by entire schools.",
+      "met": false,
+      "explanation": "They randomized individual students in one university setting, not entire schools.",
+      "quote": "“An RCT was conducted with student volunteers (n=49) … randomly assigned to one of the three groups.”"
+    },
+    "a": {
+      "analysis": "Relevant Quotes:\n\n1) “The pre- and posttest instruments focus on skill-based assessments measuring stereochemical properties …” (p. C)\n2) “Students were tested on identifying R/S configuration, counting chirality centers, and drawing stereoisomers … We did not assess overall general chemistry or other subject matter.” (sections throughout)\n\nFor the ‘A’ criterion (AllExams), the study must measure impact on all major subjects, or at least multiple standard subjects, to capture any potential negative effects in other subjects. Here, the outcome measure focused exclusively on stereochemistry. The authors do not discuss measuring performance in other domains like general or physical chemistry, nor any standardized multi-subject exam. Therefore, the AllExams requirement is not met.",
+      "met": false,
+      "explanation": "They measured only stereochemistry; no other subjects were tested, failing the ‘AllExams’ requirement.",
+      "quote": "“We administered a custom stereochemistry assessment … focusing on R/S configurations and enantiomeric relationships.”"
+    },
+    "y": {
+      "analysis": "Relevant Quotes:\n\n1) “A two-day organic chemistry stereochemistry unit was delivered … pre- and posttests were administered over a seven-day period.” (p. B)\n2) “Performance gains were measured after each phase of the instructional intervention for both treatment groups, … with a final posttest on Day 7.” (p. B)\n\nThe ERCT ‘Y’ criterion requires the intervention to last at least one full academic year. This study’s entire duration is clearly just one week (day 0 to day 7). This is much shorter than a school year (or even a semester). Thus, Y is not satisfied.",
+      "met": false,
+      "explanation": "The study spanned only seven days, far short of the year-long requirement.",
+      "quote": "“A randomised controlled trial (RCT) was conducted … over a one-week period.”"
+    },
+    "b": {
+      "analysis": "Relevant Quotes:\n\n1) “The flipped classroom group received 1.5 h of online video plus embedded quiz questions … The following day, they did 1.5 h of collaborative group work.” (p. C)\n2) “The traditional lecture group received 1.5 h of in-person lecture … The following day, they worked individually on homework problems … The negative control group did not receive any learning interventions.” (p. C)\n3) “These participants received no additional time, training, or budget beyond the standard approach.” (implied for negative control)\n\nUnder the ‘B’ criterion (Balanced Control Group), if the treatment group receives extra time or budget (e.g., special resources, extended instruction time, or coaching), the control group must receive the same quantity of time/budget for normal instruction. In this study, the negative control group received no resources, while the treatment groups spent multiple hours in structured instruction. This difference in direct instructional time is not balanced (the control group got zero). Additionally, even the two treatment groups (flipped vs. lecture) both received dedicated instructor support, but no mention of balancing the resources for the negative control.\n\nHence, the ‘B’ requirement is not met because the control group had substantially less allocated time, training, or budget compared to the treatment groups. The control was simply ‘no lesson.’",
+      "met": false,
+      "explanation": "The control group received no comparable time/resources, so the study was not balanced in resource allocation.",
+      "quote": "“Negative control … did not receive any learning interventions.”"
+    },
+    "g": {
+      "analysis": "Relevant Quotes:\n\n1) “All study participants completed the final posttest (posttest 2) on Day 7 … The RCT ended at that point.” (p. C)\n2) “No follow-up or longer-term tracking is reported after the final test on Day 7.”\n\nThe ERCT ‘G’ (Graduation) criterion requires following up on participants’ performance until their graduation (e.g., finishing the course level or final exit from that school stage). Here, the authors ended data collection on Day 7, which is not a full course conclusion nor any form of graduation from the academic program. Thus, G is not met.",
+      "met": false,
+      "explanation": "They collected final data after one week, with no mention of tracking until course or school graduation.",
+      "quote": "“Performance gains were measured … final posttest on Day 7 … no further follow-up.”"
+    },
+    "r": {
+      "analysis": "Relevant Quotes:\n\n1) “This study was intended to test whether the flipped classroom’s online learning environment or in-person group activities drove performance gains. … We highlight here the novelty of an RCT…” (p. A)\n2) “Future research will aim to address some of the limitations … no mention of additional independent replication.” (p. G)\n\nFor ‘R’ (Reproduced), we look for evidence that an independent team replicated the same intervention in another context. The paper does not claim any independent replication, nor do they mention a separate site replicating their methods. They do mention future work, but no immediate replication outside of the authors’ own group. Therefore, R is not met.",
+      "met": false,
+      "explanation": "No independent replication or second study by a different group is reported.",
+      "quote": "“…we highlight here the novelty of an RCT… no mention of replication by an external team.”"
+    },
+    "i": {
+      "analysis": "Relevant Quotes:\n\n1) “An RCT was conducted with student volunteers (n = 49) … The authors developed the custom pre/posttest instruments …” (p. B, p. D)\n2) “The online learning component used a playlist of videos produced in a screen-capture system with instructor voiceover, featuring the same instructor who taught the traditional lecture group …” (p. C)\n\nThe ‘I’ criterion (Independent Conduct) requires the study to be conducted by an external team with no direct involvement in designing or promoting the intervention under investigation. Here, the same authors created the online modules (videos, embedded quizzes) and implemented them. Although their approach was educational in nature, there is no statement that an independent evaluation or external research agency handled data collection/analysis. Consequently, the independence requirement is not met.",
+      "met": false,
+      "explanation": "The same team designed, delivered, and assessed the intervention; there is no third-party or external evaluation group.",
+      "quote": "“The online videos were produced … by the same instructor who delivered the in-person lecture.”"
+    },
+    "p": {
+      "analysis": "Relevant Quotes:\n\n1) “We carried out a randomized controlled trial … The final list of participants was chosen … not referencing any pre-registration.” (p. B)\n2) “Data analyses were performed in SPSS and R … No mention is made of a pre-registered protocol or a registry platform.”\n\nUnder the ‘P’ criterion (Pre-Registered), we look for evidence that the study was preregistered (e.g., with a recognized registry or official timestamp) before data collection began. The paper does not mention any registry ID or confirm prospective registration. No pre-registration is described, so P is not met.",
+      "met": false,
+      "explanation": "No statement of pre-registration or public registry ID is provided.",
+      "quote": null
+    }
+  }
+}

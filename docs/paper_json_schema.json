@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/schemas/paper.schema.json",
+  "title": "Paper Schema",
+  "description": "JSON schema describing all information about one paper",
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string",
+      "description": "The paper's title."
+    },
+    "authors": {
+      "type": "string",
+      "description": "The authors, typically as a single string."
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Link to the paper."
+    },
+    "slug": {
+      "type": "string",
+      "description": "Unique slug (auto-generated if missing)."
+    },
+    "abstract": {
+      "type": ["string", "null"],
+      "description": "Optional abstract of the paper."
+    },
+    "publication_date": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "Publication date in ISO 8601 (YYYY-MM-DD) or null."
+    },
+    "erct_level": {
+      "type": "integer",
+      "description": "ERCT level (0=Not evaluated, 1=Level1, 2=Level2, 3=Level3).",
+      "minimum": 0,
+      "maximum": 3
+    },
+    "rct": {
+      "type": "boolean",
+      "description": "True if this paper is a proper RCT study, otherwise false"
+    },
+    "criteria": {
+      "type": "object",
+      "description": "Container for the 12 CETD-SAYB-GRIP criteria fields.",
+      "properties": {
+        "c": {
+          "$ref": "#/definitions/criterion"
+        },
+        "e": {
+          "$ref": "#/definitions/criterion"
+        },
+        "t": {
+          "$ref": "#/definitions/criterion"
+        },
+        "d": {
+          "$ref": "#/definitions/criterion"
+        },
+        "s": {
+          "$ref": "#/definitions/criterion"
+        },
+        "a": {
+          "$ref": "#/definitions/criterion"
+        },
+        "y": {
+          "$ref": "#/definitions/criterion"
+        },
+        "b": {
+          "$ref": "#/definitions/criterion"
+        },
+        "g": {
+          "$ref": "#/definitions/criterion"
+        },
+        "r": {
+          "$ref": "#/definitions/criterion"
+        },
+        "i": {
+          "$ref": "#/definitions/criterion"
+        },
+        "p": {
+          "$ref": "#/definitions/criterion"
+        }
+      },
+      "required": [
+        "c","e","t","d","s","a","y","b","g","r","i","p"
+      ]
+    }
+  },
+  "required": [
+    "title",
+    "authors",
+    "url",
+    "criteria"
+  ],
+  "additionalProperties": false,
+  "definitions": {
+    "criterion": {
+      "type": "object",
+      "description": "Boolean + explanation + quote for a given criterion.",
+      "properties": {
+        "analysis": {
+          "type": "string",
+          "description": "A detailed analysis whether this criterion is met or not that starts from listing all relevant quotes from the paper. About 2-5 paragraphs of text."
+        },
+        "met": {
+          "type": "boolean",
+          "description": "Whether this criterion is met."
+        },
+        "explanation": {
+          "type": "string",
+          "description": "Text describing why or how it is met."
+        },
+        "quote": {
+          "type": ["string", "null"],
+          "description": "Relevant excerpt/quote from the paper."
+        }
+      },
+      "required": ["analysis", "met", "explanation"],
+      "additionalProperties": false
+    }
+  }
+}

@@ -1,0 +1,30 @@
+body {
+  color: var(--primary-text);
+  font-family: var(--text-font-family);
+  background-color: var(--primary-bg);
+}
+.wrapper {
+  min-height: 100%;
+  overflow: clip;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+}
+
+[class*='__container'] {
+  max-width: 84.25rem; /* 1348/16 */
+  margin-inline: auto;
+}
+@media (min-width: 47.9988em) {
+  [class*='__container'] {
+    padding-inline: 1.5rem; /* 24/16 */
+  }
+}
+@media (max-width: 47.9988em) {
+  [class*='__container'] {
+    padding-inline: 1rem; /* 16/16 */
+  }
+}
