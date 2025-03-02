@@ -10,11 +10,8 @@ The whole project is stored in GitHub repo.
 The ERCT Standard is described in the following document:
 docs/ERCT Standard.md
 
-The original initial data about the papers is located as a set of 20 JSON files in the following folder:
-_papers/json
-
-JSON schema for those files is located in the following file:
-docs/paper_json_schema.json
+JSON schema for paper yaml files is located in the following file:
+docs/paper_yaml_schema.yaml
 
 The website design prepared by a front developer freelancer is located at:
 docs/design

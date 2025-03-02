@@ -1,0 +1,39 @@
+# Yamale schema for paper front matter (schema.yaml)
+# To validate: yamale -s schema.yaml _papers/your-paper.md
+
+# Top level structure
+title: str(required=True)
+authors: str(required=True) 
+url: regex(r'^https?://.+', required=True)
+slug: str(required=True)
+abstract: str(required=False)
+publication_date: date(required=False)
+erct_level: int(min=0, max=3, required=True)
+rct: bool(required=True)
+
+# Criteria substructure
+criteria: include('criteria')
+
+# Definition of criteria structure
+---
+criteria:
+  c: include('criterion')
+  e: include('criterion')
+  t: include('criterion')
+  d: include('criterion')
+  s: include('criterion')
+  a: include('criterion')
+  y: include('criterion')
+  b: include('criterion')
+  g: include('criterion')
+  r: include('criterion')
+  i: include('criterion')
+  p: include('criterion')
+
+# Individual criterion definition  
+---
+criterion:
+  met: bool(required=True)
+  explanation: str(required=True)
+  quote: any(required=False)
+  analysis: str(required=True)
