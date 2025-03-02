@@ -1,44 +1,112 @@
 ---
-layout: custom
-title: Papers
+layout: default
+title: ERCT Evaluated Papers
+permalink: /papers/
 ---
 
-<h1>Debug</h1>
+<section class="main__hero hero">
+  <div class="hero__container">
+    <div class="hero__inner">
+      <div class="hero__body">
+        <h1 class="hero__title title">ERCT Evaluated Papers</h1>
+        <div class="hero__text">
+          <p>Browse our collection of educational research papers evaluated according to the 
+          <strong>Educational Randomized Controlled Trial (ERCT) Standard</strong>. Each paper has been 
+          assessed against 12 criteria across three progressive levels to determine its methodological 
+          strength and real-world applicability.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 
-<!-- Debug information -->
-<div style="background: #eee; padding: 10px; margin: 10px 0;">
-  <p>Number of papers: {{ site.papers.size }}</p>
-  <p>Papers collection exists: {% if site.papers %}yes{% else %}no{% endif %}</p>
-  <pre>
-    {% for paper in site.papers %}
-      - {{ paper.title }} ({{ paper.path }})
-    {% endfor %}
-  </pre>
-</div>
+<section class="main__studies studies">
+  <div class="studies__container">
+    <div class="studies__top">
+      <span class="studies__papers">{{ site.papers.size }} Papers</span>
+      <div class="studies__select"><span class="studies__option">Published Date</span>
+        <ul class="studies__list">
+          <li>Published Date</li>
+          <li>ERCT Date</li>
+          <li>ERCT Level</li>
+        </ul>
+      </div>
+    </div>
+    
+    <ul class="studies__block block-studies">
+      {% assign sorted_papers = site.papers | sort: 'publication_date' | reverse %}
+      {% for paper in sorted_papers %}
+        <li class="block-studies__card">
+          <a href="{{ paper.url | relative_url }}">
+            <article class="block-studies__article">
+              <div class="block-studies__progress progress">
+                <div class="progress__body">
+                  <div class="progress__circle progress__circle--contain">
+                    {% assign level_percentage = paper.erct_level | times: 33.3 %}
+                    {% assign stroke_offset = 314 | minus: level_percentage | divided_by: 100 | times: 314 %}
+                    
+                    <svg viewBox="0 0 100 100">
+                      <circle cx="50" cy="50" r="45" stroke="var(--header-active)" stroke-width="10" fill="none"></circle>
+                      <circle cx="50" cy="50" r="45" stroke="var(--burger-color)" stroke-width="10"
+                        fill="none" stroke-dasharray="314" stroke-dashoffset="{{ stroke_offset }}"
+                        stroke-linecap="round" transform="rotate(-90 50 50)"></circle>
+                      <text x="50%" y="55%" text-anchor="middle" dy="8px">{{ paper.erct_level }}</text>
+                    </svg>
+                  </div>
+                  <ul class="progress__lessons lessons">
+                    {% for letter in "cetydsabgirp" %}
+                      {% assign criterion = paper.criteria[letter] %}
+                      <li class="{% if criterion.met %}lessons__active{% endif %}">{{ letter | upcase }}
+                        <div class="lessons__info">
+                          <h3 class="lessons__title">
+                            {% case letter %}
+                              {% when 'c' %}Class-level RCT
+                              {% when 'e' %}Exam-based Assessment
+                              {% when 't' %}Term Duration
+                              {% when 'd' %}Documented Control Group
+                              {% when 's' %}School-level RCT
+                              {% when 'a' %}All Exams
+                              {% when 'y' %}Year Duration
+                              {% when 'b' %}Balanced Resources
+                              {% when 'g' %}Graduation Tracking
+                              {% when 'r' %}Reproduced Results
+                              {% when 'i' %}Independent Conduct
+                              {% when 'p' %}Pre-registered Protocol
+                            {% endcase %}
+                          </h3>
+                          <p class="lessons__text">
+                            {{ criterion.explanation }}
+                          </p>
+                        </div>
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+              <div class="block-studies__content">
+                <ul class="block-studies__tags">
+                  <li>Level {{ paper.erct_level }} ERCT</li>
+                  {% if paper.rct %}<li>RCT</li>{% endif %}
+                  {% if paper.publication_date %}
+                    <li>{{ paper.publication_date | date: "%Y" }}</li>
+                  {% endif %}
+                </ul>
+                <h3 class="block-studies__title title">{{ paper.title }}</h3>
+                <div class="block-studies__label">{{ paper.authors }}</div>
+                <p class="block-studies__text">
+                  {{ paper.abstract | truncatewords: 40 }}
+                </p>
+                <div class="block-studies__bottom">
+                  <div class="block-studies__published"><span class="block-studies__icon">Published:</span>
+                    <time datetime="{{ paper.publication_date }}">{{ paper.publication_date | date: "%b %-d, %Y" }}</time>
+                  </div>
+                </div>
+              </div>
+            </article>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
 
-<h1>Published Papers</h1>
-
-<table>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Year</th>
-      <th>Authors</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for paper in site.papers %}
-      <tr>
-        <td>
-          {% if paper.url %}
-            <a href="{{ paper.url }}">{{ paper.title }}</a>
-          {% else %}
-            {{ paper.title }}
-          {% endif %}
-        </td>
-        <td>{{ paper.year }}</td>
-        <td>{{ paper.authors | join: ", " }}</td>
-      </tr>
-    {% endfor %}
-  </tbody>
-</table>

@@ -1,0 +1,44 @@
+---
+layout: custom
+title: Papers
+---
+
+<h1>Debug</h1>
+
+<!-- Debug information -->
+<div style="background: #eee; padding: 10px; margin: 10px 0;">
+  <p>Number of papers: {{ site.papers.size }}</p>
+  <p>Papers collection exists: {% if site.papers %}yes{% else %}no{% endif %}</p>
+  <pre>
+    {% for paper in site.papers %}
+      - {{ paper.title }} ({{ paper.path }})
+    {% endfor %}
+  </pre>
+</div>
+
+<h1>Published Papers</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Year</th>
+      <th>Authors</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for paper in site.papers %}
+      <tr>
+        <td>
+          {% if paper.url %}
+            <a href="{{ paper.url }}">{{ paper.title }}</a>
+          {% else %}
+            {{ paper.title }}
+          {% endif %}
+        </td>
+        <td>{{ paper.year }}</td>
+        <td>{{ paper.authors | join: ", " }}</td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
