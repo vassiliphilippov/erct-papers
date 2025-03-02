@@ -1,12 +1,7 @@
 source "https://rubygems.org"
 
-# Use GitHub Pages gem in production (on GitHub)
-# Use Jekyll 4.x for local development
-if ENV["JEKYLL_ENV"] == "production"
-  gem "github-pages", group: :jekyll_plugins
-else
-  gem "jekyll", "~> 4.4.1"
-end
+# Use GitHub Pages gem to match GitHub's environment
+gem "github-pages", group: :jekyll_plugins
 
 # Plugins
 group :jekyll_plugins do
