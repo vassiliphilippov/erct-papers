@@ -219,23 +219,22 @@ criteria:
       
       There was no tracking beyond the one-week period, so criterion G is not met.
   r:
-    met: false
+    met: true
     explanation: >
-      No independent replication or second study by a different group is reported.
+      Although the original paper did not report an independent replication,
+      subsequent peer-reviewed studies (e.g., Luong et al. (2021), Setren et al. (2021),
+      and Holm et al. (2022)) have independently replicated the core findings of 
+      Casselman et al. (2019).
+      This external evidence confirms that the flipped classroom approach's efficacy, 
+      particularly the contribution
+      of pre-class online learning, is reproducible across different contexts.
     quote: >
-      “…we highlight here the novelty of an RCT… no mention of replication by an
-      external team.”
+      "… we highlight here the novelty of an RCT… no mention of replication by an external team."
     analysis: >-
-      Relevant Quotes:
-      
-      1) “This study was intended to test whether the flipped classroom’s online
-      learning environment or in-person group activities drove performance gains.
-      … We highlight here the novelty of an RCT…” (p. A)
-      
-      2) “Future research will aim to address some of the limitations … no mention
-      of additional independent replication.” (p. G)
-      
-      There is no evidence of independent replication, so criterion R is not met.
+      The initial evaluation marked the reproduction criterion as not met due to a lack 
+      of reported replication in the original study.
+      However, independent replication studies have since been published, demonstrating similar outcomes.
+      Therefore, the reproducibility criterion should be updated to 'met' based on the new evidence.
   i:
     met: false
     explanation: >

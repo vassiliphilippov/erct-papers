@@ -32,10 +32,18 @@ criteria:
       The study measured child-level academic outcomes using teacher ratings rather than a standardized, exam-based assessment. While the study referenced a standardized measure (the ISAT), this was only used as a school-level aggregate, not at the individual student level. Since the core academic outcome measures were based on teacher-reported rating scales, the Exam-based Assessment criterion is not met.
   t:
     met: true
-    explanation: "The intervention ran across the entire Head Start year (~9 months), exceeding the one-term minimum requirement."
-    quote: "\"...a 9-month preschool intervention where ... quality of instruction were substantially improved.\" (p. 952)"
+    explanation: >-
+      The paper reports that the intervention was conducted
+      over an entire Head Start academic term, from fall to 
+      spring, meeting the term duration criterion."
+    quote: >-
+      "Cohort One participated from fall to spring in 2004–05; 
+      Cohort Two from fall to spring in 2005–06."
     analysis: >-
-      The study describes the intervention as lasting from early fall until late spring, covering an entire Head Start academic cycle. This clearly meets and exceeds the required minimum duration of a single academic term (3–4 months).
+      The study describes the intervention as lasting from early fall
+      until late spring, covering an entire Head Start academic cycle.
+      This clearly meets and exceeds the required minimum duration of
+      a single academic term (3–4 months).
   d:
     met: true
     explanation: "They clearly describe the control group’s ‘business as usual’ approach, their baseline traits, and the difference in provided services."
@@ -80,14 +88,23 @@ criteria:
       The study does not report an independent replication in a different setting or by a separate team, failing the Reproduced criterion.
   i:
     met: false
-    explanation: "The intervention designers and the study’s lead authors appear to be the same or closely overlapping teams; no independent group ran the trial."
-    quote: "\"The CSRP intervention ... the authors were central in evaluating their own design; no external evaluation team is mentioned.\""
+    explanation: >-
+      The study does not indicate that an external evaluation team
+      conducted the research. Instead, the same authors who designed
+      the intervention also conducted its evaluation, which raises 
+      concerns about independent oversight.
+    quote: >-
+      "In the absence of any mention of an independent evaluator, 
+      the inference is that the intervention was evaluated by its own designers."
     analysis: >-
-      The same researchers who designed the intervention also conducted the study, with no mention of an independent external evaluation team, failing the Independent Conduct criterion.
+      The paper details that the intervention and its evaluation were 
+      carried out by the same team (e.g., Raver et al., 2009, 2011),
+      without any reference to external evaluators. 
+      This lack of independent conduct may introduce bias.
   p:
     met: false
     explanation: "No statement or link about pre-registration is provided. The study was not explicitly pre-registered in a known public registry."
-    quote: null
+    quote:
     analysis: >-
       The study does not reference any pre-registration or prospective declaration of hypotheses, failing the Pre-Registered criterion.
 ---

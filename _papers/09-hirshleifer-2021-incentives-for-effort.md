@@ -138,8 +138,9 @@ criteria:
       They only measure outcomes in mathematics; no other subjects' performance
       is tracked.
     quote: >-
-      "Students took an interactive math curriculum… Our main outcome measure is a
-      math test drawn from the same modules." (p. 1–2)
+      "All students are assigned the same interactive learning modules ... 
+      and test at the end of the unit ... 
+      The main outcome measure is a second test at the end of the unit." (p. 1–2)
     analysis: >-
       Under the 'AllExams' criterion, a study should measure impact on all major
       subjects taught at that level, typically using standard exam-based measures.
@@ -166,8 +167,8 @@ criteria:
       The control group received no equivalent resources or budget to match
       the incentive groups' prizes.
     quote: >-
-      "Students in the [incentive] treatments earned points… control group had no
-      special incentive or equivalent reward system." (p. 10)
+      "All students complete the same modules and tests, thus the only difference 
+      across the treatments is which activity is rewarded." (p. 8)
     analysis: >-
       Under 'Balanced Control Group,' if the treatment provides extra resources to the
       treatment group, the control group should receive an equivalent resource/time.
@@ -180,8 +181,8 @@ criteria:
       The study ends measurements within the same school year; it does not
       follow students through graduation.
     quote: >-
-      "The main outcome measure … a test at the end of each unit. … does not follow
-      students beyond that point." (p. 9–10)
+      "The experiment began after students returned from the mid-year break and 
+      continued to the end of the school year." (p. 7)
     analysis: >-
       This criterion asks whether the study continued tracking students until they
       graduated from their current school level. The paper collects only short-term

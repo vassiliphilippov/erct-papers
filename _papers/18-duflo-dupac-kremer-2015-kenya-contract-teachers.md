@@ -33,13 +33,14 @@ criteria:
       They conducted a randomized assignment of entire schools to the Extra
       Teacher Program, which meets or exceeds class-level RCT requirements.
     quote: >-
-      “The ETP program provided 70 randomly selected school committees with funds
-      to hire an additional teacher…We set up an experiment…” (pp. 93-94)
+      “We set up an experiment… in the context of a randomized evaluation of the 
+      Extra Teacher Program (ETP) implemented in Kenya between 2005 and 2007. The ETP 
+      program provided 70 randomly selected school committees with funds to hire 
+      supplemental teachers locally…” (pp. 93–94)
     analysis: >-
-      The paper describes random assignment of entire schools to receive the
-      Extra Teacher Program (ETP) or serve as a control. The key randomization
-      was at the school level, which is acceptable or stronger. Therefore,
-      criterion C is met.
+      The paper describes random assignment of 210 schools into 70 control vs 140 
+      program schools. This cluster-randomized design is at least as 
+      rigorous as class-level randomization. Therefore, criterion C is met.
   e:
     met: false
     explanation: >-
@@ -55,14 +56,13 @@ criteria:
   t:
     met: true
     explanation: >-
-      They implemented the program for at least 18 months, easily surpassing the
-      minimum term requirement.
+      The intervention was implemented for substantially more than one academic term.
     quote: >-
-      “All but two of the 70 schools… had a contract teacher in place by early May
-      2005… data on test scores were collected in November 2006…” (pp. 94, 97)
+      “All but two of the 70 schools… had a contract teacher in place by early May 
+      2005… just before the program ended (November 2006).” (pp. 94, 97)
     analysis: >-
-      The program spanned from May 2005 through November 2006, covering multiple
-      school terms and lasting over a year and a half. Thus, criterion T is met.
+      The program started in early May 2005 and ran until November, 
+      spanning roughly 18–19 months (over five school terms). Thus, criterion T is met.
   d:
     met: true
     explanation: >-
@@ -77,47 +77,47 @@ criteria:
   s:
     met: true
     explanation: >-
-      They assigned entire schools to the program or control condition,
-      satisfying school-level randomization.
+      They assigned entire schools to the program or control group, satisfying the 
+      requirement for school-level randomization.
     quote: >-
-      “We set up an experiment… The ETP program provided 70 randomly selected school
-      committees with funds… out of 210.” (pp. 93-94)
+      “The 210 schools were randomly divided into a comparison group (70 schools), 
+      and an Extra Teacher Program (ETP) group (140 schools).” (p. 94)
     analysis: >-
-      Since the unit of randomization was the entire school, the study meets
-      criterion S.
+      The unit of randomization was the school: 210 schools split into 70 control and 
+      140 treatment. This clearly fulfills criterion S.
   a:
     met: false
     explanation: >-
-      They only measured math and literacy outcomes, not all main subjects in the
+      They only measured math and literacy outcomes, not all main subjects in the 
       curriculum.
     quote: >-
-      “Standardized tests covering math and literacy questions…we find large
-      differences… we do not see mention of science or other subjects.” (p. 97)
+      “Standardized tests covering math and literacy questions… were administered in 
+      all schools after 5 school terms…” (p. 97)
     analysis: >-
-      Focusing solely on math and literacy, the study did not assess other core
-      subjects; thus, criterion A is not met.
+      The outcome assessment focused solely on math and literacy. No 
+      science or other subjects were tested, thus criterion A is not met.
   y:
     met: true
     explanation: >-
-      They ran the program for roughly 18–19 months, clearly exceeding one school
-      year.
+      The program duration exceeded a full school year.
     quote: >-
-      “ETP was implemented… from May 2005 through November 2006, covering at least 3
-      school terms or more.” (pp. 94, 97)
+      “…70 ETP schools… over the five school terms (corresponding to 15 months of 
+      instruction) it operated.” (p. 96)
     analysis: >-
-      With the intervention lasting over a year and a half, criterion Y is met.
+      The ETP intervention ran for five school terms (about one and a half years), 
+      clearly longer than an academic year. Therefore, criterion Y is met.
   b:
     met: false
     explanation: >-
-      Only the ETP schools received funds to hire contract teachers, with no
-      corresponding resource for the control schools.
+      The treatment schools received an extra teacher (reducing class size), whereas 
+      control schools did not receive any equivalent resource.
     quote: >-
-      “…the control group continued under standard instruction with no additional
-      teacher… (class size ~82) whereas the ETP group hired an extra teacher…” (pp.
-      92, 96)
+      “While average class size in grade 1 in 2005 in the comparison schools was 82, 
+      it was only 42–44 in ETP schools.” (p. 95)
     analysis: >-
-      The imbalance in resources between treatment and control groups means that
-      criterion B is not met.
+      The intervention added a teacher in treatment schools, roughly halving class 
+      size, whereas control classes remained extremely large. No 
+      compensating resource was given to control schools, so criterion B is not met.
   g:
     met: false
     explanation: >-
@@ -133,25 +133,31 @@ criteria:
   r:
     met: false
     explanation: >-
-      They reference related studies but do not report an independent replication by
+      They reference related studies but do not report an independent replication by 
       a separate research team.
     quote: >-
-      “A separate set of schools were chosen for an alternative… (p. 94) … We also
-      note Muralidharan & Sundararaman (2013) in India, but that is not an explicit
-      replication.”
+      “In contemporaneous work in India, Muralidharan and Sundararaman (2013) also 
+      find that teachers reduce effort in response to hiring additional teachers.” 
+      (p. 93)
     analysis: >-
-      The study lacks evidence of an independent replication; thus, criterion R is
-      not met.
+      The authors cite similar findings in India, but this was a separate 
+      experiment rather than a direct replication of their program. The paper provides 
+      no evidence of any independent team reproducing the results, thus criterion R 
+      was not met in the original study.
   i:
     met: false
     explanation: >-
-      The authors led the design and analysis without an independent external team.
+      The researchers themselves designed and implemented the study without an 
+      independent external team conducting the experiment.
     quote: >-
-      “We set up an experiment… ICS staff met with the headmaster… but the authors
-      appear to lead design and research.” (p. 93)
+      “We set up an experiment… in the context of a randomized evaluation of the 
+      Extra Teacher Program…” (p. 93) “…ICS staff met with the headmaster, the 
+      teachers, and the parents… to explain how the program worked…” (p. 94)
     analysis: >-
-      With the same team handling design and analysis, there is no independent
-      conduct, so criterion I is not satisfied.
+      The phrase “We set up an experiment” indicates the authors’ active 
+      role. Implementation was done through the NGO (ICS) as directed by the research 
+      team. There was no independent organization running a separate evaluation, 
+      so criterion I is not satisfied.
   p:
     met: false
     explanation: >-

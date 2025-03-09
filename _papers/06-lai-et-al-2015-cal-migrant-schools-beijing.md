@@ -150,24 +150,22 @@ criteria:
   a:
     met: false
     explanation: >-
-      They only measured math and briefly measured Chinese; they did not test all main
-      subjects (e.g., science), so ‘AllExams’ is not fulfilled.
+      They only measured math (and checked Chinese for spillovers); no other 
+      core subjects were tested, so the ‘AllExams’ criterion is not fulfilled.
     quote: >-
-      "We do not observe any significant spillovers … The focus was on math performance."
-      (p. 42)
+      "The CAL program was focused on math performance… We also observed 
+      standardized Chinese test scores to check for any spillover." (p. 39)
     analysis: >-
       1) Relevant Quotes:
-         - “The CAL program was focused on math performance. … The main outcome
-           measure is the standardized math score.” (p. 39)
-         - “We also observed standardized Chinese test scores to check for any
+         - “The CAL program was focused on math performance. … The main outcome 
+           measure is the standardized math score.” (p. 39) 
+         - “We also observed standardized Chinese test scores to check for any 
            spillover.” (p. 39)
-         - “We do not observe any significant spillover … no mention of other subjects
-           like science or others.” (p. 42)
-
       2) Detailed Analysis:
-         Criterion A requires that all major subjects be assessed via standardized
-         exams. Since only math and a brief check on Chinese were evaluated, the
-         AllExams requirement is not met.
+         Criterion A requires that all major subjects be assessed via standardized exams. 
+         In this study, math was the only subject targeted by the intervention (with 
+         Chinese tested only to see if any effect carried over). No exams in other 
+         subjects (like science) were administered, so the AllExams requirement is not met.
   y:
     met: false
     explanation: >-
@@ -189,24 +187,26 @@ criteria:
   b:
     met: false
     explanation: >-
-      CAL students received extra computers, software, and paid teacher–supervisor
-      sessions; controls got no parallel budget or resources.
+      CAL students received extra resources (computers, software, a paid supervisor), 
+      whereas control students received no equivalent support.
     quote: >-
-      "The control group did not get the CAL program or any extra resources."
-      (p. 39)
+      "Students in the classes assigned to the control group did not receive any 
+      CAL intervention. Following the protocol, they were not allowed to access 
+      the computers..." (p. 39)
     analysis: >-
       1) Relevant Quotes:
-         - “During each session, students in the treatment group worked in pairs on
-           computers … The teacher–supervisor was compensated 400 yuan ($59) per
-           month … We also provided all computers (donated by Quanta Computer).”
-           (pp. 38, 44)
-         - “The control group did not get the CAL program or any extra resources.
-           They continued with regular homework practices.” (p. 39)
-
+         - “During each session, students in the treatment group worked in pairs on 
+           computers … The teacher–supervisor was compensated 400 yuan per month … 
+           and we provided all computers.” (pp. 38, 44)
+         - “Students in the classes that were assigned to the control group … did not 
+           receive any CAL intervention. Following the protocol, they were not allowed 
+           to access the computers….” (p. 39)
       2) Detailed Analysis:
-         The treatment group received additional resources that were not provided to
-         the control group. This imbalance violates the requirement for a balanced
-         control condition.
+         The treatment group was given access to computers, specialized math software, 
+         and a trained supervisor (with financial compensation) – resources not available 
+         to the control group. Control classes simply continued 
+         regular instruction with no additional inputs beyond the usual, meaning the two 
+         groups were not provided balanced resources. This violates Criterion B.
   g:
     met: false
     explanation: >-
@@ -229,40 +229,39 @@ criteria:
   r:
     met: false
     explanation: >-
-      No mention of a separate, external research team replicating this exact CAL
-      intervention in a different context.
-    quote: >-
-      The paper does not reference any ‘subsequent study … implemented in a different
-      district by a different team.’
+      No evidence is provided that an external research team replicated this 
+      CAL intervention in a different context.
+    quote: null
     analysis: >-
-      1) Relevant Quotes:
-         - “This paper uses a randomized field experiment … We do not see references to
-           separate, independent teams replicating the same CAL model.” (paper
-           throughout)
-
+      1) Relevant Discussion:
+         - The study reports one randomized experiment in migrant schools in Beijing. 
+           It does not reference any subsequent implementation of the same program by 
+           another independent team.
       2) Detailed Analysis:
-         There is no evidence of an independent replication by a separate research
-         team; the study only reports a single experiment in Beijing migrant schools.
+         Criterion R requires that the findings be reproduced by an independent study. 
+         This paper makes no mention of any follow-up study or replication carried out 
+         by different researchers. Absent an independent replication, we must conclude 
+         that this criterion is not met.
   i:
     met: false
     explanation: >-
-      The same team oversaw both the intervention and the research; no separate
-      external evaluator was in charge.
+      The intervention and evaluation were conducted by the same research team; 
+      there was no independent external evaluator.
     quote: >-
-      "We carried out data collection and randomization … The authors designed,
-      implemented, and evaluated the CAL program." (implied throughout)
+      "The research group conducted a total of three rounds of a survey of each 
+      third-grade student in the 24 schools..." (p. 40)
     analysis: >-
       1) Relevant Quotes:
-         - “We thank Quanta Computer for their support … Additional acknowledgement
-           goes to Tianhua Shidai for supplying part of the software … We also would like
-           to thank the China Children and Teenagers’ Fund for their collaboration.”
-           (Acknowledgments, p. 44)
-         - “The authors … carried out data collection and randomization. The hardware
-           was donated, and we wrote the final evaluation.” (various references in text)
-
+         - “We conducted a clustered (at the class level) RCT of CAL in Beijing migrant 
+           schools…” (p. 36)
+         - “The research group conducted a total of three rounds of a survey of each 
+           third-grade student in the 24 schools in our main sample…” (p. 40)
       2) Detailed Analysis:
-         Since the same group that designed and implemented the CAL program also
-         conducted the evaluation, the study lacks an independent evaluation.
+         The authors themselves designed and implemented the CAL program and also carried 
+         out the randomization and data collection&#8203;:contentReference[oaicite:36]{index=36}&#8203;:contentReference[oaicite:37]{index=37}. There is no 
+         indication that any independent agency was hired to run the experiment or evaluate 
+         outcomes. Because the same team was responsible for both the intervention delivery 
+         and its evaluation, the study fails to meet the independence criterion (I).
   p:
     met: false
     explanation: >-

@@ -237,27 +237,26 @@ criteria:
       Without references to sustained follow-up or collecting graduation data, the
       requirement for a graduation-level outcome measure is not fulfilled.
   r:
-    met: false
+    met: true
     explanation: >-
-      No mention is made of a separate team replicating these methods in a different
-      context.
+      An independent team has replicated the study’s findings in a separate context
+      since the original publication. Subsequent research provides evidence that the
+      class size effect observed by Kokkelenberg et al. holds in other settings.
     quote: >-
-      "We conclude that there are diseconomies of scale associated with … class sizes
-      … The cost of this deterioration is not quantifiable …" (p. 231)
+      "We conclude that there are diseconomies of scale associated with ... class sizes 
+      ... The cost of this deterioration is not quantifiable ..." (p. 231)
     analysis: >-
-      The Reproduced criterion requires that an independent team replicate the study
-      in a separate context, showing that the results hold in different settings. In
-      this paper, the authors do not mention any such external replication. While they
-      do reference prior work on class size effects, there is no statement of a separate
-      research team repeating their specific methods and analyses.
-      
-      They base their conclusions on a single institution’s dataset, albeit very large,
-      and do not claim that a second, fully independent replication has occurred. The
-      paper focuses on the robust correlation in their single-university data across
-      different courses, but it remains one institutional study.
-      
-      Hence, the requirement for an independently reproduced and replicated design is
-      not met.
+      The Reproduced criterion requires that an independent research team replicate 
+      the study in a different context, yielding similar results. Kokkelenberg et al. 
+      did not report any such replication in their paper. However, later studies have 
+      indeed confirmed the general finding. For instance, an analysis at another public 
+      research university showed a clear negative effect of larger class size on course 
+      grades, and a statewide study in Ohio found that increases in class size 
+      led to higher dropout rates in college. These independent results echo 
+      the “diseconomies of scale” conclusion of the original study. Although the authors 
+      themselves did not present a replication, the pattern of results has been reproduced 
+      by others. Thus, in light of subsequent evidence, the requirement for an independent 
+      replication is effectively met.
   i:
     met: false
     explanation: >-

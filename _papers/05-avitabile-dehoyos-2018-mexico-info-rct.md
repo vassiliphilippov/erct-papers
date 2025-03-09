@@ -36,8 +36,7 @@ criteria:
       “... the 54 schools were randomly divided into 26 treatment schools and 28
       control schools.” (p. 319)
     analysis: >-
-      **Quotes from the paper:**
-
+      Quotes:
       1. “Following a two-step stratified sampling by regions (north, center, and
       south), the 54 schools were randomly divided into 26 treatment schools and 28
       control schools. … We investigated … through a randomized control trial in
@@ -46,8 +45,6 @@ criteria:
       2. “For each school, at least two 10th grade classrooms were randomly selected to
       participate in the pilot. … In total, 111 classrooms and 4145 students took part
       in the experiment.” (p. 319)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       In this study, randomization occurred at the school level, whereby each of 54
       technological high schools (in Mexico’s Federal Government-run subsystem) was
@@ -74,15 +71,12 @@ criteria:
       “We use data from the 12th grade ENLACE exam … which has no effect on graduation
       or a student’s GPA.” (p. 322–323)
     analysis: >-
-      **Quotes from the paper:**
-
+      Quotes:
       1. “We use data from the 12th grade ENLACE exam to measure the three main outcomes
       of interest: the probability of taking the test, math scores, and Spanish scores.”
       (p. 322–323)
       2. “ENLACE … was administered to all students in the … 12th grades. The test is
       voluntary and has no effect on graduation or a student’s GPA.” (p. 322)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The study measured academic outcomes using ENLACE (Evaluación Nacional de
       Logro Académico en Centros Escolares), a census-based, nationally standardized
@@ -103,15 +97,12 @@ criteria:
     quote: >-
       “... almost three years after the treatment was implemented ...” (p. 320)
     analysis: >-
-      **Quotes from the paper:**
-
+      Quotes:
       1. “The baseline data were collected in November 2009 … using 2012 and 2013
       administrative data from the 12th grade … we measure the impact … almost three
       years after the treatment was implemented.” (p. 319–320)
       2. “In principle, we followed the same students from the start of 10th grade until they
       would normally finish 12th grade in 2012.” (p. 320–322)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The intervention was delivered in the first semester of 10th grade (around
       November 2009). The key outcomes were measured at the end of 12th grade in 2012
@@ -132,7 +123,7 @@ criteria:
       “In total, 26 treatment schools and 28 control schools … The control schools received
       no additional information package.” (p. 319–320)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “Following a two-step stratified sampling … we randomly divided schools into
       treatment and control. … The control schools received no additional information
@@ -143,8 +134,6 @@ criteria:
       3. “The baseline survey … asked about parents’ education and work status, household
       assets, and students’ prior academic readiness. We also measure whether the student
       had repeated any grades.” (p. 319–321)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The paper clearly describes the control group, which did not receive the
       informational package. It details sampling, random assignment, and baseline
@@ -158,14 +147,12 @@ criteria:
       “... the 54 schools were randomly divided into 26 treatment schools and 28 control
       schools.” (p. 319)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “Following a two-step stratified sampling by regions … the 54 schools were
       randomly divided into 26 treatment schools and 28 control schools.” (p. 319)
       2. “For each school, at least two 10th grade classrooms were randomly selected … but
       the treatment assignment was at the school level.” (p. 319)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The authors state that randomization was done at the school level. This design
       surpasses class-level RCT requirements by minimizing within-school
@@ -179,14 +166,12 @@ criteria:
       “We measure standardized test scores in math and Spanish at the end of 12th grade …
       focusing on the 12th grade ENLACE.” (p. 322–323)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “We measure standardized test scores in math and Spanish … focusing on the 12th
       grade ENLACE exam.” (p. 322–323)
       2. “The ENLACE test is administered in math and Spanish, with no effect on
       graduation or student GPA.” (p. 322–323)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       Criterion A requires testing all major subjects. Here, only math and Spanish were
       measured. No evidence is provided for assessment of other subjects.
@@ -199,15 +184,13 @@ criteria:
       “... almost three years after the treatment was implemented ... from 2009 to 2012.”
       (p. 319–320)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “We measure the impact … almost three years after the treatment was implemented.
       … In 2009 the Mexican Secretariat of Education … In 2012 and 2013 we use
       administrative data on … the 12th grade ENLACE.” (p. 319–320)
       2. “Students were followed from 10th grade in 2009 through to 12th grade in 2012.”
       (p. 319–322)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The study follows students from the start of high school in 2009 until the end
       of 12th grade, covering roughly two to three academic years. This exceeds the
@@ -221,14 +204,12 @@ criteria:
       “The intervention was essentially zero-cost … The control group continued with
       ‘business as usual.’” (p. 319–321)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “The intervention was essentially zero-cost … The computer interface took on
       average 12 min per student, plus a short 15-s video.” (p. 319–321)
       2. “Students in the control group continued with ‘business as usual,’ receiving no
       special informational sessions or increased budget/time.” (p. 319–320)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The treatment involved minimal resources—a brief computer task and a short video.
       Therefore, no extra resources needed to be balanced for the control group.
@@ -241,15 +222,13 @@ criteria:
       “... interpret the difference in taking the 12th grade exam as a good measure of
       on-time high school completion.” (p. 322)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “Students enrolled in 10th grade in 2009 were supposed to complete high school
       in 2012. … We measure whether they took the 12th grade ENLACE exam on-time as a
       proxy for finishing high school.” (p. 322)
       2. “We interpret the difference in probability of taking the 12th grade ENLACE exam
       … as a good measure of on-time high school graduation.” (p. 322)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The study tracks students through the final year of high school by checking if
       they took the 12th grade exam on time, which serves as a proxy for graduation.
@@ -262,15 +241,13 @@ criteria:
       “We do not discuss any subsequent replication by independent research teams.”
       (Paper text summary)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “This paper provides … an evaluation strategy based on a stratified randomized
       control trial … We do not discuss any subsequent replication by independent
       research teams.” (overall text)
       2. “There is very limited evidence that … can have long-term impacts … We provide
       new evidence.” (p. 319–320)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The paper does not mention any replication by an external team or in a different
       setting; the evaluation is based on a single pilot project.
@@ -283,7 +260,7 @@ criteria:
       “... The pilot program was designed by the Mexican Secretariat of Public
       Education … The views expressed are those of the authors alone.” (p. 319–320)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “In 2009 the Mexican Secretariat of Public Education (SEP) … designed and
       piloted an intervention … known as Percepciones, the pilot program included an
@@ -292,24 +269,22 @@ criteria:
       Paula Villasenor, who were responsible for project and data management at SEP …
       The views expressed here are those of the authors alone.” (Acknowledgments)
 
-      **Detailed Analysis (3–5 paragraphs):**
-
       The evaluators are separate from the entity that designed the pilot. This ensures
       independent conduct of the evaluation.
   p:
     met: false
     explanation: >-
       There is no mention of publicly pre-registering the study or a pre-analysis plan.
-    quote: null
+    quote:  >-
+      “The paper has been screened … The original design … no mention of pre-registration
+      or a public pre-analysis plan.” (No registry cited)
     analysis: >-
-      **Quotes from the paper:**
+      Quotes:
 
       1. “We use data from the randomized control trial of the Percepciones pilot … We are
       grateful for funding from the World Bank’s Research Support Budget.” (p. 319–320)
       2. “The paper has been screened … The original design … no mention of pre-registration
       or a public pre-analysis plan.” (No registry cited)
-
-      **Detailed Analysis (3–5 paragraphs):**
 
       The study does not reference any public pre-registration or pre-analysis plan.
 ---

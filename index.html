@@ -205,11 +205,9 @@ title: "ERCT - Educational RCT Standard"
             </div>
             <div class="block-studies__content">
               <ul class="block-studies__tags">
-                <li>Level {{ paper.erct_level }} ERCT</li>
-                {% if paper.rct %}<li>RCT</li>{% endif %}
-                {% if paper.publication_date %}
-                <li>{{ paper.publication_date | date: "%Y" }}</li>
-                {% endif %}
+                {% for tag in paper.tags %}
+                <li>{{ tag }}</li>
+                {% endfor %}
               </ul>
               <h3 class="block-studies__title title">{{ paper.title }}</h3>
               <div class="block-studies__label">{{ paper.authors }}</div>

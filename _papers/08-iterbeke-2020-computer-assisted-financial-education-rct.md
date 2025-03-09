@@ -310,28 +310,17 @@ criteria:
   r:
     met: false
     explanation: >-
-      No independent replication of the exact same intervention is reported.
+      No independent replication of the exact same intervention is reported by an external team.
     quote: >-
-      “Despite the large amount of research on computer-based learning environments ...
-      the present paper contributes to the literature by examining... We do not see
-      mention of a separate replication.” (pp. 1–2)
+      "The present paper contributes to the literature by examining the combined and isolated
+      effects of two commonly-used components, i.e., adaptive instruction and feedback, in a
+      computer-assisted program." (p. 1)
     analysis: >-
-      Quotes:
-      1) “We conducted a randomized control trial ... The results showed that the
-      program, on average, enhanced financial knowledge ... No mention is made of any
-      separate replication by an independent research team.” (throughout the paper)
-      2) “The present paper studied the effects of adaptive instruction and elaborated
-      feedback... We do not see references to an external or repeated trial under separate
-      authorship.” (paper does cite other financial education studies but not as
-      replications of this same intervention)
-
-      Analysis:
-      (1) To meet the R (Reproduced) requirement, a separate or independent team would
-      have to replicate the same intervention in a different sample or context. The
-      authors do not indicate that an external entity repeated the same program.
-      (2) While the paper references earlier or related research on financial education,
-      they do not describe a distinct replication trial of this exact approach.
-      (3) Thus, the study has not been reproduced by an independent team, and R is not met.
+      (1) To satisfy R (Reproduced), a separate research team would need to replicate this study’s 
+      intervention in a different sample or context. The paper does not describe any such replication.
+      (2) While the authors situate their work in the broader literature on computer-assisted learning, 
+      they do not mention any independent attempt to repeat their experiment.
+      (3) Therefore, no evidence of an independent reproduction exists, and criterion R is not met.
   i:
     met: false
     explanation: >-
@@ -362,32 +351,16 @@ criteria:
   p:
     met: false
     explanation: >-
-      They do not provide concrete evidence that the study’s protocol was publicly
-      pre-registered prior to data collection.
+      The authors do not provide clear evidence that the study’s protocol was publicly pre-registered 
+      **before** data collection.
     quote: >-
-      “This work is registered in the AEA RCT Registry ... We do not see the date or
-      confirm it was done before data collection.” (front matter footnote)
+      "This work is registered in the AEA RCT Registry and the unique identifying number is 
+      AEARCTR-0004431." (Acknowledgments footnote)
     analysis: >-
-      Quotes:
-      1) “This work was supported by the Flemish Science Organisation [grant number
-      S000617N].” (Acknowledgments)
-      2) “This work is registered in the AEA RCT Registry and the unique identifying number
-      is AEARCTR-0004431.” (front matter or footnote in final version)
-         *(Note: In the publicly available pre-print, the authors do not mention a
-      pre-registration date or detailed protocol references.*)
-      3) “We designed the experiment by first stratifying schools... the
-      randomization procedure is detailed in the main text.” (p. 4)
-
-      Analysis:
-      (1) The P (Pre-Registered) criterion requires a formal public pre-registration of the
-      study’s hypotheses, methods, and analyses prior to data collection. Some versions
-      of the text mention that the study “is registered” in the AEA RCT Registry
-      (AEARCTR-0004431). However, in the pre-proof or final text, we do not see specific
-      references to the date of pre-registration relative to data collection.
-      (2) The paper does not show a link or confirm that the pre-registration was done
-      before data were collected. It also does not show an explicit plan or mention
-      deviations from that plan.
-      (3) Because no explicit statement in the journal pre-proof indicates that the
-      protocol was publicly preregistered prior to recruitment and data collection (the
-      timing is not shown), we must conclude that P is not fully met.
+      (1) P (Pre-registered) requires that the experimental design and analysis plan be registered in 
+      advance of the study and disclosed. The paper notes an AEA RCT Registry entry, but it does not 
+      specify the registration date or provide a link to a pre-analysis plan.
+      (2) Without a confirmed pre-study registration timestamp or detailed protocol, we cannot verify 
+      that the trial was registered before data collection began.
+      (3) As a result, the pre-registration criterion is not conclusively met in this study.
 ---

@@ -130,18 +130,20 @@ criteria:
   a:
     met: false
     explanation: >-
-      They only tested students in reading and did not measure other subjects’ outcomes
-      (e.g. math, science).
+      They only tested students in reading and did not measure other 
+      subjects’ outcomes (e.g. math, science).
     quote: >-
-      "…the primary research question… focuses on reading comprehension measures only…"
-      (Introduction and Methods sections)
+      "The primary research question was: Do 4th grade classrooms using the 
+      ITSS system… outperform control classrooms on … measures of reading 
+      comprehension?" (Method section)
     analysis: >-
-      A (AllExams) requires the study to measure outcomes in all main subjects with
-      standardized exams to evaluate potential negative effects on other areas. This
-      paper focuses exclusively on reading comprehension. The primary research
-      question is: do 4th grade classrooms using ITSS outperform control classrooms on
-      reading comprehension measures? No mention is made of assessing math, science,
-      or other subjects. Thus, A is not met.
+      A (AllExams) requires the study to measure outcomes in all main 
+      subjects with standardized exams to evaluate potential negative effects 
+      on other areas. This paper focuses exclusively on reading comprehension. 
+      The primary research question asks whether 4th-grade classrooms using 
+      ITSS outperform control classrooms on reading comprehension measures, 
+      with no mention of assessing math, science, or other subjects. 
+      Thus, A is not met.
   y:
     met: false
     explanation: >-
@@ -156,17 +158,19 @@ criteria:
   b:
     met: false
     explanation: >-
-      They did not allocate equivalent resources or tools to control classrooms; the
-      intervention group had exclusive access to the ITSS system.
+      They did not allocate equivalent resources or tools to control 
+      classrooms; the intervention group had exclusive access to the ITSS system.
     quote: >-
-      "…the control group continued using the same language arts curriculum… while
-      the ITSS group used the web-based tutoring system for 30–45 min weekly."
-      (Methods section)
+      "…the control group in each school used the same language arts curriculum… 
+      whereas the intervention group used ITSS for 30–45 min each week as a partial 
+      substitute for the regular curriculum." (Method section)
     analysis: >-
-      To meet B (Balanced Control Group), any extra budget, time, or resources given to
-      the treatment group should also be allocated to the control group. Although the
-      total instructional time was the same, the ITSS group received a specialized
-      tutoring system that was not provided to the control group. Hence, B is not met.
+      To meet B (Balanced Control Group), any extra budget, time, or resources 
+      given to the treatment group should also be allocated to the control group. 
+      Although total instructional time was kept identical, the ITSS group 
+      received a specialized tutoring software that was not provided to the control group. 
+      The control classes simply continued with the standard curriculum, 
+      without an alternative intervention of equal scope or intensity. Hence, B is not met.
   g:
     met: false
     explanation: >-

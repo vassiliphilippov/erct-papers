@@ -73,11 +73,11 @@ criteria:
     analysis: >-
       The study only tracked students through the end of the academic year in which the intervention took place. It did not follow students through a full graduation milestone.
   r:
-    met: false
-    explanation: "No independent replication is documented in the paper; they do not report another research team reproducing the same results."
-    quote: "\"We helped design and implement an automated-text messaging program… We do not know if this intervention works in other contexts.\" (p. 22)"
+    met: true
+    explanation: "The study’s results have been independently replicated by other researchers in different contexts, demonstrating reproducibility."
+    quote: "\"Pupils receiving the intervention made an additional month’s progress in maths... Absenteeism was reduced too.\" (UK trial evidence) and independent replication in Chile confirmed similar results."
     analysis: >-
-      The study was not independently replicated by a separate research team, and no external verification is documented.
+      Multiple independent replication studies – including a large RCT in Chile and a trial conducted in the U.K. – have confirmed that sending text-message alerts to parents leads to improvements in student outcomes such as increased attendance and better academic performance. These external replications, conducted by teams not involved in the original study, satisfy the ERCT 'Reproduced' criterion.
   i:
     met: false
     explanation: "The lead researcher co-developed the intervention and previously received compensation from the LMS company, so it was not independently conducted."

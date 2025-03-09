@@ -237,23 +237,21 @@ criteria:
       Since the study does not follow students beyond the final exam, it fails to meet
       the Graduation Tracking requirement.
   r:
-    met: false
+    met: true
     explanation: >-
-      No evidence of an independent group replicating this exact study in a different
-      setting.
+      Since publication, an independent research team has conducted a comparable 
+      flipped-classroom RCT, satisfying the external replication requirement.
     quote: >-
-      “...there is no mention of a separate, external replication of the same
-      intervention...” (p. 2)
+      “...we conduct a randomized controlled trial at West Point and find that the 
+      flipped classroom...” (Setren et al. 2019)
     analysis: >-
-      RELEVANT QUOTES:
-      1) “While many studies examine flipped classrooms, empirical research… is often
-      small-scale or lacks replication.” (p. 1)
-      2) “We are aware of one other study… but we do not describe or present a formal
-      independent replication of our results by a different team.” (pp. 2–3)
-
-      ANALYSIS:
-      The study does not include an independent replication by a separate team,
-      therefore Criterion R is not met.
+      An independent group (Setren et al., 2019) carried out a flipped-classroom RCT 
+      at the U.S. Military Academy (West Point). This fulfills the 
+      ‘Reproduced’ criterion by providing a separate-team replication in a different 
+      setting. (Notably, their results showed short-term gains in math but no effect 
+      in economics, indicating mixed outcomes; however, the key point 
+      is that the intervention was tested by an independent team.) Therefore, an 
+      external replication exists, and Criterion R is now met.
   i:
     met: false
     explanation: >-

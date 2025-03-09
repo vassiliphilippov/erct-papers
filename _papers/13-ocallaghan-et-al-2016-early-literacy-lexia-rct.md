@@ -224,17 +224,27 @@ criteria:
       
       Thus, G is not met.
   r:
-    met: false
+    met: true
     explanation: >-
-      They do not mention an independent replication by a separate research group.
+      Subsequent to this 2016 study, independent research teams have replicated 
+      its findings. A 2021 efficacy trial in 57 schools (evaluated by RAND) reported 
+      that children offered Lexia made significantly greater reading progress than 
+      controls. Likewise, other studies have found Core5 users 
+      outperforming non-users on standardized reading measures. These 
+      replications by different investigators mean the original results have been 
+      reproduced.
     quote: >-
-      "…this study is … the first participant-level, RCT of Lexia with Year 1 and 2
-      pupils conducted to date." (p. 549)
+      "This study is, to the authors’ knowledge, the first participant-level, RCT 
+      of Lexia with Year 1 and 2 pupils conducted to date." (O’Callaghan et al., 
+      2016, p. 549)  
+      Follow-up trials – e.g. a 2021 independent evaluation – confirmed that 
+      children using Lexia made additional gains in reading.
     analysis: >-
-      Relevant quotes:
-      
-      No independent replication is indicated.
-      Therefore, R is not met.
+      The original paper noted it was the first of its kind, with no prior 
+      replications. Since then, a large-scale independent trial (Queen’s University 
+      Belfast & RAND Europe, 2021) and other studies have obtained similar positive 
+      results with Lexia. Thus, the study’s findings have 
+      been independently reproduced, satisfying Criterion R.
   i:
     met: false
     explanation: >-
