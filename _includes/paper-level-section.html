@@ -1,0 +1,12 @@
+                    <li class="stage__item {% if criterion[1].met %}stage__item--active{% endif %}">
+                        <article class="stage__article">
+                            <span class="stage__letter">{{ criterion[0] | upcase }}</span>
+                            {% assign crit_key = criterion[0] | downcase %}
+                            <h4 class="stage__title">{{ site.data.criteria.titles[crit_key] }}</h4>                             
+                            <ul class="stage__list">
+                                <li>{{ criterion[1].explanation }}</li>
+                                <li>{{ criterion[1].quote }}</li>
+                                <li>{{ criterion[1].analysis | newline_to_br }}</li>
+                            </ul>
+                        </article>
+                    </li>

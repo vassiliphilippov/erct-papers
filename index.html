@@ -1,0 +1,274 @@
+---
+layout: default
+title: "ERCT - Educational RCT Standard"
+---
+
+<section class="main__hero hero">
+  <div class="hero__container">
+    <div class="hero__inner">
+      <div class="hero__body">
+        <h1 class="hero__title title">
+          Making <br> Educational Research <br> Better with ERCT Standards
+        </h1>
+        <div class="hero__text">
+          <p>
+            <strong>The Educational Randomized Controlled Trial</strong> (ERCT)
+            <strong>Standard</strong> is a rigorous framework addressing key
+            challenges in educational studies. With <strong>12 criteria</strong> across
+            <strong>3 progressive levels,</strong> it <strong>resolves issues</strong> like bias,
+            limited scope, and short-term focus – enabling researchers to produce actionable results that
+            improve education systems worldwide.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="main__framework framework">
+  <div class="framework__container">
+    <h2 class="framework__title title">The ERCT Framework</h2>
+    <p class="framework__text">The ERCT Standard has <strong>3 levels</strong>, each containing <strong>4
+        criteria</strong></p>
+    <div class="framework__block-level block-level">
+      <div class="block-level__row">
+        <div class="block-level__level">
+          <h3 class="block-level__title title">Level 1</h3>
+          <div class="block-level__label">Base</div>
+          <div class="block-level__text">Focuses on short-term classroom studies with clear documentation
+            and assessments.</div>
+        </div>
+        <ul class="block-level__list-cards list-cards">
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Class-level RCT</h4>
+              <p class="list-cards__text">Tests interventions at the classroom level to prevent
+                cross-group contamination</p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Exam-based Assessment</h4>
+              <p class="list-cards__text">Uses standardized exams for objective and comparable results
+              </p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Term Duration</h4>
+              <p class="list-cards__text">Ensures studies last at least one academic term to measure
+                meaningful impacts</p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Documented Control Group</h4>
+              <p class="list-cards__text">Requires detailed control group data for proper comparisons
+              </p>
+            </article>
+          </li>
+        </ul>
+      </div>
+      <div class="block-level__row">
+        <div class="block-level__level">
+          <h3 class="block-level__title title">Level 2</h3>
+          <div class="block-level__label">Middle</div>
+          <div class="block-level__text">Focuses on short-term classroom studies with clear documentation
+            and assessments.</div>
+        </div>
+        <ul class="block-level__list-cards list-cards">
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">School-level RCT</h4>
+              <p class="list-cards__text">Expands testing to whole schools for real-world relevance</p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">All-subject Exams</h4>
+              <p class="list-cards__text">Assesses effects across all core subjects, avoiding imbalances
+              </p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Year Duration</h4>
+              <p class="list-cards__text">Ensures studies last at least one academic term to measure
+                meaningful impacts</p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Balanced Resources</h4>
+              <p class="list-cards__text">Ensures equal time and resources for both groups to isolate
+                the intervention's impact.</p>
+            </article>
+          </li>
+        </ul>
+      </div>
+      <div class="block-level__row">
+        <div class="block-level__level">
+          <h3 class="block-level__title title">Level 3</h3>
+          <div class="block-level__label">Top</div>
+          <div class="block-level__text">Focuses on short-term classroom studies with clear documentation
+            and assessments.</div>
+        </div>
+        <ul class="block-level__list-cards list-cards">
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Graduation Tracking</h4>
+              <p class="list-cards__text">Tracks students until graduation to evaluate long-term
+                impacts.</p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Replicated Results</h4>
+              <p class="list-cards__text">Uses standardized exams for objective and comparable results
+              </p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Independent Conduct</h4>
+              <p class="list-cards__text">Removes bias by using third-party evaluators.</p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Pre-registered Protocol:</h4>
+              <p class="list-cards__text">Increases transparency by publishing study plans before data
+                collection</p>
+            </article>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="framework__links"><a class="framework__link link link--black" href="#">Learn More About ERCT
+        Standard</a></div>
+  </div>
+</section>
+
+<section class="main__studies studies">
+  <div class="studies__container">
+    <h2 class="studies__title title">ERCT Evaluated Studies</h2>
+    <ul class="studies__block block-studies">
+      {% assign sorted_papers = site.papers | sort: 'publication_date' | reverse %}
+      {% for paper in sorted_papers %}
+      <li class="block-studies__card">
+        <a href="{{ paper.url | relative_url }}">
+          <article class="block-studies__article">
+            <div class="block-studies__progress progress">
+              <div class="progress__body">
+                <div class="progress__circle progress__circle--contain">
+                  {% assign level_percentage = paper.erct_level | times: 33.3 %}
+                  {% assign stroke_offset = 314 | minus: level_percentage | divided_by: 100 | times: 314 %}
+                  <svg viewBox="0 0 100 100">
+                    <circle cx="50" cy="50" r="45" stroke="var(--header-active)" stroke-width="10" fill="none"></circle>
+                    <circle cx="50" cy="50" r="45" stroke="var(--burger-color)" stroke-width="10"
+                      fill="none" stroke-dasharray="314" stroke-dashoffset="{{ stroke_offset }}"
+                      stroke-linecap="round" transform="rotate(-90 50 50)"></circle>
+                    <text x="50%" y="55%" text-anchor="middle" dy="8px">{{ paper.erct_level }}</text>
+                  </svg>
+                </div>
+                <ul class="progress__lessons lessons">
+                  {% assign criteria_order = "c,e,t,d,s,a,y,b,g,r,i,p" | split: ',' %}
+                  {% for letter in criteria_order %}
+                    {% assign criterion = paper.criteria[letter] %}
+                      <li class="{% if criterion and criterion.met %}lessons__active{% else %}lessons__inactive{% endif %}">
+                        {{ letter | upcase }}
+                        <div class="lessons__info">
+                          <h3 class="lessons__title">
+                            {% case letter %}
+                              {% when 'c' %}Class-level RCT
+                              {% when 'e' %}Exam-based Assessment
+                              {% when 't' %}Term Duration
+                              {% when 'd' %}Documented Control Group
+                              {% when 's' %}School-level RCT
+                              {% when 'a' %}All Exams
+                              {% when 'y' %}Year Duration
+                              {% when 'b' %}Balanced Resources
+                              {% when 'g' %}Graduation Tracking
+                              {% when 'r' %}Reproduced Results
+                              {% when 'i' %}Independent Conduct
+                              {% when 'p' %}Pre-registered Protocol
+                            {% endcase %}
+                          </h3>
+                          <p class="lessons__text">
+                            {{ criterion.explanation }}
+                          </p>
+                        </div>
+                      </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+            <div class="block-studies__content">
+              <ul class="block-studies__tags">
+                <li>Level {{ paper.erct_level }} ERCT</li>
+                {% if paper.rct %}<li>RCT</li>{% endif %}
+                {% if paper.publication_date %}
+                <li>{{ paper.publication_date | date: "%Y" }}</li>
+                {% endif %}
+              </ul>
+              <h3 class="block-studies__title title">{{ paper.title }}</h3>
+              <div class="block-studies__label">{{ paper.authors }}</div>
+              <p class="block-studies__text">
+                {{ paper.abstract | truncatewords: 40 }}
+              </p>
+              <div class="block-studies__bottom">
+                <div class="block-studies__published">
+                  <span class="block-studies__icon">Published:</span>
+                  <time datetime="{{ paper.publication_date }}">
+                    {{ paper.publication_date | date: "%b %-d, %Y" }}
+                  </time>
+                </div>
+              </div>
+            </div>
+          </article>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="main__suggest suggest">
+  <div class="suggest__container">
+    <div class="suggest__content">
+      <h2 class="suggest__title title">Have Questions <br> or Suggestions?</h2>
+      <div class="suggest__subtitle">Get in Touch</div>
+      <div class="suggest__text">
+        <p>
+          Have a study you'd like to submit for ERCT evaluation? Found something that could be improved?
+          If you're an author and need to update or correct information about your study, let us know.
+        </p>
+      </div>
+    </div>
+    <div class="suggest__study-actions study-actions">
+      <ul class="study-actions__items">
+        <li class="study-actions__item">
+          <article class="study-actions__article">
+            <h3 class="study-actions__title title">Submit a Study for Evaluation</h3>
+            <p class="study-actions__text">Share your research with us for review</p>
+          </article>
+        </li>
+        <li class="study-actions__item">
+          <article class="study-actions__article">
+            <h3 class="study-actions__title title">Suggest Improvements</h3>
+            <p class="study-actions__text">Provide feedback to help us make things better.</p>
+          </article>
+        </li>
+        <li class="study-actions__item">
+          <article class="study-actions__article">
+            <h3 class="study-actions__title title">Update Your Study</h3>
+            <p class="study-actions__text">If you're the author, let us know about necessary updates or corrections.</p>
+          </article>
+        </li>
+      </ul>
+      <div class="study-actions__links">
+        <a href="{{ '/contact' | relative_url }}" class="study-actions__link link link--black">Contact Us</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -28,7 +28,7 @@
 							ERCT Date:
 							<time datetime="2021-10-01">Oct 1, 2021</time>
 						</div>
-						<div class="hero__link"><a href="{{ page.url }}">
+						<div class="hero__link"><a href="{{ page.paper_link }}">
 								<div class="hero__svg hero__svg--contain">
 									<img src="{{ '/assets/img/icons/link-2.svg' | relative_url }}" alt="link icon">
 								</div>Link
@@ -38,14 +38,13 @@
 									<img src="{{ '/assets/img/icons/share-2.svg' | relative_url }}" alt="share icon">
 								</div>Share
 							</a></div>
-						<div class="hero__download"><a href="#">
+						<div class="hero__download"><a href="{{ page.paper_link }}">
 								<div class="hero__svg hero__svg--contain">
 									<img src="{{ '/assets/img/icons/download.svg' | relative_url }}" alt="download icon">
 								</div>Download PDF
 							</a></div>
 					</div>
 					<ul class="hero__tags">
-						<li>Mathematics</li>
 						<li>Level {{ page.erct_level }} ERCT</li>
 					</ul>
 				</div>
@@ -61,7 +60,7 @@
 							<p class="abstract__text">
 								{{ page.abstract }}
 							</p>
-							<a class="abstract__link link link--black" href="{{ page.url }}">
+							<a class="abstract__link link link--black" href="{{ page.paper_link }}">
 								<div class="link__icon link__icon--contain"><img src="{{ '/assets/img/icons/book-text.svg' | relative_url }}"
 										alt="book text icon"></div>Full
 								Article

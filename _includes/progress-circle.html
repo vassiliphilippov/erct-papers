@@ -22,7 +22,7 @@
 				{% for criterion in page.criteria %}
 				{% assign letter = criterion[0] | upcase %}
 				{% assign details = criterion[1] %}
-				<li class="lessons__{% if details.met %}active{% endif %}">{{ letter }}
+				<li class="lessons__{% if details.met %}active{% else %}inactive{% endif %}">{{ letter }}
 					<div class="lessons__info">
 						<h2 class="lessons__title">{{ details.explanation }}</h2>
 						<p class="lessons__text">

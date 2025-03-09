@@ -7,20 +7,7 @@
                 <ul class="level-criteria__stage stage">
                     {% for criterion in page.criteria %}
                     {% if criterion[0] == 'c' or criterion[0] == 'e' or criterion[0] == 't' or criterion[0] == 'd' %}
-                    <li class="stage__item {% if criterion[1].met %}stage__item--active{% endif %}">
-                        <article class="stage__article">
-                            <span class="stage__letter">{{ criterion[0] | upcase }}</span>
-                            <h4 class="stage__title">{{ criterion[1].explanation }}</h4>
-                            <ul class="stage__list">
-                                {% assign analysis_lines = criterion[1].analysis | newline_to_br | split: '<br />' %}
-                                {% for line in analysis_lines %}
-                                    {% if line != '' %}
-                                        <li>{{ line }}</li>
-                                    {% endif %}
-                                {% endfor %}
-                            </ul>
-                        </article>
-                    </li>
+                    {% include paper-level-section.html %}
                     {% endif %}
                     {% endfor %}
                 </ul>
@@ -32,32 +19,8 @@
                 <ul class="level-criteria__stage stage">
                     {% for criterion in page.criteria %}
                     {% if criterion[0] == 's' or criterion[0] == 'a' or criterion[0] == 'y' or criterion[0] == 'b' %}
-<li class="stage__item {% if criterion[1].met %}stage__item--active{% endif %}">
-    <article class="stage__article">
-        <span class="stage__letter">{{ criterion[0] | upcase }}</span>
-        <h4 class="stage__title">
-            {% case criterion[0] %}
-                {% when 's' %}School-level RCT
-                {% when 'a' %}All Exams
-                {% when 'y' %}Year Duration
-                {% when 'b' %}Balanced Resources
-                <!-- etc for other letters -->
-            {% endcase %}
-        </h4>
-        <ul class="stage__list">
-            {% case criterion[0] %}
-                {% when 's' %}
-                    <li>Entire schools were randomized to treatment or control groups.</li>
-                    <li>Entire schools were assigned to treatment or control groups, avoiding contamination within classes.</li>
-                    <li>"Schools were placed into pairs and randomly assigned to treatment and control." (p. 6)</li>
-                {% when 'a' %}
-                    <!-- similar fixed text for A criterion -->
-                {% when 'y' %}
-                    <!-- similar fixed text for Y criterion -->
-            {% endcase %}
-        </ul>
-    </article>
-</li>                    {% endif %}
+                    {% include paper-level-section.html %}
+                    {% endif %}
                     {% endfor %}
                 </ul>
             </article>
@@ -68,20 +31,7 @@
                 <ul class="level-criteria__stage stage">
                     {% for criterion in page.criteria %}
                     {% if criterion[0] == 'g' or criterion[0] == 'r' or criterion[0] == 'i' or criterion[0] == 'p' %}
-                    <li class="stage__item {% if criterion[1].met %}stage__item--active{% endif %}">
-                        <article class="stage__article">
-                            <span class="stage__letter">{{ criterion[0] | upcase }}</span>
-                            <h4 class="stage__title">{{ criterion[1].explanation }}</h4>
-                            <ul class="stage__list">
-                                {% assign analysis_lines = criterion[1].analysis | newline_to_br | split: '<br />' %}
-                                {% for line in analysis_lines %}
-                                    {% if line != '' %}
-                                        <li>{{ line }}</li>
-                                    {% endif %}
-                                {% endfor %}
-                            </ul>
-                        </article>
-                    </li>
+                    {% include paper-level-section.html %}
                     {% endif %}
                     {% endfor %}
                 </ul>

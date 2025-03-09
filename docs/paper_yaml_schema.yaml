@@ -4,7 +4,7 @@
 # Top level structure
 title: str(required=True)
 authors: str(required=True) 
-url: regex(r'^https?://.+', required=True)
+paper_link: regex(r'^https?://.+', required=True)
 slug: str(required=True)
 abstract: str(required=False)
 publication_date: date(required=False)

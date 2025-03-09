@@ -185,7 +185,13 @@
   background: var(--progress-alphabet-bg-active);
   position: relative;
 }
-.lessons .lessons__active:after {
+.lessons .lessons__inactive {
+  color: var(--link-border);
+  background: var(--header-active);
+  position: relative;
+}
+.lessons .lessons__active:after,
+.lessons .lessons__inactive:after {
   content: '';
   position: absolute;
   inset-block-end: -0.75rem;
@@ -333,7 +339,7 @@
   display: flex;
   column-gap: 1rem; /* 16/16 */
 }
-.stage__list li:nth-child(3) {
+.stage__list li:nth-child(2) {
   font-style: italic;
 }
 .stage__list li::before {
@@ -350,10 +356,10 @@
   background: var(--active-check-icon-bg) url('../img/icons/check-white.svg') center / contain
     no-repeat;
 }
-.stage__list li:nth-child(2):before {
+.stage__list li:nth-child(3):before {
   background: url('../img/icons/book-text.svg') center / contain no-repeat;
 }
-.stage__list li:nth-child(3):before {
+.stage__list li:nth-child(2):before {
   background: url('../img/icons/message-square-quote.svg') center / contain no-repeat;
 }
 .request__title {
@@ -451,8 +457,10 @@
 }
 @media (any-hover: hover) {
   .lessons .lessons__active:hover:after,
-  .lessons .lessons__active:hover .lessons__info {
-    visibility: visible;
+  .lessons .lessons__inactive:hover:after,
+  .lessons .lessons__active:hover .lessons__info,
+  .lessons .lessons__inactive:hover .lessons__info {
+      visibility: visible;
     opacity: 1;
   }
 }
