@@ -144,7 +144,7 @@ title: "ERCT - Educational RCT Standard"
         </ul>
       </div>
     </div>
-    <div class="framework__links"><a class="framework__link link link--black" href="#">Learn More About ERCT
+    <div class="framework__links"><a class="framework__link link link--black" href="/standard.html">Learn More About ERCT
         Standard</a></div>
   </div>
 </section>
@@ -161,8 +161,16 @@ title: "ERCT - Educational RCT Standard"
             <div class="block-studies__progress progress">
               <div class="progress__body">
                 <div class="progress__circle progress__circle--contain">
-                  {% assign level_percentage = paper.erct_level | times: 33.3 %}
-                  {% assign stroke_offset = 314 | minus: level_percentage | divided_by: 100 | times: 314 %}
+                  {% assign criteria_count = paper.criteria.size %}
+                  {% assign met_count = 0 %}
+                  {% for criterion in paper.criteria %}
+                    {% if criterion[1].met %}
+                      {% assign met_count = met_count | plus: 1 %}
+                    {% endif %}
+                  {% endfor %}
+                  {% assign percentage = met_count | times: 1000 | divided_by: criteria_count %}
+                  {% assign angle = 314 | times: percentage | divided_by: 1000 %}
+                  {% assign stroke_offset = 314 | minus: angle | plus: 20 %}
                   <svg viewBox="0 0 100 100">
                     <circle cx="50" cy="50" r="45" stroke="var(--header-active)" stroke-width="10" fill="none"></circle>
                     <circle cx="50" cy="50" r="45" stroke="var(--burger-color)" stroke-width="10"

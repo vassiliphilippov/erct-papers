@@ -306,13 +306,13 @@
   flex-shrink: 0;
 }
 .study-actions__item:nth-child(3n + 1):before {
-  background: url('../img/icons/book-check.svg') 0 0 / contain no-repeat;
+  background: url('/assets/img/icons/book-check.svg') 0 0 / contain no-repeat;
 }
 .study-actions__item:nth-child(3n + 2):before {
-  background: url('../img/icons/message-square-quote.svg') 0 0 / contain no-repeat;
+  background: url('/assets/img/icons/message-square-quote.svg') 0 0 / contain no-repeat;
 }
 .study-actions__item:nth-child(3n):before {
-  background: url('../img/icons/user-pen.svg') 0 0 / contain no-repeat;
+  background: url('/assets/img/icons/user-pen.svg') 0 0 / contain no-repeat;
 }
 .study-actions__title {
   color: var(--primary-text);

@@ -167,7 +167,7 @@
   content: '';
   inline-size: 1.5rem; /* 24/16 */
   block-size: 1.5rem; /* 24/16 */
-  background: url('../img/icons/chevron-down.svg') center / contain no-repeat;
+  background: url('/assets/img/icons/chevron-down.svg') center / contain no-repeat;
   transition: transform 0.3s ease;
 }
 .studies__select:hover::after {
@@ -341,28 +341,28 @@
   background: var(--level-second-line-border);
 }
 .block-studies__tags li:nth-child(4n + 1)::before {
-  background: url('../img/icons/first-tag-book-check.svg') center / contain no-repeat;
+  background: url('/assets/img/icons/first-tag-book-check.svg') center / contain no-repeat;
 }
 .block-studies__tags li:nth-child(4n + 2) {
   color: var(--tags-second-text);
   background: var(--tags-second-bg);
 }
 .block-studies__tags li:nth-child(4n + 2)::before {
-  background: url('../img/icons/second-tag-book-check.svg') center / contain no-repeat;
+  background: url('/assets/img/icons/second-tag-book-check.svg') center / contain no-repeat;
 }
 .block-studies__tags li:nth-child(4n + 3) {
   color: var(--tags-third-text);
   background: var(--level-third-line-bg);
 }
 .block-studies__tags li:nth-child(4n + 3)::before {
-  background: url('../img/icons/third-tag-book-check.svg') center / contain no-repeat;
+  background: url('/assets/img/icons/third-tag-book-check.svg') center / contain no-repeat;
 }
 .block-studies__tags li:nth-child(4n) {
   color: var(--primary-text);
   background: var(--progress-alphabet-bg-active);
 }
 .block-studies__tags li:nth-child(4n)::before {
-  background: url('../img/icons/fourth-tag-book-check.svg') center / contain no-repeat;
+  background: url('/assets/img/icons/fourth-tag-book-check.svg') center / contain no-repeat;
 }
 .block-studies__title {
   font-size: 1.125rem; /* 18/16 */
@@ -405,7 +405,7 @@
   inline-size: 1rem; /* 16/16 */
   block-size: 1rem; /* 16/16 */
   flex-shrink: 0;
-  background: url('../img/icons/published-book-check.svg') center / contain no-repeat;
+  background: url('/assets/img/icons/published-book-check.svg') center / contain no-repeat;
 }
 
 .suggest {
@@ -454,13 +454,13 @@
   flex-shrink: 0;
 }
 .study-actions__item:nth-child(3n + 1):before {
-  background: url('../img/icons/book-check.svg') 0 0 / contain no-repeat;
+  background: url('/assets/img/icons/book-check.svg') 0 0 / contain no-repeat;
 }
 .study-actions__item:nth-child(3n + 2):before {
-  background: url('../img/icons/message-square-quote.svg') 0 0 / contain no-repeat;
+  background: url('/assets/img/icons/message-square-quote.svg') 0 0 / contain no-repeat;
 }
 .study-actions__item:nth-child(3n):before {
-  background: url('../img/icons/user-pen.svg') 0 0 / contain no-repeat;
+  background: url('/assets/img/icons/user-pen.svg') 0 0 / contain no-repeat;
 }
 .study-actions__title {
   color: var(--primary-text);

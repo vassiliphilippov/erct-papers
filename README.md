@@ -3,7 +3,7 @@ ERCT (Educational RCT) Standards Paper Repository
 
 Todo:
 - DONE Add parameter: link to PDF
-- Fix circle - to make it dynamic
+- DONE Fix circle - to make it dynamic
 - Fix footer
 - Check each YAML with Deep Research
 - DONE Add date when ERCT analysys is done to each document and use this date in html
@@ -30,3 +30,5 @@ Todo:
 - Paper 16, ask Deep Research to fix small incorrections in quotes
 - Paper 17, check if grading is applicable for E, and maybe review grading criteria for university studies
 - Paper 17, ask Deep Research if quote in R is from another paper and if so, mention it in the end of the quote
+- Paper 18, carefully check logic of E - it seems standard tests were provided, ask Deep Research why it thinks so
+- SSL certificate for https
