@@ -19,6 +19,13 @@ abstract: >-
 publication_date: 2018-09-23
 erct_level: 0
 rct: true
+pdf_link: ""
+doi: "10.1016/j.compedu.2018.09.014"
+journal: "Computers & Education"
+date_erct_check: "2025-03-09"
+tags:
+  - university level
+  - EdTech app
 criteria:
   c:
     met: true
@@ -26,9 +33,9 @@ criteria:
       They clearly randomized at the class (tutorial session) level,
       satisfying the requirement for Class-level RCT.
     quote: >-
-      “...a randomized controlled trial (RCT) was run. Study participants were
+      ...a randomized controlled trial (RCT) was run. Study participants were
       randomly allocated... all students were randomly allocated into different
-      classes by the PolyU computer system.”
+      classes by the PolyU computer system.
     analysis: >-
       The paper explicitly states that a randomized controlled trial (RCT) was
       run, with students placed into two groups and different tutorial sessions.
@@ -183,3 +190,4 @@ criteria:
     analysis: >-
       The study lacks any reference to a pre-registration of its methods or analysis,
       meaning the Pre-Registered criterion is not met.
+---

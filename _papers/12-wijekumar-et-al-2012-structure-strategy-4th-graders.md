@@ -16,6 +16,15 @@ abstract: >-
 publication_date: 2012-06-26
 erct_level: 1
 rct: true
+pdf_link: ""
+doi: "10.1007/s11423-012-9263-4"
+journal: "Educational Technology Research and Development"
+date_erct_check: "2025-03-09"
+tags:
+  - reading
+  - K12
+  - EdTech website
+  - US
 criteria:
   c:
     met: true

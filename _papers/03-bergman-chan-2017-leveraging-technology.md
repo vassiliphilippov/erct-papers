@@ -8,7 +8,15 @@ abstract: >-
 publication_date: 2017-05-01
 erct_level: 1
 rct: true
-
+pdf_link: "https://www.cesifo.org/DocDL/cesifo1_wp6493.pdf"
+doi: "10.2139/ssrn.2989472"
+journal: "CESifo Working Paper Series"
+date_erct_check: "2025-03-09"
+tags:
+  - parent involvement
+  - edtech platform
+  - K12
+  - US
 criteria:
   c:
     met: true

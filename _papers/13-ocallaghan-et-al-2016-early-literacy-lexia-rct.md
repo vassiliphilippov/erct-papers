@@ -5,10 +5,45 @@ title: >-
 authors: "Paul O’Callaghan, Aimee McIvor, Claire McVeigh, Teresa Rushe"
 paper_link: "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjep.12122"
 slug: "ocallaghan-et-al-2016-early-literacy-lexia-rct"
-abstract: null
+abstract: >-
+  Many school-based interventions are being delivered in the absence of evidence 
+  of effectiveness. This study sought to address this oversight by evaluating 
+  the effectiveness of the commonly used the Lexia Reading Core5 intervention,
+  with 4- to 6-year-old pupils in Northern Ireland. A total of 126 primary school 
+  pupils in year 1 and year 2 were screened on the Phonological Assessment Battery 
+  2nd Edition (PhAB-2). Children were recruited from the equivalent year groups to 
+  Reception and Year 1 in England and Wales, and Pre-kindergarten and 
+  Kindergarten in North America. A total of 98 below-average pupils were 
+  randomized (T0) to either an 8-week block of daily access to Lexia Reading Core5 
+  (n = 49) or a waiting-list control group (n = 49). Assessment of phonological 
+  skills was completed at post-intervention (T1) and at 2-month follow-up (T2) 
+  for the intervention group only.
+  Analysis of covariance which controlled for baseline scores found that the 
+  Lexia Reading Core5 intervention group made significantly greater gains in 
+  blending, F(1, 95) = 6.50, p = .012, partial η2 = .064 (small effect size) 
+  and non-word reading, F(1, 95) = 7.20, p = .009, partial η2 = .070 (small effect size). 
+  Analysis of the 2-month follow-up of the intervention group found that all group 
+  treatment gains were maintained. However, improvements were not uniform among 
+  the intervention group with 35% failing to make progress despite access to 
+  support. Post-hoc analysis revealed that higher T0 phonological working 
+  memory scores predicted improvements made in phonological skills.
+  Conclusion: An early-intervention, computer-based literacy program can be 
+  effective in boosting the phonological skills of 4- to 6-year-olds, 
+  particularly if these literacy difficulties are not linked to phonological 
+  working memory deficits.
 publication_date: 2016-01-01
 erct_level: 0
 rct: true
+pdf_link: ""
+doi: "10.1111/bjep.12122"
+journal: "British Journal of Educational Psychology"
+date_erct_check: "2025-03-09"
+tags:
+  - reading
+  - kindergarten
+  - K12
+  - UK
+  - EdTech website
 criteria:
   c:
     met: true

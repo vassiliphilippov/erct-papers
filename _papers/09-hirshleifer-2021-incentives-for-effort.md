@@ -18,6 +18,16 @@ abstract: >-
 publication_date: 2021-10-12
 erct_level: 0
 rct: true
+pdf_link: "https://escholarship.org/content/qt9hz5b8g9/qt9hz5b8g9_noSplash_d5dc508f9a649002495879899e85c7d9.pdf?t=r4u5c1"
+doi: "10.5072/FK23J3JR55"
+journal: "CEGA Working Papers"
+date_erct_check: "2025-03-09"
+tags:
+  - mathematics
+  - K12
+  - EdTech platform
+  - pay-to-learn
+  - Asia
 criteria:
   c:
     met: true

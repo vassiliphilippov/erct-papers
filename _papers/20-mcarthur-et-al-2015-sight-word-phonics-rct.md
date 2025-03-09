@@ -22,6 +22,15 @@ abstract: >-
 publication_date: 2015-05-05
 erct_level: 1
 rct: true
+pdf_link: "https://peerj.com/articles/922.pdf"
+doi: "10.7717/peerj.922"
+journal: "PeerJ"
+date_erct_check: "2025-03-09"
+tags:
+  - reading
+  - K12
+  - Australia
+  - EdTech website
 criteria:
   c:
     met: true

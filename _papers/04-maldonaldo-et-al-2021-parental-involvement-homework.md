@@ -18,6 +18,15 @@ abstract: >-
 publication_date: 2021-04-13
 erct_level: 0
 rct: true
+pdf_link: ""
+doi: "10.1007/s00181-021-02058-8"
+journal: "Empirical Economics"
+date_erct_check: "2025-03-09"
+tags:
+  - homework
+  - parent involvement
+  - K12
+  - EU
 criteria:
   c:
     met: true

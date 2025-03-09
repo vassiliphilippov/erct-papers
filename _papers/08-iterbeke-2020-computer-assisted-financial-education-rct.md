@@ -25,6 +25,16 @@ abstract: >-
 publication_date: 2020-12-13
 erct_level: 0
 rct: true
+pdf_link: ""
+doi: "10.1016/j.chb.2020.106666"
+journal: "Computers in Human Behavior"
+date_erct_check: "2025-03-09"
+tags:
+  - K12
+  - EU
+  - EdTech website
+  - online homework
+  - digital assessment
 criteria:
   c:
     met: true

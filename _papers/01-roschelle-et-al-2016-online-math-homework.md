@@ -13,7 +13,18 @@ abstract: >-
 publication_date: 2016-10-01
 erct_level: 1
 rct: true
-
+pdf_link: "https://journals.sagepub.com/doi/pdf/10.1177/2332858416673968"
+doi: "10.1177/2332858416673968"
+journal: "AERA Open"
+date_erct_check: "2025-03-09"
+tags:
+  - mathematics
+  - homework
+  - EdTech website
+  - K12
+  - US
+  - formative assessment
+  - online homework
 criteria:
   c:
     met: true

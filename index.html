@@ -153,7 +153,7 @@ title: "ERCT - Educational RCT Standard"
   <div class="studies__container">
     <h2 class="studies__title title">ERCT Evaluated Studies</h2>
     <ul class="studies__block block-studies">
-      {% assign sorted_papers = site.papers | sort: 'publication_date' | reverse %}
+      {% assign sorted_papers = site.papers | sort: 'erct_level' | reverse %}
       {% for paper in sorted_papers %}
       <li class="block-studies__card">
         <a href="{{ paper.url | relative_url }}">

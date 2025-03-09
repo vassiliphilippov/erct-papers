@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Flipped Classroom: A Randomized Controlled Trial"
 authors: "Nathan Wozny, Cary Balser, and Drew Ives"
-paper_link: "https://doi.org/10.1080/00220485.2018.1438860"
+paper_link: "https://www.tandfonline.com/doi/pdf/10.1080/00220485.2018.1438860"
 slug: "wozny-balser-ives-2018-flipped-classroom"
 abstract: >-
   Despite recent interest in flipped classrooms, rigorous research evaluating
@@ -19,7 +19,14 @@ abstract: >-
 publication_date: 2018-03-14
 erct_level: 0
 rct: true
-
+pdf_link: ""
+doi: "10.1080/00220485.2018.1438860"
+journal: "The Journal of Economic Education"
+date_erct_check: "2025-03-09"
+tags:
+  - flipped classroom
+  - university level
+  - US
 criteria:
   c:
     met: true

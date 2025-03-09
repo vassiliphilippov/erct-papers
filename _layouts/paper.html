@@ -26,26 +26,26 @@
 						</div>
 						<div class="hero__date">
 							ERCT Date:
-							<time datetime="2021-10-01">Oct 1, 2021</time>
+							<time datetime="2021-10-01">{{ page.date_erct_check | date: "%b %-d, %Y" }}</time>
 						</div>
 						<div class="hero__link"><a href="{{ page.paper_link }}">
 								<div class="hero__svg hero__svg--contain">
 									<img src="{{ '/assets/img/icons/link-2.svg' | relative_url }}" alt="link icon">
 								</div>Link
 							</a></div>
-						<div class="hero__share"><a href="#">
-								<div class="hero__svg hero__svg--contain">
-									<img src="{{ '/assets/img/icons/share-2.svg' | relative_url }}" alt="share icon">
-								</div>Share
-							</a></div>
-						<div class="hero__download"><a href="{{ page.paper_link }}">
+						{% if page.pdf_link and page.pdf_link != "" %}
+						<div class="hero__download"><a href="{{ page.pdf_link }}">
 								<div class="hero__svg hero__svg--contain">
 									<img src="{{ '/assets/img/icons/download.svg' | relative_url }}" alt="download icon">
 								</div>Download PDF
 							</a></div>
+						{% endif %}
 					</div>
 					<ul class="hero__tags">
 						<li>Level {{ page.erct_level }} ERCT</li>
+						{% for tag in page.tags %}
+						<li>{{ tag }}</li>
+						{% endfor %}
 					</ul>
 				</div>
 			</section>

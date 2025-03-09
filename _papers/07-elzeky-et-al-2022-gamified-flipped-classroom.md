@@ -24,6 +24,16 @@ abstract: >-
 publication_date: 2022-11-03
 erct_level: 0
 rct: true
+pdf_link: "https://bmcnurs.biomedcentral.com/counter/pdf/10.1186/s12912-022-01096-6.pdf"
+doi: "10.1186/s12912-022-01096-6"
+journal: "BMC Nursing"
+date_erct_check: "2025-03-09"
+tags:
+  - flipped classroom
+  - university level
+  - gamification
+  - EdTech website
+  - digital assessment
 criteria:
   c:
     met: false

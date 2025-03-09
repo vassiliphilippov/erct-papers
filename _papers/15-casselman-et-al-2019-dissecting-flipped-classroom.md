@@ -21,6 +21,17 @@ abstract: >-
 publication_date: 2019-11-01
 erct_level: 0
 rct: true
+pdf_link: ""
+doi: "10.1021/acs.jchemed.9b00767"
+journal: "Journal of Chemical Education"
+date_erct_check: "2025-03-09"
+tags:
+  - science
+  - university level
+  - flipped classroom
+  - blended learning
+  - EdTech website
+  - online homework
 criteria:
   c:
     met: false

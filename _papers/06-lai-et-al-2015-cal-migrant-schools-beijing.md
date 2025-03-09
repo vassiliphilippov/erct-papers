@@ -22,6 +22,15 @@ abstract: >-
 publication_date: 2015-04-08
 erct_level: 0
 rct: true
+pdf_link: "https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/lai-et-al-2015-computer_assisted_learning.pdf"
+doi: "10.1016/j.econedurev.2015.03.005"
+journal: "Economics of Education Review"
+date_erct_check: "2025-03-09"
+tags:
+  - mathematics
+  - China
+  - K12
+  - EdTech website
 criteria:
   c:
     met: true

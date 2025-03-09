@@ -18,6 +18,14 @@ abstract: >-
 publication_date: 2018-07-27
 erct_level: 1
 rct: true
+pdf_link: ""
+doi: "10.1016/j.jdeveco.2018.07.008"
+journal: "Journal of Development Economics"
+date_erct_check: "2025-03-09"
+tags:
+  - K12
+  - Latam
+  - EdTech website
 criteria:
   c:
     met: true

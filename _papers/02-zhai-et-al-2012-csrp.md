@@ -8,7 +8,15 @@ abstract: >-
 publication_date: 2012-02-03
 erct_level: 0
 rct: true
-
+pdf_link: ""
+doi: "10.1016/j.childyouth.2012.01.026"
+journal: "Children and Youth Services Review"
+date_erct_check: "2025-03-09"
+tags:
+  - pre-K
+  - kindergarten
+  - K12
+  - US
 criteria:
   c:
     met: true

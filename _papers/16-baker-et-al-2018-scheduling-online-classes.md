@@ -20,6 +20,14 @@ abstract: >
 publication_date: 2018-01-01
 erct_level: 0
 rct: true
+pdf_link: ""
+doi: "10.1007/s11162-018-9521-3"
+journal: "Research in Higher Education"
+date_erct_check: "2025-03-09"
+tags:
+  - university level
+  - US
+  - science
 criteria:
   c:
     met: false

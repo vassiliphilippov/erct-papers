@@ -23,6 +23,14 @@ abstract: >-
 publication_date: 2016-04-21
 erct_level: 0
 rct: true
+pdf_link: "https://journals.sagepub.com/doi/pdf/10.1177/0145445516644221"
+doi: "10.1177/0145445516644221"
+journal: "Behavior Modification"
+date_erct_check: "2025-03-09"
+tags:
+  - parent involvement
+  - China
+  - K12
 criteria:
   c:
     met: false

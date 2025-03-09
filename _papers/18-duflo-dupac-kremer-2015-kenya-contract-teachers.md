@@ -18,7 +18,14 @@ abstract: >-
 publication_date: 2015-01-01
 erct_level: 0
 rct: true
-
+doi: "10.1016/j.jpubeco.2014.11.008"
+journal: "Journal of Public Economics"
+pdf_link: ""
+date_erct_check: "2025-03-09"
+tags:
+  - Africa
+  - K12
+  - parent involvement
 criteria:
   c:
     met: true

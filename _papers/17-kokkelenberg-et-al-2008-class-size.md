@@ -18,6 +18,13 @@ abstract: >-
 publication_date: 2008-06-01
 erct_level: 0
 rct: false
+pdf_link: ""
+doi: "10.1016/j.econedurev.2006.09.011"
+journal: "Economics of Education Review"
+date_erct_check: "2025-03-09"
+tags:
+  - university level
+  - US
 criteria:
   c:
     met: false
