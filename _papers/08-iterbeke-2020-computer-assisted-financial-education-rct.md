@@ -351,16 +351,16 @@ criteria:
   p:
     met: false
     explanation: >-
-      The authors do not provide clear evidence that the study’s protocol was publicly pre-registered 
-      **before** data collection.
+      The trial’s initial registration date is September 23, 2019, which is after the study started 
+      on August 15, 2018 and ended on January 31, 2019. Pre-registration requires that the protocol be 
+      publicly registered before data collection begins. Thus, the study was registered retrospectively 
+      and does not satisfy criterion P.
     quote: >-
       "This work is registered in the AEA RCT Registry and the unique identifying number is 
       AEARCTR-0004431." (Acknowledgments footnote)
+      "Initial registration date: September 23, 2019; Start date: 2018-08-15; End date: 2019-01-31."
     analysis: >-
-      (1) P (Pre-registered) requires that the experimental design and analysis plan be registered in 
-      advance of the study and disclosed. The paper notes an AEA RCT Registry entry, but it does not 
-      specify the registration date or provide a link to a pre-analysis plan.
-      (2) Without a confirmed pre-study registration timestamp or detailed protocol, we cannot verify 
-      that the trial was registered before data collection began.
-      (3) As a result, the pre-registration criterion is not conclusively met in this study.
+      Since the trial was registered on September 23, 2019 – well after the start and completion of the 
+      intervention – it fails to meet the pre-registration requirement of the ERCT Standard. Therefore, 
+      criterion P is not satisfied.
 ---

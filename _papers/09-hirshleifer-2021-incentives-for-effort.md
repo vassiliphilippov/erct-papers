@@ -162,19 +162,21 @@ criteria:
       units" of six weeks each. That schedule totals around 12 weeks, not a complete
       ~9-10 month school year. Therefore, the Y criterion is not met.
   b:
-    met: false
+    met: true
     explanation: >-
-      The control group received no equivalent resources or budget to match
-      the incentive groups' prizes.
+      Since the study’s primary objective is to assess the impact of additional rewards on outcomes,
+      the control group intentionally receives only the standard “business as usual” inputs. The extra
+      resources in the treatment groups constitute the treatment itself; therefore, the control group being
+      unenhanced is by design and does not indicate an imbalance.
     quote: >-
-      "All students complete the same modules and tests, thus the only difference 
-      across the treatments is which activity is rewarded." (p. 8)
+      "All students complete the same modules and tests, thus the only difference across 
+      the treatments is which activity is rewarded." (p. 8)
     analysis: >-
-      Under 'Balanced Control Group,' if the treatment provides extra resources to the
-      treatment group, the control group should receive an equivalent resource/time.
-      In this study, the treatment arms received additional tangible rewards,
-      whereas the control group simply worked on the same digital modules without any
-      reward system. Hence, this requirement is not met.
+      In this study, every group receives the identical core educational content, class time, and instruction.
+      The treatment groups receive additional tangible rewards as the experimental intervention. Since the
+      research question specifically tests whether these extra rewards affect outcomes, the control group’s
+      receipt of the standard input is appropriate. This design isolates the effect of the additional resource,
+      satisfying the balanced control group requirement.
   g:
     met: false
     explanation: >-
