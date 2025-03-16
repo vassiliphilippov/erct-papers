@@ -19,6 +19,8 @@
   font-weight: 600;
   line-height: 1.25; /* 125% */
   margin-block-end: 0.25rem; /* 4/16 */
+  margin-top: 1.5rem;
+  margin-bottom: 1.0rem;
 }
 .hero__subtitle:before {
   content: '';
@@ -102,40 +104,6 @@
   display: flex;
   column-gap: 0.25rem; /* 4/16 */
   border-radius: 1rem; /* 16/16 */
-}
-.hero__tags li::before {
-  content: '';
-  inline-size: 1rem; /* 16/16 */
-  block-size: 1rem; /* 16/16 */
-  flex-shrink: 0;
-}
-.hero__tags li:nth-child(4n + 1) {
-  color: var(--tags-first-text);
-  background: var(--level-second-line-border);
-}
-.hero__tags li:nth-child(4n + 1)::before {
-  background: url('/assets/img/icons/first-tag-book-check.svg') center / contain no-repeat;
-}
-.hero__tags li:nth-child(4n + 2) {
-  color: var(--tags-second-text);
-  background: var(--tags-second-bg);
-}
-.hero__tags li:nth-child(4n + 2)::before {
-  background: url('/assets/img/icons/second-tag-book-check.svg') center / contain no-repeat;
-}
-.hero__tags li:nth-child(4n + 3) {
-  color: var(--tags-third-text);
-  background: var(--level-third-line-bg);
-}
-.hero__tags li:nth-child(4n + 3)::before {
-  background: url('/assets/img/icons/third-tag-book-check.svg') center / contain no-repeat;
-}
-.hero__tags li:nth-child(4n) {
-  color: var(--primary-text);
-  background: var(--progress-alphabet-bg-active);
-}
-.hero__tags li:nth-child(4n)::before {
-  background: url('/assets/img/icons/fourth-tag-book-check.svg') center / contain no-repeat;
 }
 .progress {
   padding-block: 0.75rem;

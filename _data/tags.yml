@@ -1,0 +1,48 @@
+# Tag mapping to CSS classes
+# Each tag should have a unique color class
+
+tags:
+  # Subject areas
+  "mathematics": "tag-mathematics"
+  "reading": "tag-reading"
+  "science": "tag-science"
+  "social studies": "tag-social-studies"
+  "language arts": "tag-language-arts"
+  "L2 languages": "tag-l2-languages"
+  "arts": "tag-arts"
+  
+  # Education levels
+  "pre-K": "tag-prek"
+  "kindergarten": "tag-kindergarten"
+  "K12": "tag-k12"
+  "higher education": "tag-higher-education"
+  "adult education": "tag-adult-education"
+  
+  # Regions
+  US: "tag-us"
+  UK: "tag-uk"
+  Africa: "tag-africa"
+  China: "tag-china"
+  Asia: "tag-asia"
+  EU: "tag-eu"
+  Canada: "tag-canada"
+  Latam: "tag-latam"
+  Australia: "tag-australia"
+  
+  # Intervention types
+  homework: "tag-homework"
+  "online homework": "tag-online-homework"
+  "pay-to-learn": "tag-pay-to-learn"
+  gamification: "tag-gamification"
+  "flipped classroom": "tag-flipped-classroom"
+  "parent involvement": "tag-parent-involvement"
+  "project-based learning": "tag-project-learning"
+  "blended learning": "tag-blended-learning"
+  
+  # Technology
+  "EdTech website": "tag-edtech-website"
+  "EdTech app": "tag-edtech-app"
+  "EdTech platform": "tag-edtech-platform"
+  "digital assessment": "tag-digital-assessment"
+  "mobile learning": "tag-mobile-learning"
+  "formative assessment": "tag-formative-assessment"

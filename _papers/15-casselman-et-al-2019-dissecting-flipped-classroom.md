@@ -29,8 +29,8 @@ tags:
   - higher education
   - flipped classroom
   - blended learning
-  - EdTech website
   - online homework
+  - EdTech website
 criteria:
   c:
     met: false

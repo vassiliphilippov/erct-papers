@@ -18,12 +18,12 @@ journal: "AERA Open"
 date_erct_check: "2025-03-09"
 tags:
   - mathematics
-  - homework
-  - EdTech website
   - K12
   - US
-  - formative assessment
+  - homework
   - online homework
+  - EdTech website
+  - formative assessment
 criteria:
   c:
     met: true

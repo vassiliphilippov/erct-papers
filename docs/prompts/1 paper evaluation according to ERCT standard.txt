@@ -54,22 +54,26 @@ Determine whether this paper reports an original RCT in education that measures 
 ## 2.3 Extract Tags
 Choose which of the possible tags are relevant for this paper and output the results as a YAML section.
 Choose relevant tags only from the provided list, and if multiple apply, include all appropriate tags exactly as listed.
+Order tags: subject areas, education levels, regions, intervention types, technology.
 
 List of possible tags:
+Subject areas:
 * mathematics
 * reading
-* L2 languages
-* pay-to-learn
-* homework
 * science
 * social studies
 * language arts
+* L2 languages
 * arts
+
+Education levels:
 * pre-K
 * kindergarten
 * K12
 * higher education
 * adult education
+
+Regions:
 * US
 * UK
 * Africa
@@ -79,17 +83,24 @@ List of possible tags:
 * Canada
 * Latam
 * Australia
+
+Intervention types:
+* homework
+* online homework
+* pay-to-learn
 * gamification
 * flipped classroom
 * parent involvement
 * project-based learning
 * blended learning
+
+Technology:
 * EdTech website
 * EdTech app
 * EdTech platform
-* online homework
 * digital assessment
 * mobile learning
+* formative assessment
  
 
 ## 2.4 Analyze 12 Criteria

@@ -23,9 +23,9 @@ doi: "10.1080/00220485.2018.1438860"
 journal: "The Journal of Economic Education"
 date_erct_check: "2025-03-09"
 tags:
-  - flipped classroom
   - higher education
   - US
+  - flipped classroom
 criteria:
   c:
     met: true

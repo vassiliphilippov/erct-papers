@@ -1,0 +1,59 @@
+/* Subject Tags */
+.tag-mathematics,
+.tag-reading,
+.tag-science,
+.tag-social-studies,
+.tag-language-arts,
+.tag-l2-languages,
+.tag-arts {
+  background-color: hsl(0, 40%, 90%);
+  color: hsl(9, 85%, 30%);
+}
+
+/* Education Level Tags */
+.tag-prek,
+.tag-kindergarten,
+.tag-k12,
+.tag-higher-education,
+.tag-adult-education {
+  background-color: hsl(60, 40%, 90%);
+  color: hsl(60, 85%, 20%);
+}
+
+/* Region Tags */
+.tag-us,
+.tag-uk,
+.tag-africa,
+.tag-china,
+.tag-asia,
+.tag-eu,
+.tag-canada,
+.tag-latam,
+.tag-australia {
+    background-color: hsl(180, 40%, 90%);
+    color: hsl(180, 85%, 20%);
+  }
+  
+/* Intervention Tags */
+.tag-homework,
+.tag-online-homework,
+.tag-pay-to-learn,
+.tag-gamification,
+.tag-flipped-classroom,
+.tag-parent-involvement,
+.tag-project-learning,
+.tag-blended-learning {
+    background-color: hsl(300, 40%, 90%);
+    color: hsl(300, 85%, 20%);
+  }
+
+/* Technology Tags */
+.tag-edtech-website,
+.tag-edtech-app,
+.tag-edtech-platform,
+.tag-digital-assessment,
+.tag-mobile-learning,
+.tag-formative-assessment {
+    background-color: hsl(240, 40%, 90%);
+    color: hsl(240, 85%, 30%);
+  }

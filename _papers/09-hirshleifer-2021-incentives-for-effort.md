@@ -24,9 +24,9 @@ date_erct_check: "2025-03-09"
 tags:
   - mathematics
   - K12
-  - EdTech platform
-  - pay-to-learn
   - Asia
+  - pay-to-learn
+  - EdTech platform
 criteria:
   c:
     met: true

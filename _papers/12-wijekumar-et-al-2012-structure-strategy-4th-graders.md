@@ -22,8 +22,8 @@ date_erct_check: "2025-03-09"
 tags:
   - reading
   - K12
-  - EdTech website
   - US
+  - EdTech website
 criteria:
   c:
     met: true

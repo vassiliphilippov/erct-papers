@@ -23,8 +23,8 @@ doi: "10.1016/j.ijer.2018.10.008"
 journal: "International Journal of Educational Research"
 date_erct_check: "2025-03-09"
 tags:
-  - K12
   - reading
+  - K12
 criteria:
   c:
     met: false

@@ -12,10 +12,10 @@ doi: "10.2139/ssrn.2989472"
 journal: "CESifo Working Paper Series"
 date_erct_check: "2025-03-09"
 tags:
-  - parent involvement
-  - edtech platform
   - K12
   - US
+  - parent involvement
+  - EdTech platform
 criteria:
   c:
     met: true

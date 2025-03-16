@@ -7,6 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="{{ page.title }}">
 	<link rel="stylesheet" href="{{ '/assets/css/homework.css' | relative_url }}">
+	<link rel="stylesheet" href="{{ '/assets/css/tags.css' | relative_url }}">
 	<title>{{ page.title }}</title>
     <link rel="icon" type="image/png" sizes="192x192" href="{{ '/assets/img/icons/favicon128.png' | relative_url }}">
 </head>
@@ -42,9 +43,9 @@
 						{% endif %}
 					</div>
 					<ul class="hero__tags">
-						<li>Level {{ page.erct_level }} ERCT</li>
 						{% for tag in page.tags %}
-						<li>{{ tag }}</li>
+						{% assign tag_class = site.data.tags.tags[tag] | default: 'tag-default' %}
+						<li class="{{ tag_class }}">{{ tag }}</li>
 						{% endfor %}
 					</ul>
 				</div>

@@ -31,8 +31,8 @@ date_erct_check: "2025-03-09"
 tags:
   - K12
   - EU
-  - EdTech website
   - online homework
+  - EdTech website
   - digital assessment
 criteria:
   c:

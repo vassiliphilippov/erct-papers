@@ -214,8 +214,9 @@ title: "ERCT - Educational RCT Standard"
             <div class="block-studies__content">
               <ul class="block-studies__tags">
                 {% for tag in paper.tags %}
-                <li>{{ tag }}</li>
-                {% endfor %}
+                {% assign tag_class = site.data.tags.tags[tag] | default: 'tag-default' %}
+                <li class="{{ tag_class }}">{{ tag }}</li>
+                  {% endfor %}
               </ul>
               <h3 class="block-studies__title title">{{ paper.title }}</h3>
               <div class="block-studies__label">{{ paper.authors }}</div>

@@ -27,8 +27,8 @@ journal: "Economics of Education Review"
 date_erct_check: "2025-03-09"
 tags:
   - mathematics
-  - China
   - K12
+  - China
   - EdTech website
 criteria:
   c:

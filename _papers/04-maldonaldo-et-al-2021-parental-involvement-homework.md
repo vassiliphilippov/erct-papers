@@ -22,10 +22,10 @@ doi: "10.1007/s00181-021-02058-8"
 journal: "Empirical Economics"
 date_erct_check: "2025-03-09"
 tags:
-  - homework
-  - parent involvement
   - K12
   - EU
+  - homework
+  - parent involvement
 criteria:
   c:
     met: true

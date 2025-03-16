@@ -27,9 +27,9 @@ doi: "10.1177/0145445516644221"
 journal: "Behavior Modification"
 date_erct_check: "2025-03-09"
 tags:
-  - parent involvement
-  - China
   - K12
+  - China
+  - parent involvement
 criteria:
   c:
     met: false
