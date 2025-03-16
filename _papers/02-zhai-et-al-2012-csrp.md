@@ -2,7 +2,6 @@
 title: "Academic performance of subsequent schools and impacts of early interventions: Evidence from a randomized controlled trial in Head Start settings"
 authors: "Fuhua Zhai, C. Cybele Raver, Stephanie M. Jones"
 paper_link: "https://doi.org/10.1016/j.childyouth.2012.01.026"
-slug: "zhai-et-al-2012-csrp"
 abstract: >-
   The role of subsequent school contexts in the long-term effects of early childhood interventions has received increasing attention, but has been understudied in the literature. Using data from the Chicago School Readiness Project (CSRP), a cluster-randomized controlled trial conducted in Head Start programs, we investigate whether the intervention had differential effects on academic and behavioral outcomes in kindergarten if children attended high- or low-performing schools subsequent to the preschool intervention year. To address the issue of selection bias, we adopt an innovative method, principal score matching, and control for a set of child, mother, and classroom covariates. We find that exposure to the CSRP intervention in the Head Start year had significant effects on academic and behavioral outcomes in kindergarten for children who subsequently attended high-performing schools, but no significant effects on children attending low-performing schools. Policy implications of the findings are discussed.
 publication_date: 2012-02-03

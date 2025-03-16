@@ -4,7 +4,6 @@ title: >-
   Experimental evidence from Kenyan primary schools
 authors: "Esther Duflo, Pascaline Dupas, Michael Kremer"
 paper_link: "https://doi.org/10.1016/j.jpubeco.2014.11.008"
-slug: "duflo-dupac-kremer-2015-kenya-contract-teachers"
 abstract: >-
   This paper investigates a program under which randomly selected Kenyan schools
   were funded to hire an additional contract teacher, outside of the normal

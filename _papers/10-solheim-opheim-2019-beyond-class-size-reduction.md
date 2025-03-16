@@ -4,7 +4,6 @@ title: >-
   implementing a reduced pupil–teacher ratio
 authors: "Oddny Judith Solheim and Vibeke Opheim"
 paper_link: "https://doi.org/10.1016/j.ijer.2018.10.008"
-slug: "solheim-opheim-2019-beyond-class-size-reduction"
 abstract: >-
   The effect of a reduced pupil–teacher ratio has mainly been investigated as
   that of reduced class size. Hence we know little about alternative methods of

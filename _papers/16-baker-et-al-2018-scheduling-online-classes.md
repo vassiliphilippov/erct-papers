@@ -5,7 +5,6 @@ title: >
   Management Intervention
 authors: "Rachel Baker, Brent Evans, Qiujie Li, Bianca Cung"
 paper_link: "https://doi.org/10.1007/s11162-018-9521-3"
-slug: "baker-et-al-2018-scheduling-online-classes"
 abstract: >
   Through a randomized control trial of students in a for-credit online course
   at a public 4-year university, this paper tests the efficacy of a scheduling
@@ -25,7 +24,7 @@ doi: "10.1007/s11162-018-9521-3"
 journal: "Research in Higher Education"
 date_erct_check: "2025-03-09"
 tags:
-  - university level
+  - higher education
   - US
   - science
 criteria:
@@ -38,7 +37,7 @@ criteria:
       “We employ a randomized control trial ... We randomly assigned students into
       treatment and control groups.” (p. 6)
     analysis: >
-      First Paragraph: The ERCT ‘C’ criterion requires that randomization occur at
+      The ERCT ‘C’ criterion requires that randomization occur at
       the class level (or at least not student-level within the same classroom)
       unless an approved exception applies (e.g., personal tutoring). In the paper,
       the authors state: “We employ a randomized control trial testing the effects
@@ -47,12 +46,12 @@ criteria:
       randomization is clearly done at the individual student level within a
       single online course.
       
-      Second Paragraph: The authors do not mention randomizing entire classes or
+      The authors do not mention randomizing entire classes or
       multiple sections. Instead, they note: “A total of 176 students enrolled ...
       157 students were randomly assigned” (pp. 7–8). This indicates the random
       assignment was effectively ‘student-by-student’ in one course.
       
-      Third Paragraph: The ERCT standard’s exception for individualized tutoring
+      The ERCT standard’s exception for individualized tutoring
       or personal one-to-one instruction does not apply here, because this is not a
       one-on-one tutoring program. It is an email-based scheduling prompt delivered
       to each student in an online lecture course. There is no evidence that the
@@ -60,7 +59,7 @@ criteria:
       remains possible within the same class if students discussed their scheduling
       practice.
       
-      Conclusion Paragraph: Because this was a student-level RCT in a single class,
+      Because this was a student-level RCT in a single class,
       and no valid exception applies, the requirement that entire classes (or
       schools) be randomized is not satisfied. Therefore, criterion C is not met.
   e:
@@ -73,16 +72,16 @@ criteria:
       opposed to the daily homework scores... we find positive treatment effects on
       initial quiz grades.” (pp. 11–12)
     analysis: >
-      First Paragraph: The ‘E’ criterion requires use of a standardized exam-based
+      The ‘E’ criterion requires use of a standardized exam-based
       assessment. In this study, the main outcomes are weekly quiz scores and the
       final course grade. The authors report the effect of encouraging students to
       schedule their coursework on academic performance.
       
-      Second Paragraph: There is no indication that these assessments are
+      There is no indication that these assessments are
       externally validated standardized tests. Instead, the quizzes and exam
       appear to be designed by the course instructors.
       
-      Third Paragraph: Since no evidence shows the use of a widely recognized
+      Since no evidence shows the use of a widely recognized
       standardized test, the study does not fulfill the Exam-based Assessment
       requirement. Therefore, criterion E is not met.
   t:
@@ -94,14 +93,14 @@ criteria:
       “We conducted our study in an online undergraduate STEM course lasting 5
       weeks in a selective, public 4-year university.” (p. 8)
     analysis: >
-      First Paragraph: The ‘T’ criterion requires that the intervention be
+      The ‘T’ criterion requires that the intervention be
       implemented for at least one full academic term (typically 3–4 months). In
       this paper, the course was a 5-week summer class.
       
-      Second Paragraph: The authors emphasize the short duration of the course,
+      The authors emphasize the short duration of the course,
       which is well below the standard academic term length.
       
-      Third Paragraph: Because the entire study spanned only 5 weeks, it does not
+      Because the entire study spanned only 5 weeks, it does not
       satisfy the minimum term duration requirement. Therefore, criterion T is not
       met.
   d:
@@ -114,15 +113,15 @@ criteria:
       randomly assigned... The control students received an email ... The authors
       tested for baseline equivalences (Table 1).” (pp. 7–10)
     analysis: >
-      First Paragraph: Criterion D requires that the control group be well-documented
+      Criterion D requires that the control group be well-documented
       with demographic information, baseline performance, and conditions. The
       authors provide a thorough description of how the control group was assigned.
       
-      Second Paragraph: Detailed baseline characteristics for both groups are
+      Detailed baseline characteristics for both groups are
       provided, including age, SAT scores, race/ethnicity, and self-reported time
       management measures.
       
-      Third Paragraph: The control group’s environment is described, confirming a
+      The control group’s environment is described, confirming a
       business-as-usual condition. Hence, criterion D is met.
   s:
     met: false
@@ -133,13 +132,13 @@ criteria:
       “We randomly assigned 157 students who were enrolled in the online class into
       treatment or control groups.” (p. 8)
     analysis: >
-      First Paragraph: ‘S’ requires that entire schools be randomized. In this
+      ‘S’ requires that entire schools be randomized. In this
       study, randomization occurred within a single online class.
       
-      Second Paragraph: There is no mention of multiple schools or entire
+      There is no mention of multiple schools or entire
       institutions being assigned to different arms.
       
-      Third Paragraph: Therefore, since randomization is at the student level,
+      Therefore, since randomization is at the student level,
       criterion S is not met.
   a:
     met: false
@@ -150,13 +149,13 @@ criteria:
       “Our outcomes are weekly quiz scores and final course grade in an online STEM
       class.” (p. 2)
     analysis: >
-      First Paragraph: The ‘A’ criterion requires measuring the impact on all main
+      The ‘A’ criterion requires measuring the impact on all main
       subjects. The authors focus solely on one course’s performance.
       
-      Second Paragraph: This single-course setting limits assessment to one subject,
+      This single-course setting limits assessment to one subject,
       excluding other academic domains.
       
-      Third Paragraph: Thus, the AllExams requirement is not fulfilled, and
+      Thus, the AllExams requirement is not fulfilled, and
       criterion A is not met.
   y:
     met: false
@@ -165,12 +164,12 @@ criteria:
     quote: >
       “The course was in the summer term ... Each is only 5 weeks long.” (p. 8)
     analysis: >
-      First Paragraph: ‘Y’ requires the study to last at least one academic year.
+      ‘Y’ requires the study to last at least one academic year.
       The paper repeatedly notes that the course spanned only 5 weeks.
       
-      Second Paragraph: Five weeks is far shorter than the typical academic year.
+      Five weeks is far shorter than the typical academic year.
       
-      Third Paragraph: Therefore, criterion Y is not satisfied.
+      Therefore, criterion Y is not satisfied.
   b:
     met: true
     explanation: >
@@ -181,14 +180,14 @@ criteria:
       the instructor ... The control students received an email with a survey about
       web browsers...” (p. 9)
     analysis: >
-      First Paragraph: Criterion B requires equivalent extra resources for both
+      Criterion B requires equivalent extra resources for both
       groups if the treatment group receives additional advantages. In this study,
       both groups received similar instructor contacts and extra credit.
       
-      Second Paragraph: The control group received a placebo survey ensuring
+      The control group received a placebo survey ensuring
       balanced conditions.
       
-      Third Paragraph: Thus, criterion B is met.
+      Thus, criterion B is met.
   g:
     met: false
     explanation: >
@@ -198,12 +197,12 @@ criteria:
       “We observe no statistically significant difference between the control and
       treatment groups ... and no difference in overall course scores.” (p. 14)
     analysis: >
-      First Paragraph: Criterion G requires tracking participants until graduation.
+      Criterion G requires tracking participants until graduation.
       This study only reports data from the 5-week course.
       
-      Second Paragraph: There is no follow-up after the course ends.
+      There is no follow-up after the course ends.
       
-      Third Paragraph: Hence, the Graduation Tracking requirement is not met.
+      Hence, the Graduation Tracking requirement is not met.
   r:
     met: false
     explanation: >
@@ -213,14 +212,14 @@ criteria:
       “Although many studies have previously explored ... The three prior studies took
       place in MOOCs ... The current study extends these contexts.” (pp. 3–5)
     analysis: >
-      First Paragraph: Criterion R requires that the intervention be replicated
+      Criterion R requires that the intervention be replicated
       independently by a different team. The authors reference prior studies but do
       not indicate an independent replication.
       
-      Second Paragraph: The current study is conducted by the same team that
+      The current study is conducted by the same team that
       developed the scheduling intervention.
       
-      Third Paragraph: Therefore, criterion R is not met.
+      Therefore, criterion R is not met.
   i:
     met: false
     explanation: >
@@ -231,13 +230,13 @@ criteria:
       an online postsecondary course. We employ a randomized control trial ...” (p.
       2)
     analysis: >
-      First Paragraph: Criterion I requires that the study be conducted by
+      Criterion I requires that the study be conducted by
       researchers independent of the intervention’s original designers.
       
-      Second Paragraph: Here, the same group that designed the scheduling prompt
+      Here, the same group that designed the scheduling prompt
       also implemented and analyzed the study.
       
-      Third Paragraph: Thus, the Independent Conduct criterion is not met.
+      Thus, the Independent Conduct criterion is not met.
   p:
     met: false
     explanation: >
@@ -245,10 +244,10 @@ criteria:
       prior to data collection.
     quote: null
     analysis: >
-      First Paragraph: Criterion P requires that the study be pre-registered
+      Criterion P requires that the study be pre-registered
       before data collection.
       
-      Second Paragraph: No registration ID or statement is provided.
+      No registration ID or statement is provided.
       
-      Third Paragraph: Therefore, the Pre-Registered criterion is not met.
+      Therefore, the Pre-Registered criterion is not met.
 ---

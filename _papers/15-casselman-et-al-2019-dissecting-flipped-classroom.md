@@ -6,7 +6,6 @@ authors: >
   Matthew D. Casselman, Kinnari Atit, Grace Henbest, Cybill Guregyan,
   Kiana Mortezaei, and Jack F. Eichler
 paper_link: "https://doi.org/10.1021/acs.jchemed.9b00767"
-slug: "casselman-et-al-2019-dissecting-flipped-classroom"
 abstract: >-
   In order to compare the impact of the preclass online learning environment to
   the in-class collaborative activities typically done in a flipped classroom,
@@ -27,7 +26,7 @@ journal: "Journal of Chemical Education"
 date_erct_check: "2025-03-09"
 tags:
   - science
-  - university level
+  - higher education
   - flipped classroom
   - blended learning
   - EdTech website

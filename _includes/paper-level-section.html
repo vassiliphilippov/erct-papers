@@ -6,7 +6,7 @@
                             <ul class="stage__list">
                                 <li>{{ criterion[1].explanation }}</li>
                                 <li>{{ criterion[1].quote }}</li>
-                                <li>{{ criterion[1].analysis | newline_to_br }}</li>
+                                <li><div class="analysis">{{ criterion[1].analysis | newline_to_p }}</div></li>
                             </ul>
                         </article>
                     </li>

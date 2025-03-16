@@ -2,7 +2,6 @@
 title: "The effects of class size on student grades at a public university"
 authors: "Edward C. Kokkelenberg, Michael Dillon, Sean M. Christy"
 paper_link: "https://doi.org/10.1016/j.econedurev.2006.09.011"
-slug: "kokkelenberg-et-al-2008-class-size"
 abstract: >-
   This paper analyzes data from over 760,000 undergraduate observations at a
   northeastern public university to study the relationship between class size
@@ -23,7 +22,7 @@ doi: "10.1016/j.econedurev.2006.09.011"
 journal: "Economics of Education Review"
 date_erct_check: "2025-03-09"
 tags:
-  - university level
+  - higher education
   - US
 criteria:
   c:

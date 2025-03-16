@@ -1,0 +1,932 @@
+Empirical Economics
+https://doi.org/10.1007/s00181-021-02058-8
+The effects of parental involvement in homework: two
+randomised controlled trials in financial education
+Joana Elisa Maldonado1
+· Kristof De Witte1,2 · Koen Declercq3
+Received: 19 May 2020 / Accepted: 13 April 2021
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2021
+Abstract
+This paper provides causal evidence on the effects of parental involvement on stu-
+dent outcomes in a financial education course based on two randomised controlled
+trials with a total of 2779 students from grade 8 and 9 in Flanders. Using an exper-
+imental design with three treatment groups, the impact of parental involvement in
+homework is distinguished from the standalone impact of the classroom intervention
+and homework itself. Intention-to-treat analysis reveals that access to the intervention
+effectively improves students’ financial literacy in the two dimensions of knowledge
+and behaviour. The classroom intervention combined with a homework assigned to
+be completed with the parents increases financial literacy by 0.38 standard deviations.
+On average, the added value of prompting parental involvement in homework is not
+statistically significant. Yet, stimulating parental involvement has significant positive
+effects on behaviour for disadvantaged students.
+Keywords Financial literacy· Parental involvement· Randomised controlled trial·
+Education
+JEL classification C93· I21· G53· A21
+This study is registered in the AEA RCT Registry under the unique identifier AEARCTR-0003481.
+B Joana Elisa Maldonado
+joanaelisa.maldonado@kuleuven.be
+1 Leuven Economics of Education Research, Faculty of Economics and Business, KU Leuven,
+Naamsestraat 69, 3000 Leuven, Belgium
+2 UNU-MERIT, Maastricht University, Maastricht, the Netherlands
+3 Center for Research in Economics, UCLouvain - Saint-Louis Bruxelles, Brussels , Belgium
+123
+J. E. Maldonado et al.
+1 Introduction
+Parents are a child’s gateway to education as direct and indirect parental influences are
+key determinants of student outcomes. Empirical and theoretical evidence, dating back
+to the Coleman report and early research about the determinants of student achieve-
+ment, indicates that parental background and effort could be more relevant inputs to
+the education production function than school resources (Coleman 1966; Hanushek
+1986). Increasing school resources might even crowd out parental efforts (Datar and
+Mason 2008; Das et al. 2013; Houtenville and Conway 2008). Hence, both students
+and society could benefit if parental involvement in education is stimulated. How-
+ever, parental involvement has implicit costs for parents as it requires significant time
+investments. Therefore, evidence on the benefits of parental involvement measures is
+needed.
+This paper contributes to the existing literature by providing causal evidence on
+the effects of parental involvement in the context of financial education. The study is
+based on two large-scale randomised controlled trials with a total of 2779 students
+from grade 8 and 9. We evaluate the effects of prompting parental involvement in a
+homework assignment in a financial education intervention. Comparing three different
+treatment groups, we explore whether there is a dynamic complementarity between
+home and school inputs.
+As there is evidence of a positive association between financial literacy and wealth
+holdings (Van Rooij et al. 2011), financial literacy has become indispensable in today’s
+increasingly complex market economies. However, many studies reveal that a large
+share of the population lacks basic financial literacy (e.g. Lusardi and Mitchell 2011).
+Observational studies indicate a link between parents and their children’s level of
+financial literacy and behaviour.1 Parental influence is therefore expected to matter
+considerably in financial education.
+While earlier meta-analyses reported ambiguous effects of financial education
+(Fernandes et al. 2014; Miller et al. 2015), more recent meta-analyses including a
+broader set of experimental studies clearly show statistically and economically sig-
+nificant effects of financial education on financial knowledge and behaviour (Kaiser
+and Menkhoff 2017, 2020; Kaiser et al. 2020). Most randomised controlled trials in
+secondary schools record positive effects of financial education courses on financial
+literacy in developed economies (Becchetti et al. 2013; Bover et al. 2018; Compen
+et al. 2021; Iterbeke et al. 2020a, b; Lührmann et al. 2018). However, only a small
+number of studies considered the role of parents in financial education. A few studies
+assessed the effects of financial education in school on family communication about
+financial topics (Batty et al. 2020; Bover et al. 2018; Frisancho 2020). Bruhn et al.
+(2016) and Sherraden et al. (2011) evaluated financial education interventions with
+parental involvement measures, but did not distinguish the effects of the classroom
+intervention from the parental involvement components. Maldonado and De Witte
+(2020) demonstrate that the provision of subject-specific information to parents does
+not improve the outcomes of a financial education intervention.
+1 See, for example, Dohmen et al. (2012) and Webley and Nyhus (2006).
+123
+The effects of parental involvement in homework…
+In correlational studies, a reverse causal relationship between student outcomes and
+parental involvement is a serious concern as parents are likely to increase their efforts
+when their child is experiencing difficulties. Causal evidence on parental involvement
+is limited to a small number of heterogeneous interventions with mixed outcomes.2
+While the stimulation of teacher–parent communication has been assessed in a number
+of field experiments (for example, Avvisati et al. 2014; Bergman 2021; Haelermans
+and Ghysels 2016; Islam 2019; Kraft and Rogers 2015), there is a lack of evidence on
+student-centred measures. In financial education, homework has been suggested as a
+means to increase parental participation (Hanson and Olson 2018; Van Campenhout
+2015).
+The main contribution of this paper is to identify the causal effect of stimulating
+parental involvement in homework based on a randomised intervention in a large
+and representative sample. Next to assessing the effects of a financial education pro-
+gramme, we specifically address the value added of prompting parental involvement.
+In addition, we consider the heterogeneous effects with respect to students’ socio-
+economic background, providing new evidence regarding the question on whether
+parental involvement in education neglects students with a disadvantaged family back-
+ground.
+Intention-to-treat analysis confirms that access to the financial education interven-
+tion significantly improves students’ financial literacy. Assignment of the classroom
+intervention together with homework prompting parental involvement increases
+financial literacy by 0.38 standard deviations. However, the added value of assign-
+ing homework with parental involvement compared to homework without parental
+involvement is not significant. Our analysis accounts for selective attrition during the
+intervention and the results hold true when accounting for multiple hypothesis test-
+ing and non-compliance with the homework assignment. Finally, assigning parental
+involvement has significant positive effects in the behavioural dimension for students
+with a low socio-economic status and students with low levels of family communica-
+tion at baseline.
+These results have relevant implications for policy debates about the utilisation of
+parental resources for improving student outcomes. Parental involvement interven-
+tions, such as the one tested in this study, are scalable and cost-effective measures
+which are simple to develop and implement. While stimulating parental involvement
+does not seem to systematically increase learning effects in financial education, it
+could, contrary to common beliefs, benefit underprivileged students.
+The paper is structured as follows. Section 2 explains the intervention and Sect. 3
+introduces the experimental design and sample. Section 4 describes the methodology,
+followed by a section presenting the results. Section 6 concludes with a discussion.
+2 In contrary to interventions at school, there are a large number of experimental studies on parental
+involvement in early childhood (for example, Fryer et al. 2015; Doss et al. 2019; Mayer et al. 2019).
+Another strand of literature considers parental schooling choices rather than involvement in the content of
+schooling (Bursztyn and Coffman 2012; Dizon-Ross 2019).
+123
+J. E. Maldonado et al.
+2 Intervention
+In this study, two randomised controlled trials were conducted with 14- to 16-year-old
+high school students in Flanders, Belgium. The intervention was designed to measure
+the effects of stimulating parental involvement in financial education. To this end, a
+homework assignment was used which was created by senior teachers in the project
+team. The assignment consisted of a handout with instructions and a link to a short
+video on payment methods, followed by an online quiz with six questions about pay-
+ment methods, designed for a duration of 10–15 min. The assignment encouraged the
+students to involve their parents in the homework in two ways. First, clear instructions
+in the handout and in the online quiz asked students to involve a parent. Second, several
+questions in the quiz were formulated to prompt the students to engage a parent. These
+questions could not easily be answered by the student and required the help of their
+parent. For instance, some questions enquired about parents’ habits regarding payment
+methods.3 Upon completion, the correct solutions from the quiz were displayed.
+To distinguish the effects of stimulating parental involvement from the effects of the
+homework, a homework assignment without stimulation of parental involvement was
+used as comparison. This homework assignment was identical to the homework with
+parental involvement, except for the elements prompting parental involvement. The
+questions triggering parental involvement were replaced with questions that could be
+answered by the students. Students were given the same information in both versions
+of the homework. Online Appendix C presents the questionnaires of both homework
+assignments.
+Teachers assigned this homework to the students as preparation for a financial
+education course. The classroom intervention consisted of a computer game about
+payments methods with a duration of four class periods.4 The game was developed by
+senior teachers in the project team and included contents which were not a part of the
+regular curriculum. The course covered topics such as different means of payment,
+safety of payments, digital payments and the calculation of discounts. The learning
+objectives were to increase knowledge about payment methods, awareness of asso-
+ciated risks and the ability to search for independent information. The course was
+hence in accordance with the OECD core competencies for financial literacy (OECD
+2015), which promote the broad concept of financial capability as opposed to financial
+literacy in terms of mere knowledge.5
+3 It should be noted that we could not observe whether parents were eventually involved. Instead, we
+measure the effect of prompting parental involvement, which can be assumed to represent a lower bound
+estimate of the true effect of parents getting involved.
+4 Participating teachers could use a paper version of the game in the case of limited ICT infrastructure. In
+the first wave, this was only used in 5.86% of the classes. In the second wave of the experiment, this was
+not measured.
+5 The teaching material was in line with the evidence showing the benefits of interactive learning in financial
+education (Amagir et al. 2018; Batty et al. 2015, 2020).
+123
+The effects of parental involvement in homework…
+The role of the teacher was reduced to a minimum to guarantee a standardised imple-
+mentation in all participating schools. Teachers received clear instructions explaining
+the game as a deliberately autonomous task for the students.6 Students completed the
+financial education game in groups of two and the game led students independently
+through the different steps. The groups were randomly assigned with a jigsaw game
+at the start of the class. Each team of students received a booklet with all necessary
+explanations. A small prize was given to the winning team to encourage students to
+perform well.
+There are four potential mechanisms through which the stimulation of parental
+involvement in the homework could increase the learning outcomes of the interven-
+tion. First, learning effects of parental involvement can result from direct instruction.
+Parents are likely familiar with the topics in this intervention, since transactions in their
+everyday lives make them familiar with payment methods. Therefore, parents could
+offer explanations to the students. Second, knowing their child well, parents could
+adapt the explanations based on their child’s character, needs and interests. Third, the
+homework could trigger parents to raise the topic again or repeat explanations after
+completing the assignment. Finally, parent–child communication is positively related
+with student achievement (Houtenville and Conway 2008), arguably because parents
+can communicate the importance of a topic to their child (McNeal 2001; Harackiewicz
+et al. 2012). The discussion between the parent and the student could increase learning
+outcomes through motivational factors, reinforcing students’ interest (Dumont et al.
+2012; Heddy and Sinatra 2017).
+3 Experimental design and sample selection
+The intervention was implemented in two randomised controlled trials in grade 8
+and 9, i.e. the second and third year of secondary education in Flanders. Schools
+were recruited in an open call via the Belgian government’s financial literacy agency
+(Wikifin). During the registration period, the teaching material was tested in two pilot
+schools. The intervention was implemented in two waves to increase external validity
+by replicating the same intervention with a different group of students within a short
+time frame. In the first wave, classes in grade 8 participated between February and
+mid-April 2018, followed by a second wave with classes in grade 9 between mid-April
+and June 2018 (see Fig. 1). 116 schools registered to participate, among which 66 in
+wave 1 and 50 in wave 2.
+All treatment groups were assigned to a four-hour financial education class (see Fig.
+2).7 The first treatment group only received the classroom intervention (no homework
+6 To reduce the uncertainty about the implementation of the intervention, a team of three trained PhD
+students in education economics visited 18 classes in 16 different schools. Observed classes were filmed
+unless prohibited by school regulations. The behaviour of students and teachers was evaluated based on a
+standardised rating scheme. The observations confirmed that the standardised intervention was correctly
+implemented by the teachers. Teachers were compliant that is only involved with the class to provide
+technical support or suggest the use of the provided material.
+7 Teachers could choose to teach the four class periods separately or in one block. 80% of students received
+the classes in four blocks of one hour each, 13% in two blocks of two hours and 7% in one block of four
+hours.
+123
+J. E. Maldonado et al.
+Fig. 1 Time line
+group). The second treatment group received in addition a preparatory homework
+assignment (homework alone group). In the third treatment group, this homework
+additionally prompted parental involvement (homework with parents group).8 Ran-
+domisation was done at school level in order to avoid contamination at class or teacher
+level. Registered schools were randomised in four experimental groups that is one
+control group and three treatment groups.
+Before the intervention, students in all experimental groups completed a self-
+administered digital pretest under the supervision of the teacher. At the end of the
+last class, students in the treatment groups completed a post-test. The control group
+8 Compliance with the homework was high in both waves and for both types of homework. On average,
+70% of the students completed their homework in both treatment groups. Online Appendix A provides
+more details about compliance with the homework assignment. Using the time stamp of the homework
+assignment, it was verified that all the students completed the task before the post-test.
+123
+The effects of parental involvement in homework…
+Fig. 2 Overview of the experimental groups
+received the post-test six weeks after the pretest. On average, the post-test was com-
+pleted 6.5 weeks after the pretest. Two weeks after the end of the intervention period,
+schools in the treatment groups were sent a second post-test, which was, on average,
+completed seven weeks after the first post-test. After the experiment, the teaching
+material was sent to the control group as a reward for participation in the tests.
+The pretest consisted of 38 items (see Online Appendix C). Financial literacy was
+assessed on nine multiple choice questions about the course material, comprising the
+two dimensions of knowledge and behaviour. Six of the nine financial literacy items
+measured financial knowledge, such as about different means of payment, identifying
+neutral information on financial issues and calculating discounts. The other three
+items captured behavioural aspects of financial literacy through decisions in fictional
+scenarios on payment safety, online fraud and advertising.9 Due to the age of the
+students, it was not possible to test decisions involving real stakes. All questions
+included the option to indicate not knowing the answer. The remainder of the test
+items measured attitudes and background characteristics, such as the frequency of
+family communication about financial topics, gender, age, school grades and family
+background. Teachers were asked not to provide correct answers or feedback to the
+students after the pretest.
+The post-test comprised an equivalent, slightly modified question set with 36 items.
+Similarly, the second post-test was a modified version of the first post-test. Teachers
+were asked not to teach to the tests and students had no incentive to study for the
+tests, since the results were not available to teachers and students were informed that
+the tests would not influence their grades. Teachers in all experimental groups and
+parents in the treatment groups with homework were asked to fill in a survey to collect
+background characteristics.
+Online Appendix A gives more information about the sample selection and attrition
+in the two waves of the experiment. Figure A1 in Online Appendix shows that attrition
+occurred before the pretest, during the intervention and between the first and second
+post-test. Minor imbalances between treatment groups in student characteristics at
+9 As the questions capture different concepts covered in the course, factor analysis is by design inconclusive.
+The corrected item–total (point-biserial) correlation, however, demonstrates a good discrimination with
+values larger than 0.2 (Walstad and Rebeck 2017) for 4 of the 9 items of the financial literacy score, 2 of
+the 6 items of the knowledge score and 2 of the 3 items of the behaviour score.
+123
+J. E. Maldonado et al.
+baseline are due to the dropout of schools after randomisation, before the completion
+of the pretest. The sample of students who filled in the pretest amounted to 3,902
+students, of which 3,165 students in wave 1 and 742 students in wave 2. Attrition also
+occurred between the pretest and the post-test. However, the differences in baseline
+measure of students across the experimental groups appear minor and no clear pattern
+can be identified. The final sample of students who completed both tests consists of
+2,228 observations for wave 1, covering 40 schools with 164 classes. The final sample
+for wave 2 comprises 551 students from 24 schools, within total 58 classes. Online
+Appendix A also demonstrates that our sample of students is representative for the
+general student population of grades 8 and 9 in Flanders and that the financial literacy
+level of parents in our sample is comparable to the OECD assessments of adults in
+Belgium and other OECD countries.
+Table 1 presents the baseline characteristics and test scores of the composite dataset
+of both waves, comprising 2,779 students from 65 schools. On the pretest, the mean
+financial literacy score was 3 out of 9 points. On the subset of six knowledge questions,
+students scored on average 2 of 6 points, while on the subset of three behaviour items,
+an average score of 1 of 3 points was obtained. There are no significant differences in
+pretest scores across experimental groups.
+Next, we observe a significantly higher average homework quiz score in the ‘home-
+work together with parents’ group, indicating that parents likely got involved in this
+group. Finally, students in the control group obtained an average post-test financial
+literacy score of 3 out of 9 points, similar to the pretest. All treatment groups had sig-
+nificantly higher mean post-test scores than the control group. Average scores on the
+second post-test are lower than on the first post-test, except for students who completed
+the homework with their parents.
+4 Methodology
+To identify the causal parameter of interest, we employ the following intention-to-treat
+(ITT) OLS estimation:
+y1
+i ,j,k = α0 + α1 y0
+i ,j,k +
+3
+k=0
+βk tr eatmentk + δ Xi + εi ,j,
+where y1
+i ,j,k represents the standardised post-test score of student i , in school j , in
+treatment k, y0
+i ,j,k denotes the standardised pretest score. tr eatmentk stands for the
+experimental group each school was assigned to: control (k= 0), classroom interven-
+tion with no homework (k= 1), classroom intervention with homework alone (k= 2)
+or classroom intervention with homework with parents (k= 3). Xi is representative
+of a set of covariates of student characteristics at baseline. To conduct inference, the
+standard errors are clustered at the level of randomisation that is the school level j , to
+account for arbitrary correlations in the error terms between students within schools
+(Abadie et al. 2017; Cameron and Miller 2015). The equation is estimated for three
+outcome variables that is financial literacy as a composite indicator as well as its two
+123
+123
+Table 1 Combined sample: summary statistics
+Control No HW HW alone HW together
+Number of schools 18 16 18 13
+Share of private schools 0.667 0.813 0.833 0.846
+Number of classes 57 54 65 46
+Number of students 850 561 722 646
+Share by track
+Academic 0.872 0.907 0.713 0.839
+Technical 0.041 0.070 0.202 0.101
+Vocational 0.087 0.023 0.085 0.060
+Student characteristics
+Age 14.28 (0.557) 14.38 (0.613) 14.35 (0.582) 14.39 (0.732)
+Female 0.552 0.590 0.558 0.544
+Dutch language grade 3.518 (0.982) 3.381 (1.027) 3.478 (1.005) 3.335 (1.045)
+Mathematics grade 3.062 (1.291) 3.050 (1.264) 3.173 (1.295) 3.313 (1.200)
+Socio-economic status (/4) 2.937 (1.013) 3.094* (1.021) 2.971 (0.995) 3.062 (0.993)
+Dutch 0.840 0.790 0.832 0.800
+Attitudes
+Self-assessment 3.500 (0.947) 3.449 (0.905) 3.435 (0.974) 3.377** (1.001)
+Importance of financial literacy 4.181 (0.743) 4.212 (0.714) 4.213 (0.702) 4.262 (0.723)
+Frequency of saving 3.821 (1.161) 3.861 (1.138) 3.756 (1.171) 3.802 (1.157)
+Importance of saving 4.210 (0.967) 4.200 (0.933) 4.198 (0.984) 4.251 (0.896)
+Family communication 3.158 (1.133) 3.103 (1.143) 3.197 (1.139) 3.133 (1.211)
+The effects of parental involvement in homework…
+123
+Table 1 continued
+Control No HW HW alone HW together
+Pretest
+Financial literacy score (/9) 2.993 (1.490) 3.289 (1.578) 2.971 (1.554) 3.132 (1.586)
+Knowledge score (/6) 1.836 (1.094) 2.075 (1.170) 1.884 (1.170) 2.003 (1.173)
+Behaviour score (/3) 1.157 (0.817) 1.214 (0.789) 1.087 (0.793) 1.129 (0.838)
+F-test for joint orthogonality 0.690 0.412 0.051
+Homework
+Homework score (/4) Post-test
+2.547 (0.872) 2.927*** (0.879)
+Financial literacy score (/9) 2.957 (1.639) 3.515** (1.780) 3.501** (1.768) 3.662** (1.701)
+Knowledge score (/6) 1.936 (1.199) 2.339** (1.250) 2.314** (1.237) 2.364** (1.248)
+Behaviour score (/3) 1.021 (0.892) 1.176* (0.941) 1.187 (0.980) 1.298*** (0.930)
+Second post-test
+Financial literacy score (/9) 3.255 (1.542) 2.908 (1.585) 3.713 (1.673)
+Knowledge score (/6) 1.982 (1.147) 1.842 (1.201) 2.419 (1.303)
+Behaviour score (/3) 1.273 (0.732) 1.066 (0.772) 1.294 (0.679)
+Standard deviations in parentheses. Significance levels report differences to the control group from an OLS regression with standard errors clustered at school level, * p<0.1,
+**p<0.05, ***p<0.01. Private (catholic) schools are publicly funded, but privately run. In grade 8, students have chosen a preparatory track, which we assigned to the three
+track levels. Dutch language and math grades refer to the past school term and are self-reported in five categories: <50%, 50–60%, 60–70%, 70–80%, >80%. Grading is not
+standardised and levels of examination differ by school and study tracks. We approximate socio-economic status by number of travels abroad in the past year (0, 1, 2, >2).
+Dutch (binary) indicates whether a student speaks Dutch at home. A five-point Likert scale of agreement measures: frequency of savings, opinion on importance of savings,
+regular family communication about financial topics, self-assessment of knowledge about financial issues, opinion on importance of financial literacy. The financial literacy
+score is a scale of nine points, with the subsets knowledge and behaviour of six and three points, respectively. For the F-test for joint orthogonality, all baseline characteristics
+at student level are jointly compared to the control group and the p-value is shown in the table. The statistics on the homework score refer to the sample of 946 students that
+completed the homework assignment. The statistics on the second post-test refer to the sample of 268 students that completed the second post-test. The control group did not
+receive the second post-test
+J. E. Maldonado et al.
+The effects of parental involvement in homework…
+dimensions of knowledge and behaviour, from the first and the second post-test. We
+compare the effects of the different treatment variants by testing the pairwise equality
+of the coefficients βk with an F-test. The coefficient βk identifies the effect of access to
+the treatment. While this represents a conservative estimate of the policy impact, it is
+useful, since non-compliance is likely to differ across jurisdictions if financial educa-
+tion were introduced. As we test multiple outcomes for multiple treatment groups, we
+present adjusted p-values based on the methodology suggested by List et al. (2019).
+Since the attrition that occurred in all treatment groups between the pretest and the
+post-test could potentially bias the ITT estimates, we estimate a weighted regression,
+following the approach outlined by Wooldridge (2002) and illustrated by Ding and
+Lehrer (2010). We first compute the probability of remaining in the sample between the
+pretest and the post-test based on a probit estimation with all observable characteristics
+and then use the inverse probability to reweight the sample. This method ensures that
+the characteristics of the final sample are comparable to those of the initially selected
+sample at the pretest.
+5 Results
+5.1 Intention-to-treat effect
+Table 2 presents the intention-to-treat estimates with inverse probability weights
+accounting for attrition, for financial literacy in the composite sample as well as in
+the two waves of the experiment separately. For each sample, the first regression only
+controls for the pretest score and the second regression additionally controls for all
+observed baseline characteristics.10 The results reveal that access to the treatment
+significantly improves students’ financial literacy, as students assigned to a treatment
+group perform significantly better than the students in the control group in the com-
+bined sample and wave 1. Lower levels of statistical significance in wave 2 might be
+due to the limited number of observations in this wave. Since the estimates are similar
+in the regressions with and without control variables, the correlations between the
+covariates and the treatment indicators appear to be weak. The following discussion
+is limited to the specifications with control variables.
+The second column of Table 2 indicates that students assigned to the classroom
+intervention without homework score 0.25 standard deviations higher than the control
+group students. Students assigned to homework in addition to the classes improve
+0.34 standard deviations compared to control and students assigned to homework
+with parental involvement improve 0.38 standard deviations. In wave 1, financial
+literacy improves most for students assigned to ‘homework alone’, whereas in wave
+2, the assignment of ‘homework together with parents’ yields the most substantial
+10 This includes the track, age, gender, socio-economic status, Dutch language grade, mathematics grade,
+home language, family communication at baseline, attitudes towards the importance of saving and financial
+literacy, and self-assessment of financial knowledge.
+123
+123
+Table 2 Intention-to-treat estimates: financial literacy
+Combined sample Wave 1 Wave 2
+No HW 0.250∗∗ 0.249∗∗ 0.216∗ 0.219∗ 0.236∗ 0.141
+(0.096) (0.099) (0.109) (0.119) (0.134) (0.138)
+HW alone 0.329∗∗∗ 0.336∗∗∗ 0.319∗∗ 0.345∗∗∗ 0.317∗ 0.192
+(0.107) (0.102) (0.122) (0.126) (0.159) (0.206)
+HW together 0.382∗∗∗ 0.381∗∗∗ 0.384∗∗∗ 0.317∗∗ 0.278 0.344∗
+(0.110) (0.113) (0.125) (0.140) (0.217) (0.194)
+Pretest score 0.366∗∗∗ 0.298∗∗∗ 0.354∗∗∗ 0.287∗∗∗ 0.344∗∗∗ 0.250∗∗∗
+(0.020) (0.021) (0.023) (0.023) (0.052) (0.045)
+Controls No Yes No Yes No Yes
+No HW vs. HW alone 0.431 0.277 0.390 0.191 0.571 0.763
+No HW vs. HW with parents 0.200 0.157 0.171 0.402 0.837 0.239
+HW alone vs. HW with parents 0.643 0.639 0.632 0.808 0.863 0.321
+R-squared 0.161 0.205 0.149 0.197 0.126 0.205
+N 2779 2779 2228 2228 551 551
+*p< 0.10, **p< 0.05, ***p< 0.01. Intention-to-treat by OLS regression with inverse probability weights accounting for the probability to drop out of the sample as predicted
+by all baseline characteristics. Reference category: control group. Robust standard errors clustered at school level in parentheses. Bottom panel shows p-values of F-test
+for equality of coefficients. Control variables included are the track, age, gender, socio-economic status, Dutch language grade, mathematics grade, home language, family
+communication at baseline, attitudes towards the importance of saving and financial literacy, and self-assessment of financial knowledge.
+J. E. Maldonado et al.
+Table 3 Intention-to-treat estimates: knowledge
+Combined sample Wave 1 Wave 2
+The effects of parental involvement in homework…
+No HW 0.267∗∗∗ 0.259∗∗ 0.233∗ 0.199 0.279∗ 0.202
+HW alone (0.100) (0.106) (0.116) (0.125) (0.138) (0.130)
+0.313∗∗∗ 0.314∗∗∗ 0.276∗∗ 0.282∗∗ 0.433∗∗∗ 0.342∗
+(0.105) (0.099) (0.120) (0.122) (0.123) (0.175)
+HW together 0.333∗∗∗ 0.318∗∗∗ 0.272∗∗ 0.178 0.414 0.488∗∗
+(0.116) (0.116) (0.119) (0.127) (0.265) (0.201)
+Pretest score 0.262∗∗∗ 0.206∗∗∗ 0.243∗∗∗ 0.192∗∗∗ 0.244∗∗∗ 0.173∗∗∗
+(0.020) (0.021) (0.020) (0.023) (0.060) (0.051)
+Controls No Yes No Yes No Yes
+No HW vs. HW alone 0.633 0.518 0.709 0.439 0.125 0.393
+No HW vs. HW with parents 0.543 0.553 0.735 0.860 0.585 0.149
+HW alone vs. HW with parents 0.861 0.963 0.971 0.345 0.938 0.344
+R-squared 0.092 0.124 0.075 0.108 0.084 0.164
+N 2779 2779 2228 2228 551 551
+* p < 0.10, ** p < 0.05, *** p < 0.01. Intention-to-treat by OLS regression with inverse probability weights accounting for the probability to drop out of the sample as
+predicted by all baseline characteristics. Reference category: control group. Robust standard errors clustered at school level in parentheses. Bottom panel shows p-values of
+F-test for equality of coefficients. Control variables included are the track, age, gender, socio-economic status, Dutch language grade, mathematics grade, home language,
+family communication at baseline, attitudes towards the importance of saving and financial literacy, and self-assessment of financial knowledge
+123
+J. E. Maldonado et al.
+effect. The two waves of the experiment appear to be consistent, as the equality of the
+coefficients across waves cannot be rejected.11
+The F-tests in the second panel of Table 2 establish that the differences between the
+indicators for each treatment group are statistically not significant. This implies that,
+on average, the assignment of homework and parental involvement do not significantly
+improve the learning outcomes of the financial education class.
+Table 3 displays the ITT estimates for the knowledge score, which is composed from
+the subset of questions measuring financial knowledge in the financial literacy scale. In
+the composite sample, knowledge scores in all treatment groups are significantly higher
+than those in the control group. The knowledge scores of students assigned to treatment
+improve by 0.26 standard deviations without homework, 0.31 standard deviations with
+added homework and 0.32 standard deviations when parental involvement is prompted
+in addition. The differences between these coefficients are not statistically significant.
+Again, the coefficients of the indicators of each treatment group are consistent across
+the samples of the two waves.12
+Table 4 shows that the results are different in the behavioural dimension of financial
+literacy, which is measured by the subset of questions in the financial literacy scale
+that refer to behavioural concepts. In the composite sample, assignment of the class-
+room intervention improves the behaviour score by 0.12 standard deviations, with the
+addition of a homework assignment by 0.21 standard deviations and with additional
+stimulation of parental involvement by 0.28 standard deviations. In wave 1, assigning
+homework, both with and without prompting parental involvement, has significantly
+larger effects on behaviour than the classroom intervention without homework. In
+wave 2, none of the interventions has a statistically significant effect. Although this
+might be due to the smaller sample size, the coefficients are very small and negative.
+While the coefficients of the classroom intervention and homework without parental
+involvement are consistent across waves, equality is rejected at the 5% level for the
+treatment with parental involvement.13 This heterogeneous finding could be due to the
+age difference, since students in wave 1 are in grade 8 and students in wave 2 are in
+grade 9. In the composite sample, where we control for students’ age, the homework
+assignment with stimulation of parental involvement provides significant value added
+to the classroom intervention. Yet, the difference compared to assigning homework
+without parental involvement is statistically not significant.
+The results for all three outcome variables are comparable to estimates from an
+unweighted OLS regression, confirming that we do not observe any behavioural dif-
+ferences in the initial behavioural relationships as recorded at baseline (see Table B2
+in Online Appendix).
+11 Hausman Chi-squared test, treatment 1: χ2(1, N= 2, 779)= 0.05, p= 0.826), treatment 2: χ2(1, N=
+2, 779)= 0.14, p= 0.709, treatment 3: χ2(1, N= 2, 779)= 0.12, p= 0.727 based on seemingly
+unrelated regression using the unweighted OLS estimation.
+12 Hausman Chi-squared test, treatment 1: χ2(1, N= 2, 779)= 0.04, p= 0.847), treatment 2: χ2(1, N=
+2, 779)= 0.48, p= 0.489, treatment 3: χ2(1, N= 2, 779)= 2.64, p= 0.104 based on seemingly
+unrelated regression using the unweighted OLS estimation.
+13 Hausman Chi-squared test, treatment 1: χ2(1, N= 2, 779)= 0.68, p= 0.409), treatment 2: χ2(1, N=
+2, 779)= 2.67, p= 0.103, treatment 3: χ2(1, N= 2, 779)= 4.06, p= 0.044 based on seemingly
+unrelated regression using the unweighted OLS estimation.
+123
+Table 4 Intention-to-treat estimates: behaviour
+Combined Sample Wave 1 Wave 2
+No HW 0.110∗ 0.118∗ 0.091 0.141∗ 0.066−0.009
+(0.061) (0.066) (0.064) (0.075) (0.129) (0.128)
+HW alone 0.194∗∗ 0.207∗∗ 0.224∗∗ 0.263∗∗∗ 0.010−0.100
+HW together Pretest score (0.085) (0.085) (0.091) (0.089) (0.208) (0.192)
+0.265∗∗∗ 0.284∗∗∗ 0.347∗∗∗ 0.347∗∗∗
+−0.037−0.014
+(0.083) (0.088) (0.091) (0.111) (0.109) (0.147)
+0.331∗∗∗ 0.279∗∗∗ 0.331∗∗∗ 0.276∗∗∗ 0.313∗∗∗ 0.232∗∗∗
+(0.018) (0.018) (0.022) (0.021) (0.039) (0.038)
+Controls No Yes No Yes No Yes
+No HW vs. HW alone 0.322 0.201 0.162 0.065 0.783 0.546
+No HW vs. HW with parents 0.059 0.027 0.008 0.027 0.333 0.963
+HW alone vs. HW with parents 0.484 0.377 0.276 0.405 0.808 0.535
+R-squared 0.121 0.157 0.128 0.162 0.093 0.172
+N 2779 2779 2228 2228 551 551
+The effects of parental involvement in homework…
+* p < 0.10, ** p < 0.05, *** p < 0.01. Intention-to-treat by OLS regression with inverse probability weights accounting for the probability to drop out of the sample as
+predicted by all baseline characteristics. Reference category: control group. Robust standard errors clustered at school level in parentheses. Bottom panel shows p-values of
+F-test for equality of coefficients. Control variables included are the track, age, gender, socio-economic status, Dutch language grade, mathematics grade, home language,
+family communication at baseline, attitudes towards the importance of saving and financial literacy, and self-assessment of financial knowledge
+123
+J. E. Maldonado et al.
+As there are multiple outcomes and treatment groups, we are testing multiple
+null hypotheses simultaneously. We therefore present adjusted p-values based on the
+methodology proposed by List et al. (2019). As done by Lee and Shaikh (2014),
+we apply a differences-in-differences approach to account for initial differences in
+the outcome variable. Table 5 reveals that including the three outcome variables and
+accounting for pairwise testing of all experimental groups, leads overall to similar p-
+values as before adjustment. Only four p-values are not statistically significant at the
+10% level anymore after adjustment. On financial literacy, all comparisons between
+experimental groups remain significant at the 10% level after adjustment. On knowl-
+edge and behaviour, scores of students in treatment group 1 do not differ significantly
+after adjustment from scores of students in the control group and in treatment group
+2. It has to be noted that the unadjusted p-values differ slightly from the ITT results
+above and from the unweighted OLS estimation, as the methodology does not allow
+for the inclusion of covariates and the clustering of standard errors.14
+The observed effect sizes are in line with previous interventions in financial educa-
+tion. Meta-analyses report an average effect on financial knowledge of 0.26 standard
+deviations in the general population (Kaiser and Menkhoff 2017), 0.2 standard devia-
+tions in randomised controlled trials (Kaiser et al. 2020) and 0.19 standard deviations in
+randomised controlled trials in school, with larger effect sizes in developed economies,
+immediate measurements and interventions of higher intensity (Kaiser and Menkhoff
+2020). The average effect on financial knowledge of 0.3 standard deviations in this
+study is hence in accordance with previous studies, given the randomised design, the
+setting in a developed economy, four hours of instruction and an immediate post-test.
+With an average effect of 0.2 standard deviations, the effect we observe on financial
+behaviour is lower than the effect found for financial knowledge. This difference in
+effect sizes between financial knowledge and behaviour is smaller than in previous
+randomised controlled trials, for which an average effect of 0.08–0.1 standard devia-
+tions is reported on financial behaviour (Kaiser and Menkhoff 2020, 2017; Kaiser et al.
+2020). This is likely due to the fact that we measure simulated behaviour rather than
+actual behaviour. In combination with a homework with parents, Bruhn et al. (2016)
+find an effect of 0.25 standard deviations of a financial education course at school.
+Given that in our study, the outcomes were measured more immediately, the effect of
+0.32 standard deviations of the classroom intervention with parental involvement on
+financial knowledge seems comparable.
+5.2 Heterogeneous effects
+The previous research has found higher parental income to be associated with higher
+perceived parental influence on financial behaviour (Jorgensen and Savla 2010). Also,
+better educated parents might have a better sense of efficacy to help their child (Avvisati
+14 Table B1 in Online Appendix demonstrates that all significant results of the main regressions remain
+statistically significant at 10% level when correcting for multiple hypothesis testing following the method-
+ology proposed by Anderson (2008) which includes clustered standard errors and covariates. Lehrer et al.
+(2021) suggest an alternative approach for statistical inference using the block bootstrap, which could be
+considered in future work to apply multiple testing procedures when standard errors are clustered.
+123
+123
+Table 5 Multiple hypothesis testing
+Financial Literacy Knowledge Behaviour
+Unadj. p-value Adjusted p-value Unadj. p-value Adjusted p-value Unadj. p-value Adjusted p-value
+Control vs. no HW 0.012** 0.078* 0.047* 0.216 0.071* 0.263
+Control vs. HW alone 0.000*** 0.000*** 0.000*** 0.000*** 0.000*** 0.000***
+Control vs. HW together 0.000*** 0.000*** 0.001*** 0.006** 0.000*** 0.000***
+No HW vs. HW alone 0.003*** 0.020** 0.047* 0.233 0.020** 0.120
+No HW vs. HW together 0.006*** 0.039** 0.305 0.577 0.001*** 0.004***
+HW alone vs. HW together 0.938 0.938 0.339 0.471 0.267 0.610
+* p < 0.10, ** p < 0.05, *** p < 0.01. Adjustment of p-values for multiple hypothesis testing based on the methodology proposed by List et al. (2019), using first differences
+of the outcome variables. We account for using multiple outcomes variables as well as pairwise comparisons between multiple treatment groups. The p-values indicate the
+significance of the difference between experimental groups in the first differences of the means of the outcome variables
+The effects of parental involvement in homework…
+J. E. Maldonado et al.
+et al. 2010). We therefore estimate heterogeneous effects by socio-economic status
+(SES).
+SES is proxied by the number of travels abroad in the past year, since this could
+be self-reported by students.15 We split the sample in two groups of similar size that
+is students who travelled at most once (low SES) and students who travelled at least
+twice (high SES).
+The first three columns of Table 6 present the results from a regression that includes
+interaction effects of the treatment indicators with the indicator of low SES. This spec-
+ification assumes that having a lower socio-economic status only has a differential
+impact on treatment, while the coefficients for all other variables are constrained to be
+constant across the two subgroups. On financial literacy, none of the interaction effects
+are statistically significant. On knowledge, the interaction term is negative and statis-
+tically significant for the classroom intervention group without homework, suggesting
+that assignment of this treatment benefits students with a higher socio-economic
+status. Regarding behaviour, the interaction term with the parental treatment is pos-
+itive and statistically significant at the 10% level, indicating that prompting parental
+involvement benefits students with a lower socio-economic status in the behavioural
+dimension.
+These results contrast the survey-based findings that the positive behavioural effects
+of parental involvement can only be reaped for students from families with a higher
+socio-economic status (McNeal 2001). Instead, our results match the hypothesis that
+parents can help by motivating their children to learn, independent of their own back-
+ground, for example, through discussions (Heddy and Sinatra 2017; Harackiewicz
+et al. 2012). Therefore, parental involvement measures could be particularly useful
+for families with low parental involvement in education.
+This hypothesis is confirmed when considering the heterogeneous effects by family
+communication about the course topics that is an approximation of parental involve-
+ment, at baseline.16 The last three columns of Table 6 display the results of a regression
+with interaction terms of the treatment indicators with the indicator of low family com-
+munication. On financial literacy, there are no statistically significant differences in
+the estimate for parental involvement between the two subgroups. On the knowledge
+dimension, the estimate for the parental involvement intervention is significantly larger
+for students with regular family communication at baseline. On the behaviour outcome,
+however, assigning parental involvement yields significantly larger improvements for
+students with low family communication at baseline.
+15 Online Appendix A demonstrates the validity of this indicator based on correlations with indicators of
+socio-economic status in official school data as well as Flemish budget data. The pretest included a question
+about the educational level of the mother, but 39% of students indicated not knowing this.
+16 Family communication at baseline is measured on a 5-point Likert scale (‘At home, I regularly speak
+about financial topics, such as savings, costs and payment methods’: completely disagree–disagree–no
+opinion–agree–completely agree). The sample is split into two groups of similar size, with a group of
+students with low levels of family communication (1–2) and a groups of students with high levels of family
+communication (4–5).
+123
+Table 6 Heterogeneous effects: family communication and socio-economic status
+SES Family Communication
+Financial Literacy Knowledge Behaviour Financial Literacy Knowledge Behaviour
+No HW 0.283*** 0.316*** 0.106* 0.240** 0.259* 0.100
+(0.099) (0.111) (0.063) (0.115) (0.137) (0.079)
+HW alone 0.365*** 0.333*** 0.234** 0.438*** 0.409*** 0.269***
+(0.113) (0.111) (0.098) (0.120) (0.127) (0.095)
+HW together 0.376*** 0.354*** 0.228** 0.406*** 0.409*** 0.209*
+(0.116) (0.130) (0.094) (0.139) (0.146) (0.113)
+Low SES 0.097 0.122 0.017
+(0.078) (0.078) (0.086)
+No HW x Low SES−0.108−0.180* 0.038
+(0.082) (0.093) (0.093)
+HW alone x Low SES−0.081−0.057−0.075
+(0.082) (0.078) (0.096)
+HW together x Low SES 0.028−0.107 0.194*
+(0.132) (0.138) (0.116)
+Low Family−0.029−0.047 0.009
+Communication (0.107) (0.130) (0.131)
+No HW x Low 0.006−0.027 0.047
+123
+The effects of parental involvement in homework…
+123
+Table 6 continued
+SES Family Communication
+Financial Literacy Knowledge Behaviour Financial Literacy Knowledge Behaviour
+Family Communication (0.122) (0.123) (0.104)
+HW alone x Low−0.210**−0.223**−0.094
+Family Communication (0.087) (0.110) (0.092)
+HW together x Low−0.074−0.253** 0.198**
+Family Communication (0.092) (0.107) (0.085)
+Controls Yes Yes Yes Yes Yes Yes
+R-squared 0.206 0.125 0.159 0.206 0.127 0.159
+N 2779 2779 2779 2193 2193 2193
+Note: ∗ p < 0.10, ∗∗ p < 0.05, ∗∗∗ p < 0.01 Intention-to-treat by OLS regression with inverse probability weights accounting for the probability to drop out of the sample as
+predicted by all baseline characteristics. Reference category: control group. Robust standard errors clustered at school level in parentheses. The regressions with the interaction
+with family communication exclude students who indicated ‘no opinion’
+J. E. Maldonado et al.
+The effects of parental involvement in homework…
+5.3 Persistence over time
+To test whether the positive treatment effect persists several weeks after the first post-
+test at the end of the class, we evaluate a second post-test, taken by students in the
+treatment groups on average seven weeks after the end of the intervention period.17
+In both waves combined, only 268 students completed the second post-test which was
+given as a take-home quiz. Attrition occurred as many teachers did not assign the test
+to their students and students had lower incentives to complete the quiz because the
+course had ended. Therefore, we only evaluate the test in the composite sample.
+Table 7 shows that the effects of the intervention on the financial literacy score
+persist, but are smaller than the immediate results. This is in line with previous exper-
+iments on financial education in school which report a decay of effect sizes over time
+(Kaiser and Menkhoff 2020). On financial literacy and knowledge, the estimates for the
+intervention prompting parental involvement are larger than those for the treatments
+without parental involvement. On financial literacy, the effects equal 0.15 standard
+deviations for the classroom intervention, 0.12 standard deviations when homework
+was assigned in addition and 0.22 standard deviations when parental involvement was
+stimulated. Partly due to the small sample size, statistical significance is low. Only the
+coefficient of the parental involvement treatment remains significant at the 10% level.
+The same holds true for the effects on knowledge, where none of the coefficients of
+treatment are statistically significant. For behaviour, the classroom intervention has
+a significant effect of 0.3 standard deviations, while adding stimulation of parental
+involvement yields 0.13 standard deviations. However, the estimates of the different
+experimental groups might differ in precision due to unbalanced compliance rates.
+5.4 Robustness
+As an alternative approach to account for the potential imbalances between experimen-
+tal groups resulting from attrition, we apply matching.18 Intention-to-treat regressions
+on the matched samples yields similar results as the main ITT regressions with inverse
+probability weights (see Table B3 in Online Appendix).
+Based on an instrumental variables (IV) approach, we establish that the effects found
+in the ITT regressions in Sect. 5.1 hold true when accounting for non-compliance with
+the homework assignment. Compliance with the homework differs from attrition,
+since students who did not complete the homework proceeded to completing the post-
+test and did not leave the sample. Compliance was on average 70% among students
+in the final sample.19 The IV estimates identify the average treatment effect on the
+treated and accordingly scale up the ITT effects from Sect. 5.1 (see Table B4 in Online
+17 In the regression analysis, we control for the exact time lag between the first and the second post-test.
+For the control group, the scores of the first post-test are used, assuming that no further changes would have
+occurred without treatment. Indeed, the change from the pretest to the first post-test is negligible for the
+control group (see Table 1).
+18 Based on a set of student characteristics at baseline, we match students of each treatment group to
+students in the control group using exact matching on coarsened variables, following the Coarsened Exact
+Matching approach proposed by Blackwell et al. (2009).
+19 Compliance with the homework assignment is discussed more in detail in Online Appendix A.
+123
+J. E. Maldonado et al.
+Table 7 Intention-to-treat estimates of the second post-test scores
+Financial Literacy Knowledge Behaviour
+No HW 0.152−0.002 0.297∗∗
+(0.163) (0.152) (0.142)
+HW alone 0.121 0.107 0.081
+(0.152) (0.180) (0.113)
+HW together 0.218∗ 0.205 0.128∗
+(0.127) (0.151) (0.070)
+Pretest score 0.256∗∗∗ 0.176∗∗∗ 0.243∗∗∗
+Time lag−0.005∗
+(0.023) (0.026) (0.026)
+−0.007∗∗
+−0.001
+(0.003) (0.003) (0.003)
+Controls Yes Yes Yes
+No HW vs. HW alone 0.859 0.573 0.176
+No HW vs. HW with parents 0.702 0.265 0.216
+HW alone vs. HW with parents 0.552 0.651 0.678
+R-squared 0.178 0.096 0.166
+N 1118 1118 1118
+∗ p < 0.10, ∗∗p < 0.05, ∗∗∗p < 0.01 Intention-to-treat by OLS regression with inverse probability
+weights accounting for the probability to drop out of the sample as predicted by all baseline characteristics.
+Reference category: control group. Robust standard errors clustered at school level in parentheses. Bottom
+panel shows p-values of F-test for equality of coefficients. Control variables included are the pretest score,
+track, age, gender, socio-economic status, Dutch language grade, mathematics grade, home language, family
+communication at baseline, attitudes towards the importance of saving and financial literacy, self-assessment
+of financial knowledge, and the time lag between the post-test and the second post-test
+Appendix). The value added of stimulating parental involvement remains statistically
+non-significant.
+Since privately run schools represent with 85% of schools in the sample a slightly
+higher share than the 75% in Flanders, we estimate the ITT effects for the subset of
+privately run schools. Privately run schools might be attractive for students with higher
+abilities and a higher socio-economic status. Table B5 in Online Appendix reveals that
+the results are similar to the main results from Sect. 5.1, with smaller coefficients. This
+suggests that the larger effect sizes in the main result are driven by the 15% of publicly
+run schools.
+A robustness test further confirms the minimal role played by the teachers in the
+standardised intervention. Interaction effects of teacher characteristics with the treat-
+ment dummies are jointly insignificant (F(9,57)= 1.72, p= 0.104).20
+20 The characteristics include years of teaching experience, experience with financial education, and finan-
+cial knowledge, behaviour and attitudes.
+123
+The effects of parental involvement in homework…
+6 Discussion and conclusion
+This paper provides evidence on the intention-to-treat effects of stimulating parental
+involvement in financial education based on two large-scale randomised controlled
+trials with 2,779 students from grade 8 and 9 in Flanders. The results indicate that
+access to the financial education intervention effectively improved students’ finan-
+cial knowledge and behaviour. Providing access to a classroom intervention with a
+homework prompting parental involvement increased financial literacy scores by 0.38
+standard deviations. This effect was statistically not different from the effects of assign-
+ing homework without stimulating parental involvement. As these results reflect the
+effect of access to the treatment, they represent a conservative estimate of the true
+effects of treatment.
+Against the popular belief that homework and parental involvement would only
+benefit students of a higher socio-economic status, we find that access to an intervention
+that stimulates parental involvement matters the most for disadvantaged students. In the
+behavioural dimension, the intention-to-treat effect of prompting parental involvement
+in homework was higher for students of a low socio-economic status and students with
+low baseline levels of family communication.
+The results show that the dynamic complementarity between home and school
+inputs appears to be stronger in the behavioural dimension than on knowledge. Possi-
+bly, parents can be a link between the classroom and everyday life of children (Heddy
+and Sinatra 2017).
+Our findings have important policy implications. The results confirm that providing
+financial education at school can be effective, paving the way for the integration of
+financial education in compulsory education. Schools can employ parental involve-
+ment measures to improve behavioural outcomes, in particular of disadvantaged
+students. Next to financial education, this could be applied to other topics with impli-
+cations on students’ daily life, such as health, nutrition or e-safety (such as Sylvia et al.
+2013; Vanderhoven et al. 2014).
+This study confirms the promising potential of stimulating parental involvement
+in education. Additional research is needed on parental costs and benefits of parental
+involvement measures, since it is possible that parents also learn when involved in their
+children’s education. Moreover, future research should explore whether the effects of
+prompting parental involvement differ in settings of longer duration or intensity.
+Acknowledgements The authors are grateful to Geert Van Campenhout, Wouter Schelfhout, Lieve Lam-
+mens, Johan Mestdagh, Els Lagrou, Daniále Van der Espt and conference participants in Leuven, Antwerp,
+Maastricht, Milan and Lisbon for their helpful comments and suggestions.
+Funding The authors received funding from the Flemish science organisation (Grant No. S000617N). The
+authors declare that they have no conflict of interest. Data, code and materials will be made available prior
+to publication.
+References
+Abadie A, Athey S, Imbens GW Wooldridge J (2017) When should you adjust standard errors for clustering?
+NBER Working Paper Series 24003
+123
+J. E. Maldonado et al.
+Amagir A, Groot W, Maassen Van Den Brink H, Wilschut A (2018) A review of financial-literacy education
+programs for children and adolescents Thematic Review. Citizensh Soc Econ Educ 17(1):56–80.
+https://doi.org/10.1177/2047173417719555
+Anderson ML (2008) Multiple inference and gender differences in the effects of early intervention:
+a reevaluation of the abecedarian, perry preschool, and early training projects. J Am Stat Assoc
+103(484):1481–1495. https://doi.org/10.1198/016214508000000841
+Avvisati F, Guyon Besbas BN (2010) Parental involvement in school: a literature review. Revue d’économie
+Polit 120(5):759–778. https://doi.org/10.3917/redp.205.0759
+Avvisati F, Gurgand M, Maurin Guyon NE (2014) Getting parents involved: a field experiment in deprived
+schools. Rev Econ Stud 81(1):57–83. https://doi.org/10.1093/restud/rdt027
+Batty M, Collins JM, Odders-White E (2015) Experimental evidence on the effects of financial education on
+elementary school students’ knowledge, behavior, and attitudes. J Consum Aff 49(1):69–96. https://
+doi.org/10.1111/joca.12058
+Batty M, Collins JM, O’Rourke C, Odders-White E (2020) Experiential financial education: a field study of
+my classroom economy in elementary schools. Econ Educ Rev. https://doi.org/10.1016/j.econedurev.
+2020.102014
+Becchetti L, Caiazza S, Coviello D (2013) Financial education and investment attitudes in high schools:
+evidence from a randomized experiment. Appl Financ Econ 23(10):817–836. https://doi.org/10.1080/
+09603107.2013.767977
+Bergman P (2021) Parent-child information frictions and human capital investment: evidence from a field
+experiment. J Polit Econ 129(1):286–322
+Blackwell M, Iacus S, Porro King GG (2009) Cem: Coarsened exact matching in Stata. Stata J 9(4):524–546
+Bover O, Hospido L, Villanueva E (2018) The impact of high school financial education on financial
+knowledge and choices: evidence from a randomized trial in Spain. IZA Discussion Paper Series.
+11265
+Bruhn M, de Souza Leão L, Legovini A, Marchetti R, Zia B (2016) The impact of high school financial
+education: evidence from a large-scale evaluation in brazil. Am Econ J Appl Econ 8(4):256–295.
+https://doi.org/10.1257/app.20150149
+Bursztyn L, Coffman LC (2012) The schooling decision: family preferences, intergenerational conflict, and
+moral hazard in the brazilian favelas. J Polit Econ 120(3):359–397
+Cameron CA, Miller DL (2015) A practitioner’s guide to cluster-robust inference. J Hum Res 50(2):317–372
+Coleman JS (1966) Equality of educational opportunity Equality of educational opportunity. Vol. OE-38001
+Compen B, De Witte K, Schelfhout W (2021) The impact of teacher engagement in an interactive webinar
+series on the effectiveness of financial literacy education. Brit J Educ Technol 52(1):411–425. https://
+doi.org/10.1111/bjet.13013
+Das J, Dercon S, Habyarimana J, Krishnan P, Muralidharan K, Sundararaman V (2013) School inputs,
+household substitution, and test scores. Am Econ J Appl Econ 5(2):29–57. https://doi.org/10.1257/
+app.5.2.29
+Datar A, Mason B (2008) Do reductions in class size “crowd out” parental investment in education? Do
+reductions in class size “crowd out” parental investment in education? Econ Educ Rev 27(6):712–723.
+https://doi.org/10.1016/j.econedurev.2007.10.006
+Ding W, Lehrer SF (2010) Estimating treatment effects from contaminated multiperiod education experi-
+ments: the dynamic impacts of class size reductions. Rev Econ Stat 92(1):31–42
+Dizon-Ross R (2019) Parents’ beliefs about their children’s academic ability: implications for educational
+investments. Am Econ Rev 109(8):2728–2765. https://doi.org/10.1257/aer.20171172
+Dohmen T, Falk A, Huffman D, Sunde U (2012) The intergenerational transmission of risk and trust attitudes.
+Rev Econ Stud 79:645–677. https://doi.org/10.1093/restud/rdr027
+Doss C, Fahle EM, Loeb S, York BN (2019) More than just a nudge: supporting kindergarten parents with
+differentiated and personalized text messages. J Hum Res 54(3):567–603. https://doi.org/10.3368/jhr.
+54.3.0317-8637R
+Dumont H, Trautwein U, Lüdtke O, Neumann M, Niggli A, Schnyder I (2012) Does parental homework
+involvement mediate the relationship between family background and educational outcomes? Contemp
+Educ Psychol 37:55–69. https://doi.org/10.1016/j.cedpsych.2011.09.004
+Fernandes D, Lynch JG, Netemeyer RG (2014) Financial literacy, financial education, and downstream
+financial behaviors financial literacy, financial education, and downstream financial behaviors. Manage
+Sci 60(8):1861–1883. https://doi.org/10.1287/mnsc.2013.1849
+123
+The effects of parental involvement in homework…
+Frisancho V (2020) The impact of financial education for youth. Econ Educ Rev. https://doi.org/10.1016/
+j.econedurev.2019.101918
+Fryer RG, Levitt SD, List JA (2015) Parental incentives and early childhood achievement: a field experiment
+in chicago heights. NBER working paper series 21477
+Haelermans C, Ghysels J (2016) The effect of parental involvement on the use of a digital homework tool
+and on math and language performance for secondary students–a randomized field experiment. TIER
+working paper series. 16/01
+Hanson TA, Olson PM (2018) Financial literacy and family communication patterns. J Behav Exp Financ
+19:64–71. https://doi.org/10.1016/j.jbef.2018.05.001
+Hanushek E (1986) The economics of schooling: producation and efficiency in public schools. J Econ Lit
+24(3):1141–1177
+Harackiewicz JM, Rozek CS, Hulleman CS, Hyde JS (2012) Helping parents to motivate adolescents in
+mathematics and science: an experimental test of a utility-value intervention. Psychol Sci 23(8):899–
+906. https://doi.org/10.1177/0956797611435530
+Heddy BC, Sinatra GM (2017) Transformative parents: facilitating transformative experiences and interest
+with a parent involvement intervention. Sci Educ 101(5):765–786. https://doi.org/10.1002/sce.21292
+Houtenville AJ, Conway KS (2008) Parental effort, school resources, and student achievement. J Hum Res
+43(2):437–453. https://doi.org/10.1353/jhr.2008.0027
+Islam A (2019) Parent-teacher meetings and student outcomes: evidence from a developing country. Eur
+Econ Rev 111:273–304. https://doi.org/10.1016/j.euroecorev.2018.09.008
+Iterbeke K, De Witte K, Declercq K, Schelfhout W (2020) The effect of ability matching and differentiated
+instruction in financial literacy education. Evidence from two randomised control trials. Econ Educ
+Rev. https://doi.org/10.1016/j.econedurev.2019.101949
+Iterbeke K, De Witte K, Schelfhout W (2020) The effects of computer-assisted adaptive instruction and
+elaborated feedback on learning outcomes. Randomized Control Trial. https://doi.org/10.1016/j.chb.
+2020.106666
+Jorgensen BL, Savla J (2010) Financial literacy of young adults: the importance of parental socialization.
+Fam Relat 59:465–478. https://doi.org/10.1111/j.1741-3729.2010.00616.x
+Kaiser T, Lusardi A, Menkhoff L, Urban CJ (2020) Financial education affects financial knowledge and
+downstream behaviors. NBER Working Paper Series. 27057
+Kaiser T, Menkhoff L (2017) Does financial education impact financial literacy and financial behavior, and
+if so, when? World Bank Econ Rev 31(3):611–630. https://doi.org/10.1093/wber/lhx018
+Kaiser T, Menkhoff L (2020) Financial education in schools: a meta-analysis of experimental studies. Econ
+Educ Rev. https://doi.org/10.1016/j.econedurev.2019.101930
+Kraft MA, Rogers T (2015) The underutilized potential of teacher-to-parent communication: evidence from
+a field experiment. Econ Educ Rev 47:49–63. https://doi.org/10.1016/j.econedurev.2015.04.001
+Lee S, Shaikh AM (2014) Multiple testing and heterogeneous treatment effects: re-evaluating the effect of
+progresa on school enrollment. J Appl Econ 29:612–626. https://doi.org/10.1002/jae.2327
+Lehrer SF, Pohl RV, Song K (2021) Multiple Testing and the Distributional Effects of Accountability
+Incentives in Education. https://rvpohl.github.io/workingpapers/LehrerPohlSong_Multiple
+List JA, Shaikh AM, Xu Y (2019) Multiple hypothesis testing in experimental economics. Exp Econ
+22(4):773–793. https://doi.org/10.1007/s10683-018-09597-5
+Lührmann M, Serra-Garcia M, Winter J (2018) The impact of financial education on adolescents’ intertem-
+poral choices. Am Econ J Econ Policy 10(3):309–332. https://doi.org/10.1257/pol.20170012
+Lusardi A, Mitchell OS (2011) Financial literacy around the world: an overview. Pension Econ Finance
+10(4):497–508. https://doi.org/10.1017/S1474747211000448
+Maldonado JE, De Witte K (2020) The impact of information provision to parents: experimental evidence
+on student outcomes. mimeo
+Mayer SE, Kalil A, Oreopoulos P, Gallegos S (2019) Using behavioral insights to increase parental engage-
+ment: the parents and children together intervention. J Hum Res. 54(4):900–925. https://doi.org/10.
+3368/jhr.54.4.0617.8835R
+McNeal RB (2001) Differential effects of parental involvement on cognitive and behavioral outcomes by
+socioeconomic status. J Socio-Econ 30:171–179
+Miller M, Reichelstein J, Salas C, Zia B (2015) Can you help someone become financially capable? a
+meta-analysis of the literature. World Bank Res Observer 30(2):220–46
+OECD (2015) OECD/INFE Core competencies framework on financial literacy for youth. Paris OECD
+123
+J. E. Maldonado et al.
+Sherraden MS, Johnson L, Guo B, Elliott W (2011) Financial capability in children: effects of participation
+in a school-based financial education and savings program. J Fam Econ Issues 32:385–399. https://
+doi.org/10.1007/s10834-010-9220-5
+Sylvia S, Luo R, Zhang L, Shi Y, Medina A, Rozelle S (2013) Do you get what you pay for with school-based
+health programs? Evidence from a child nutrition experiment in rural China. Econ Educ Rev 37:1–12.
+https://doi.org/10.1016/j.econedurev.2013.07.003
+Van Campenhout G (2015) Revaluing the role of parents as financial socialization agents in youth financial
+literacy programs. J Consum Aff 49(1):186–222. https://doi.org/10.1111/joca.12064
+Vanderhoven E, Schellens T, Valcke M, De Koning E (2014) Involving parents in school programs about
+safety on social network sites. Proc Soc Behav Sci 112:428–436
+Van Rooij MC, Lusardi A, Alessie RJM (2011) Financial literacy, retirement planning, and householdwealth.
+Econ J 122:449–478. https://doi.org/10.1111/j.1468-0297.2012.02501.x
+Walstad WB, Rebeck K (2017) The test of financial literacy: development and measurement characteristics.
+J Econ Educ 48(2):113–122. https://doi.org/10.1080/00220485.2017.1285739
+Webley P, Nyhus EK (2006) Parents’ influence on children’s future orientation and saving. J Econ Psychol
+27:140–164. https://doi.org/10.1016/j.joep.2005.06.016
+Wooldridge JM (2002) Inverse probability weighted M-estimators for sample selection, attrition, and strat-
+ification. Port Econ J 1:117–139
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional affiliations.
+123

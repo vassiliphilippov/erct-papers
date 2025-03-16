@@ -1,0 +1,1236 @@
+6493
+2017
+May 2017
+Leveraging Technology to
+Engage Parents at Scale:
+Evidence from a Randomized
+Controlled Trial
+Peter Bergman, Eric W. Chan
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Impressum:
+CESifo Working Papers
+ISSN 2364‐1428 (electronic version)
+Publisher and distributor: Munich Society for the Promotion of Economic Research ‐ CESifo
+GmbH
+The international platform of Ludwigs‐Maximilians University’s Center for Economic Studies
+and the ifo Institute
+Poschingerstr. 5, 81679 Munich, Germany
+Telephone +49 (0)89 2180‐2740, Telefax +49 (0)89 2180‐17845, email office@cesifo.de
+Editors: Clemens Fuest, Oliver Falck, Jasmin Gröschl
+www.cesifo‐group.org/wp
+An electronic version of the paper may be downloaded
+∙ from the SSRN website: www.SSRN.com
+∙ from the RePEc website: ∙ from the CESifo website: www.RePEc.org
+www.CESifo‐group.org/wp
+Electronic copy available at: https://ssrn.com/abstract=2989472
+CESifo Working Paper No. 6493
+Category 5: Economics of Education
+Leveraging Technology to Engage Parents at Scale:
+Evidence from a Randomized Controlled Trial
+Abstract
+While leveraging parents has the potential to increase student performance, programs that do so
+are often costly to implement or they target younger children. We partner text-messaging
+technology with school information systems to automate the gathering and provision of
+information to parents at scale. In a field experiment across 22 middle and high schools, we used
+this technology to send automated text-message alerts to parents about their child’s missed
+assignments, grades and class absences. We pre-specified five primary outcomes. The
+intervention reduces course failures by 38% and increases class attendance by 17%. Students are
+more likely to be retained in the district. The positive effects are particularly large for students
+with below-average GPA and students in high school. There are no effects on standardized test
+scores however. We randomly chose either the mother or the father to receive the alerts, but
+there were no differential effects across these subgroups. As in previous research, the
+intervention appears to change parents’ beliefs about their child’s performance and increases
+parent monitoring. Our results show that this type of automated technology can improve student
+effort relatively cheaply and at scale.
+JEL-Codes: I200, I210, I240, I280.
+Keywords: education, information, experiments.
+Peter Bergman
+Teachers College
+Columbia University
+525 W. 120th Street New York
+USA – New York, 10027
+bergman@tc.columbia.edu
+Eric W. Chan
+Teachers College
+Columbia University
+525 W. 120th Street New York
+USA – New York, 10027
+ewc2130@tc.columbia.edu
+March 2017, preliminary draft
+This research is funded by the Smith Richardson Foundation and the Teachers College Provost’s
+Investment fund and received approval from the Institutional Research Board at Teachers
+College, Columbia University. We thank Dr. Ron Duerring, Jon Duffy and Kanawha County
+Schools, as well as Spencer Kier, Alex Farivar, Jeremy Lupoli, Sam Elhag and Zach Posner.
+Bergman has previously received compensation from the learning management system company
+to design the technology tested in this study. Website: www.columbia.edu/~psb2101
+Electronic copy available at: https://ssrn.com/abstract=2989472
+I Introduction
+Families are both one of the greatest sources of inequality and a powerful determinant of
+academic achievement (cf. Heckman 2006; Cunha and Heckman 2007; Todd and Wolpin
+2007). While leveraging parents has the potential to increase achievement, most programs
+that do so focus on skills-based intervention that are costly to implement, have not been
+scaled, or focus on families with young children (Belfield et al., 2006; Olds, 2006; Heckman
+et al., 2010; Duncan and Magnuson, 2013; York and Loeb, 2014; Mayer et al., 2015). There
+is a dearth of interventions that can successfully improve education outcomes for children
+during middle and high school, especially ones that can be implemented and maintained at
+a low cost (Cullen et al., 2013).
+Though skill deficiencies matter, parents also face a range of information frictions that
+make it diﬃcult to foster their child’s human capital, including biased beliefs about their
+child’s eﬀort, ability and the education production function (Bonilla et al., 2005; Cunha
+et al., 2013; Bergman, 2014; Rogers and Feller, 2016; Dizon-Ross, 2016). Reducing these
+information problems can improve students academic performance during middle and high
+school, but the potential to do this cheaply and at scale has not been realized. For instance,
+Kraft and Dougherty (2013) conducted an experiment in a Boston charter school with 140
+students that shows personalized, daily phone calls home to parents from their child’s teach-
+ers improve assignment completion and student behaviors. Bergman (2014) randomized the
+provision of bimonthly text messages to parents of 279 students detailing their child’s miss-
+ing assignments and grades—sent by hand—increased student eﬀort and achievement. Kraft
+and Rogers (2014) show that personalized messages from teachers to the parents of 435 stu-
+dents helped retain students in a high school credit recovery program during the summer.
+In theory, placing student information online could help resolve these information issues,
+however Bergman (2016) finds that parent adoption and usage of this technology is low,
+especially in schools serving lower-income students, which could exacerbate socio-economic
+1
+Electronic copy available at: https://ssrn.com/abstract=2989472
+gaps in student achievement.
+In this paper, we use a field experiment in 22 middle and high schools to test whether
+an education technology platform can push information to parents at scale and improve
+outcomes at low cost. We partner with a Learning Management System company to develop
+and test a technology that synchronizes with districts’ Student Information Systems and
+teacher gradebooks to push information to parents about their child’s absences, missed
+assignments and low grades via text message. This medium has been tested in a number
+of education settings, often with positive results (Kraft and Rogers, 2014; Bergman, 2014;
+Castleman and Page, 2015, 2016; Page et al., 2016; Berlinski et al., 2016; Oreopoulos and
+Petronijevic, 2016; Castleman and Page, 2017). The intervention automates sending out
+three types of alerts. First, an absence alert was sent weekly detailing the number of classes
+a child missed by each course when available, rather than the number of full days a child
+was absent. Similarly, if a student missed any assignments, a weekly alert was sent stating
+the number of assignments missed in each class. Lastly, a low-grade alert was sent once per
+month if the child had a class grade average below 70% at the end of the month. Messages
+were randomly assigned to be delivered to either the mother or the father, when possible.
+We find that existing contact between schools and parents widely varies. Our surveys
+indicate that nearly 50% of parents were contacted less than one time in three months by
+the school about their child’s academic progress. Similar to previous research cited above,
+we find that parents tend to overestimate their child’s grades and underestimate their child’s
+missed assignments. The intervention increases the likelihood parents were contacted by
+schools at least once per month by 18 percentage points. In all, we sent 32,472 messages to
+treatment group families, or an average of 52 messages per treated family.
+As a result of this additional contact, we find substantial decreases in the number of
+courses students failed. On average students fail one course and the text-message inter-
+vention reduces this by nearly 40%. GPA improves by a 0.10 of a standard deviation.
+Treatment group students attend 17% more classes and district retention increases by 2 per-
+2
+Electronic copy available at: https://ssrn.com/abstract=2989472
+centage points. We do not find any improvements in standardized math and English test
+scores. However these exams were no stakes for students, who spent more than 100 minutes
+less time than expected to finish the exams. The district subsequently discontinued using
+these standardized tests and has proposed using the ACT instead.1 In contrast, we do find
+significant, positive eﬀect on in-class exam scores. Most of these positive impacts are driven
+by students with below average GPAs and high school students. We find no diﬀerential
+eﬀects of alerting mothers versus fathers.
+Most closely related to our paper is ongoing work by Berlinski et al. (2016), who are
+conducting an automated-texting intervention in 8 elementary schools Chile.2 They are
+sending information to parents about their child’s math test scores, grades and attendance.
+One diﬀerence between their intervention and the one studied in this paper is the information
+they provided to parents is about math-specific test scores and class behaviors. These data
+were gathered from schools and entered by their research team into a digital platform, which
+is used to send out the texts to parents. Our intervention automates this process by scraping
+data that is frequently entered into district student information systems, which includes
+grades, attendance and missed assignments, but not class behaviors or exam scores.
+The promise of automation is that, relative to other interventions, communicating with
+parents via automated text messages is extremely low cost. The marginal cost of each text
+message is a fraction of a cent. Despite sending more than 32,000 text messages, the total
+cost of all of these messages was approximately $63. The gradebook and personnel training
+cost an additional $7 dollars per student. With low overall and marginal costs in terms of
+time and eﬀort relative to other education interventions, automated messaging has a high
+potential to scale.
+The rest of the paper proceeds as follows. Section II describes the background and the
+1The West Virginia Schools superintendent’s commission expressed concerns that the exams are not “an accurate gauge of
+student achievement” and “doesn’t give much reason for students to take it seriously.” See the Charleston Gazette-Mail.
+2Castleman and Page (2017) also provide information to parents and students via text messages, though their focus is helping
+students during the college matriculation process. They conduct a multi-arm, randomized-controlled trial that sends automated
+text messages to parents and children designed to assist with the requisite tasks and to connect students with counselors. The
+authors find positive eﬀects on college enrollment but there are no additional benefits to texting parents in addition to students.
+Our study focuses on academics during middle and high school.
+3
+Electronic copy available at: https://ssrn.com/abstract=2989472
+experimental design. Section III describes the data collection process and outcome variables.
+Section IV presents the empirical specifications and discusses experimental validity. Section
+V shows our results and Section VI concludes.
+II Background and Experimental Design
+The experiment took place in 22 middle and high schools during the 2015-2016 school year
+in Kanawha County Schools (KCS), West Virginia. West Virginia ranks last in bachelor
+degree attainment and 49th in median household income among US states and the District
+of Columbia according to the 2015 American Community Survey one-year estimates.3 KCS
+is the largest school district in West Virginia with over 28,000 enrolled students as of 2016.
+The district’s four-year graduation rate is 71% and standardized test scores are similar to
+statewide proficiency rates in 2016. In the school year previous to the study, 2014-2015, 44%
+of students received proficient-or-better scores in reading and 29% received proficient-or-
+better scores in math. At the state level, 45% of students were proficient or better in reading
+and 27% were proficient in math. 83% of district students are identified as white and 12%
+are identified as Black. 79% of students receive free or reduced priced lunch compared to
+71% statewide.4
+The district has a gradebook system for teachers. Schools records by-class attendance
+and teachers mark missed assignments and grades using the same web-based platform. We
+worked with the Learning Management System (LMS) provider of this gradebook to design
+a tool to automatically draw data from this platform on students’ missed assignments for
+each class, their percent grade by class and their class-level absences from the gradebook.
+This information was coupled with parents’ contact information so that the system could
+pull the information on academic progress from the gradebook and push it out to families
+3American Community Survey one-year estimates and rankings by state can be found at
+https://www.census.gov/acs/www/data/data-tables-and-tools/ranking-tables/
+4These summary statistics come from the state education website, which can be found at
+https://zoomwv.k12.wv.us/Dashboard/portalHome.jsp
+4
+Electronic copy available at: https://ssrn.com/abstract=2989472
+using a text-messaging API developed by Twilio. These text messages form our parent-alert
+system. Each of the text messages is designed to be a consistent weekly or monthly update
+to the parents of students who had at least one absence or missing assignment during the
+week or who have a low course average over the course of a month.
+The gradebook application also has a “parent portal,” which is a website that parents can
+log into to view their child’s grades and missed assignments. All parents in the study could
+access the platform and any parent could turn on our alerts by logging into the platform and
+turning on the alert feature. Bergman (2016) finds that, in general, very few parents adopt
+the parent portal and we find this is true in KCS as well; roughly a third of parents had ever
+logged in to view their child’s grades. As we discuss further below, only 2% of parents in
+the control group received any alert.
+We test three types of parent alerts: Low-grade alerts, missed assignment alerts, and by-
+class attendance alerts. On Mondays parents received a text-message alert on the number of
+assignments their child was missing (if any) for each course during the past week. These as-
+signments included homework, classwork, projects, essays, missing exams, tests, and quizzes.
+On Wednesdays parents received an alert for any class their child had missed the previous
+week. Lastly, and normally on the last Friday of each month, parents received an alert if
+their child had a cumulative average below 70% in any course during the current marking
+period. Each alert was sent at 4:00 P.M. local time and the text of each alert is provided
+in Figure 1. The text messages also included a link to the website domain of the parent
+portal, where the parent could obtain specific information on class assignments and absences
+if necessary.
+Experimental Design
+The initial sample began with approximately 14,000 total students who were enrolled in
+grades five through eleven during the end of the 2014-2015 school year. Recruitment was at
+the household level, and, as a number of these students lived in the same households, the final
+5
+Electronic copy available at: https://ssrn.com/abstract=2989472
+sample frame was just under 11,000 households. During the summer of 2015, one consent
+letter was sent to each household in the sample frame, which was specifically addressed
+to one randomly selected parent or guardian when contact information was available for
+more than one parent in the data provided by the district. The letter contained the names
+of all students living in the same household who were expected to be in our grade-levels
+of interest.5 Trained interviewers followed up the letter with a phone call to each selected
+parent to confirm their participation and contact information, as required by our Institutional
+Review Board. We then asked their language preference and preferred modes of contact—
+text message or phone calls. As a result, the parent or guardian of 1,137 students consented
+to the study and provided their contact information for inclusion as a participant.6 Of these
+participants, 96% of the treatment and control groups preferred to receive text messages.
+Though it deviated from our original design, to simplify our intervention and to save on
+costs we chose to implement a text-only intervention and those who could only be contacted
+by phone did not receive the intervention even if they were randomized into treatment.7
+Random assignment was at the school-by-grade level to minimize the potential for spillovers
+into the control group. The data were initially collapsed at the grade-by-school level and
+randomization was subsequently stratified by indicators for below-median grade point aver-
+age (GPA) and grade level. If we had contact information available for both the mother and
+father of a child, or had multiple listed guardians, we randomized which parent or guardian
+received the text-message alerts. The selected parent was the same as the parent to whom
+the consent letter was addressed and the parent who trained personnel obtained consent
+from on the phone. All school employees were blinded to the randomization process.
+Parents in the control group received the default level of information that the schools and
+5Students were in grades 5-11 the previous year and were expected to be in grades 6-12 during the school year of the study.
+6Overwhelmingly the primary reason we could not consent families was simply because we could not reach them by phone
+within three attempts. This accounted for 88% of non-consents, while active declines accounted for the remainder. Consent into
+the study is not significantly correlated with the correlates of achievement or parental involvement: baseline GPA, absences,
+English Language Learner Status, IEP status, gender, an indicator for being suspended, or baseline parent logins. Consent is
+significantly and positively correlated with an indicator for the student being Black however (results available upon request).
+In a separate study, Bergman and Rogers (2017) examine how take up of this intervention is significantly determined by opt-in
+versus opt-out oﬀers to receive it. The latter results in 96% take up and eﬀects similar to those found in this paper.
+7No families are not dropped from the analysis however.
+6
+Electronic copy available at: https://ssrn.com/abstract=2989472
+teachers provided. This included report cards that are sent home after each marking period
+every six to nine weeks along with parent-teacher conferences and any phone calls home from
+teachers. As discussed above, all parents had access to the online gradebook.
+Figure 2 shows the timeline of the experiment and data collection. Baseline data were
+collected from June to July 2015. We obtained demographic and enrollment data for the
+2014-2015 school year from KCS along with contact and address information. Consent
+letters were sent out beginning August 2015 during the beginning of the school year. Calls
+requesting verbal consent were completed in September. Randomization into treatment and
+control was completed in early October 2015. For parents who were selected into treatment,
+introductory text messages were sent late that same month. Included in the texts was the
+option to stop at any point by replying “stop” or any equivalent variation.8 Over the course
+of the study, nine parents or guardians requested the messages stop.9 The intervention ran
+between the end of October 2015 through the end of May when the school year was expected
+to conclude. Oﬃcially, the academic school year ended in early June, but varied slightly
+based on weather-induced make-up days at each school. After the end of the school year we
+proceeded to collect endline survey data both by phone and by mail as described below.
+III Data Collection
+We gathered data from multiple sources: administrative data, gradebook data, survey data,
+and texting data. We collected initial baseline data from administrative records on student
+grades, courses, attendance, race and ethnicity, English language status, and contact infor-
+mation. We also obtained data from the gradebook application, which includes student’s
+grades, assignments and assignments scores, class-level attendance and parent logins into
+the parent portal. These baseline data were available for all students in our sample frame.
+During the intervention we obtained monitoring records on the text messages. We used these
+8We manually tracked replies to ensure the service was shut oﬀ when requested.
+9These parents were included as “treated” families in all analyses.
+7
+Electronic copy available at: https://ssrn.com/abstract=2989472
+data to track messaging stop rates, whether text messages were received by phone numbers,
+and the total number of text messages that went out weekly.
+After the school year concluded we surveyed parents. The surveys took place during
+between June and August 2016. Initially, households were sent a letter stating that they
+would be called for a survey. This letter included a $5 unconditional award as an appreciation
+for their participation in the study. Households were then called by a trained interviewer
+to conduct the survey. Around this time, West Virginian residents were aﬄicted by severe
+flooding during several torrential storms in June 2016. Sadly, thousands in Kanawha County
+and surrounding areas were aﬀected. During the summer, KCS had multiple schools declared
+as “total losses” by the Federal Emergency Management Agency because of the flooding. As
+a result, we decided to mail surveys home instead of proceeding with subsequent rounds of
+calling. We provided a reward of $30 for paper surveys returned postmarked by August 8th,
+2016. Our total response rate was 43%. A copy of our survey can be found in Appendix
+A.11. The goal of the endline surveys was to examine parent responses to the intervention not
+captured by administrative data. Parents were primarily asked about their communication
+habits with the school in recent months, their perception of the child’s academic achievement
+relative to peers, and their communication and motivational habits with their child.
+In the summer we obtained administrative data from the district and the gradebook
+application once again. These included standardized exam scores and suspension data,
+students’ final grades and assignment scores, daily class-level attendance, alerts received by
+treatment and control group, and parent and student logins into the parent portal.
+Outcome Measures
+Primary achievement-related outcomes are from both the gradebook application and the KCS
+administrative data. Included in the gradebook data are outcomes related to the number
+of missing assignments, assignment scores, and class grades. Administrative data contained
+statewide standardized test scores in math and English.
+8
+Electronic copy available at: https://ssrn.com/abstract=2989472
+The standardized test scores are from the Smarter Balanced assessment, which is aligned
+to the Common Core. We received scaled standardized test scores for Math and ELA for 2015
+and 2016 examinations. These were the first two years in which the assessment was given
+after the state switched from the previous standardized test in West Virginia, the Westest.
+Currently, students in grades 3-11 are required to take the Smarter Balanced assessment.
+We also obtained behavior-related outcomes from the gradebook application and KCS.
+These provided data on suspension rates, measured as the quantity of occurrences and the
+number of days suspended as well as attendance measures at the class-level attendance
+(present, absent, tardy). Following our analysis plan, we convert the latter into “number of
+days present” (days enrolled minus days absent) because retention eﬀects potentially cause
+an increase in absences while increasing the number of days enrolled. We code suspensions
+into an indicator for ever being suspended.
+Lastly, we use the gradebook data to examine the eﬀects on missed assignments, assign-
+ment scores, and class test scores. We identify tests and exams by the assignment titles
+containing the words “test” or “exam.” Assignment scores and test scores are standard-
+ized according to the classroom means and standard deviations for each assignment or test.
+We restrict the analyses to those scores three standard deviations or less away from the
+mean to remove outliers.10 We had not anticipated being able to obtain data for individual
+assignments and class tests, so these outcomes were not specified in our analysis plan.
+The survey of parents was designed to examine parent and student responses to the
+intervention not captured by administrative and gradebook data. Parents were asked about
+their communication with and from the school, their perceptions about how their child was
+performing academically, and household behavior such as talking with their child about
+their academic progress or taking privileges away as a result of their performance in school.
+We use a number of these survey measures, along with other gradebook and administrative
+measures, as secondary outcomes in this paper. Tables B.1 and B.2 summarize all the
+9
+10Analyses are robust to various other restrictions to handle outliers, such as excluding observations 4 or 5 standard deviations
+away from the mean, or removing all scores from a particular assignment or exam if even one score is an outlier.
+Electronic copy available at: https://ssrn.com/abstract=2989472
+secondary outcomes variables used in our analysis, their sources, and their construction.
+Table B.3 summarizes the hypothesized eﬀect on each outcome; we make do not specify
+these eﬀects for subgroups however.
+IV Empirical Strategy & Experimental Validity
+We estimate treatment-on-the-treated (TOT) eﬀects, as registered in our analysis plan, via
+two-stage least squares. In the first stage we instrument an indicator for parent i with a
+child in school j and grade k receiving at least one text message alert with the randomly
+assigned treatment indicator as follows11
+alertedijk= α0 + α1Treatmenti + X′
+i α2 + ηijk
+Standard errors are clustered at the level of random assignment, which is the grade level
+in a given school. Xi is a set of pre-specified, individual-level covariates, which are fraction
+of days absent in the previous year, baseline GPA, an indicator for a student identified as
+Black, an indicator for English-Language Learner status, an indicator for having ever been
+suspended in the previous year, an indicator for gender, and an indicator for having special
+needs. When the outcome in the second stage is test scores, the baseline test score is included
+as well, if available. All regressions include strata indicators as controls.
+The second stage then regresses an outcome on the instrumented alertedijk variable. All
+controls are the same across the first and second stage estimating equations. There are 76
+clusters, and standard errors are always clustered at the level of treatment assignment as
+described above.
+When looking at assignments and class test scores, there are multiple observations—
+roughly 104,000 assignments and 7,800 tests across the entire sample and all courses—post
+treatment. This means there are multiple observations per student. The baseline control
+11The dependent variable in the first stage is an indicator for ever being alerted post-treatment and not the number of alerts
+a family receives. Using the latter slightly increases precision but is less intuitive to interpret.
+10
+Electronic copy available at: https://ssrn.com/abstract=2989472
+variables remain the same as above when we analyze these outcomes.
+We analyze subgroups by restricting the sample to each subgroup and studying outcomes
+in the same way as described above. We specified several subgroups of interest: students with
+below-median GPA, students with male versus female parents or guardians, and students in
+middle versus high school.
+Finally, we hypothesize the intervention will have positive average treatment eﬀects (ATE)
+for our primary outcomes. For each of these outcome measures, all tests are one-sided tests
+for improvements in outcomes, though the positive, significant results we find on primary
+outcomes and class test scores would pass a two-sided tests at the 5% level as well. Since
+we do not always have a strong hypothesis about the direction of any potential eﬀect for
+our secondary outcomes, we use two-sided tests accordingly. This was all stated in our
+pre-analysis plan. Appendix B.3 lists out our secondary outcomes and hypothesized eﬀects.
+Baseline Treatment-Control Balance
+Table 1 presents baseline summary statistics for the control group, the diﬀerence in means
+from the treatment group and the p-value showing the statistical significance of these diﬀer-
+ences. Demographically, the sample is 49% female, 16% black, and the majority of students
+live in two-parent households. On average, students’ baseline GPA is 2.8, they have missed
+6% of school days, and 20% have been suspended in the last year. As in Bergman (2016),
+many more students have logged into the online gradebook portal than parents. Finally,
+randomization appears to have created a treatment and control group that are similar in
+terms of observable variables; no treatment-controls diﬀerences are statistically significant
+at the 10% level. We also regress baseline covariates on our treatment indicator and conduct
+an F-test for whether these baseline covariates are jointly equal to zero. The test cannot
+reject that the coeﬃcients on these covariates are jointly equal to zero (p-value equals 0.61).
+11
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Attrition and Non Response
+There are several sources of attrition and non response in this study: missing academic
+outcomes, missing behavior outcomes, and survey non response. A particular concern is
+whether there is diﬀerential attrition by treatment status, which would invalidate our ability
+to make causal inferences from the data.
+Table A.1 shows the eﬀect of treatment status on several measures of attrition as well
+as other correlates of attrition. The first column shows there is no treatment eﬀect on the
+likelihood a parent responds to the survey; the point estimate is both small and statistically
+insignificant. Academic and demographic characteristics are generally poor predictors of
+survey response as well, with the exception of “percent of days missed” the previous academic
+year, which is significant at the 5% level. This is encouraging because it provides some
+suggestive evidence that our survey sample may be representative of many families in the
+study.
+This pattern generally remains true across the remaining indicators of missing data: school
+suspensions, math scores and reading scores. There are no treatment eﬀects on any of these
+indicators. Only the percent of days missed the previous year is a strong predictor of missing
+math and reading score, which is not surprising that attendance the previous year predicts
+having measures in the current year. There are no significant predictors of missing suspension
+data. Overall, there is no evidence of diﬀerential attrition or non-response by treatment
+status. Additionally, attrition from course taking and transcript grades will be an outcome
+of retention analyzed below. We define retention in the district as a student taking at least
+one course post intervention.
+12
+Electronic copy available at: https://ssrn.com/abstract=2989472
+V Results
+Descriptive Results
+We begin by describing current communications between parents, children and schools as well
+as parents beliefs about their child’s performance and their correlates. Figure 3 shows the
+frequency of contact parents’ receive from their child’s school about their academic progress,
+as measured by the control group’s response to our survey. Nearly 50% of parents hear from
+the school less than once every three months. On the other hand, 25% of parents hear from
+their child’s school twice per month, which shows the variation in families who are contacted
+frequently and those who are not. Table A.2 examines the correlates of infrequent contact
+in column one. Surprisingly little predicts this infrequency; neither GPA nor behaviors nor
+demographics significantly correlate with an indicator for hearing from the school less than
+once every three months. This question does not, however, assess whether parents find this
+communication useful.12
+Figure 4 shows how often parents talk with their child about their progress in school.
+55% of parents report talking with their child every day about their schoolwork. Roughly
+75% of parents talk with their child 2-3 times per week or more. At face value, it appears
+their child’s schoolwork is at the top of parents’ mind. One caveat is that this communica-
+tion is self-reported, which may be subject to social-desirability bias. Parent conversations
+about schoolwork is also demonstrated in Figure 5, which shows how often parents talk to
+another adult in the household about their child’s school work. For this behavior, no parent
+reports doing so every day, but 40% of respondents say they talk with another adult 2-3
+times per week about their child’s schoolwork or grades. Column two of Table A.2 shows
+that, unsurprisingly, two-parent households are much more likely to have intra-household
+communication about their child. Little else seems to correlate with this behavior however.
+Figure 6 and Figure 7 present control group parents’ beliefs about their child’s academic
+12Not shown here, we find that 40% of parents disagree with the statement that their child’s school makes it easy to help
+them do well in school.
+13
+Electronic copy available at: https://ssrn.com/abstract=2989472
+performance in terms of assignment completion and math grades, respectively. Figure 6
+shows the number of assignments parents believe their child has missed in the past semester.
+More than 50% of parents believe their child has not missed any assignments. According to
+administrative data, only 20% of respondents’ children have missed no assignments. How-
+ever parents have much more accurate perceptions about their child’s math grades: 60%
+accurately state their child’s grade in math and around 25% overstate their child’s grade in
+math. Many fewer underestimate it. Table A.2 shows that inaccurate beliefs strongly and
+negatively correlate with their child’s GPA.
+Table A.2 shows a measure of the quality of communication between parents and their
+children: an indicator for whether parents believe it is diﬃcult to be involved in their child’s
+education because their child does not tell them enough about their academic progress. 48%
+of parents believe their child does not disclose enough information about their academic
+progress to be easily involved in their education. This indicator negatively correlates with
+student’s GPA and whether or not they are in high school. Parents with older or lower
+performing children are more likely to perceive that their child is not telling them enough
+about their schoolwork. In results not shown, parents who report that their children do not
+disclose enough also report receiving significantly fewer report cards from their child’s school
+as well.
+Overall, these descriptives highlight how the information flow between parents and their
+children may be particularly impeded when the child is performing poorly in school. While
+many parents frequently talk with their child and another adult in the household about their
+academic progress, nearly one-half of parents believe it would be easier to be involved in their
+child’s education if their child told them more about their schoolwork. The latter correlates
+strongly with students’ grades and the receipt of report cards. In terms of parents’ beliefs,
+parents tend to have more accurate beliefs about student output—their grades—which is in
+line with what is provided on report cards. However, parents have much less accurate beliefs
+regarding a primary input to their child’s grades, assignment completion. A key question
+14
+Electronic copy available at: https://ssrn.com/abstract=2989472
+is whether the automated-texting intervention studied here can increase parents access to
+timely, actionable information and improve academic outcomes at scale. The next section
+examines the eﬀect of the treatment on school-to-parent communication.
+A School-Parent Contact
+Table 2 shows the eﬀect of treatment status on alert receipt. The first column shows an
+increase in the share of parents who received at least one alert as a result of the treatment.
+Parents in the treatment group were 71 percentage points more likely to receive an alert than
+the control group. Not every family had a cell phone to receive text messages, so compliance
+is imperfect. As discussed above, all parents in the study could access the platform and
+any parent could turn on our alerts by logging into the platform and turning on the alert
+feature. However Table 2 shows that only two percent of the control group received any
+alert. The second column shows the additional number of alerts that the treatment group
+received over the course of the school year relative to the control group. Treatment group
+families received nearly 50 text-message alerts, on average. The remaining columns break
+the alerts down by the number of each type parents received. Most messages were absence
+and assignment alerts because these were sent out weekly; families received 21 of each of
+these alerts, on average. Low-grade alerts went out monthly and so families received about
+6 low-grade alerts, on average.
+We use survey data to examine whether parents also report receiving more contact from
+the school about their child’s academic progress. Note that this includes any form of contact
+including phone call, letter, email or text message. Parents could respond: “about twice a
+month,” “about once a month,” “once every two or three months,” and “less than once every
+three months.” We specified that we would code this into an indicator for being contact-
+ing once per month or more, but we show mutually exclusive indicators for every possible
+response for completeness.
+Table 3 shows the eﬀects of treatment assignment on these parent-reported measures of
+15
+Electronic copy available at: https://ssrn.com/abstract=2989472
+contact form the school. Aside from this first column outcome, the remaining columns show
+eﬀects on mutually-exclusive indicators of contact from the school. The control group means
+at the bottom of the table indicate that 45% of parents hear from their school less than three
+times per month about their child’s progress. Column one looks at the indicator for whether
+parents are contacted at least once per month. 38% of the control group is contacted at least
+once per month, and the treatment increases this by 19 percentage points. The remaining
+columns show that much of the increase in contact comes from the likelihood parents are
+contacted once per month (column three) and there is a 12 percentage point reduction in
+the likelihood that a parent reports being contact less than once every three months.
+B Primary Academic Outcomes
+In our analysis plan we specified five primary outcomes guided by the nature of the treatment,
+which targeted attendance, low grades and missed assignments. These outcomes are the
+number of classes students failed, the number of classes attended, retention in the district,
+and math and reading standardized test scores.
+Table 4 presents the eﬀects on these outcomes. Column one shows that students, on
+average, fail one course. Receiving text message alerts reduced this by 39% or 0.38 points.
+The outcome in column two is class attendance. The eﬀect of receiving text message alerts is
+again large and significant: students attend roughly 50 more classes than the control group,
+which is an 18% increase over the control-group mean. Column three examines retention.
+3% of students in the control group did not take at least one course in the district in the
+second semester, as opposed to 1% of students whose parents received alerts.
+The eﬀects on test scores are small and statistically insignificant. There are several
+possible reasons for this given the results discussed above. A key concern is that the exams
+are low stakes for students; they have no implications for their grades or their likelihood
+of graduating. This issue is evident to district oﬃcials, who have expressed concern that
+students are spending less time on the exam than is expected. Smarter Balance, the test
+16
+Electronic copy available at: https://ssrn.com/abstract=2989472
+provider, estimated that 9th, 10th, and 11th-grade students need approximately 210 minutes
+to complete the exams at each grade level. However 9th graders spent 80 minutes to complete
+the exam, 10th graders spent 67 minutes, and 11th graders spent 78 minutes to complete the
+exam, on average.13 The County has decided to discontinue using the test in future years.
+Second, the intervention may result in additional student eﬀort for educational inputs
+that improve course grades but not standardized test scores. The outcomes discussed above
+show improvements in students’ coursework and attendance. However, the curricular ma-
+terial covered during this additional course time may not necessarily reflect the material
+covered in the exams, especially as the exams were only recently implemented in 2015. The
+superintendent stated they are “working on standards-based teaching making sure all the
+standards are covered.”14 Moreover, because the exams had only recently been introduced,
+no school-based accountability measures associated with the exams had been released. These
+reasons may attenuate the potential to impact test scores.
+C Secondary Academic Outcomes and Behaviors
+Table 5 presents the eﬀects on students’ marking period course grades in more detail. Column
+one shows the eﬀects on the number of failed courses, as before, but columns two through
+five show the eﬀects on the number of D’s, C’s, B’s and A’s students received as well. The
+intervention appears to shift students failing grades to C grades. Column one shows the large
+and significant negative eﬀect in the number of F’s students receive presented above. Column
+three shows a large and significant positive eﬀect—a 0.3 point increase—in the number of C’s
+students receive. The coeﬃcients on the number of B’s and A’s are negative and positive,
+respectively, but neither estimate is statistically significant. Overall, the evidence suggests
+that the treatment caused students to receive fewer F’s and more C’s. This makes sense
+given the nature of the intervention, one facet of which is to alert parents when their child
+is getting a low grade. This is also consistent with the positive impacts on below-average
+13This made the local newspaper: Charleston Gazette-Mail.
+14This quote is from the Charleston Gazette-Mail.
+17
+Electronic copy available at: https://ssrn.com/abstract=2989472
+GPA students, which we discuss when we present results on heterogeneous eﬀects.
+In Table 6 presents an exploratory, closer look at assignment scores, missed assignments
+and class test scores. Column one shows that assignment scores improved by 0.09 standard
+deviations over the control group. On average, the control group does not submit 9% of
+their assignments, which includes both classwork and homework. There is a negative but
+statistically insignificant reduction in the number of assignments completed. Not shown,
+all students (both treatment and control) are much less likely to miss class tests—67% less
+likely—than any other type of assignment.
+In contrast to the state-provided standardized test scores, scores on class tests increased by
+0.13 standard deviations. One important diﬀerence between class tests and the standardized
+tests, among several, is that these scores count for students’ grades and will contribute to the
+likelihood of a students’ parent being alerted or not. The latter may provide added incentive
+for students to do well on these tests as a result of the alerts. Comparing column one to
+column three, the treatment eﬀects are suggestively larger for tests than assignments overall,
+which are worth more points than other assignments, but this diﬀerence is not statistically
+significant. Lastly, Table A.3 shows that all of these results are robust to other treatments
+of outlier observations.
+Table 7 provides the treatment eﬀects on GPA, suspensions, and student logins. We find
+a positive eﬀect on GPA of 0.10 points, which is significant at the 10% level. The impact
+on suspensions is small and insignificant. Student log ins increase but not significantly
+so. Shown below, the eﬀect on GPA is particularly strong for students in high school and
+students with below-average GPAs at baseline. Overall, the improved assignment scores and
+net positive impact on GPA overall is encouraging. It is possible for students to have held
+their eﬀort constant and then reallocated it toward their failing courses. The latter would
+not necessarily be negative given that it would result in increased credit completion, but the
+eﬀects on attendance, assignment scores, and GPA provide evidence of overall net increase
+in student eﬀort.
+18
+Electronic copy available at: https://ssrn.com/abstract=2989472
+D Parent Beliefs and Behaviors
+We show the eﬀects on parents’ beliefs about the number of assignments their child has missed
+in Table 8, similar to Bergman (2014). We asked parents whether they thought their child
+missed no assignments, 1-5 assignments, 6-10 assignments, or more than 10 assignments.15
+Column one shows that 53% of parents in the control group believed their child missed zero
+assignments in the last semester. The treatment reduces this belief by 15 percentage points.
+We can see from the remaining columns that the treatment resorts this change away from
+no missed assignments across the remaining categories. There a statistically significant, 9
+percentage point increase, in the likelihood parents respond that their child has missed 6-10
+assignments. Only 6% of the control group believes their child missed 6-10 assignments.
+Figure A.8 compares these beliefs about missed assignments to the number of missed
+assignments documented in the administrative data. This figure, which depicts the abso-
+lute categorical diﬀerences in parental beliefs of missed assignments minus actual missed
+assignments, makes it apparent that there is no treatment eﬀect on the accuracy of parents’
+beliefs about their assignment completion. Figure A.9 shows a similar representation of
+parents’ beliefs about their child’s math grades relative to the truth. Here, there is a more
+visible improvement in parents’ accuracy: the share of parents accurately reporting their
+child’s grade increases by 9 percentage points and the magnitude of their errors tends to be
+smaller as well. We show this diﬀerence in a regression, discussed below, but a test of these
+distributions finds they are significantly diﬀerent at the 5% level as well.16
+Table 9 shows several behavioral responses to the treatment by parents. Column one in
+Panel A shows that, as found in Bergman (2014), parents are much more likely to contact
+the school as a result of the intervention. The share of families who contacted the school
+more than once over the course of the semester increased by 17 percentage points.
+While the treatment eﬀects on parent logins to view their child’s grades and taking privi-
+15We found this phrasing reduces the potential for outlier responses.
+16We use Fisher’s exact test to compare the distributions (p-value is 0.048).
+19
+Electronic copy available at: https://ssrn.com/abstract=2989472
+leges are positive, neither is statistically significant, though the latter is close to conventional
+levels of marginal significance (p-values are 0.27 and 0.14, respectively). The question is
+worded slightly diﬀerently, but Bergman (2014) found parents were significantly more likely
+to take away privileges from their children.17
+As reported above, column two of Panel B shows parents become significantly more
+accurate about their child’s grade in math class. Lastly, the third column of Panel B asks
+parents if they would like to continue the text message intervention. A high share—94%—of
+the control group would like to receive the intervention. The latter is not surprising, but
+what is encouraging is that the treatment causes a significant increase in parents’ demand
+for the text messages of four percentage points.
+Heterogeneity in Eﬀects
+Given that the intervention targeted those with low grades and attendance, we are particu-
+larly interested in the subgroup of students who began the study with below-average GPAs.
+We also see that biased beliefs about students’ grades and poor parent-child communica-
+tion positively correlate with students in high school and students with low GPAs (Table
+A.2). We pre-specified students with below-average grades (by grade level), students whose
+father received the messages versus those whose mother received the messages, and students
+in middle school compared to students in high school. Tables A.4-A.6 present analyses for
+these groups.
+Table A.4 shows that students with below-average GPA failed 0.9 fewer classes, attended
+64 more classes, and saw retention rates improve by five percentage points; all of these eﬀects
+are significant at the 1% level. The bottom of the table shows the p-value for whether the
+eﬀect for students with lower baseline GPAs is significantly diﬀerent from those with higher
+baseline GPAs. The eﬀects are significantly larger for all of the outcomes just listed except
+classes attended.
+17The question posed to parents in this study asks parents whether they took any privileges away as opposed to how often
+they took privileges away.
+20
+Electronic copy available at: https://ssrn.com/abstract=2989472
+As before there are no eﬀects on exam scores, but students’ GPA increases by 0.26 points,
+which is also significant at the 1% level and significantly diﬀerent from the eﬀect on students
+with higher baseline GPAs. These large, positive impacts on students with below-average
+GPA are important as it shows that informed parents can play an important role in increasing
+student achievement for those struggling more in school. As suggested above, these results
+are also consistent with our survey results showing the negative correlation between parents
+who believe that their child does not disclose their academic progress suﬃciently to help
+them and GPA. Furthermore, for this subgroup of students, the treatment eﬀect of message
+receipt on parents’ desire to continue the intervention is 11 percentage points and significant
+at the 1% level (results not shown). This eﬀect on the desire to continue is significantly
+diﬀerent from the eﬀect on parents of children with above-average GPA, who express no
+greater desire to continue the intervention than the control group (however the mean for the
+latter is already above 90%). All of this suggests larger benefits for those with lower GPAs.
+Table A.5 high school students were also more positively impacted than the average stu-
+dent. These students failed 0.7 fewer classes, attended 43 more classes, and were 4 percentage
+points more likely to remain in the district. Moreover, these eﬀects are substantially diﬀerent
+from the eﬀects on middle school students, shown in Panel C. The eﬀects for the latter group
+are nearly all smaller and statistically insignificant, with the exception attendance.
+Table A.6 shows the eﬀects for targeting information to mothers and the fathers. While
+there are slight diﬀerences in eﬀects by gender of the treated parent, coeﬃcients are similar
+in sign and there is no clear pattern. Targeted fathers saw their children experience slightly
+better results in terms of classes failed and classes attended. In this context, we find no clear
+evidence that targeting one parent versus another yields diﬀerent results.
+Given the lack of eﬀect on standardized test scores, a question is whether there were eﬀects
+on test score for any subgroup. We conducted exploratory analyses to answer this question.
+In results not shown, we find that parents who had never logged into the gradebook system
+to view their child’s grades show positive eﬀects on math scores and larger eﬀects in other
+21
+Electronic copy available at: https://ssrn.com/abstract=2989472
+domains. However we checked for these larger eﬀects in a diﬀerent study on the adoption
+of texting technology, and there were no diﬀerential eﬀects according to this subgroup in
+that study. Parents with less than a college education also experience positive eﬀects on
+their child’s test scores, but this is a small subgroup as the measure of parents’ education
+is based on surveys. To corroborate this finding and expand the sample beyond the survey
+respondents, we linked families to census-tract level data on college attainment and household
+income levels. Families living in tracts with below-median income or below-median college
+attainment relative to the rest of the sample experience larger eﬀects, similar to the eﬀects
+found for high school students, but not in terms of test scores. These results should be
+viewed with caution as they are exploratory; we note them here if they prove useful in
+defining subgroups worthy of study in future research.
+VI Conclusion, Scalability and External Validity
+Recent research has demonstrated that providing information to parents can produce sig-
+nificant gains in student achievement at potentially low cost. To date, the ability to scale
+these interventions for parents of older children has not yet been realized. We helped design
+and implement an automated-text messaging program to test the ability to engage parents
+at scale.
+In this paper, our survey results demonstrate a need for improved parent-school commu-
+nications. Parents also have inaccurate knowledge of their children’s academics, particularly
+for those with below-average GPA students. Our intervention, which sends automated weekly
+and monthly text messages in the event that their child misses a class or assignment, or has
+a low course average, aims to improve student achievement and attendance. Overall, we
+find significant eﬀects on academic performance such as grades and attendance, though not
+for test scores. These eﬀects are particularly encouraging for lower-performing students and
+students in high school. Notably, the eﬀects are small for middle school students. As in
+22
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Bergman (2014), low-achieving students may be increasing eﬀort levels inside the classroom,
+thereby improving their grades. Concurrently, parents show evidence of more accurate be-
+liefs about their child’s performance, though not about their child’s missed assignments. We
+find that parents increase their contact with their child’s school as well.
+Moreover the intervention is cheap relative to other education interventions aimed at
+student achievement. The marginal cost of each text message is less a fraction of one cent.
+Though in principal many learning management systems could be used to send information
+to parents, if a school were to adopt the entire system in this study and training for how to
+use it, the cost would be $7 per student.
+Given the low cost and policy relevance, an important question is whether this intervention
+works in other contexts and would be adopted by parents in practice. This paper does not
+specifically study the adoption of the intervention by parents. However, Bergman and Rogers
+(2017) conduct an experiment in Washington D.C. to examine how varying district opt-in
+policies can drastically aﬀect take up and, in turn, the eﬃcacy of this particular intervention.
+They find that, when schools opt in parents by default, fewer than 5% of parents choose to
+subsequently opt out at any point during the school year. When parents have to opt in, even
+when this opt in is simplified, adoption rates are significantly lower. For the opt-out group,
+Bergman and Rogers find significant reductions in courses failed and GPA, especially for
+high school students. In our study, parents must initially consent to receiving these texts.
+Out of the parents who received at least one alert, less than 2% subsequently opt out over
+the course of the treatment period.
+There other open questions as well. For instance, in this context, we do not know the
+optimal frequency, timing, and content of the information to send to parents. The messages
+we send are simple and focus on “negative” information about their child’s performance. We
+do not facilitate parents’ ability to transform the information into specific actions that benefit
+their child. Further, more research is needed determine the eﬀectiveness of various modes of
+contact. In our study, we target messages to low-performing students and we do not know
+23
+Electronic copy available at: https://ssrn.com/abstract=2989472
+if tailored alerts reach higher-performing students along other academic margins. In future
+work, we could envision tailoring information for students at varying levels of performance
+to increase achievement for a wider range of students.
+24
+Electronic copy available at: https://ssrn.com/abstract=2989472
+References
+Belfield, Clive R, Milagros Nores, Steve Barnett, and Lawrence Schweinhart,
+“The High/Scope Perry Preschool Program cost–benefit analysis using data from the age-
+40 followup,” Journal of Human resources, 2006, 41 (1), 162–190.
+Bergman, Peter, “Parent-Child Information Frictions and Human Capital Investment:
+Evidence from a Field Experiment,” Columbia University Teachers College Working Paper,
+2014.
+, “Technology Adoption in Education: Usage, Spillovers and Student Achievement,”
+Columbia University Teachers College Working Paper, 2016.
+Berlinski, Samuel, Matias Busso, Taryn Dinkelman, and Claudia Martinez, “Re-
+ducing parent-school information gaps and improving education outcomes: Evidence from
+high frequency text messaging in Chile,” Unpublished Manuscript, 2016.
+Bonilla, Sheila, Sarah Kehl, Kenny YC Kwong, Tricia Morphew, Rital Kachru,
+and Craig A Jones, “School absenteeism in children with asthma in a Los Angeles inner
+city school,” The Journal of pediatrics, 2005, 147 (6), 802–806.
+Castleman, Benjamin L and Lindsay C Page, “Summer nudging: Can personalized
+text messages and peer mentor outreach increase college going among low-income high
+school graduates?,” Journal of Economic Behavior & Organization, 2015, 115, 144–160.
+and , “Freshman Year Financial Aid Nudges.,” Journal of Human Resources, 2016, 51
+(2).
+Castleman, Benjamin L. and Lindsay C. Page, “Parental Influences on Postsecondary
+Decision Making,” Educational Evaluation and Policy Analysis, 2017, 20 (10), 1–17.
+25
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Cullen, Julie Berry, Steven D Levitt, Erin Robertson, and Sally Sadoﬀ, “What Can
+Be Done To Improve Struggling High Schools?,” The Journal of Economic Perspectives,
+2013, 27 (2), 133–152.
+Cunha, Flavio and James Heckman, “The Technology of Skill Formation,” American
+Economic Review, 2007, 97 (2), 31–47.
+Cunha, Fl´avio, Irma Elo, and Jennifer Culhane, “Eliciting maternal expectations
+about the technology of cognitive skill formation,” Technical Report, National Bureau of
+Economic Research 2013.
+Dizon-Ross, Rebecca, “Parents perceptions and childrens education: Experimental evi-
+dence from Malawi,” Unpublished Manuscript. University of Chicago., 2016.
+Duncan, Greg J. and Katherine Magnuson, “Investing in Preschool Programs,” The
+Journal of Economic Perspectives, 2013, 27 (2), 109–132.
+Heckman, James J, “Skill formation and the economics of investing in disadvantaged
+children,” Science, 2006, 312 (5782), 1900–1902.
+, Seong Hyeok Moon, Rodrigo Pinto, Peter A Savelyev, and Adam Yavitz, “The
+rate of return to the HighScope Perry Preschool Program,” Journal of public Economics,
+2010, 94 (1), 114–128.
+Kraft, Matthew A and Shaun M Dougherty, “The eﬀect of teacher–family communi-
+cation on student engagement: Evidence from a randomized field experiment,” Journal of
+Research on Educational Eﬀectiveness, 2013, 6 (3), 199–222.
+Kraft, Matthew and Todd Rogers, “The Underutilized Potential of Teacher-to-Parent
+Communication: Evidence from a Field Experiment,” 2014.
+26
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Mayer, Susan E, Ariel Kalil, Philip Oreopoulos, and Sebastian Gallegos, “Using
+behavioral insights to increase parental engagement: The parents and children together
+(PACT) intervention,” Technical Report, National Bureau of Economic Research 2015.
+Olds, David L, “The nurse–family partnership: An evidence-based preventive interven-
+tion,” Infant Mental Health Journal, 2006, 27 (1), 5–25.
+Oreopoulos, Philip and Uros Petronijevic, “Student Coaching: How Far Can Technol-
+ogy Go?,” Technical Report, National Bureau of Economic Research 2016.
+Page, Lindsay C, Benjamin Castleman, and Katharine Meyer, “Customized Nudg-
+ing to Improve FAFSA Completion and Income Verification,” 2016.
+Rogers, Todd and Avi Feller, “Reducing student absences at scale,” Unpublished paper,
+2016.
+Todd, Petra E and Kenneth I Wolpin, “The production of cognitive achievement in
+children: Home, school, and racial test score gaps,” Journal of Human capital, 2007, 1 (1),
+91–136.
+York, Benjamin N and Susanna Loeb, “One step at a time: the eﬀects of an early
+literacy text messaging program for parents of preschoolers,” Technical Report, National
+Bureau of Economic Research 2014.
+27
+Electronic copy available at: https://ssrn.com/abstract=2989472
+VII Figures
+Figure 1: Alert Scripts
+Alert Frequency Message
+Low Class Average Alert monthly Absence Alert weekly Missing Assignment Alert weekly “Parent Alert: [Student Name] has a [X]% average
+in [Class Name]. For more information, log in to
+[domain]”
+“Parent Alert: [Student Name] has [X] absence(s)
+in [Class Name]. For more information, log in to
+[domain]”
+“Parent Alert: [Student Name] has [X] missing as-
+signment(s) in [Class Name]. For more information,
+log in to [domain]”
+This figure shows the script for each of the three types of alerts sent via text messages: low class average, absence, and missing
+assignments.
+28
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Figure 2: Timeline
+This figure shows the timeline of the project, which began during the summer of 2015 and lasted through the summer of 2016,
+when data collection ended.
+29
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Figure 3: School-to-Parent Contact - Control Group
+This figure shows the frequency of school to parent contact regarding student academic progress for the control group.
+Results are from endline parent survey.
+30
+Electronic copy available at: https://ssrn.com/abstract=2989472
+endline parent survey.
+Figure 4: How often Parent talks to Child about Schoolwork - Control Group
+This figure shows the frequency of parents talking to their child about schoolwork for the control group. Results are from
+31
+Electronic copy available at: https://ssrn.com/abstract=2989472
+from endline parent survey.
+Figure 5: How often Parent talks to another Adult about Schoolwork - Control Group
+This figure shows the frequency of parents talking to another adult about schoolwork for the control group. Results are
+32
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Figure 6: Parent Beliefs about Missed Assignments
+This figure shows the fraction of parents in the control group who believe their child missed zero, between one to five,
+between six and ten, or more than ten assignments in the last semester. Results are from endline parent survey.
+33
+Electronic copy available at: https://ssrn.com/abstract=2989472
+This figure shows the inaccuracy of parental beliefs of math grade against actual grade. Calculations are made by
+subtracting actual math grade from parent’s guess of student’s math grade. Results to the right of zero shows the fraction
+of parents who overestimate a student’s grade, and those to the left shows the fractions of parent who underestimate a
+student’s grade. Results are calculated from endline parent survey and gradebook data.
+Figure 7: Parent Beliefs about Math Grade minus the True Grade - Control Group
+34
+Electronic copy available at: https://ssrn.com/abstract=2989472
+VIII Tables
+Table 1: Summary Statistics and Treatment-Control Group Balance
+Variable Control Mean Treatment-Control Diﬀerence P-Value Observations
+Female 0.49 -0.01 0.69 1137
+Black 0.16 0.04 0.37 1137
+ELL 0.02 0.00 0.77 1137
+IEP 0.13 0.01 0.74 1137
+Baseline Math 0.00 0.05 0.54 1137
+Baseline Reading 0.00 0.01 0.84 1137
+Suspended Last Year 0.20 0.01 0.66 1137
+Baseline Parent Logins 15.26 -0.67 0.83 1137
+Baseline Student Logins 93.54 -4.01 0.49 1137
+Baseline GPA 2.82 0.01 0.78 1137
+Percent of Days Missed 0.06 0.01 0.16 1137
+Parents in the Household 1.77 -0.03 0.37 1137
+This table shows the balance on covariates between randomized treatment and control groups. P-values are for tests of equality
+of means across the treatment and control group via a regression of the baseline covariate on an indicator for treatment status.
+Standard errors clustered by student. All regressions include strata indicators.
+Table 2: Administrative Data on Alerts
+Alerted Alerts Assignment Absence Low Grade
+Treated 0.71*** 48.92*** 21.61*** 20.81*** 6.46***
+(0.02) (3.11) (1.19) (2.04) (0.40 )
+Control Mean 0.02 0.37 0.06 0.01 0.06
+Observations 1,137 1,137 1,137 1,137 1,137
+This table shows the likelihood and amount of times parents are alerted due to being randomized
+into treatment. While control parents can, in theory, go onto the parent-portal website and turn
+on the alerts, only a small percentages does so as they are not actively informed of this feature.
+Alerted is an indicator for ever alerted. Alerts is the number of alerts received. Assignment,
+Absence, and Low Grade are the number of alerts received by parents by alert type. All regressions
+include strata indicators and a set of demographic covariates described in the text. Standard errors
+are clustered at the grade-school level. Outcome variables are from gradebook and administrative
+data. *** p<0.01, ** p<0.05, * p<0.10.
+35
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table 3: School to Parent Contact about Child’s Academic Progress
+≥1x / month 2x / month. 1x / month 1x / 2-3 month < 1x / 3 month
+Alerted 0.19** 0.06 0.13** -0.07* -0.12*
+(0.08) (0.07) (0.06) (0.04) (0.07)
+Control Mean 0.38 0.25 0.13 0.16 0.45
+Observations 424 424 424 424 424
+This table shows the results for how often schools contacted parents in any way about their child’s academic progress
+in the last semester. Results are estimated using 2SLS regressions with the instrumented alerted variable, an indicator
+for parents who received at least one text. All regressions include strata indicators and a set of demographic covariates
+described in the text. Standard errors are clustered at the grade-school level. The outcome variables are all from endline
+parent surveys. *** p<0.01, ** p<0.05, * p<0.10
+Table 4: Primary Academic Outcomes
+Classes Failed Classes Attended Retained Math Score Reading Score
+Alerted -0.38*** 48.46** 0.02** -0.01 -0.08
+(0.14) (23.08) (0.01) (0.06) (0.05)
+Control Mean 0.97 277.70 0.97 0.00 0.00
+Observations 1,113 1,137 1,137 927 925
+This table shows treatment eﬀects on primary academic outcomes specified in the pre-registered analysis plan. Treat-
+ment eﬀects are estimated using 2SLS regressions with the instrumented alerted variable, an indicator for parents who
+received at least one text. All regressions include strata indicators and a set of demographic covariates described in the
+text. Standard errors are clustered at the grade-school level. Outcome variables are from gradebook and administrative
+data. Classes failed are total failed courses after treatment started. Classes attended is the numerical total of classes
+marked as present after treatment started. Retention is defined as taking courses after the intervention began. Math
+and Reading scores are z scores from standardized test scores. *** p<0.01, ** p<0.05, * p<0.10
+Table 5: Student Grades
+F D C B A
+Alerted -0.38*** 0.10 0.29** -0.17 0.25
+(0.14) (0.10) (0.12) (0.12) (0.26)
+Control Mean 0.97 0.84 1.32 1.79 3.33
+Observations 1,113 1,113 1,113 1,113 1,113
+This table shows treatment eﬀects on the number of each grade students
+received after the treatment began. Eﬀects are estimated using 2SLS re-
+gressions with the instrumented alerted variable, an indicator for parents
+who received at least one text. All regressions include strata indicators
+and a set of demographic covariates described in the text. Standard errors
+are clustered at the grade-school level. *** p<0.01, ** p<0.05, * p<0.10.
+36
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table 6: Assignment Scores, Missed Assignments, Class Exams
+Assignment Scores Missed Assignments Class Exams
+Alerted 0.09*** -0.02 0.13***
+(0.03) (0.01) (0.04)
+Control Mean 0.02 0.09 0.00
+Observations 70,076 77,418 7,342
+This table shows treatment eﬀects on student assignment scores and assignment completed. Ef-
+fects are estimated using 2SLS regressions with the instrumented alerted variable, an indicator
+for parents who received at least one text. All regressions include strata indicators and a set of
+demographic covariates described in the text. Standard errors are clustered at the grade-school
+level. Outcome variables are calculated from the gradebook data. Assignment and exam scores
+are standardized according to the control group’s score for each assignment or exam. Outliers
+more than 3 standard deviations away from the mean are excluded. Missed assignments is an
+indicator for a missing assignment and include assignments and exams. There are multiple
+observations per student because there are multiple assignments or exams per student after the
+intervention began. *** p<0.01, ** p<0.05, * p<0.10
+Table 7: Other Academic Outcomes and Behaviors
+GPA Ever Suspended Student Logins
+Alerted 0.10* -0.01 4.81
+(0.06) (0.02) (10.58)
+Control Mean 2.61 0.23 210
+Observations 1,137 967 1,137
+This table shows treatment eﬀects on secondary outcomes of interest. Ef-
+fects are estimated using 2SLS regressions with the instrumented alerted
+variable, an indicator for parents who received at least one text. All re-
+gressions include strata indicators and a set of demographic covariates de-
+scribed in the text. Standard errors are clustered at the grade-school level.
+Outcome variables are calculated from gradebook and administrative data.
+*** p<0.01, ** p<0.05, * p<0.10
+37
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table 8: Parent Beliefs about Missed Assignments
+None 1-5 6-10 >10 Don’t Know
+Alerted -0.15*** 0.07 0.09** 0.02 -0.01
+(0.06) (0.05) (0.04) (0.02) (0.02)
+Control Mean 0.53 0.31 0.06 0.07 0.03
+Observations 403 403 403 403 403
+This table shows treatment eﬀects on parent beliefs about missed assignments. Ef-
+fects are estimated using 2SLS regressions with the instrumented alerted variable, an
+indicator for parents who received at least one text. All regressions include strata
+indicators and a set of demographic covariates described in the text. Standard er-
+rors are clustered at the grade-school level. Outcome variables are constructed from
+survey results asking parents to give the number of missed assignments by students
+during the last semester. *** p<0.01, ** p<0.05, * p<0.10
+Table 9: Parents’ Behavioral Responses
+Panel A. Contacted the School Talked w/ Child Parent Logins
+Alerted 0.17*** 0.07 7.07
+(0.06) (0.06) (6.40)
+Control Mean 0.33 0.74 30.1
+Observations 443 438 1,137
+Panel B. Took Privileges Grade Inaccuracy Continue Texts
+Alerted 0.08 -0.19* 0.04**
+(0.05) (0.10) (0.02)
+Control Mean 0.32 0.50 0.94
+Observations 401 307 433
+This table shows treatment eﬀects on parents’ behavioral responses. Eﬀects are estimated
+using 2SLS regressions with the instrumented alerted variable, an indicator for parents who
+received at least one text. All regressions include strata indicators and a set of demographic
+covariates. Standard errors clustered at the grade-school level. Outcome variables here are
+based on survey results and gradebook data. Panel A shows results for an indicator for whether
+parents contacted the school, an indicator of whether parents talked to their child about school
+about schoolwork or grades, and total parent logins into the parent gradebook portal. Panel B
+shows the results for parents taking privileges away from student in the last month of school,
+the diﬀerence between students’ actual math grade and parents’ estimated math grade, and an
+indicator for parents’ desire to start or continue a texting service to inform them about their
+child’s academic progress. *** p<0.01, ** p<0.05, * p<0.10
+38
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Appendix A
+This figure shows the treatment-control comparisons of parental belief of number of missed assignments versus actual
+number of missed assignments. The calculations are absolute values of the inaccuracy by categorical bins in which parents
+estimate their child’s missed assignments - zero (0), one to five (1), six to ten (2), and more than ten (3). For example, if
+Figure A.8: Parent Beliefs about Missed Assignments versus True Missed Assignments
+a parent estimated that their child missed six to ten assignments, but they actually missed more than ten, they would be
+oﬀ by a category of one.
+39
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Figure A.9: Parent Beliefs about Math Grade versus True Grade
+This figure shows the treatment-control comparisons of parental belief of their child’s math grade compared to their actual
+grade. The calculations are absolute values of the inaccuracy by math grade GPA, based on a 4.0 scale. For example, if
+a child received a B, but their parent believed they received an A, the parent would be oﬀ by an absolute value of one.
+40
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table A.1: Measures of Attrition
+Miss Survey Miss Suspension Miss Math Miss Reading
+Treatment -0.016 -0.000 0.008 0.010
+(0.029) (0.010) (0.015) (0.015)
+Percent of Days Missed -0.560** 0.294 0.770** 0.830**
+(0.26) (0.200) (0.320) (0.330)
+Baseline GPA 0.016 -0.003 0.008 0.015
+(0.022) (0.014) (0.016) (0.016)
+Black 0.024 -0.007 -0.022 -0.019
+(0.030) (0.015) (0.014) (0.015)
+IEP -0.064 -0.008 0.040 0.042*
+(0.040) (0.022) (0.017) (0.023)
+Female -0.014 -0.010 -0.011 -0.008
+(0.029) (0.009) (0.014) (0.015)
+Baseline Math Score 0.034 0.004 0.026** 0.020*
+(0.025) (0.004) (0.011) (0.011)
+Baseline Reading Score 0.012 0.004 -0.024* -0.021*
+(0.028) (0.006) (0.012) (0.011)
+Observations 1,137 1,137 1,137 1,137
+This table shows the correlates of several indicators of attrition and non response: survey non-response, missing
+endline GPA and missing endline test scores. Robust standard errors in parentheses. *** p<0.01, ** p<0.05,
+* p<0.10
+41
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table A.2: Correlates of Communication
+Contact < 1x /3 mo. Talk to Another Adult Grade Inaccuracy Child Discloses
+Fraction Absent -0.29 0.37 0.30 0.14
+(0.33) (0.30) (0.98) (0.36)
+Ever Suspended 0.12 -0.08 -0.06 -0.04
+(0.08) (0.07) (0.13) (0.08)
+GPA 0.03 0.01 -0.17*** -0.18***
+(0.03) (0.025) (0.06) (0.02)
+Black 0.03 -0.05 -0.014 -0.07
+(0.07) (0.06) (0.09) (0.06)
+IEP -0.00 0.01 0.23 0.04
+(0.08) (0.07) (0.15) (0.08)
+Female 0.04 -0.08* 0.10 -0.05
+(0.05) (0.05) (0.08) (0.05)
+Two Parents -0.03 0.18*** 0.04 -0.08
+(0.06) (0.06) (0.09) (0.05)
+Parent Female 0.06 -0.01 -0.01 -0.00
+(0.05) (0.05) (0.09) (0.05)
+High School -0.05 -0.04 0.12 -0.14***
+(0.05) (0.04) (0.09) (0.05)
+Control Mean 0.46 0.69 0.50 0.48
+Observations 423 439 307 439
+This table shows the correlates of several indicators of parental and student communication behavior. Standard errors clustered by
+student. All regressions include strata indicators. *** p<0.01, ** p<0.05, * p<0.10
+42
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table A.3: Robustness: Assignment Scores, Missed Assignments, Class Exams
+Panel A. Assignment Scores <2σ Missed Assignments <2σ Class Exams <2σ
+Alerted 0.09*** -0.02 0.12***
+(0.02) (0.01) (0.04)
+Observations 67,032 91,954 7,043
+Panel B. Assignment Scores <4σ Missed Assignments <4σ Class Exams <4σ
+Alerted 0.08*** -0.02 0.11**
+(0.03) (0.01) (0.05)
+Observations 71,063 91,954 7,407
+Panel C. Assignment Scores <5σ Missed Assignments <5σ Class Exams <5σ
+Alerted 0.07** -0.02 0.10**
+(0.03) (0.01) (0.05)
+Observations 71,512 91,954 7,439
+This table shows treatment eﬀects on student assignment scores and assignment completed with varying exclusion
+criteria for outliers. Panel A excludes all observation that are plus or minus two standard deviations from the
+mean. Panel B excludes all observation that are plus or minus four standard deviations from the mean. Panel C
+excludes all observation that are plus or minus five standard deviations from the mean. The estimates in the main
+text shows excludes outliers plus or minus three standard deviations from the mean. Eﬀects are estimated using
+2SLS regressions with the instrumented alerted variable, an indicator for parents who received at least one text.
+All regressions include strata indicators and a set of demographic covariates described in the text. Standard errors
+are clustered at the grade-school level. Outcome variables are calculated from the gradebook data. Assignment
+and exam scores are standardized according to the control group’s score for each assignment or exam. Missed
+assignments is an indicator for a missing assignment and include assignments and exams. There are multiple
+observations per student because there are multiple assignments or exams per student after the intervention began.
+*** p<0.01, ** p<0.05, * p<0.10
+Table A.4: Subgroup of Below Average GPA
+Classes Failed GPA Classes Attended Retained Math Score Reading Score
+Alerted -0.88*** 0.24*** 64.63*** -0.05*** 0.04 0.00
+(0.27 ) (0.10 ) (26.94 ) (0.02 ) (0.09) (0.08 )
+Observations 550 566 566 566 445 444
+P-value that
+that term = 0 0.08 0.01 0.55 0.04 0.61 0.15
+This table shows the results by subgroups of interest, in this case students with below-average GPA at baseline, as indicated
+on our pre-analysis plan. Treatment eﬀects are estimated using 2SLS regressions with the instrumented alerted variable, an
+indicator for parents who received at least one text. All regression include strata indicators and a set of demographic covariates
+described in the text. Standard errors are clustered at the grade-school level. All regressions include strata indicators. Outcome
+variables are from gradebook and administrative data. *** p<0.01, ** p<0.05, * p<0.10
+43
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table A.5: Subgroup of High School and Middle School Students
+Panel A. High School
+Classes Failed GPA Classes Attended Retained Math Score Reading Score
+Alerted -0.68*** 0.25*** 45.51 -0.04** 0.00 -0.07
+(0.22) (0.09) (29.89) (0.02) (0.08) (0.07)
+Observations 581 597 597 597 419 417
+Panel B. Middle School
+Classes Failed GPA Classes Attended Retained Math Score Reading Score
+Alerted -0.06 -0.10 49.50 0.01 -0.02 -0.08
+(0.15) (0.09) (34.42) (0.01) (0.09) (0.08)
+Observations 532 540 540 540 508 508
+P-value that
+that term = 0 0.01 0.00 0.94 0.03 0.75 0.55
+This table shows the results by subgroups of interest, in this case high school and middle school students, as indicated on our
+pre-analysis plan. Treatment eﬀects are estimated using 2SLS regressions with the instrumented alerted variable, an indicator for
+parents who received at least one text. All regression include strata indicators and a set of demographic covariates as described
+in the text. Standard errors are clustered at the grade-school level. All regressions include strata indicators. Outcome variables
+are from gradebook and administrative data. *** p<0.01, ** p<0.05, * p<0.10
+44
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table A.6: Subgroup of Mothers and Fathers Texted
+Panel A. Mothers Texted
+Classes Failed GPA Classes Attended Retained Math Score Reading Score
+Alerted -0.34** 0.09 30.02* -0.02* -0.01 0.10*
+(0.16) (0.09) (20.55) (0.02) (0.07) (0.07)
+Observations 423 431 431 431 345 346
+Panel B. Fathers Texted
+Classes Failed GPA Classes Attended Retained Math Score Reading Score
+Alerted -0.51** 0.06 41.22* 0.01 0.10 -0.08
+(0.23) (0.12) (29.10) (0.02) (0.09) (0.09)
+Observations 319 324 324 324 266 266
+P-value that
+that term = 0 0.03 0.37 0.29 0.65 0.51 0.40
+This table shows the results by subgroups of interest, in this case students with either their mothers or fathers receiving the
+text messages, as indicated on our pre-analysis plan. The sample is restricted to those households with two parents. Treatment
+eﬀects are estimated using 2SLS regressions with the instrumented alerted variable, an indicator for parents who received at
+least one text. All regression include strata indicators and a set of demographic covariates as described in the text. Standard
+errors are clustered at the grade-school level. All regressions include strata indicators. Outcome variables are from gradebook
+and administrative data. *** p<0.01, ** p<0.05, * p<0.10
+45
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Appendix B
+Table B.1: Secondary outcomes and their sources
+Outcome Source
+Number of alerts sent Number of parent logins Number of student logins Ever suspended GPA Total number of missed assignments Teacher logins Who monitors child Who is in charge of child’s discipline School-to-parent contact Parent-to-school contact School helps parent Child discloses information Accuracy of grade beliefs Accuracy of missed assignment beliefs Accuracy of relative grade beliefs Accuracy of absence beliefs Parent talks to child about schoolwork Parent takes privileges from child over schoolwork Discuss child’s grades with another adult in the household Desire to continue intervention Administrative Data
+Administrative Data
+Administrative Data
+Administrative Data
+Administrative Data
+Administrative Data
+Administrative Data
+Survey Q2
+Survey Q15
+Survey Q3
+Survey Q6
+Survey Q4
+Survey Q5
+Survey Q9 & Admin Data
+Survey Q16 & Admin Data
+Survey Q10 & Admin Data
+Survey Q11 & Admin Data
+Survey Q12
+Survey Q14
+Survey Q13
+Survey Q19
+46
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table B.2: Secondary outcomes and their construction
+Outcome Construction
+Number of alerts sent Number of parent logins Number of student logins Ever suspended GPA Total number of missed assignments Teacher logins School-to-parent contact Parent-to-school contact School helps parent Child discloses information Accuracy of grade beliefs Accuracy of missed assignment beliefs Accuracy of relative grade beliefs Accuracy of absence beliefs Parent talks to child about schoolwork Parent takes privileges from child over
+schoolwork
+Discuss child’s grades with another
+adult in the household
+Desire to continue intervention Total alerts sent post intervention start
+Total parent logins post intervention start
+Total student logins post intervention start
+Indicator for a suspension of any length occurring
+post intervention start
+Average of 2nd semester grades using a 4-point scale
+imputing zeros for missing.
+Total number of assignments missed in the 2nd
+semester
+Total teacher logins post intervention start
+Indicator for once per month or greater
+Indicator for above median contact
+Indicator for agree/disagree
+Indicator for agree/disagree
+Survey Q9 minus grade from last report card and
+indicator for “I don’t know”
+Survey Q16 minus number from 2nd semester data
+and indicator for “I don’t know”
+Indicator for Survey Q10 matches whether child has
+above-median letter grade within grade level and in-
+dicator for “I don’t know”
+Survey Q11 - last month’s total full-day absences and
+indicator for “I don’t know”
+Indicator for 2-3 times per week and above.
+Indicator for true or not
+Indicator for true or not
+Indicator for true or not
+47
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Table B.3: Secondary outcomes and hypothesized eﬀect
+Outcome Test
+Number of alerts sent Number of parent logins Number of student logins Ever suspended GPA Total number of missed assignments Teacher logins School-to-parent contact Parent-to-school contact School helps parent Child discloses information Accuracy of grade beliefs Accuracy of missed assignment beliefs Accuracy of relative grade beliefs Accuracy of absence beliefs Parent talks to child about schoolwork Parent takes privileges from child over schoolwork Discuss child’s grades with another adult in the household Desire to continue intervention ATE>0
+ATE!=0
+ATE!=0
+ATE<0
+ATE>0
+ATE<0
+ATE!=0
+ATE!=0
+ATE!=0
+ATE>0
+ATE!=0
+ATE>0
+ATE>0
+ATE>0
+ATE>0
+ATE!=0
+ATE!=0
+ATE!=0
+ATE>0
+48
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Appendix C
+Figure A.10: Endline Survey Letter
+This is page 1 of 4 of the endline survey letter sent to participant parents after
+the end of the treatment school year.
+49
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Figure A.11: Endline Survey Letter
+This is page 2 of 4 of the endline survey letter sent to participant parents after
+the end of the treatment school year.
+50
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Figure A.12: Endline Survey Letter
+This is page 3 of 4 of the endline survey letter sent to participant parents after
+the end of the treatment school year.
+51
+Electronic copy available at: https://ssrn.com/abstract=2989472
+Figure A.13: Endline Survey Letter
+This is page 4 of 4 of the endline survey letter sent to participant parents after
+the end of the treatment school year.
+52
+Electronic copy available at: https://ssrn.com/abstract=2989472

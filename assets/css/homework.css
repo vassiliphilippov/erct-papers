@@ -225,6 +225,7 @@
   font-size: 1.125rem; /* 18/16 */
   font-weight: 600;
   line-height: 1.333; /* 133.333% */
+  margin-bottom: 1rem;
 }
 .lessons__text {
   font-family: var(--text-font-family);
@@ -338,6 +339,7 @@
 .stage__list li {
   display: flex;
   column-gap: 1rem; /* 16/16 */
+  margin-bottom: 0.5rem;
 }
 .stage__list li:nth-child(2) {
   font-style: italic;
@@ -361,6 +363,9 @@
 }
 .stage__list li:nth-child(2):before {
   background: url('/assets/img/icons/message-square-quote.svg') center / contain no-repeat;
+}
+.analysis p {
+  margin-bottom: 0.5rem;
 }
 .request__title {
   font-size: 1.125rem; /* 18/16 */

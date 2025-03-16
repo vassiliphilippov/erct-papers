@@ -4,7 +4,6 @@ title: >-
   reality video
 authors: "Joanne Yip, Sze-Ham Wong, Kit-Lun Yick, Kannass Chan, Ka-Hing Wong"
 paper_link: "https://doi.org/10.1016/j.compedu.2018.09.014"
-slug: "yip-et-al-2018-ar-video"
 abstract: >-
   This study compares a traditional handout versus an augmented reality (AR)
   video approach to teaching threading and knitting concepts in textile-related
@@ -24,38 +23,54 @@ doi: "10.1016/j.compedu.2018.09.014"
 journal: "Computers & Education"
 date_erct_check: "2025-03-09"
 tags:
-  - university level
+  - higher education
   - EdTech app
 criteria:
   c:
-    met: true
-    explanation: >-
-      They clearly randomized at the class (tutorial session) level,
-      satisfying the requirement for Class-level RCT.
-    quote: >-
-      ...a randomized controlled trial (RCT) was run. Study participants were
-      randomly allocated... all students were randomly allocated into different
-      classes by the PolyU computer system.
+    met: false
+    explanation: >
+      Randomization likely occurred at the student level within classes or sessions, not at the class level.
+    quote: >
+      "To randomly allocate the study participants into the two groups, all students
+      were randomly allocated into different Intimate Textiles and Accessories classes
+      by the PolyU computer system..." (p. 7)
     analysis: >-
-      The paper explicitly states that a randomized controlled trial (RCT) was
-      run, with students placed into two groups and different tutorial sessions.
-      One group received a handout (control) and the other used AR videos
-      (intervention). Quotes from the paper include: “To reduce selection bias
-      and obtain more accurate results, a randomized controlled trial (RCT) was
-      run. Study participants were randomly allocated to two different groups...”
-      (Section 2.2) and “All participants were blind to the study in that they did
-      not have information about the learning tool until they started their
-      tutorial class.” (Section 2.3.1). The paper also explains that “...all
-      students were randomly allocated into different Intimate Textiles and
-      Accessories classes by the PolyU computer system.” (Section 2.3.2). These
-      statements demonstrate that randomization was performed at the
-      tutorial-class level rather than assigning individual students within the
-      same classroom to different conditions. In other words, each tutorial class
-      as a whole was allocated to either the AR-video condition or the handout
-      condition. This cluster-level approach meets the requirement for Criterion
-      C, which is that entire classes (or a stronger school-level approach) are
-      assigned to treatment or control. No evidence suggests individual student
-      randomization within a single class. Therefore, Criterion C is satisfied.
+      Relevant Quotes:
+
+      1) "To reduce selection bias and obtain more accurate results, a randomized
+      controlled trial (RCT) was run. Study participants were randomly allocated to
+      two different groups..." (p. 6)
+
+      2) "To randomly allocate the study participants into the two groups, all students
+      were randomly allocated into different Intimate Textiles and Accessories classes
+      by the PolyU computer system, which randomly selected the tutorial class
+      designated Group A (received handouts) or Group B (viewed AR videos)." (p. 7)
+
+      3) "To avoid bias and ensure the accuracy of this study, the students were
+      randomly allocated into groups. Those who enrolled in Sessions 2, 3 or 5 were
+      placed into Group A, whereas students who signed up for Sessions 1, 4 or 6 were
+      placed into Group B." (p. 9)
+
+      4) "During the trial, both groups of students were allowed to answer the
+      questions with their learning tool (handout or AR video)..." (p. 8)
+
+      Detailed Analysis:
+
+      The ERCT 'C' criterion requires class-level randomization to prevent
+      contamination. Quote 2 suggests the PolyU system allocated students into classes
+      designated as Group A or B, which could imply class-level assignment. However,
+      Quote 1 emphasizes individual allocation to groups, and Quote 3 (threading task)
+      ties randomization to session enrollment, not necessarily intact classes. Quote 4
+      indicates both groups used their tools in the same testing environment, suggesting
+      no strict separation. An alternative view posits that "different classes" means
+      entire tutorial classes were randomized, but the lack of explicit confirmation
+      (e.g., "each class was assigned one condition") and evidence of mixed settings
+      (Quote 4) weaken this. Without clear evidence of class-unit randomization and
+      separation, contamination remains a risk.
+
+      Final sentence: Criterion C is not met because randomization appears to be at the
+      student or subgroup level within classes or sessions, not definitively at the
+      class level.
   e:
     met: false
     explanation: >-

@@ -1,0 +1,417 @@
+International Journal of Educational Research 96 (2019) 146–153
+Contents lists available at ScienceDirect
+International Journal of Educational Research
+journal homepage: www.elsevier.com/locate/ijedures
+Beyond class size reduction: Towards more flexible ways of
+implementing a reduced pupil–teacher ratio
+Oddny Judith Solheima,⁎, Vibeke Opheimb
+a Norwegian Centre for Reading Education and Research, University of Stavanger, Nasjonalt senter for leseopplæring og leseforsking, University of
+Stavanger, 4036 Stavanger, Norway
+b Nordic Institute for Studies in Innovation, Research and Education, Nordisk Institutt for studier av innovasjon, forskning og utdanning (NIFU),
+Postboks 2815, Tøyen, 0608 Oslo, Norway
+T
+A R T I C L E I N F O
+A B S T R A C T
+Keywords:
+Class-size reduction
+Pupil–teacher ratio (PTR)
+Co-teaching
+Teacher density
+The effect of a reduced pupil–teacher ratio has mainly been investigated as that of reduced class
+size. Hence we know little about alternative methods of reducing the pupil–teacher ratio.
+Deploying additional teachers in selected subjects may be a more flexible way, both pedagogi-
+cally and financially, to exploit the opportunities for adapting instruction inherent in reducing
+the number of students under a teacher’s responsibility. In this paper, we discuss limitations to
+previous class-size research and suggest more flexible ways to implement a reduced pu-
+pil–teacher ratio. One alternative approach is illustrated with a change in national policy in
+Norway to increase teacher density as well as research following this initiative.
+1. Rationale for reducing the pupil–teacher ratio
+Students excel when teachers differentiate material for each student’s zone of proximal development (Connor et al., 2013; Coyne
+et al., 2013; Walpole, McKenna, & Corley, 2007), provide frequent formative feedback (Hattie & Timperley, 2007) and build close
+relationships (Cadima, Leal, & Burchinal, 2010; Curby, Rimm-Kaufman, & Ponitz, 2009). However, teachers experience many
+challenges in providing such individualized support, including time for multi-level instruction (i.e. teaching one primary objective or
+concept to the class while allowing for varying outcomes for an individual student or a small group of students), management of
+multiple groups and flexibility for uneven pacing of students’ progress (Ankrum & Bean, 2008; Schumm & Vaughn, 1995; Schumm,
+Moody, & Vaughn, 2000). Those challenges amplify with an increasing number of students. Hence reducing the number of students
+under a teacher’s responsibility is often suggested as a way of enhancing academic achievement.
+Both the debate and research about the pupil–teacher ratio (PTR) have been dominated by a focus on class size. In this paper we
+discusslimitationstoclass-sizereduction(CSR)andsuggestalternativewaysofconceptualizingareducedPTR.Inthefinalpartofthe
+paper, we use a recent change in Norwegian educational policy as an illustration of a more flexible approach.
+2. What has class-size research taught us about the effect of a reduced PTR?
+In a review of class-size research, Blatchford (2011) identifies two generations of research and argues for a third. The first one
+examined effects of class-size differences and CSR on students’ academic outcomes, but studies and even meta-analyses arrived at
+different conclusions concerning the magnitude of the effect of class size on academic outcomes (Blatchford, 2011; Hattie, 2005).
+⁎ Corresponding author.
+E-mail addresses: oddny.j.solheim@uis.no (O.J. Solheim), vibeke.opheim@nifu.no (V. Opheim).
+https://doi.org/10.1016/j.ijer.2018.10.008
+Received 7 August 2018; Received in revised form 22 October 2018; Accepted 31 October 2018
+Available online 15 November 2018
+0883-0355/ © 2018 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/BY-NC-ND/4.0/).
+O.J. Solheim, V. Opheim International Journal of Educational Research 96 (2019) 146–153
+Consequently, opinions vary greatly: some argue that reducing class sizes is not a cost-effective way to improve academic outcomes
+(e.g. Hanushek, 1999) while others claim that it should be a cornerstone of education policy (Achilles, 2000).
+To address the lack of conclusive findings from that first generation of research, a second – more recent – generation has con-
+centrated on relationships between class size and classroom processes, i.e. on understanding how class size might affect interactions
+betweenteacher and students. Blatchford (2011) argues that this change of research focus was essential not only tounderstand class-
+size effects but also to provide practical guidance on how to maximize the opportunities offered by classes of different sizes. Various
+aspectsofclassroom processeshavebeeninvestigated,withtheprocessmostconsistentlyidentifiedasaffectedbyclasssizebeingthe
+individualization of teaching (e.g. Blatchford, Bassett, Goldstein, & Martin, 2003; Pate-Bain, Achilles, Boyd-Zaharias, & McKenna,
+1992). In addition, studies have looked into classroom management and control (e.g. Blatchford, Bassett, & Brown, 2008; Cooper,
+1989),teacherstress(e.g.Biddle&Berliner,2002)andon-taskbehaviour(e.g.Blatchfordetal.,2008;Cooper,1989;Finn&Achilles,
+1999). However, this second generation of research has also yielded mixed evidence, with some studies concluding that the effects
+and benefits of CSR for classroom processes are relatively trivial (e.g. Ehrenberg, Brewer, Gamoran, & Willms, 2001; Slavin, 1989)
+and others arriving at more positive conclusions regarding the effect of class size on classroom processes (e.g. Anderson, 2000; Finn,
+Pannozzo, & Achilles, 2003).
+Blatchford (2011) concludes his review of class-size research by identifying some limitations to previous research, especially the
+lackofstudiesevaluatinggoodpractices.Arguingthatsuchresearchiscrucialinordertofigureouthowincreasedteachingresources
+shouldbe appliedto achievea maximum impacton teacher–student interactionand students’ academic outcomes, he callsfor athird
+generation of research that will explicitly test which teaching methods are effective in small classes.
+3. Why the need to reconceptualize PTR reduction?
+Although class-size research has contributed important knowledge about the effects of a reduced PTR, there are some clear
+limitations. First, research into CSR, for obvious reasons, has regarded class size as a static school factor. Such a view, however, is
+somewhat out of step with current trends in the staffing of classrooms. In many countries, schools vary their classroom organization
+during the day and between subjects. For instance, regularly deploying an extra teacher to particular lessons has been suggested as a
+cost-effective way of providing students with individualized support. In such a scenario, teaching resources may be directed towards
+specific age groups and core subjects. In addition, frequent use of assistants and additional teachers (e.g. special-education teachers)
+also makes it less relevant to operate with a fixed number for class size. This increased classroom flexibility requires more flexible
+research approaches as well.
+3.1. Co-teaching as an alternative approach to reducing the PTR
+In the present article, we have chosen to use the term ‘co-teaching’ for the type of collaboration between teachers that occurs
+whenthePTRisreducedbyhavingmorethanoneteacherinvolvedintheteachingofthesamestudentgroup.Weareawarethatthis
+term has previously been used in a slightly different sense about collaborative teaching between a general educator and a special-
+needs teacher when including children with learning disabilities in mainstream classrooms (Friend & Cook, 2016). Our use of this
+term in the present context reflects a wish to emphasize that (i) the PTR is reduced, (ii) two or more educators work collaboratively,
+(iii)theeducatorsdeliverinstruction tothesamegroupofstudentsand(iv)thefocusisontheteachingassuch,notonotherformsof
+collaboration such as meetings, teams or parent conferences. To this should be added that while, in principle, all students belonging
+to such a group attend the same class, individual students or groups of students may work with a teacher in a separate classroom
+during some lessons or parts of lessons.
+Previous research into the effect of having an additional teacher in the class is, at best, scarce. However, experiences from
+TeachersTeachingTogether(TTT)withinthePrimaryNeedsProgrammeinLeeds(Alexander,1997),literatureonteamteachingand
+more recent studies on co-teaching (see e.g. Friend & Cook, 2016) all include relevant perspectives on emerging possibilities,
+practicesand challengeswhen teachers teachtogether. In our view, areduced PTR seen through thelens ofco-teaching could help to
+revitalize the discussion about CSR. Below is a brief discussion of some relevant findings.
+3.1.1. Effectiveness of co-teaching on student academic achievement
+Onlyafewstudieshaveinvestigatedtheeffectofco-teachingonstudentoutcomes,andthosestudiestypicallyconcernedstudents
+with learning disabilities in inclusive settings. In 2001, Murawski and Swanson (2001) summarized articles pertaining to co-teaching
+between general teachers and special-education staff. Of 89 reviewed studies, only 6 reported sufficient data to calculate effect sizes.
+The outcome variables used included grades, achievement scores (n=5) and social and attitudinal variables (n=4). The average
+total effect size was 0.40. Rea, McLaughlin, and Walter-Thomas, (2002) investigated students with learning disabilities in co-taught
+classes and found that they performed better on measures such as report-card grades and attendance than students in single-teacher
+classes.However, studentperformance on standardizedtests wascomparable across thetypes ofclasses. In anevaluation ofinclusive
+practices in eight elementary and secondary schools, Idol (2006) found that scores on state-wide tests were little affected by co-
+teaching, for students with and without disabilities alike. Murawski (2006) investigated student achievement by comparing the
+achievement of students with disabilities in resource (i.e. separate) classes, co-taught classes and general-education classes without
+co-teaching, finding no significant differences across settings.
+147
+O.J. Solheim, V. Opheim International Journal of Educational Research 96 (2019) 146–153
+3.1.2. Collaboration between co-teachers
+Ratherthanfocusingonlearningoutcomes,researchintoco-teachinghasbeenconcernedwiththenatureofthecollaborationand
+the roles and responsibilities of the teachers. In the following, we will introduce three of the key issues that have emerged as
+important for understanding co-teaching: organizational forms, collaborative style and collaborating teachers. It is important to note
+that co-teaching may be carried out in various organizational forms – there may be two or more teachers teaching a group or class of
+students together in the same classroom or two or more teachers teaching a group or class of students by separating the group
+between them and teaching one group each. Friend and Cook (2016) describe six distinct co-teaching approaches that differ in the
+degree to which each educator contributes in the delivery of content and/or engages with students: 1) One lead, one observe: one
+instructoristheprimary delivererofcontent while theother instructorobserves. (2)Onelead,oneassist:one instructor istheprimary
+deliverer of content while the other instructor moves among individual students or student groups to answer questions, direct
+activities and provide support to the lead instructor. (3) Station teaching: students migrate to stations to participate in different
+learning activities and each instructor serves as an expert guide for one or more specific stations (and students rotate among all
+stations). (4) Parallelteaching: instructors facilitate the instruction of the same material and activities by engaging with sub-groups of
+students within the larger teaching space or in separate classrooms. (5) Alternative teaching: co-instructors address the needs of
+different student groups; one instructor may be working with the majority of students while another is engaged with a smaller group
+of students who have a particular instructional need such as remediation. (6) Team teaching: each educator contributes equally with
+otherinstructorswhoallengageintrading-offor“tag-teaming”atspecificsignalsorcontentbreaks.Giventhisvarietyandgiventhat
+some organizational forms may turn out to be more effective than others, any investigation into the effect of co-teaching approaches
+should be contextualized in that attention should be paid to whether certain approaches are more effective for certain subjects and
+age groups (Friend, Cook, Hurley-Chamberlain, & Schamberger, 2010). To this should be added that organizational forms may also
+differ in the degree to which they affect the teachers involved and their collaboration.
+Co-teaching requires a high level of commitment to a collaborative process. In the Primary Needs Programme, the researchers
+identified two main forms of collaboration: working alongside and withdrawal (Alexander, 1997). As Alexander (1997) notes: “[c]
+learly, it is far less problematic for the teachers involved if they take full responsibility for separate groups of children and work
+independently – especially when their independence is underlined by physical separateness” (p. 95). The project revealed that many
+teachers struggled with working alongside others, even if they had good intentions, and insights from both TTT and co-teaching
+projects emphasize shared planning as a prerequisite for successful co-operation (Alexander, 1997; Friend & Cook, 2016). Even if
+teachers do manage to work alongside each other to some degree, their collaboration can take different forms: (i) one of them may
+take the leading role in planning, teaching and evaluation whereas the other one helps where needed, (ii) one of them may take the
+leading role in planning, teaching and evaluation but assign the other teacher distinct tasks for each lesson, or (iii) the teachers may
+make plans, teach and evaluate together and take similar responsibility for all students in the class. Only in the last scenario do
+teachers share leadership and take on the same obligations.
+Finally, even if collaborating teachers bring similar or different expertise to the classroom, much will depend on the mutual
+relationship that they are able to establish. One challenge in this respect noted by Alexander (1997) is that teachers are used to
+having “their” class and that the notions of territory, ownership and autonomy are deeply embedded in their professional con-
+sciousness.InthePrimaryNeedsProgramme,itwasfoundthatTTTcouldthreatenthosenotions,especiallyifthesecondteacherhad
+higher status than the class teacher, and that both parties could find the situation difficult: for the class teacher, the problem was one
+of territory and ownership; for the second teacher, it was one of access. To sum up, there are several issues beyond the themes
+considered in previous class-size research that become important when a reduced PTR is conceptualized in alternative ways.
+4. Teacher density in Norwegian educational policy: an illustration
+To illustrate how an alternative approach to a reduced PTR might be implemented, the last part of this paper will be devoted to
+describing a change in Norwegian educational policy, from a specific class-size limit to a more flexible approach involving overall
+“teacher density”. The teacher-density approach differs from CSR in that each school makes its own decisions about how to im-
+plement a reduced PTR. This allows greater flexibility in the organization of classrooms and teaching (as opposed to simply reducing
+fixed class sizes on a permanent basis). We will also describe a research initiative which is designed to generate knowledge about the
+effects of increased teacher density at Norwegian lower-primary schools (6–9-year-olds) by providing new insights into the effects on
+students’ learning and learning environment exerted by different ways of using more teaching staff at schools. As a background, we
+will first give a brief introduction to the Norwegian school system.
+4.1. The Norwegian educational system
+Primary and lower-secondary education in Norway is founded on the principle of a unified school system that provides equal and
+adapted education in an inclusive environment based on a single national curriculum (Ministry of Education & Research, 2013a).
+Within the framework of statutes and national curricula, municipalities, schools and teachers are free to decide what learning
+materials to use and what teaching methods to adopt. Public (i.e. non-private) schools dominate the educational sector: less than 4
+percent ofstudentsattend privateprimaryorlower-secondaryschools(StatisticsNorway,2017).Children alsohaveastatutoryright
+toattend their neighbourhood school. This right applies to all children, including those with special needs. Hence only 0.6 percent of
+primary-school students are enrolled in public special schools (Norwegian Directorate for Education & Training, 2017). Taken to-
+gether, this results in heterogeneous student groups.
+148
+O.J. Solheim, V. Opheim International Journal of Educational Research 96 (2019) 146–153
+Compulsory schooling in Norway lasts for ten years and children start school at the age of six. Compulsory schooling can be
+dividedintotwoparts:primaryeducation(grades1–7)andlower-secondaryeducation(grades8–10).Primaryeducationisalsooften
+divided into lower primary (grades 1–4) and upper primary (grades 5–7). Upper-secondary education (grades 11–13) is not com-
+pulsory,but most (92%) Norwegian young peopleenrol init (Norwegian Directoratefor Education & Training, 2017) and all of them
+have a statutory right to do so (The Education Act, 1998). Responsibility for primary and lower-secondary education rests with
+municipalities (local authorities) while counties are responsible for upper-secondary education.
+4.2. From class size to teacher density in Norwegian educational policy
+Before 2003, Norwegian schools had a class-size limit of 18 students in grade 1, 28 students in grades 2–7 and 30 students at
+lower-secondary school. However, by 2003, many schools did not operate with defined classes but varied the groups and group sizes
+throughout the day. Hence many responsible authorities found the class-size limit too rigid, which is why the rule was abolished.
+However,thereseemedtoremainaconsensus,acrosspoliticaldivides,abouttheimportanceofahighPTRatprimaryschool,andone
+Section (1.3) of the Education Act (1998) providing that municipalities have an obligation to ensure a particularly high teacher
+density in grades 1–4 in the subjects of Norwegian, Sami and mathematics was kept despite the reform. In addition, the amount of
+fundingearmarkedforprimary-schoolteachershasincreasedsteadilyoverthepastyearsinordertostrengtheneffortsinthefieldsof
+early intervention and enhanced learning by students. Even so, because of differences in PTR across schools and municipalities, the
+teachers’ union (i.e. Union of Education Norway), the national parents’ committee and the national association of school students
+kept arguing for a common “teacher norm”.
+The debate about increased teacher density at Norwegian schools has reflected diverging opinions. One side founds its arguments
+on studies using natural experimental approaches to the issue of reduced class size (e.g. Leuven & Løkken, 2017). Based on those
+studies, they argue against a major increase in public resources spent on increased teacher density as the effects on student outcomes
+in Norwegian schools are uncertain and will probably be limited (see e.g. Kirkebirkeland, 2017). However, it has been claimed that
+natural experiments of this kind are hardly relevant to policy as their conclusions are based on arbitrary variations in class size, and
+that schools might need more predictability to make use of an increased teacher density in ways that influence students’ motivation
+and academic achievement (Rege & Solheim, 2017). The other side, which includes the teachers’ union, have argued that the
+flexibility inherent in increased teacher density may have additional effects compared with a reduced class size per se (see e.g.
+Handal, 2017). Finally, it has been pointed out that there is a lack of studies evaluating good practice, i.e. trying to determine how
+increased teaching resources should be applied to have a maximum impact on teacher–student interaction and student outcomes
+(Rege & Solheim, 2017).
+Recently, common efforts by the teachers’ union, the national parents’ committee and the national association of school students
+have resulted in a policy decision to increase teacher density; a teacher norm was introduced in Norwegian schools starting in the
+2018/2019academicyear(Ministry ofEducation&Research, 2018).Underthisteachernorm, teacherdensityingrades1–4maynot
+exceed 1:16 in 2018/2019 and 1:15 from 2019/2020 onwards. While this policy change reduces the flexibility and autonomy of
+responsibleauthoritiestosomeextent,schoolsandteachershavewelcomedthefactthattheyarenowfreetoorganizestudentgroups
+inthewaytheyfindbest, forexamplebyreducingclasssizesorbydeployingmorethanoneteacherintheclass.Forthisreason,they
+find the teacher norm more flexible than the previous class-size limit1
+.
+4.3. Norwegian research initiatives relating to teacher density
+As Norway places strong emphasis on providing high-quality education for all and has a high level of expenditure, substantial
+resources are devoted to educational research. Recent years have seen growing governmental interest in research that provides
+knowledge about the causal effects of particular factors in the educational sector (Pontoppidan et al., 2018). The need for more
+knowledge about “what works” and “why it works” has resulted in several initiatives from the Ministry of Education and Research
+(Ministry of Education & Research, 2013b, 2017). Given that the efficacy (or otherwise) of increased teacher density might not be
+directly inferable from the previous studies on CSR, funding was allocated to research into the impact of increased teacher density
+(Ministry of Education & Research, 2015). A special Teacher Density and Student Achievement Initiative (Norwegian short name:
+“LÆREEFFEKT”) was assigned an overall budget of NOK 490.5 million (equivalent to approximately 49 million Euro) over a four-
+year period (2016–2020) and was established as a specific research activity at the Research Council of Norway, with the Division for
+Society and Health given overall responsibility for the project.
+The objective of this initiative is to generate knowledge about the effects of increased teacher density in lower-primary school
+(grades 1–4, ages 6–10) and to provide new insights into how students’ learning and learning environment are affected by different
+ways of using more teaching staff at schools (The Research Council of Norway, 2015). In 2015, the initiative called for project ideas
+that would test various ways of increasing teacher density, such as interventions using a two-teacher system, one-on-one teaching,
+teaching in small groups or increased teacher density for special groups of students. Further subjects deemed relevant were the study
+of the impact of specific teaching methods and the raising of competency related to increased teacher density. The research
+1 The implementation of a teacher norm introduces a range of other challenges which have been heavily debated. For example, it may be difficult
+to recruit qualified teachers, especially in rural areas. However, those other challenges will not be discussed in the present article, as its focus is on
+opportunities for flexibility in the organization of schools and teaching rather than on practical consequences of the teacher norm.
+149
+O.J. Solheim, V. Opheim International Journal of Educational Research 96 (2019) 146–153
+Fig. 1. Study design of the Two Teachers project.
+programme gave top priority to randomized controlled trials (RCTs) investigating the effects on student learning outcomes and
+learning environments in a short- and long-term perspective (The Research Council of Norway, 2015). Following a competitive
+process, the initiative decided to fund two large-scale RCTs: Two Teachers: Increasing the opportunities for differentiated reading in-
+struction(short name: Two Teachers) and 1+1SmallgroupInstructioninMathematics(short name: 1+1). Both RCTs investigate the
+effect of deploying an additional teacher during specific lessons, but in different subjects and using different approaches. In this way,
+the projects provide knowledge about how additional teacher resources can be used to enhance learning in a specific subject. This
+means that Norway is responding to the above-mentioned call by Blatchford (2011) for a third generation of research encompassing
+projects that evaluate effective teaching and pedagogies when PTR is reduced as well as Friend et al.’s (2010) recommendation to
+evaluate whether certain co-teaching practices are effective for specific subjects and age groups.
+4.3.1. Two Teachers
+The Two Teachers project investigates individual and complementary effects of increased teacher density in the form of a two-
+teacher system, professional development for teachers and specific approaches to co-teaching (Solheim, Rege, & McTigue, 20172).
+The project involved 150 schools in 53 municipalities across the southern part of Norway. At each school there was one treatment
+class and one control class. The treatment classes received an additional teacher in Norwegian lessons, 8×45min a week, for 38
+weeks, in grades 1 and 2. The control classes received no additional teaching resources. The participating schools were further
+divided into three different conditions. The 50 schools in condition 0 represented a “business as usual” situation. The 100 schools in
+conditions1and2participatedinaprogrammeforprofessionaldevelopmentinliteracyinstruction,andthe50schoolsincondition2
+also received additional instructions on how to use the extra teacher in the treatment class (Fig. 1).
+Inconditions 0and1,teachersintreatmentclasseswerefreetochoose theirco-teachingpractices,resultingintypicalratherthan
+model approaches to co-teaching. In condition 2, by contrast, specific guidelines for how the extra teaching resources should be used
+in the treatment class were provided (i.e. model practices). The practices recommended had been chosen to exploit the opportunities
+that having an additional teacher offers when it comes to implementing organizational and instructional approaches which make it
+possibletotailortheinstructiontothestudents’individualneeds(suchasregularinformalassessmentofskillsandmotivationaswell
+as guided reading in achievement-level groups).
+The treatment effects on the students’ motivation and literacy skills will be evaluated immediately after the intervention and at a
+two-year follow-up. Supplementary analyses will further explore whether teachers’ experiences with and approaches to co-teaching
+moderate any effect (if found). Further, the resulting teaching practices and teachers’ experiences are approached qualitatively by
+means of teacher interviews and classroom observations.
+4.3.2. 1+1
+The main goal of the 1+1 project is to study the effects of small-group instruction on students’ skills in mathematics. This
+2 Owing to the policy change enacting the teacher norm, which took place while the Two Teacher project was still running, the design had to be
+changed compared with the original plan as reported in the study protocol. Concretely, the duration of intervention was reduced from 4 to 2 years;
+interventions were terminated after the 2017/2018 academic year.
+150
+O.J. Solheim, V. Opheim International Journal of Educational Research 96 (2019) 146–153
+Fig. 2. Study design of the 1+1 project.
+ongoing project is aimed at students at lower-primary school (grades 2–4) and takes place in ten of Norway’s largest municipalities.
+The project includes a total of 162 schools.
+To investigate whether small-group instruction in mathematics improves students’ skills in mathematics, an RCT is being carried
+out during four academic years (2016–2020). The schools are divided into two groups of equal size – a treatment group (80 schools)
+and a comparison group (82 schools). The treatment-group schools receive the resources needed to employ one full-time teacher3
+qualified to teach mathematics. The schools in the comparison group carry on their normal practice without receiving any additional
+resources.
+The additional teacher at the treatment schools is instructed to pull out one group of students a time for tuition in a separate
+classroom. Pull-out groups consist of no more than 6 students and are maintained for 4–6 weeks before a new group of students are
+pulled out. Group composition may vary across the academic year, but all students should have received two periods of small-group
+instructioninmathematicsbytheendoftheyear.Thistreatmentincludesanelementofreducedclasssize,astheremainingclasswill
+naturally be reduced in size when a group of students receive small-group instruction in a separate classroom. Students in two
+differentgradesareincludedintheprojecteachacademicyear;atotaloffourcohortsareincludedintheoverallintervention.Oneof
+those cohorts participates in the intervention for only one academic year, while the other three participate for two or three years.
+Fig. 2 illustrates the main features of the design of the 1+1 project. This design allows ample analyses of students’ age, length of
+treatment and implementation quality during the four years of interventions.
+Students’ skills in mathematics are measured through short tests before and during the intervention (pre-test, intermediary tests),
+and the Norwegian national test in numeracy for fifth-grade students will serve as a post-test for all four cohorts of students.
+5. Concluding remarks
+We have seen in this paper that several issues, beyond the themes considered in previous class-size research, become important
+when a reduced PTR is conceptualized in more flexible ways. For instance, the choice of organizational format and the type of
+collaborative teaching must be considered to fully understand factors that might affect implementation. The carefully designed
+studies in the major Norwegian research initiative described in this paper will add to the knowledge base in substantial ways. First
+and foremost, those studies represent innovative approaches to the study of a reduced PTR. Further, as much existing research is
+becomingdatedandthemajorityofitwas conductedinalimitedsetofcountries (theUnitedStates,theUnitedKingdom,Franceand
+Hong Kong), they provide more up-to-date information from new contexts. Insights from present-day classrooms in various educa-
+tional contexts are urgently needed to revitalize the debate about the PTR.
+The two projects presented also offer more data on implementation than has often been the case in previous studies of class size.
+Close collaboration with the participating schools and responsible authorities will provide insights into the barriers and drivers that
+come into play when new forms of collaboration, organizational structures and learning methods are implemented in schools. Both
+projects involve a frequent dialogue and regular feedback meetings with the participating schools and municipalities, which is likely
+3 The schools have employed either one full-time teacher or two teachers who spend 50% of their time on the 1 + 1 project. At 26 of the 80
+treatment schools, there are two teachers who share the task of conducting small-group instruction in mathematics (they often take on students in
+one grade each, as the project includes students in two grades each year).
+151
+O.J. Solheim, V. Opheim International Journal of Educational Research 96 (2019) 146–153
+toensuretheir relevance onvarious levels. Also,both projectscollect dataontreatment fidelitythroughout theproject period,which
+makes it possible to conduct studies of whether fidelity to the intervention is stable or varies. For instance, it may be interesting to
+know to what extent treatment fidelity varies during the project period or across participating schools and municipalities.
+Additionally, the longitudinal approach of both projects entails a unique opportunity to investigate whether teachers change their
+approaches to co-teaching over time (as they gain more experience).
+In previous research, different explanations have been suggested for the failure to find increased student achievement in small
+classes and co-taught classes. Those explanations frequently highlight a lack of training in the approach taken (both CSR and co-
+teaching) and a lack of common planning time (co-teaching only). The underlying objective of conducting RCTs with multiple levels
+of data (e.g. teachers, students, administrators) and multiple conditions (e.g. with or without additional training) is to confirm or
+refute such explanations.
+Also, following Blatchford (2011) suggestion, the Two Teachers project evaluates the effect of increased teacher density along
+with (though separable from) another approach that is expected to influence student learning, namely professional development for
+teachers. Recent reviews suggest that teachers’ instructional practices might be more important than class size for improving student
+learning (see e.g. Konstantopolous & Chung, 2011). For this reason, we have chosen to implement a programme for professional
+development (“Language Track”) which has been designed on the basis of characteristics found to be essential when it comes to
+increasing knowledge and practice, including collective participation, active learning, content focus, coherence and duration (Stoll,
+Bolan, McMahon, Wallace, & Thomas, 2006). More knowledge about the potential benefits of investing in professional development
+compared with those of investing in increased teacher density might guide educational policy in terms of how resources should be
+used in an educationally effective manner.
+Finally, although both projects will provide new and important knowledge about the effects of increased teacher density, there
+willstill be aneed forfurther researchonthis topic, inrelation toother types ofco-teaching approaches, classroom organization, age
+groups and subjects. Also, to understand the interactions between teacher density and teachers’ instructional practices and to gain
+more knowledge about factors that potentially mediate or moderate any effect on students’ learning outcome, future research would
+benefit from studies that combine achievement data with systematic observations of classroom practices.
+Funding source
+This work is funded by The Research Council of Norway, Research Programme “LÆREEFFEKT”, grant numbers: 256197 and
+256217.
+References
+Achilles, C. M. (2000). Should class size be a corner stone for educational policy. The National Center on Education in the Inner Cities (CEIC) Review, 9(2), 15–23.
+Alexander, R. (1997). Policy and practice in primary education: Locale initiative, national agenda. London: Routledge.
+Anderson, L. (2000). Why should reduced class size lead to increased student achievement? In M. C. Wang, & J. D. Finn (Eds.). Howdosmallclasshelpteachersdotheir
+best? (pp. 3–24). Philadelphia, PA: Temple University Center for Research in Human Development and Education.
+Ankrum, J. W., & Bean, R. M. (2008). Differentiated reading instruction: What and how. Reading Horizons, 48(2), Retrieved from http://scholarworks.wmich.edu/
+reading_horizons/vol48/iss2/6.
+Biddle, B. J., & Berliner, D. C. (2002). Small class size and its effects. Educational Leadership, 5(5), 12–23.
+Blatchford, P. (2011). The Three generations of research on class size effects. In K. R. Harris, S. Graham, & T. Urdan (Eds.). The American psychological association
+educational psychological handbook. Washington, DC: American Psychological Association.
+Blatchford, P., Bassett, P., & Brown, P. (2008). Do low attaining and younger students benefit most from small classes? Results from a systematic observation study of
+class size effects on pupil classroom engagement and teacher pupil interaction. Paper Presented at the American Educational Research Association Annual Meeting.
+Blatchford, P., Bassett, P., Goldstein, H., & Martin, C. (2003). Are class size differences related to pupils’ educational progress and classroom processes? Findings from
+the institute of education class size study of children aged 5–7 years. British Educational Research Journal, 29(5), 709–730. https://doi.org/10.1080/
+0141192032000133668.
+Cadima,J.,Leal,T.,&Burchinal,M.(2010).Thequalityofteacher–Studentinteractions:Associationswithfirstgraders’academicandbehavioraloutcomes.Journalof
+School Psychology, 48(6), 457–482. https://doi.org/10.1016/j.jsp.2010.09.001.
+Connor, C. M., Morrison, F. J., Fishman, B., Crowe, E. C., Al Otaiba, S., & Schatschneider, C. (2013). A longitudinal cluster-randomized controlled study on the
+accumulatingeffectsofindividualizedliteracyinstructiononstudents’readingfromfirstthroughthirdgrade.PsychologicalScience,24(8),1408–1419.https://doi.
+org/10.1177/0956797612472204.
+Cooper, H. M. (1989). Does reducing student-to-teacher ratios affect achievement? Educational Psychologist, 24(1), 79–98. https://doi.org/10.1207/
+s15326985ep2401_3.
+Coyne, M. D., Simmons, D. C., Hagan-Burke, S., Simmons, L. E., Kwok, O., Kim, M., & Rawlinson, D. A. (2013). Adjusting beginning reading intervention based on
+student performance: An experimental evaluation. Exceptional Children, 80(1), 25–44. https://doi.org/10.1177/001440291308000101.
+Curby, T. W., Rimm-Kaufman, S. E., & Ponitz, C. C. (2009). Teacher–child interactions and children’s achievement trajectories across kindergarten and first grade.
+Journal of Educational Psychology, 101(4), 912-925. https://doi.org/10.1037/a0016647.
+The Education Act (1998): Retrieved 15.10.2017 from: https://lovdata.no/dokument/NL/lov/1998-07-17-61. In English: https://www.regjeringen.no/contentassets/
+b3b9e92cce6742c39581b661a019e504/education-act-norway-with-amendments-entered-2014-2.pdf.
+Ehrenberg, R. G., Brewer, D. J., Gamoran, A., & Willms, J. D. (2001). Class size and student achievement. Psychological Science in the Public Interest, 1–30. https://doi.
+org/10.1111/1529-1006.003.
+Finn, J. D., & Achilles, C. M. (1999). Tennesees class size study: Findings, implications, misconceptions. Education Evaluation and Policy Analysis, 21(2), 97–109.
+https://doi.org/10.3102/01623737021002097.
+Finn, J. D., Pannozzo, G. M., & Achilles, C. M. (2003). The “why’s” of class size: Student behavior in small classes. Review of Educational Research, 73(3), 321–368.
+https://doi.org/10.3102/00346543073003321.
+Friend, M., & Cook, L. (2016). Interactions: Collaboration skills for school professionals (8 th ed.). Boston: Pearson Education Inc.
+Friend,M.,Cook,L.,Hurley-Chamberlain,D.,&Schamberger,C.(2010).Co-teaching:Anillustrationofthecomplexityofcollaborationinspecialeducation.Journalof
+Educational and Psychological Consultation, 20(1), 9–29. https://doi.org/10.1080/10474410903535380.
+Handal, S. (2017). Klassestørrelse har noe å si [Class size matters]. April 4 Dagbladet. Retrieved from https://www.dagbladet.no/kultur/klassestorrelse-har-noe-a-si/
+152
+O.J. Solheim, V. Opheim International Journal of Educational Research 96 (2019) 146–153
+67454850.
+Hanushek, E. A. (1999). Some findings from an independent investigation of the Tennessee STAR experiment and from other investigations of class size effects.
+Educational Evaluation and Policy Analysis, Special Issue: Class Size: Issues and New Findings, 21(2), 143–163. https://doi.org/10.3102/01623737021002143.
+Hattie, J. (2005). The paradox of reducing class size and improving learning outcomes. International Journal of Educational Research, 43(6), 387–425. https://doi.org/
+10.1016/j.ijer.2006.07.002.
+Hattie, J., & Timperley, H. (2007). The power of feedback. Review of Educational Research, 77(1), 81–112. https://doi.org/10.3102/003465430298487.
+Idol, L. (2006). Towards inclusion of special education students in general education: A program evaluation of eight schools. Remedial and Special Education, 27(2),
+77–94. https://doi.org/10.1177/07419325060270020601.
+Kirkebirkeland, M. (2017). Klassestørrelse har ingenting å si [Class size does not matter]. March 30 Dagbladet. Retrieved from https://www.dagbladet.no/kultur/
+klassestorrelse-har-ingen-ting-a-si/67444441.
+Konstantopolous, S., & Chung, V. (2011). The persistence of teacher effects in elementary grades. AmericanEducational Research Journal, 48(2), 361–386. https://doi.
+org/10.3102/0002831210382888.
+Leuven, E., & Løkken, S. (2017). Long term impacts of class size in compulsory school. IZA discussion paper No. 10594. Available at SSRN: https://ssrn.com/abstract=
+2931331.
+Ministry of Education and Research (2013a). The education system. Retrieved 15.10.2017 from:https://www.regjeringen.no/en/topics/education/school/the-
+norwegian-education-system/id445118/.
+Ministry of Education and Research (2013b). Lange linjer. Kunnskap gir muligheter. [Long term perspectives – Knowledge provides opportunities]. Meld.ST 18 (2012-2013)
+Report to the Storting (White Paper)Oslo: Ministry of Education and Research.
+Ministry of Education and Research (2015, January 9). Oppdragsbrev til Forskningsrådet. [Letter of asignment to the Norwegian Research Council]. Retrieved from:
+https://www.forskningsradet.no/prognett-lareeffekt/Sentrale_dokumenter/1254009052056.
+Ministry of Education and Research (2017). Lærelyst – Tidlig innsats og kvalitet i skolen [Desire to learn - Early Intervention and Quality in Schools]. Meld.ST 21 (2016-
+2017): Report to the Storting (White Paper)Oslo: Ministry of Education and Research.
+Ministry of Education and Research (2018, June 27). Nye regler: Innføring av lærernorm i grunnskolen [New rules: Introduction of a teacher norm in primary and
+lower-secondary schools schools] [Press release]. Retrieved from: https://www.regjeringen.no/no/aktuelt/larernorm/id2608687/.
+Murawski,W.W.(2006).Studentoutcomesinco-taughtsecondaryEnglish-classes:Howcanweimprove?ReadingandWritingQuarterly,22,227–247.https://doi.org/
+10.1080/10573560500455703.
+Murawski, W. W., & Swanson, H. L. (2001). A meta-analysis on co-teaching. What are the data? Remedial and Special Education, 22(5), 258–267. https://doi.org/10.
+1177/074193250102200501.
+NorwegianDirectorateforEducationandTraining(2017).Utdanningsspeilet2017.TalloganalyseavbarnehageroggrunnopplæringeniNorge.[theEducationMirror2017.
+Figures and analyses of Kindergartens, Primary and Secondary Schools]. Retrieved from: http://utdanningsspeilet.udir.no/2017/.
+Pate-Bain, H., Achilles, C. M., Boyd-Zaharias, J., & McKenna, B. (1992). Class size does make a difference. Phi Delta Kappan, 74, 253-256.
+Pontoppidan, M., Keilow, M., Dietrichson, J., Solheim, O. J., Opheim, V., Gustafson, S., ... Andersen, S. C. (2018). Randomised controlled trials in Scandinavian
+educational research. Educational Research, 60(3), 311–335. https://doi.org/10.1080/00131881.2018.1493351.
+Rea, P. J.,McLaughlin, V. L., & Walter-Thomas, C. (2002). Outcomes for students with learningdisabilities in inclusive and pullout programs. ExceptionalChildren,68,
+203–222. https://doi.org/10.1177/001440290206800204.
+Rege, M., & Solheim, O. J. (2017). Kunnskap om lærertetthet. [Knowledge about teacherdensity]. April 28 Morgenbladet. Retrieved from https://morgenbladet.no/ideer/
+2017/04/kunnskap-om-laerertetthet.
+Schumm,J.S.,Moody,S.W.,&Vaughn,S.(2000).GroupingforReadingInstructionDoesOneSizeFitAll?JournalofLearningDisabilities,33(5),477–488.https://doi.
+org/10.1177/002221940003300508.
+Schumm, J. S., & Vaughn, S. (1995). Meaningful professional development in accommodating students with disabilities: Lessons learned. Remedial and Special
+Education, 16(6), 344–353.
+Slavin, R. E. (1989). Class size and student achievement: Small effects of small classes. Educational Psychologist, 24(1), 99–110. https://doi.org/10.1207/
+s15326985ep2401_4.
+Solheim, O. J., Rege, M., & McTigue, E. (2017). Study protocol: “Two Teachers” A randomized controlled trial investigating individual and complementary effects of
+teacher-student ratio in literacy instructionand professional development for teachers. InternationalJournalofEducationalResearch,86, 122–130. https://doi.org/
+10.1016/j.ijer.2017.09.002.
+Statistics Norway (2017). Key figures in education. Retrieved from:https://www.ssb.no/en/utdanning/nokkeltall.
+Stoll,L., Bolan, R., McMahon, A., Wallace, M., & Thomas, S. (2006).Professional learning communities: A review of the literature. JournalofEducationalChange,7(4),
+221–258. https://doi.org/10.1007/s10833-006-0001-8.
+The Research Council of Norway (2015). Teacher Density and StudentAchievement (LÆREEFFEKT). Framework for the research initiative on the impact of more teachers in
+schools. Retrieved from:https://www.forskningsradet.no/en/Funding/LEREEFFEKT/1254010932599.
+Walpole, S., McKenna, M. C., & Corley, M. A. (2007). Differentiated reading instruction. NY: Gilford.
+153

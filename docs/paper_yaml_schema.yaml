@@ -5,11 +5,21 @@
 title: str(required=True)
 authors: str(required=True) 
 paper_link: regex(r'^https?://.+', required=True)
-slug: str(required=True)
 abstract: str(required=False)
 publication_date: date(required=False)
 erct_level: int(min=0, max=3, required=True)
 rct: bool(required=True)
+pdf_link: str(required=False)
+doi: str(required=False)
+journal: str(required=False)
+date_erct_check: date(required=False)
+tags: list(enum('mathematics', 'reading', 'L2 languages', 'pay-to-learn', 'homework', 'science', 
+              'social studies', 'language arts', 'arts', 'pre-K', 'kindergarten', 'K12', 
+              'higher education', 'adult education', 'US', 'UK', 'Africa', 'China', 'Asia', 
+              'EU', 'Canada', 'Latam', 'Australia', 'gamification', 'flipped classroom', 
+              'parent involvement', 'project-based learning', 'blended learning', 
+              'EdTech website', 'EdTech app', 'EdTech platform', 'online homework', 
+              'digital assessment', 'mobile learning'), required=False)
 
 # Criteria substructure
 criteria: include('criteria')

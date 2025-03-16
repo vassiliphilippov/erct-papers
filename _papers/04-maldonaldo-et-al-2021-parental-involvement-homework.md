@@ -4,7 +4,6 @@ title: >-
   trials in financial education
 authors: "Joana Elisa Maldonado, Kristof De Witte, Koen Declercq"
 paper_link: "https://doi.org/10.1007/s00181-021-02058-8"
-slug: "maldonado-et-al-2021-parental-involvement-homework"
 abstract: >-
   This paper provides causal evidence on parental involvement in a financial
   education course. Two randomised controlled trials were conducted with 2779

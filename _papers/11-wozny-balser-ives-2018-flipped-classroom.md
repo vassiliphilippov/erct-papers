@@ -2,7 +2,6 @@
 title: "Evaluating the Flipped Classroom: A Randomized Controlled Trial"
 authors: "Nathan Wozny, Cary Balser, and Drew Ives"
 paper_link: "https://www.tandfonline.com/doi/pdf/10.1080/00220485.2018.1438860"
-slug: "wozny-balser-ives-2018-flipped-classroom"
 abstract: >-
   Despite recent interest in flipped classrooms, rigorous research evaluating
   their effectiveness is sparse. In this study, the authors implement a
@@ -25,7 +24,7 @@ journal: "The Journal of Economic Education"
 date_erct_check: "2025-03-09"
 tags:
   - flipped classroom
-  - university level
+  - higher education
   - US
 criteria:
   c:
@@ -71,8 +70,15 @@ criteria:
       They used custom course assessments (quizzes, midterms, final) rather than a
       recognized standard exam.
     quote: >-
-      “...short-term, medium-term, and long-term assessments all were designed and
-      administered by the authors for this specific course...”
+      “Six classes ended with an online, unannounced, ungraded
+      formative assessment testing comprehension of content
+      covered in approx. three lessons preceding the
+      assessment. Four announced, written graded exams
+      administered throughout the semester measured
+      medium-term comprehension, and a comprehensive
+      final exam administered at the end of the semester
+      measured long-term comprehension.”
+      (pp. 2-3)
     analysis: >-
       RELEVANT QUOTES:
       1) “We estimate a positive and statistically significant impact… on
@@ -144,7 +150,12 @@ criteria:
       They only randomized sections within one single institution, not entire
       schools.
     quote: >-
-      “...random assignment was done by section and lesson rather than school-level...”
+      “Each of the 137 students enrolled in the course was
+      assigned to one of seven sections (each meeting at a
+      different time), and after assignment, we randomly
+      assigned each combination of section and experimental
+      lesson to a treatment condition (flipped classroom) or
+      a control condition (traditional lecture).”
       (p. 2)
     analysis: >-
       RELEVANT QUOTES:
@@ -164,8 +175,10 @@ criteria:
       They only assessed econometrics-specific outcomes, not a full set of academic
       subjects.
     quote: >-
-      “...the effect on an introductory undergraduate econometrics course... no
-      mention of measuring other subjects.” (p. 2)
+      “We measure performance on short-term, medium-term, and a
+      comprehensive final exam in an introductory undergraduate
+      econometrics course.”
+      (p. 2)
     analysis: >-
       RELEVANT QUOTES:
       1) “We measure performance on short-term, medium-term, and a comprehensive
@@ -224,8 +237,9 @@ criteria:
       They only track students up through the final exam of the course, not until
       graduation.
     quote: >-
-      “...the final exam was administered at the end of the semester... no subsequent
-      tracking...” (p. 3)
+      “A comprehensive written final exam administered at the
+      end of the semester measured long-term comprehension.”
+      (p. 3)
     analysis: >-
       RELEVANT QUOTES:
       1) “A comprehensive written final exam administered at the end of the semester

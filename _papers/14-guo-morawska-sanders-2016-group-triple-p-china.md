@@ -4,7 +4,6 @@ title: >
   Parents in Mainland China
 authors: "Mingchun Guo, Alina Morawska, and Matthew R. Sanders"
 paper_link: "https://doi.org/10.1177/0145445516644221"
-slug: "guo-morawska-sanders-2016-group-triple-p-china"
 abstract: >-
   This study evaluated the effects of Group Triple P with Chinese parents on
   parenting and child outcomes as well as outcomes relating to child academic

@@ -4,7 +4,6 @@ title: "Replicability of sight word training and phonics training in poor
 authors: "G McArthur, S Kohnen, K Jones, P Eve, E Banales, L Larsen and A
   Castles"
 paper_link: "https://doi.org/10.7717/peerj.922"
-slug: "mcarthur-et-al-2015-sight-word-phonics-rct"
 abstract: >-
   Given the importance of effective treatments for children with reading
   impairment, paired with growing concern about the lack of scientific

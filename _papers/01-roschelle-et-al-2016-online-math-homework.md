@@ -2,7 +2,6 @@
 title: "Online Mathematics Homework Increases Student Achievement"
 authors: "Jeremy Roschelle, Mingyu Feng, Robert F. Murphy, and Craig A. Mason"
 paper_link: "https://doi.org/10.1177/2332858416673968"
-slug: "roschelle-et-al-2016-online-math-homework"
 abstract: >-
   In a randomized field trial with 2,850 seventh-grade mathematics students, 
   the authors evaluated whether an educational technology intervention (ASSISTments) 

@@ -4,7 +4,6 @@ title: >-
   literacy program to boost phonological skills in 4- to 6-year-old children
 authors: "Paul O’Callaghan, Aimee McIvor, Claire McVeigh, Teresa Rushe"
 paper_link: "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjep.12122"
-slug: "ocallaghan-et-al-2016-early-literacy-lexia-rct"
 abstract: >-
   Many school-based interventions are being delivered in the absence of evidence 
   of effectiveness. This study sought to address this oversight by evaluating 
@@ -222,7 +221,8 @@ criteria:
       2) “The trial was ended after the intervention group had received one block of
       intervention support. … T2 was 2-month follow-up.” (p. 551)
       
-      Thus, G is not met.
+      No additional data or independent follow-up studies were found tracking participants through
+      to graduation. Therefore, Criterion G is not met.
   r:
     met: true
     explanation: >-

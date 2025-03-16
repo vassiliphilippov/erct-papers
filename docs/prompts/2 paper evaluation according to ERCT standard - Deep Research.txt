@@ -1,0 +1,977 @@
+Follow the provided instructions to check the provided paper against the ERCT standard.
+The following text provides the detailed instructions how to do that.
+
+# Table of Contents
+1. Background
+2. Step-by-Step Instructions
+2.1 Extract General Information
+2.2 Is this an RCT?
+2.3 Extract Tags
+2.4 Analyze 12 Criteria
+2.5 Assign ERCT Level
+2.6 Output the final YAML
+3. Output Specification
+3.1 Output Format
+3.2 Maximum Line Length
+3.3 YAML Schema
+3.4 Criteria Field Description
+3.4.1 Analysis Field
+3.4.2 Explanation Field
+3.4.3 Quote Field
+3.4.4 Met Field
+3.4.5 Criteria Specific Instructions
+4. Output Examples
+4.1 Example 1
+4.2 Example 2
+5. Your Task
+
+
+# 1. Background
+
+I have developed the ERCT Standard; see attached. The ERCT Standard is designed to valuate educational RCT research papers
+against additional criteria.
+
+Please check the attached paper (I have provided both PDF and text versions). 
+
+I want you to check this paper against the ERCT standard following the provided step by step instructions 
+and produce the results report in the specified YAML file format.
+
+# 2. Step-by-Step Instructions
+
+## 2.1 Extract General Information
+Find and write in the format of my YAML file the following general information about the paper:
+* title
+* authors
+* abstract
+* publication_date
+* doi
+* journal
+* paper_link - file the link to the original paper
+* pdf_link - a link to the PDF version of the paper if it is available, otherwise leave blank
+* date_erct_check - today's date
+
+
+## 2.2 Is this an RCT?
+Determine whether this paper reports an original RCT in education that measures educational outcomes 
+(it will be needed for the "rct" parameter for the final YAML).
+
+## 2.3 Extract Tags
+Choose which of the possible tags are relevant for this paper and output the results as a YAML section.
+Choose relevant tags only from the provided list, and if multiple apply, include all appropriate tags exactly as listed.
+
+List of possible tags:
+* mathematics
+* reading
+* L2 languages
+* pay-to-learn
+* homework
+* science
+* social studies
+* language arts
+* arts
+* pre-K
+* kindergarten
+* K12
+* higher education
+* adult education
+* US
+* UK
+* Africa
+* China
+* Asia
+* EU
+* Canada
+* Latam
+* Australia
+* gamification
+* flipped classroom
+* parent involvement
+* project-based learning
+* blended learning
+* EdTech website
+* EdTech app
+* EdTech platform
+* online homework
+* digital assessment
+* mobile learning
+ 
+
+## 2.4 Analyze 12 Criteria
+For each of 12 criteria perform a comprehensive analysis including:
+* finding and output ALL relevant quotes from the paper in ABSOLUTELY VERBATIM form. include ALL relevant quotes exactly as they appear in the 
+paper (with page numbers if available) and include all of them in the analysis field.
+* output detailed analysis based on the criterion description from the standard and the relevant quotes and general paper content if this criterion is met or not and why
+* output final one sentence explanation whether this criterion is met or not and why
+* output the most relevant quote
+* output the final verdict
+* output a complete criterion section in YAML format following my specification
+
+## 2.5 Assign ERCT Level
+Based on the ERCT standard levels and your findings about the 12 criteria assign correct erct_level to the paper.
+By default set erct_level to 0.
+If all level 1 criteria are met (C, E, T, D), set erct_level to 1.
+If in additional to all level 1 criteria also all level 2 criteria are met (S, A, Y, B), set erct_level to 2.
+If in additional to all level 1 and 2 criteria also all level 3 criteria are met (G, R, I, P), set erct_level to 3.
+
+## 2.6 Output the final YAML
+Output the final YAML following my output specification. 
+
+# 3. Output Specification
+
+## 3.1 Output Format
+Your output should be a markdown file for GitHub pages with valid YAML inside.
+
+## 3.2 Maximum Line Length
+Ensure each line does not exceed 70 symbols, use line breaks to make the text more readable.
+
+## 3.3 YAML Schema
+Your YAML should follow the following schema:
+```
+# Yamale schema for paper front matter (schema.yaml)
+# To validate: yamale -s schema.yaml _papers/your-paper.md
+
+# Top level structure
+title: str(required=True)
+authors: str(required=True) 
+paper_link: regex(r'^https?://.+', required=True)
+abstract: str(required=False)
+publication_date: date(required=False)
+erct_level: int(min=0, max=3, required=True)
+rct: bool(required=True)
+pdf_link: str(required=False)
+doi: str(required=False)
+journal: str(required=False)
+date_erct_check: date(required=False)
+tags: list(enum('mathematics', 'reading', 'L2 languages', 'pay-to-learn', 'homework', 'science', 
+              'social studies', 'language arts', 'arts', 'pre-K', 'kindergarten', 'K12', 
+              'higher education', 'adult education', 'US', 'UK', 'Africa', 'China', 'Asia', 
+              'EU', 'Canada', 'Latam', 'Australia', 'gamification', 'flipped classroom', 
+              'parent involvement', 'project-based learning', 'blended learning', 
+              'EdTech website', 'EdTech app', 'EdTech platform', 'online homework', 
+              'digital assessment', 'mobile learning'), required=False)
+
+# Criteria substructure
+criteria: include('criteria')
+
+# Definition of criteria structure
+---
+criteria:
+  c: include('criterion')
+  e: include('criterion')
+  t: include('criterion')
+  d: include('criterion')
+  s: include('criterion')
+  a: include('criterion')
+  y: include('criterion')
+  b: include('criterion')
+  g: include('criterion')
+  r: include('criterion')
+  i: include('criterion')
+  p: include('criterion')
+
+# Individual criterion definition  
+---
+criterion:
+  met: bool(required=True)
+  explanation: str(required=True)
+  quote: any(required=False)
+  analysis: str(required=True)
+
+```
+
+## 3.4 Criteria Field Description
+
+### 3.4.1 Analysis Field
+The "analysis" field should have the following structure:
+* first it should start from listing all relevant quotes from the paper in ABSOLUTELY VERBATIM form. include ALL relevant quotes exactly as they appear in the 
+paper (with page numbers if available) and include all of them in the analysis field.
+* then it should have a detailed analysis based on the criterion description from the standard and the relevant quotes and general paper content if this criterion is met or not and why
+* then it should provide the final one sentence summary
+
+Here is a typical structure of the analysis field:
+```
+analysis: >-
+  Relevant Quotes:
+
+  1) "Quote 1..." (p. X)
+
+  2) "Quote 2..." (p. Y)
+
+  Detailed Analysis:
+  
+  Detailed analysis follows here, explaining how the quotes relate to the criterion...
+
+  Final sentence explaining if criterion X is met/not met because...
+```
+
+Note empty lines between quotes and all paragraphs in this field
+
+### 3.4.2 Explanation Field
+The "explanation" field should be a one sentence summary of the analysis.
+
+### 3.4.3 Quote Field
+The "quote" field should be the most relevant quote from the paper that supports the analysis.
+If no relevant quote is available for a criterion, set the “quote” field to null.
+
+### 3.4.4 Met Field
+The "met" field should be true if the criterion is met and false if it is not.
+
+### 3.4.5 Criteria Specific Instructions
+
+#### Criterion B:
+In your analysis, compare the nature, quantity, and quality of resources 
+(e.g., time, budget, materials) provided to both intervention and control 
+conditions, including within-subjects baseline periods. Describe whether 
+the control condition offers a comparable substitute for the intervention’s 
+inputs (e.g., equivalent educational time or alternative activities). 
+If not, explain how this imbalance affects the study’s ability to isolate 
+the intervention’s effect, unless the study explicitly tests additional 
+resources as the treatment variable (quote evidence of this intent).
+
+#### Criterion A:
+If criterion E (Exam-based Assessment) is not met, then this criterion is not met either.
+
+#### Criterion Y:
+If criterion T (Term Duration) is not met, then this criterion is not met.
+
+#### Criterion G:
+If criterion Y (Year Duration) is not met, then this criterion is not met.
+
+#### Criterion G:
+The results about tracking until graduation can be described not in this 
+paper but in subsequent papers by the same authors 
+I want you to look for such papers in available sources. If you find such papers, 
+provide paper id (title, authors, year) and provide relevant quotes and analysis 
+of them. Please pay special attention to provide exact verbatim quotes from the 
+papers. Please write if you cannot fine them , but don't try to make up quotes.
+
+#### Criterion R:
+This criteriod "Reproduced" is about other studies by other authors reproducing 
+this study. I want you to carefully search for other relevant papers if all
+available sources are checked. If you find such papers, provide paper id (title,
+authors, year) and relevant quotes and analysis of them. Please pay special attention to 
+provide exact verbatim quotes from the papers. Please write if you cannot fine
+them , but don't try to make up quotes.
+
+# 4. Output Examples
+
+## 4.1 Example 1
+```
+---
+title: >
+  Dissecting the Flipped Classroom: Using a Randomized Controlled Trial
+  Experiment to Determine When Student Learning Occurs
+authors: >
+  Matthew D. Casselman, Kinnari Atit, Grace Henbest, Cybill Guregyan,
+  Kiana Mortezaei, and Jack F. Eichler
+paper_link: ""
+abstract: >-
+  In order to compare the impact of the preclass online learning environment to
+  the in-class collaborative activities typically done in a flipped classroom,
+  a randomized controlled trial (RCT) was conducted. A two-day organic chemistry
+  stereochemistry unit was delivered to students who were randomly assigned to
+  “flipped classroom” and “traditional lecture” treatment groups, as well as a
+  negative control group. Performance gains were measured after each phase of the
+  instructional intervention. Results suggested that the online learning
+  component accounted for most of the improvement in posttest scores observed in
+  the flipped classroom treatment, highlighting the importance of well-designed
+  asynchronous online learning in flipped classroom environments.
+publication_date: 2019-11-01
+erct_level: 0
+rct: true
+pdf_link: 
+doi: 10.1021/acs.jchemed.9b00767
+journal: Journal of Chemical Education
+date_erct_check: 
+tags:
+  - science
+  - higher education
+  - flipped classroom
+  - blended learning
+  - EdTech website
+  - online homework
+criteria:
+  c:
+    met: false
+    explanation: >
+      They randomized at the student level, rather than randomly assigning
+      entire classes to treatment or control.
+    quote: >
+      “An RCT was conducted … participants were randomly assigned to one of the
+      three study groups…”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “An RCT was conducted with student volunteers (n = 49) recruited from a
+      first-quarter organic chemistry course … The available participants were then
+      randomly assigned to one of the three study groups prior to commencing the
+      study…” (p. B)
+      
+      2) “Students randomly assigned to the negative control group only completed
+      the day 0 and day 7 pre- and posttests and did not receive any learning
+      interventions.” (p. B)
+      
+      In these quotes, the authors explicitly describe randomizing individual
+      students, not entire classes. The ERCT ‘C’ criterion requires random
+      assignment by entire class or by school (unless it is a one-to-one tutoring
+      intervention). Randomization was carried out at the student level within the
+      same course, so this criterion is not satisfied.
+  e:
+    met: false
+    explanation: >
+      They employed a custom-made stereochemistry test, not a widely recognized
+      standardized exam.
+    quote: >
+      “A customized 22-item free response measure was used … The items in both
+      posttests … were aligned to the stereochemistry learning outcomes.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “The pre- and posttest instruments focus on skill-based assessments
+      measuring the student’s understanding of stereochemical properties of
+      organic molecules … [These] questions were not encountered by students in
+      their main organic course yet.” (p. C)
+      
+      2) “A customized 22-item free response measure was used to probe student
+      mastery of stereochemistry … item-analyses were carried out … The items in both
+      posttests were deemed to be within an acceptable range of difficulty.”
+      (p. D and SI)
+      
+      The assessment was specifically developed by the authors for stereochemistry
+      and is not a standard exam. Thus, criterion E is not satisfied.
+  t:
+    met: false
+    explanation: >
+      The study’s learning interventions took place over one week, not a full
+      academic term.
+    quote: >
+      “A two-day organic chemistry stereochemistry unit was delivered … a final
+      posttest was administered on Day 7.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “The RCT experiment provided an opportunity to measure … over a seven-day
+      study period during the first and second weeks of the term …” (Table 1, p. B)
+      
+      2) “The negative control group only completed the day 0 and day 7 pre- and
+      posttests … The flipped and traditional lecture treatment groups attended two
+      learning intervention sessions.” (p. C)
+      
+      The intervention spanned only one week, which is far shorter than a full
+      academic term. Therefore, criterion T is not met.
+  d:
+    met: true
+    explanation: >
+      They describe the control group’s baseline performance, size, and how it
+      received no lesson, meeting the documentation requirement.
+    quote: >
+      “Negative control group (n=16) … only completed the day 0 and day 7 pre- and
+      posttests … served as a baseline.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “A two-day … unit was delivered to students randomly assigned to
+      ‘flipped classroom’ and ‘traditional lecture’ treatment groups, and compared
+      to a negative control group …” (p. A)
+      
+      2) “Students randomly assigned to the negative control group only completed
+      the day 0 and day 7 pre- and posttests and did not receive any learning
+      interventions. These students provided a baseline comparison …” (p. B)
+      
+      3) “Table 2. Descriptive statistics for treatment and negative control groups …
+      The negative control group had an n = 16 … pretest average … posttest average …
+      MRT average …” (Table 2, p. C)
+      
+      The control group is clearly documented, fulfilling criterion D.
+  s:
+    met: false
+    explanation: >
+      They randomized individual students in one university setting, not entire
+      schools.
+    quote: >
+      “An RCT was conducted with student volunteers (n=49) … randomly assigned to
+      one of the three groups.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “The available participants were then randomly assigned to one of the
+      three study groups …” (p. B)
+      
+      2) “The first group (Full Flip) used online videos plus group activities … The
+      second group (Traditional Lecture) used in-person lecture plus individual
+      homework … The negative control group had no lesson.” (Table 1)
+      
+      Since randomization occurred at the student level in a single university course,
+      criterion S is not met.
+  a:
+    met: false
+    explanation: >
+      They measured only stereochemistry; no other subjects were tested, failing
+      the ‘AllExams’ requirement.
+    quote: >
+      “We administered a custom stereochemistry assessment … focusing on R/S
+      configurations and enantiomeric relationships.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “The pre- and posttest instruments focus on skill-based assessments
+      measuring stereochemical properties …” (p. C)
+      
+      2) “Students were tested on identifying R/S configuration, counting chirality
+      centers, and drawing stereoisomers … We did not assess overall general
+      chemistry or other subject matter.” (various sections)
+      
+      The outcome measure focused exclusively on stereochemistry, so criterion A is
+      not met.
+  y:
+    met: false
+    explanation: >
+      The study spanned only seven days, far short of the year-long requirement.
+    quote: >
+      “A randomised controlled trial (RCT) was conducted … over a one-week period.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “A two-day organic chemistry stereochemistry unit was delivered … pre- and
+      posttests were administered over a seven-day period.” (p. B)
+      
+      2) “Performance gains were measured after each phase … with a final posttest on
+      Day 7.” (p. B)
+      
+      The intervention lasted only one week, so criterion Y is not satisfied.
+  b:
+    met: false
+    explanation: >
+      The control group received no comparable time/resources, so the study was not
+      balanced in resource allocation.
+    quote: >
+      “Negative control … did not receive any learning interventions.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “The flipped classroom group received 1.5 h of online video plus embedded
+      quiz questions … The following day, they did 1.5 h of collaborative group work.”
+      (p. C)
+      
+      2) “The traditional lecture group received 1.5 h of in-person lecture … The
+      following day, they worked individually on homework problems … The negative
+      control group did not receive any learning interventions.” (p. C)
+      
+      The control group received no additional resources, so criterion B is not met.
+  g:
+    met: false
+    explanation: >
+      They collected final data after one week, with no mention of tracking until
+      course or school graduation.
+    quote: >
+      “Performance gains were measured … final posttest on Day 7 … no further
+      follow-up.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “All study participants completed the final posttest (posttest 2) on Day 7
+      … The RCT ended at that point.” (p. C)
+      
+      2) “No follow-up or longer-term tracking is reported after the final test on
+      Day 7.”
+      
+      There was no tracking beyond the one-week period, so criterion G is not met.
+  r:
+    met: true
+    explanation: >
+      Although the original paper did not report an independent replication,
+      subsequent peer-reviewed studies (e.g., Luong et al. (2021), Setren et al. (2021),
+      and Holm et al. (2022)) have independently replicated the core findings of 
+      Casselman et al. (2019).
+      This external evidence confirms that the flipped classroom approach's efficacy, 
+      particularly the contribution
+      of pre-class online learning, is reproducible across different contexts.
+    quote: >
+      "… we highlight here the novelty of an RCT… no mention of replication by an external team."
+    analysis: >-
+      The initial evaluation marked the reproduction criterion as not met due to a lack 
+      of reported replication in the original study.
+      However, independent replication studies have since been published, demonstrating similar outcomes.
+      Therefore, the reproducibility criterion should be updated to 'met' based on the new evidence.
+  i:
+    met: false
+    explanation: >
+      The same team designed, delivered, and assessed the intervention; there is no
+      third-party or external evaluation group.
+    quote: >
+      “The online videos were produced … by the same instructor who delivered the
+      in-person lecture.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “An RCT was conducted with student volunteers (n = 49) … The authors
+      developed the custom pre/posttest instruments …” (p. B, p. D)
+      
+      2) “The online learning component used a playlist of videos produced in a
+      screen-capture system with instructor voiceover, featuring the same instructor
+      who taught the traditional lecture group …” (p. C)
+      
+      The intervention was entirely managed by the same team, so criterion I is not met.
+  p:
+    met: false
+    explanation: >
+      No statement of pre-registration or public registry ID is provided.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “We carried out a randomized controlled trial … The final list of
+      participants was chosen … not referencing any pre-registration.” (p. B)
+      
+      2) “Data analyses were performed in SPSS and R … No mention is made of a
+      pre-registered protocol or a registry platform.”
+      
+      Since there is no indication of pre-registration, criterion P is not met.
+---
+
+```
+
+## 4.2 Example 2
+```
+---
+title: The effects of computer-assisted adaptive instruction and elaborated feedback on
+  learning outcomes. A randomized control trial
+authors: Kaat Iterbeke, Kristof De Witte, Wouter Schelfhout
+paper_link: ""
+abstract: >-
+  Using a computer-based learning environment, the present paper studied the effects
+  of adaptive instruction and elaborated feedback on the learning outcomes of secondary
+  school students in a financial education program. We randomly assigned schools to
+  four conditions on a crossing of two factors: the type of instruction (uniform or
+  adaptive) and feedback (verification or elaborated). A total of 1,177 students in 32
+  schools completed the program in ability groups in the classroom. The results showed
+  that the program, on average, enhanced the financial knowledge of students by almost
+  half of a standard deviation. No significant changes in students’ financial behavior
+  were found. Despite the promise of adaptive practices to address the individual needs
+  of students, we observed no additional learning gains associated with adaptive
+  instruction and elaborated feedback. A marginally significant heterogeneous effect for
+  gender was reported, where girls were negatively affected by adaptive instruction.
+  Moreover, despite our sample included more students from a favorable socioeconomic
+  status, the adaptive practices seemed to lower the motivation level. Hence, while no
+  information on the time spent on the instruction and feedback was retrieved, the
+  latter finding suggested that the practices may have been perceived as burdensome by
+  students, thereby rendering them ineffective.
+publication_date: 2020-12-13
+erct_level: 0
+rct: true
+pdf_link: ""
+doi: "10.1016/j.chb.2020.106666"
+journal: "Computers in Human Behavior"
+date_erct_check: 
+tags:
+  - K12
+  - EU
+  - EdTech website
+  - online homework
+  - digital assessment
+criteria:
+  c:
+    met: true
+    explanation: >-
+      They randomized entire schools, which is stronger than class-level
+      randomization.
+    quote: >-
+      “Randomization was conducted at the school level in order to avoid
+      contamination effects.” (p. 4)
+    analysis: >-
+      Quotes:
+
+      1) “We randomly assigned schools to four conditions on a crossing of two
+      factors: the type of instruction (uniform or adaptive) and feedback
+      (verification or elaborated).” (p. 2)
+
+      2) “Randomization was conducted at the school level in order to avoid
+      contamination effects.” (p. 4)
+      3) “In total, 32 schools ... participated in the final sample.” (p. 8 and
+      Table III)
+
+      Detailed analysis:
+
+      The paper clearly states that the unit of randomization was the school.
+      Under the ERCT Standard, school-level randomization is considered stronger than
+      class-level randomization, and therefore it automatically satisfies the
+      requirement for class-level RCT. The authors wrote, “We randomly assigned
+      schools to four conditions…,” indicating an entire school (rather than individual
+      students or only certain classes) was the randomized unit.
+
+      Since randomization at the school level generally eliminates the possibility
+      that some classes within the same school might receive the same intervention
+      (risking contamination), it also meets or exceeds the requirement of randomizing
+      entire classes. If this were strictly a within-class randomization, we would be
+      worried about contamination.
+
+      The study’s explicit mention of the desire to “avoid contamination effects”
+      is precisely the rationale behind not randomizing at the student level within the
+      same classroom. Hence, the stronger school-level RCT satisfies the ‘C - Class-level
+      RCT’ criterion.
+  e:
+    met: false
+    explanation: >-
+      They used a mix of custom questions (some drawn from prior literature) and did not 
+      employ a widely recognized standardized exam.
+    quote: >-
+      "The pre-treatment test was designed as a computer-aided multiple-choice test. 
+      The test included several questions on students’ demographics and eight questions 
+      that referred directly to the material and measured students’ financial 
+      proficiency." (p. 5)
+    analysis: >-
+      Quotes:
+
+      1) “We randomly assigned schools to four conditions ... and designed four 
+      lectures of 50 minutes in the form of a computer-assisted learning path.” (pp. 3–4)
+
+      2) “The pre-treatment test was designed as a computer-aided multiple-choice 
+      test ... The test included several questions on students’ demographics and 
+      eight questions that referred directly to the material...” (p. 5)
+
+      3) “Two questions for the latter three financial concepts were taken from 
+      Lusardi and Mitchell (2011) ... We measured financial behavior by three 
+      questions related to the reliability of information and saving strategies.” 
+      (p. 6)
+      (The post-treatment test included similar questions as the pre-test, and no 
+      official standardized exam (state or national) was used.)
+      
+      Detailed analysis:
+
+      The ERCT Standard requires an exam-based assessment that is **standardized** 
+      and not created solely by the researchers for the purpose of the study. In this 
+      paper, the authors used a set of multiple-choice items, partly drawn from well-known 
+      financial literacy surveys (e.g., Lusardi & Mitchell), but there is no clear 
+      statement that these items amount to a recognized, official standardized exam.
+
+      The paper notes that the tests contained custom questions measuring financial 
+      literacy in alignment with the program content (topics like saving, risk, inflation, 
+      interest, etc.). Although they reference some previously published questions, the 
+      overall instrument is a researcher-assembled mix, not a standard test used in 
+      large-scale assessments.
+
+      The authors do not claim to have used any state-wide or national standardized 
+      test. Therefore, the **Exam-based Assessment** criterion is not satisfied.
+  t:
+    met: false
+    explanation: >-
+      They delivered four sessions (about three hours total), which is shorter than one
+      academic term.
+    quote: >-
+      “The learning material was designed as four lectures of 50 minutes in the form
+      of a computer-assisted learning path.” (p. 5)
+    analysis: >-
+      Quotes:
+
+      1) “The learning material was designed as four lectures of 50 minutes in the
+      form of a computer-assisted learning path.” (p. 5)
+
+      2) “Hence, students received about 200 minutes (4 x 50) of instruction total,
+      delivered during regular class hours.” (p. 5, paraphrased from context)
+
+      3) “Using the computer-based program, we studied the short-term effect on a
+      post-test administered at the end of these four lectures.” (p. 6)
+
+      Detailed Analysis:
+
+      Under the ERCT Standard, a study must run for at least a full academic term
+      (often ~3–4 months) to meet the T (Term Duration) requirement. In this paper, the
+      intervention took place during four class sessions (4 x 50 minutes = roughly 3.3
+      hours total).
+
+      While the paper does indicate a follow-up test “approximately four weeks after
+      the lectures” as homework, the main intervention spanned only these short sessions.
+      This does not align with an entire semester or term-based intervention.
+
+      (3) Given that the study specifically highlights only a few hours of in-class program
+      usage, it is significantly shorter than the minimum term duration. Thus, T is not met.
+  d:
+    met: true
+    explanation: >-
+      The study documents the control group’s characteristics (demographics and baseline 
+      scores) in detail, with separate columns for the control group in Table III.
+    quote: >-
+      "Table III presents the school and student characteristics for the final sample 
+      involving 1,177 students, 94 classes, and 32 schools... **Student background 
+      characteristics, as presented in panel B, show that, on average, 50 percent of 
+      students were female, 88 percent spoke Dutch (the official language) at home, and 
+      students were 13 and half years old, on average.**" (pp. 8–9)
+    analysis: >-
+      Quotes:
+
+      1) “A total of 1,177 students in 32 schools completed the program ... We randomly 
+      assigned schools to four conditions on a crossing of two factors...” (p. 2)
+
+      2) “In the control condition, students did not receive the financial education 
+      program. ... Teachers in the control schools obtained the material after their 
+      students took the pre- and first post-treatment test as an incentive...” (p. 5)
+
+      3) “Table III presents the school and student characteristics for the final sample 
+      involving 1,177 students, 94 classes, and 32 schools, which were randomly assigned 
+      to one of the conditions.” (p. 8)
+
+      4) “Panel B. Background characteristics … On average, 50 percent of students were 
+      female, 88 percent spoke Dutch at home, etc. … Panel C. Pre financial scores.” (Table III)
+      
+      Analysis:
+
+      (1) Criterion D requires that the control group’s makeup and baseline data be clearly 
+      described. In this study, the authors provide extensive baseline statistics for all 
+      groups in **Table III**, including a dedicated column for the control group.
+
+      (2) The authors explicitly state that the control group “did not receive the financial 
+      education program” (i.e. business-as-usual), and they offer the intervention materials 
+      to those teachers only after the study, indicating no special treatment was given during 
+      the study period. 
+
+      (3) Table III and its narrative description detail student demographics (gender, language, 
+      etc.) and pre-test scores (financial knowledge/behavior) for the control vs. treatment groups. 
+      This level of detail allows readers to confirm the control group was comparable at baseline. 
+      Therefore, the **Documented Control Group** criterion is met.
+  s:
+    met: true
+    explanation: >-
+      Schools were the unit of randomization, fulfilling the requirement for S.
+    quote: >-
+      “Randomization was conducted at the school level in order to avoid contamination
+      effects.” (p. 4)
+    analysis: >-
+      Quotes:
+
+      1) “Randomization was conducted at the school level in order to avoid
+      contamination effects.” (p. 4)
+
+      2) “We randomly assigned schools to four conditions on a crossing of two factors:
+      the type of instruction (uniform or adaptive) and feedback (verification or
+      elaborated).” (p. 2)
+
+      3) “32 schools completed the program ... 9 schools in the control, 5 in
+      uniform-EF, 10 in adaptive-EF, 8 in adaptive-VF.” (Table III, p. 8)
+
+      Analysis:
+
+      (1) The S criterion (School-level RCT) requires that entire schools, not just classes or
+      students within a school, be randomly assigned. The quotes confirm that the
+      randomization unit is indeed the school.
+
+      (2) Because the authors explicitly mention “we randomly assigned schools” and
+      emphasize that this prevented contamination, it demonstrates the design meets
+      the requirement for S. This approach is typically more logistically demanding,
+      but it is considered stronger in capturing real-school effects.
+
+      (3) Consequently, the study clearly meets the standard for a school-level RCT.
+  a:
+    met: false
+    explanation: >-
+      The study only measured outcomes in financial literacy (knowledge and behavior); it did 
+      not assess performance in other core subjects (e.g. math, language), as required for the 
+      "All-subject exams" criterion.
+    quote: >-
+      "We assessed financial knowledge by five questions covering the calculation of monthly 
+      savings, risks and rewards, rates of return, interest, and inflation. ... We measured 
+      financial behavior by three questions related to the reliability of information and saving 
+      strategies." (pp. 5–6)
+    analysis: >-
+      Quotes:
+
+      1) “Financial literacy can be decomposed into financial knowledge and financial behavior. 
+      We assessed financial knowledge by five questions ... We measured financial behavior by 
+      three questions...” (pp. 5–6)
+
+      2) “We ... studied the effects on the learning outcomes of secondary school students in a 
+      financial education program.” (p. 2)
+
+      3) “The results showed that the program, on average, enhanced the financial knowledge of 
+      students by almost half of a standard deviation.” (p. 2)
+      
+      Analysis:
+
+      (1) All-subject Exam-based Assessment requires that the study measure learning outcomes 
+      in all major subjects (or justify a focus on a specialized domain). Here, the outcomes are 
+      specific to financial education only (a specialized subject matter).
+
+      (2) The authors make no mention of testing students in general subjects like mathematics, 
+      reading, or science. All outcome measures (financial knowledge and financial behavior) are 
+      within the single domain of financial literacy.
+
+      (3) Because the study’s assessments are narrowly focused on one subject area and it doesn’t 
+      evaluate broad academic achievement across the curriculum, it fails to meet the “All-subject 
+      exams” criterion.
+  y:
+    met: false
+    explanation: >-
+      Their intervention was only four class sessions plus a 4-week follow-up, nowhere near a
+      full academic year.
+    quote: >-
+      “The learning material was designed as four lectures of 50 minutes ... approximately
+      four weeks after, a second post-treatment test.” (pp. 5–6)
+    analysis: >-
+      Quotes:
+
+      1) “The learning material was designed as four lectures of 50 minutes.”
+      (p. 5)
+
+      2) “Approximately four weeks after the lectures, students in the treatment
+      schools completed the second post-treatment test as a homework assignment.”
+      (p. 6)
+
+      Analysis:
+
+      (1) The Y criterion requires the intervention to last at least one full academic
+      year, or the study to track participants for that duration. Here, the authors’
+      main program spanned a few weeks at most, plus a short follow-up.
+
+      (2) The total formal instruction time was only four 50-minute sessions, not an
+      entire year. Although the second post-test was a month later, that does not
+      equate to a year-long intervention.
+
+      (3) As a result, the study does not meet the requirement for Y, which demands a
+      full academic year of intervention.
+  b:
+    met: false
+    explanation: >-
+      The control group received no equivalent budget or instructional time to match the
+      specialized sessions of the treatment group.
+    quote: >-
+      “In the control condition, students did not receive the financial education program ...
+      Teachers in the control schools obtained the material after.” (p. 5)
+    analysis: >-
+      Quotes:
+
+      1) “In the experimental condition, student pairs received an adaptive or uniform
+      learning path on financial literacy ... whereas the control condition did not
+      receive the financial education program.” (p. 5)
+
+      2) “Students in the control condition merely completed the pre- and post-tests,
+      with no special resources or additional time.” (p. 5)
+
+      3) “Teachers in the control schools obtained the material only after their
+      students took the pre- and first post-treatment test.” (p. 5)
+
+      Analysis:
+
+      (1) The Balanced Control Group criterion requires that if the treatment group receives
+      extra resources or additional instructional time, the control group must also receive
+      equivalent resources/time to isolate the effect of the specific intervention. Here,
+      the experimental group spent dedicated class sessions working on the financial
+      literacy modules and had a specialized computer-based program.
+
+      (2) The control group did not receive any parallel or compensatory time or budget.
+      They were effectively kept on “business as usual” with no additional resources.
+      This suggests a resource/time imbalance.
+
+      (3) As a result, they do not meet B. The difference in instruction time and materials is
+      not offset with a matching resource for the control.
+  g:
+    met: false
+    explanation: >-
+      They measured immediate and 4-week follow-up effects only, with no tracking until
+      graduation.
+    quote: >-
+      “Approximately four weeks after the lectures, students completed the second
+      post-treatment test as a homework assignment.” (p. 6)
+    analysis: >-
+      Quotes:
+      1) “We measured the short-term impact of the financial education program ... and
+      a second post-treatment test as a homework assignment about four weeks after
+      the lectures.” (p. 6)
+
+      2) “The results showed the improvement in financial knowledge to be retained in the
+      short run, though no mention is made of longer tracking.” (pp. 6–7)
+
+      Analysis:
+
+      (1) G (Graduation Tracking) requires the study to follow up on students until they
+      graduate from that school level to see if the intervention’s effect persists. Here,
+      participants were observed for only a brief period: one immediate post-test and one
+      follow-up about a month later.
+
+      (2) The paper does not describe any data collection continuing through the end of the
+      relevant school grade, let alone graduation from secondary education.
+
+      (3) Consequently, the criterion for a sustained follow-up through graduation is not
+      satisfied.
+  r:
+    met: false
+    explanation: >-
+      The study has not been independently replicated by a different research team (no such 
+      replication is reported by the authors).
+    quote: >-
+      (No independent replication of this intervention is mentioned in the paper.)
+    analysis: >-
+      Analysis:
+
+      (1) To satisfy R, a separate research team should have replicated the same experiment in 
+      a different setting. There is no indication anywhere in the article that an external team 
+      repeated this study.
+
+      (2) The authors cite other financial education studies for context, but these are **not** 
+      replications of this specific intervention and design.
+
+      (3) Thus, the criterion **Reproduced** is not met — the results have not been confirmed by 
+      an independent replication study.
+  i:
+    met: false
+    explanation: >-
+      The authors designed and evaluated the intervention themselves; no independent
+      research or external evaluator was involved in running the study.
+    quote: >-
+      “The learning material was designed as four lectures of 50 minutes in the form of a
+      computer-assisted learning path.” (p. 5)
+    analysis: >-
+      Quotes:
+
+      1) “CRediT author statement: ... Conceptualization, Methodology, Formal analysis,
+      Investigation, Writing...” (front matter)
+
+      2) “The learning material was designed as four lectures of 50 minutes ... We took
+      care in designing our study to prevent potentially confounding influences.” (p. 15)
+
+      3) “We are grateful to ... for research assistance. ... We thank seminar
+      participants ... for valuable suggestions.” (p. 20)
+
+      Analysis:
+
+      (1) Under I (Independent Conduct), the study team implementing and analyzing the
+      intervention should be independent from the developers/designers of the
+      intervention. In this paper, the same authors appear to have designed the program
+      (the learning path, random assignment process) and carried out the evaluation.
+
+      (2) The text does not suggest that an external, third-party evaluator performed the
+      trial. Instead, the authors wrote the learning modules themselves, administered
+      them, and analyzed the results.
+
+      (3) This does not fulfill the independence requirement because the same research
+      group that created the content also tested it. Hence, I is not met.
+  p:
+    met: false
+    explanation: >-
+      The study was registered after the intervention and data collection were completed, 
+      which does not satisfy the criterion for pre-registering the protocol before data collection.
+    quote: >-
+      "Initial registration date: September 23, 2019"
+    analysis: >-
+      Quotes:
+
+      1) "Intervention Start Date: September 17, 2018"
+
+      2) "Intervention End Date: January 31, 2019"
+
+      3) "Initial registration date: September 23, 2019"
+      
+      Analysis:
+
+      (1) The ERCT Standard requires that the study's protocol be publicly registered before data collection begins. 
+      In this case, the intervention and data collection were completed by January 31, 2019, but the study was 
+      registered on September 23, 2019.
+
+      (2) Therefore, the criterion for a pre-registered protocol is not met.
+---
+
+```
+
+# 5. Your Task
+
+Now I want you to carefully check the ERCT Standard, the provided paper and act according to 
+the provided step-by-step instructions to generate the final output following the specification format
+as a valid markdown file containing YAML as your final.

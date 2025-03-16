@@ -3,7 +3,6 @@ title: "Incentives for Effort or Outputs? A Field Experiment to Improve
   Student Performance"
 authors: "Sarojini R. Hirshleifer"
 paper_link: "https://escholarship.org/uc/item/9hz5b8g9"
-slug: "hirshleifer-2021-incentives-for-effort"
 abstract: >-
   This randomized experiment implemented with school children in India directly
   tests an input incentive (rewards for effort on learning modules) against an

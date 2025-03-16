@@ -2,7 +2,6 @@
 title: "Leveraging Technology to Engage Parents at Scale: Evidence from a Randomized Controlled Trial"
 authors: "Peter Bergman, Eric W. Chan"
 paper_link: "https://ssrn.com/abstract=2989472"
-slug: "bergman-chan-2017-leveraging-technology"
 abstract: >-
   We partner text-messaging technology with school information systems to automate the gathering and provision of information to parents at scale. In a field experiment across 22 middle and high schools, we used this technology to send automated text-message alerts to parents about their child’s missed assignments, grades, and class absences. The intervention reduces course failures by 38% and increases class attendance by 17%. Students are more likely to be retained in the district. However, we do not find effects on standardized test scores. Our findings show that automated technology to inform parents can improve student effort relatively cheaply and at scale.
 publication_date: 2017-05-01

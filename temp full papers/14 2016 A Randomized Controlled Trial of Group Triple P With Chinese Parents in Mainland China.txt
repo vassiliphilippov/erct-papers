@@ -1,0 +1,946 @@
+Behavior Modification
+1–27
+© The Author(s) 2016
+Reprints and permissions:
+sagepub.com/journalsPermissions.nav
+DOI: 10.1177/0145445516644221
+bmo.sagepub.com
+Article
+A Randomized
+Controlled Trial of
+Group Triple P With
+Chinese Parents in
+Mainland China
+Mingchun Guo1, Alina Morawska1,
+and Matthew R. Sanders1
+Abstract
+This study evaluated the effects of Group Triple P with Chinese parents on
+parenting and child outcomes as well as outcomes relating to child academic
+learning in Mainland China. Participants were 81 Chinese parents and their
+children in Shanghai, who were randomly allocated to an intervention group
+or wait-list control group. Parents in the intervention condition received
+Group Triple P training, and parents and children were assessed at three/two
+time points. Compared with the control group, parents in the intervention
+group reported significant improvements in child adjustment problems,
+parenting practices, parental adjustment, and parenting self-efficacy at postassessment. Moreover, there was a significant increase in parents’ satisfaction
+with children’s academic achievement and a reduction in children’s academic
+problem behaviors at post-intervention. All these effects were maintained at
+6-month follow-up. There was also a significant increase in the child report
+of positive parenting at post-intervention.
+Keywords
+parenting program, Triple P, randomized controlled trial, Mainland China
+1The University of Queensland, Brisbane, Australia
+Corresponding Author:
+Mingchun Guo, Parenting and Family Support Centre, School of Psychology, The University of
+Queensland, Brisbane, Queensland 4072, Australia.
+Email: mingchun.guo@uq.net.au
+644221 BMOXXX10.1177/0145445516644221Behavior ModificationGuo et al.
+research-article2016
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+2 Behavior Modification
+Introduction
+Parenting programs based on social learning models have been developed to
+help parents to promote their children’s development and to prevent and
+address developmental, behavioral, and emotional problems (Sanders, 2012).
+Numerous meta-analyses (e.g., Brestan & Eyberg, 1998; Coren, Barlow, &
+Stewart-Brown, 2003; Sanders, Kirby, Tellegen, & Day, 2014) have shown
+that parenting programs improve parenting practices and parenting competence, and reduce children’s behavioral and emotional problems. Such parenting programs are effective for a variety of populations, targeting different
+child and parent concerns, and in a range of formats (see reviews, Pidano &
+Allen, 2015; Sanders, Kirby, et al., 2014). Moreover, although most parenting programs were developed in Western cultures, research has demonstrated
+that they are also acceptable and effective across a number of Asian regions
+such as Japan (e.g., Goto, Yabe, Sasaki, & Yasumura, 2010; Matsumoto,
+Sofronoff, & Sanders, 2010), Hong Kong (e.g., C. Leung, Sanders, Leung,
+Mak, & Lau, 2003), and Indonesia (e.g., Sumargi, Sofronoff, & Morawska,
+2015). A number of studies have also examined the effectiveness of Westerndeveloped parenting programs (e.g., Gu, 2005; Pan & Wu, 2008) in Mainland
+China. However, these studies suffer several limitations, including small
+sample sizes, no control group or lack of a randomized controlled research
+design, and no measures assessing important outcome variables such as parenting practices and child behavioral problems. There is an urgent need to use
+a more rigorous research design and employ more comprehensive outcome
+measures to evaluate the effectiveness of Western parenting programs with
+Chinese parents in Mainland China.
+Confucian philosophy and values such as filial piety have greatly impacted
+on Chinese parenting practices (Chao, 1994; Chau & Landreth, 1997).
+Chinese parents have been depicted as emphasizing parental authority and
+children’s obedience (Chao, 1994, 2000), and more “authoritarian” (K.
+Leung, Lau, & Lam, 1998), “restrictive” (Chiu, 1987), “controlling,” and
+“directive” in their parenting (Jose, Huntsinger, Huntsinger, & Liaw, 2000;
+Lin & Fu, 1990) than European Western parents. However, Chao (1994)
+argued that Chinese parents’ way of “training” children could explain why
+they scored high on authoritarian parenting, and their parenting practices
+were actually motivated by their “highly involved concern and care for children” (p. 1113). Furthermore, Chen, Dong, and Zhou (1997) contended that
+Chinese parents were typically kindhearted and strict with their children,
+which is similar to authoritative rather than authoritarian parenting style.
+However, China has experienced drastic changes in economy, education,
+family structure, and family lives (see Chang, Chen, & Ji, 2011) in the past
+four decades, which are related to the well-known reform and opening policy
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 3
+since the late 1970s. These changes may have impacted on Chinese parenting
+to some extent. For example, since the enforcement of the one-child policy,
+Mainland Chinese parents have been found to overindulge their children to
+some extent (Liu, Lin, & Chen, 2010). Moreover, a recent empirical study
+also found that Mainland Chinese parents predominantly endorsed authoritative rather than authoritarian parenting, and they emphasized egalitarian and
+two-way parent–child relationship and were warmth-oriented rather than
+control-oriented toward their children (Lu & Chang, 2013). These findings
+are rather different from the results of earlier studies (e.g., Jose et al., 2000;
+K. Leung et al., 1998; Lin & Fu, 1990), which might reflect changes in
+Chinese parenting in the past decades. Although these findings obtained from
+urban areas may not generalize to other areas in China (Chang et al., 2011), it
+does appear that Chinese parenting has become more authoritative and more
+similar to Western parenting.
+In this context, it is likely that Mainland Chinese parents, particularly
+those in urban areas, will accept a Western-developed parenting program and
+use parenting strategies or approaches learned from the program in their own
+everyday lives. However, whether parenting programs developed in Western
+countries can have the same effects in Mainland China is a question that still
+needs to be empirically answered. This is particularly the case, as some
+research has found that immigrant Chinese parents in Australia and America
+tend to resist using some parenting strategies in Western parenting programs
+(Crisante & Ng, 2003; Lau, Fung, & Yung, 2010).
+In addition to the limited knowledge of the cultural acceptability of
+Western parenting programs in Mainland China, there is a paucity of research
+on the effectiveness of parenting programs on children’s academic outcomes,
+despite the fact that parenting programs have been shown to be effective for
+a range of child problems such as developmental disabilities (McIntyre,
+2008; Plant & Sanders, 2007), autism spectrum disorders (Roberts &
+Pickering, 2010; Whittingham, Sofronoff, Sheffield, & Sanders, 2009), and
+attention deficit/hyperactivity disorder (ADHD; Jones, Daley, Hutchings,
+Bywater, & Eames, 2007). Moreover, abundant literature has demonstrated
+the relationship between parental factors such as parental goals and parenting
+practices and children’s academic outcomes (see a review, Spera, 2005). For
+example, authoritative parenting has consistently shown positive associations
+with children’s academic success (Chen et al., 1997; Steinberg, Elmen, &
+Mounts, 1989). As parenting programs aim to improve the way parents interact with children, theoretically it is likely they will have significant effects on
+children’s academic outcomes. Currently, the majority of parent programs
+(see Jeynes, 2012; Mattingly, Prislin, McKenzie, Rodriguez, & Kayzar, 2002)
+that engage parents in children’s academic learning are parent involvement
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+4 Behavior Modification
+programs that mainly work to promote parents’ involvement in children’s
+education such as communication with schools and helping with children’s
+homework. Although research has demonstrated the effectiveness of such
+programs on children’s academic outcomes, overall, the positive effects are
+generally limited (see a review, Jeynes, 2012). Moreover, these programs do
+not pay much attention to improving the quality of parents’ involvement
+(Pomerantz, Moorman, & Litwack, 2007), which might limit their effectiveness on children’s academic outcomes. Therefore, it makes sense to consider
+other approaches to improve children’s academic outcomes.
+In contrast to parent involvement programs that focus on increasing levels
+of parents’ involvement in children’s education, parenting programs aim to
+improve how parents interact with children across numerous aspects of children’s lives including their academic learning. Parenting programs can potentially improve the quality of parenting practices in relation to children’s
+academic learning, and thus improve the quality of parents’ involvement and
+promote children’s academic adjustment and well-being. However, little
+research has examined whether parenting programs can have any positive
+effects on children’s academic outcomes. For Chinese parents, research has
+consistently found that they have high expectations for children’s academic
+achievement (J. T. Y. Leung & Shek, 2011; Li, 2004), and several studies
+have also shown the positive effects of their authoritative parenting and negative effects of their authoritarian parenting on children’s academic outcomes
+such as academic motivation and achievement (e.g., Chen et al., 1997; Wang
+& Chang, 2005). Parenting programs that promote authoritative parenting
+have the potential to meet the particular needs and concerns of Chinese parents relating to children’s academic learning, in addition to addressing
+broader parenting needs. However, to date, this question has not been
+addressed empirically.
+The Triple P–Positive Parenting Program is an example of evidence-based
+parenting program that aims to enhance parents’ knowledge, skills, and competence to prevent children’s behavioral, emotional, and developmental problems (Sanders, 2012). Although the effectiveness of Triple P has been
+demonstrated with Chinese parents in Hong Kong (e.g., C. Leung et al.,
+2003), these studies have some limitations: First, Hong Kong as a Special
+Administrative Region of China has a coexistence of multiple cultures and
+has been more influenced by Western culture across many aspects, including
+education, politics, and economy, thus it does not well represent Mainland
+Chinese culture. Second, the studies to date have only used parent-report
+measures as outcome indicators, which only captured parents’ views of intervention outcomes. However, children have different perceptions of parental
+behaviors (Tein, Roosa, & Michaels, 1994) and their own behavioral and
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 5
+emotional problems (Achenbach, McConaughy, & Howell, 1987; Phares,
+Compas, & Howell, 1989) from their parents, thus it is also important to
+evaluate the effects of parenting interventions from the child’s perspective.
+Moreover, although a recent longitudinal study (Smith, 2015) has found that
+Group Triple P can produce long-term positive effects on children’s reading
+and numeracy skills, more research is needed to examine whether Triple P
+has a positive influence on children’s academic lives such as increasing children’s learning motivation and reducing academic-related problem
+behaviors.
+To address these gaps, we aimed to test the effects of Group Triple P on
+general parenting practices and child behaviors, as well as parenting in the
+academic context and children’s academic outcomes in Mainland China. A
+randomized controlled trial design was used, and Chinese parents recruited in
+Shanghai were randomly allocated to an intervention group or wait-list control group. We hypothesized that compared with the wait-list control group,
+parents receiving Group Triple P would report significantly greater positive
+changes after the intervention, including (a) improvements in parenting practices, parental adjustment, family relationships, and parental teamwork; (b)
+increase in parenting confidence and decrease in children’s adjustment problems; (c) improvements in parenting related to child academic learning,
+reduction in children’s academic-related problem behaviors as well as positive changes in parental cognitions about children’s academic achievement;
+(d) reduction in children’s learning stress and increase in children’s academic
+self-regulation; and (e) parents would be satisfied with the program.
+Method
+Participants
+Participants were 81 Chinese parents and their children from 81 families
+residing in Shanghai. Families had to meet a number of eligibility criteria for
+participation: (a) parents had a child who was in Grade 1, 2, or 3 in a primary
+school; (b) child was not diagnosed with a disability (including intellectual
+and learning disabilities); (c) parents currently lived with their child; (d) parent or child was not participating in programs or receiving services which
+could potentially improve parenting practices or child behavior; and (e) parents were worried about children’s academic learning.1 A majority of parents
+were mothers (86.4%) and only 11 parents were fathers, with mean age being
+37.75 (SD = 3.32). Seventy-seven parents (95.1%) were married and three
+parents were divorced or separated (one family did not answer this question).
+Most parents (87.7%) had only one child. There were almost the same
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+6 Behavior Modification
+number of boys (n = 40) and girls (n = 39; two families did not report their
+child’s gender), and their mean age was 8.05 (SD = 1.12). More than half
+(53.1%) of the children were in Grade 1, and there were more children in
+Grade 2 (27.2%) than in Grade 3 (19.8%). More than half of parents (69.2%)
+had a university degree or higher, and one fifth of parents had trade/technical
+college qualifications. In all, 76.5% of parents worked full time, 8.7% worked
+part time or at home, and 13.6% did not work. Only three parents reported
+difficulties in meeting essential household expenses during the past 12
+months. A majority of parents reported that they had enough money left over
+to purchase most of the things they really wanted (63%) or some of the things
+they really wanted (32.1%) after they paid for the essential household
+expenses.2 Table 1 shows demographic characteristics of parents in the intervention and wait-list groups.
+Measures
+Parent measures. The Family Background Questionnaire (Sanders &
+Morawska, 2010) was used to collect demographic information from parents,
+including parent and child gender and age, parent marital status, family composition, parent education, work, and financial status.
+The Parenting and Family Adjustment Scales (PAFAS, Sanders, Morawska,
+Haslam, Filus, & Fletcher, 2014) assesses parenting practices and family
+adjustment for parents of children aged 2 to 12 years old, and it has been validated in a Chinese sample (Guo, Morawska, & Filus, 2016). The measure
+consists of two subscales: Parenting scale (15 items) and Family Adjustment
+scale (11 items). The Parenting scale has four factors which include parental
+consistency, coercive parenting, positive encouragement, and parent–child
+relationship. The Family Adjustment scale has three factors, including parental adjustment, family relationships, and parental teamwork. Items are rated
+on a 4-point scale from 0 (not true of me at all) to 3 (true of me very much).
+The items are summed to provide total scores for the two subscales, with
+higher scores indicating higher levels of parenting or family dysfunction. To
+reflect the intervention effects on the different aspects of family adjustment,
+we reported the results of the three factors of Family Adjustment separately.
+In this study, the internal reliabilities were α = .74 for PAFAS Parenting and
+.67, .79, and .61 for the three subscales of PAFAS Family Adjustment,
+respectively.
+The Child Adjustment and Parent Efficacy Scale (CAPES; Morawska,
+Sanders, Haslam, Filus, & Fletcher, 2014) is a parent-report measure of child
+adjustment problems and domain specific parent self-efficacy, which has
+been validated in a Chinese context recently (Guo, Morawska, & Filus,
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 7
+Table 1. Demographic Characteristic of Participants.
+Intervention
+(n = 40)
+Wait-list
+(n = 41)
+M SD M SD t p
+Child’s age 8.21 1.26 7.90 0.97 1.21 .231
+Parent’s age 37.85 3.15 37.66 3.51 0.25 .802
+n % n % χ2 p
+Child’s gender 0.12 .732
+Male 20 50 20 48.8
+Female 18 45 21 51.2
+Child’s grade 0.45 .800
+Grade 1 20 50 23 56.1
+Grade 2 11 27.5 11 26.8
+Grade 3 9 22.5 7 17.1
+Parent’s gender 0.08 .779
+Male 5 12.5 6 14.6
+Female 35 87.5 35 85.4
+Marital status 0.40 .527
+Married/de facto 37 92.5 40 97.6
+Single/separated/divorced 2 5.0 1 2.4
+Number of children 0.08 .784
+1 35 87.5 36 87.8
+2 4 10.0 5 12.2
+Education level 1.88 .390
+High school or lower 1 2.5 2 4.9
+Trade/technical college qualification 7 17.5 12 29.3
+University degree or higher 30 75 26 63.4
+Work status 5.46 .141
+Full time 27 67.5 35 85.4
+Part time 2 5.0 3 7.3
+Home-based paid work 2 5.0 0 0
+Not working 8 20 3 7.3
+Meeting essential expenses over the
+past 12 months
+0.40 .527
+Difficulties 2 5.0 1 2.4
+No difficulties 37 92.5 40 97.6
+Finance, earns 2.97 .226
+Enough to purchase most of the
+things
+26 65.0 25 61.0
+Enough to purchase only some
+things
+13 32.5 13 31.7
+Not enough to purchase most of
+the things
+0 0 3 7.3
+Note. Percentages do not add up to 100 due to data missing.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+8 Behavior Modification
+2015). The measure comprises two scales: CAPES Intensity (23 items) and
+CAPES Self-Efficacy (18 items). The former scale assesses behavioral and
+emotional adjustment in children aged 2 to 12 years old, consisting of three
+subscales: Emotional Maladjustment scale, Problem Behaviors scale, and
+Child Competencies scale. Items are rated on a 4-point scale, ranging from 0
+(not true of my child at all) to 3 (true of my child very much/most of the time).
+The Child Competencies items are reverse scored. Items are summed to yield
+a total score, a problem behaviors score, a child competencies score, and an
+emotional maladjustment score, with higher scores indicating more problems. The Self-Efficacy scale measures parents’ confidence in managing
+children’s behavioral and emotional problems. Each item is rated on a
+10-point scale, ranging from 1 (certain I can’t do it) to 10 (certain I can do
+it). The 18 items are summed to obtain a total efficacy score, with higher
+scores indicating higher levels of self-efficacy. The measure has obtained
+satisfactory psychometric properties among Chinese parents (Guo et al.,
+2015). In this study, the internal reliability was good for the three subscales
+of CAPES Intensity and CAPES Self-Efficacy, α = .81, .78, and .77, and .92,
+respectively.
+Parenting in Child’s Academic Context Questionnaire (Guo & Morawska,
+2014b) was an 18-item questionnaire adapted from the PAFAS Parenting
+scale (Sanders, Morawska, et al., 2014) to assess parenting practices in children’s academic lives. The wording of items was carefully changed to
+describe parenting practices related to children’s academic learning, while
+the primary content was maintained. For example, the item “I give my child
+a treat, reward, or fun activity for behaving well” was changed to “I give my
+child a treat, reward, or fun activity for studying or doing their homework.”
+Some items which are not suitable for adaptation were not included in this
+questionnaire (e.g., “I enjoy giving my child hugs, kisses, and cuddles”), and
+several items (e.g., “I help my child with their homework”) were added to
+increase the comprehensiveness of the instrument. The internal reliability
+was α = .62 in this study.
+Academic Problem Behavior Questionnaire (Guo & Morawska, 2014a) is
+an eight-item measure to assess children’s problem behaviors in the academic
+context, which was developed based on our qualitative work (Guo &
+Morawska, 2015) with Chinese parents. Some examples include “My child is
+very slow at doing homework” and “My child goes to play before completing
+homework.” Each item is rated on a 4-point scale, ranging from 0 (not true of
+my child at all) to 3 (true of my child very much/most of the time). Items are
+summed to obtain an overall score to represent the level of children’s academic problem behaviors. Internal consistency was good in this study
+(α = .86).
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 9
+Parental Perception of Child’s Academic Achievement was assessed with
+one item “Overall, how good do you think is your child’s academic achievement?” The item is rated on a 5-point scale, ranging from A (very poor) to E
+(very good). Parental Satisfaction With Child’s Academic Learning was
+assessed with one item “To what extent are you satisfied with your child’s
+academic learning?” The item is rated on a 5-point scale, ranging from A (not
+satisfied at all) to E (very satisfied).
+Parent-Report Academic Self-Regulation Questionnaire (SRQ-A) was
+adapted from a 32-item child-report measure (Ryan & Connell, 1989) to
+assess children’s academic self-regulation from parents’ perspective. The
+original measure assesses children’s academic self-regulation by asking why
+they do homework, do classwork, answer questions in class, and try to do
+well in school. It has demonstrated good reliability and validity in a Chinese
+context (Guo, 2011; Tang, 2002). The measure has four subscales: Intrinsic
+Motivation, Identified Regulation, Introjected Regulation, and External
+Regulation. A Relative Autonomy Index (RAI) is calculated to represent children’s overall autonomy in their academic learning, with higher scores indicating higher academic autonomy. To reduce assessment burden for parents,
+only 16 items were chosen for the adaptation, with eight items asking why
+their child does his or her homework and eight asking why their child tries to
+do well in school. Only the wording of the items was changed for parents. For
+example, the question “why do I do my homework” was changed to “why
+does your child do homework.” Items are rated on a 4-point scale, ranging
+from 0 (not true at all) to 3 (very true). The internal reliability of the entire
+questionnaire was α = .65 in this study.
+The Client Satisfaction Questionnaire (Turner, Markie-Dadds, & Sanders,
+2002) is a 13-item questionnaire that assesses parents’ perceptions of the
+quality of service, the extent to which the program met the parents’ needs, the
+improvement in parenting and decrease in children’s behavioral problems,
+and whether the participants would recommend the program to others. It has
+been translated into Chinese and has previously been used with Chinese parents (C. Leung et al., 2003). This questionnaire was only administered to
+parents at post-intervention. The internal reliability was excellent, α = .93 in
+this study.
+Child measures. The Alabama Parenting Questionnaire (APQ; Scott, Briskman, & Dadds, 2011) is a brief 15-item child-report version of the Alabama
+Parenting Questionnaire (Shelton, Frick, & Wootton, 1996), including five
+subscales: Positive Parenting, Inconsistent Discipline, Poor Supervision,
+Involvement, and Corporal Punishment. It has demonstrated satisfactory reliability and validity (Scott et al., 2011) in an Australian sample, and a Chinese
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+10 Behavior Modification
+version was available. Items are rated on a 5-point scale ranging from 0
+(never) to 4 (always). The internal reliability estimates were .78, .51, .47, .33,
+and .75 for the five subscales, respectively, in this study. Given the low internal consistency of inconsistent discipline, poor supervision, and involvement, these subscales were removed from data analysis.
+The Learning Stress Questionnaire was used to assess learning stress in
+primary schoolers with five items chosen and modified from the Educational
+Stress Scale for Adolescents (ESSA; Sun, Hou, Xu, & Dunne, 2011), which
+was developed in a Chinese cultural context. Some item examples are “I feel
+there is very much homework to do” and “My parents care about my academic grades too much that brings me a lot of pressure.” Items are rated on a
+5-point scale ranging from 0 (disagree very much) to 4 (agree very much).
+The internal reliability was α = .65 in this study.
+The SRQ-A is a 32-item child-report measure (Ryan & Connell, 1989) of
+children’s academic self-regulation described in the Parent-Report SRQ-A.
+To make the assessment comparable with the parent version in this study, the
+same 16 items chosen for parents were used for children to respond to. The
+internal consistency of the whole questionnaire was .73 in this study.
+Procedures
+Ethical clearance for this study was obtained from the Behavioral and Social
+Sciences Ethical Review Committee of The University of Queensland. The
+trial was registered with the Australian New Zealand Clinical Trials Registry
+(ACTRN12613000660785). All participating parents provided written
+informed consent. This study was mainly conducted in the counseling center
+of East China Normal University and a community service center in Shanghai.
+To recruit parents to participate in this study, advertisements were posted in
+online parent forums, family education websites, and social networks, introducing the research and encouraging parents to participate. Moreover, a public notice was posted on the official website of the Counseling Center of East
+China Normal University and their social networking media (i.e., Weibo). In
+addition, leaflets were delivered to parents of children in a primary school,
+which is located in the same district as the community service center.
+After parents expressed interest in participation through registration, they
+received a telephone screening interview to see if they were eligible. Eligible
+parents were randomly assigned by an independent person who was not
+involved in the study at any stage to one of the two groups: intervention group
+or wait-list control group. Specifically, a unique number was assigned to each
+parent with a sequence of consecutive numbers and then a random number
+generator was used to randomly assign the sequence of numbers to two groups.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 11
+Following this, the first author was informed about the randomization results
+and advised the parents of their group. Afterward, both groups of parents and
+their participating children were asked to complete a set of questionnaires
+before and upon the completion of the intervention. Intervention group parents
+and their children were also asked to complete the questionnaires 6 months
+after intervention. Given that children in Grade 1 and 2 might not have adequate literacy to read and understand the child questionnaires, they were
+helped in person or via telephone (viz., the first author or a research assistant
+read items one by one to children and explained to them with examples when
+the child asked for help or reported he or she did not completely understand an
+item). To avoid parents’ influence on children’s completion of questionnaires,
+parents were asked to wait in another room while their children were completing the questionnaires. Parents in the wait-list control group received Group
+Triple P after they completed post-assessment. If two parents from a family
+attended the program, only the primary carer completed questionnaires.
+Similarly, only one child of a participating family with two children eligible
+for participation was asked to complete questionnaires.
+Intervention Condition
+Group Triple P is a group variant of Level 4 Triple P, which provides moderate to high intensity of intervention and focuses on improving parent–child
+interaction and the application of parenting skills to a broad range of target
+behaviors (Sanders, 2012). It consists of 4 × 2 hr group sessions for 4 weeks,
+with a session each week, plus three telephone consultations which lasted 15
+to 30 min each for another 3 weeks, with one consultation each week; the
+eighth session was a group session to summarize program content and discuss how to proceed after the program. Before the first group session, a workbook summarizing the content of every sessions and suggested homework
+was given to each parent. The group sessions included content presentation,
+video watching, group discussions, and role-play exercises. Group Triple P
+utilizes an active skills training process to teach parents a variety of parenting
+skills. Parents are introduced to 17 positive parenting strategies including
+ones to develop good relationship with children, encourage desirable behaviors, teach new skills and behaviors, and manage children’s misbehavior, as
+well as planned activities routines for high risk situations to help parents to
+generalize and maintain parenting skills across settings and over time. In telephone consultations, difficulties that parents encountered or issues that parents would like to discuss are discussed with an accredited Group Triple P
+practitioner. Parents are also encouraged to do take-home exercises in every
+session (Turner, Markie-Dadds, & Sanders, 2010).
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+12 Behavior Modification
+In this study, all group sessions and telephone consultations were conducted by the first author, who was a PhD candidate in psychology and a
+Group Triple P accredited practitioner. Some minor tailoring was done to
+help parents to use strategies in their children’s academic lives. Examples
+concerning children’s academic behaviors were given to parents in presentations; some exercises were demonstrated by the practitioner around children’s academic behaviors in group sessions; and parents were also
+encouraged to practice Triple P strategies to deal with children’s learning
+behaviors in group exercises and homework. No other adaptations were made
+to the program because the existing literature does not support the advantage
+of culturally adapted parent training interventions over unadapted typical
+interventions for ethnic populations (Ortiz & Del Vecchio, 2013). Furthermore,
+it has also been contended that before making adaptations for a particular
+cultural population, “One should first implement the program as written,
+except for minor changes in the songs, examples, and wording to match local
+culture and context better” (Kumpfer, Pinyuchon, de Melo, & Whiteside,
+2008, p. 231).
+The program delivery closely followed the standard Facilitator’s Manual for
+Group Triple P (Turner et al., 2010). To help the facilitator adhere to the content
+of the program and as a part of the self-regulatory approach which underlies all
+versions of Triple P, the practitioner was supervised by the second author who
+is a clinical psychologist and experienced Triple P practitioner throughout the
+program. The supervision included the practitioner’s report of the progress,
+discussing how to address emerging difficulties as well as preparing for potential challenges for the next session. Moreover, the program checklists (see
+Turner et al., 2010) for each session were completed by the facilitator and
+adherence and non-adherence was determined by whether the essential elements were covered in each session. Adherence to all sessions was 100%.
+For parents in the intervention group, six groups were conducted ranging
+in size from three to 10 parents (M = 6.67) in each group. Parents participated
+in an average of six sessions (M = 6.23, SD = 1.90) of the eight-session program, ranging from two to eight sessions.
+Data Analysis
+An intent-to-treat approach was used for data analysis. To deal with missing
+values (both missing questionnaire item responses and attrition of participants), a multiple imputation (MI) approach is highly recommended compared with traditional methods such as case deletion and mean substitution
+(Schafer & Graham, 2002). Therefore, MI was employed using SPSS v.20 for
+missing data in this study and five data sets were created with the
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 13
+substitutions of missing values. After that, statistical analyses were conducted
+for each data set separately.
+The short-term intervention effects were analyzed using two-way (condition by time) repeated measures (pre vs. post-intervention) MANOVAs for
+conceptually related variables (i.e., parental cognitions about children’s academic learning and the two subscales of the Alabama Parenting scale), and a
+series of two-way repeated measures ANOVAs for all other dependent variables. As only parents and children in the intervention group completed the
+questionnaires at 6-month follow-up, one-way (time) repeated measures (pre
+vs. post) MANOVAs were used for the conceptually related variables and a
+series of one-way repeated measures ANOVAs were used for other dependent
+variables to evaluate the long-term intervention effects. The approach developed by van Ginkel et al. (van Ginkel, 2014; van Ginkel & Kroonenberg,
+2014) was used to pool the results of two-way repeated measures ANOVAs
+and one-way repeated measures ANOVAs. However, given the current lack
+of an approach to pool the results of MANOVA analysis, F and p value ranges
+are reported in the results.
+Results
+Preliminary Analysis
+There were 10.80% and 7.28% missing values in the entire parent data sets for
+the intervention group and control group, respectively. Little’s MCAR tests
+showed that the data sets were both missing completely at random, with χ2 =
+897.02, df = 8,574, p > .999 for the intervention group and χ2 < .01, df = 2,567,
+p > .999 for the control group. Similarly, there were 11.64% and 8.16% missing
+values in the child data sets for the intervention and control groups of children.
+Little’s Missing Compeltely at Random (MCAR) tests showed that χ2 = 534.32,
+df = 1,369, p > .999 for the intervention group, and χ2 = 291.74, df = 515, p > .999
+for the control group, indicating that the two data sets were missing completely at
+random. A series of independent t tests revealed that there was no significant difference between the two groups on all outcomes at pre-intervention assessment
+for parents and children, except for a significant difference in the RAI for children. Specifically, intervention group children at pre-test scored significantly
+higher on the RAI than control group children, t(76) = 2.24, p = .028.
+Attrition
+As shown in Figure 1, one out of 81 parents (1.23%) and three out of 81 children (3.70%) did not complete the pre-intervention questionnaires. Out of the
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+14 Behavior Modification
+81 families, seven parents (8.64%) and eight children (9.88%) did not complete post-intervention assessment; and six parents (15%) and eight children
+(20%) in the intervention group did not complete assessment at 6-month
+follow-up.
+Chi-square tests of independence (using Fisher’s Exact Test to compute
+exact p values due to expected cell frequencies violating the assumption of
+Figure 1. Flow diagram of participants according to the CONSORT.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 15
+chi-square) showed non-significant difference in attrition rates between two
+groups at pre-intervention assessment for parents, χ2(1, 81) = 1.04, p = .494,
+or for children, χ2(1, 81) = .32, p > .999. Moreover, no significant difference
+was also found in attrition rates at post-intervention for parents, χ2(1, 81) =
+.13, p > .999, or for children, χ2(1, 81) < .01, p > .999.
+Short-Term Intervention Effects
+Table 2 summarizes the short-term intervention effects of Group Triple P on
+all parent-report outcomes and child-report outcomes.
+Parent-report outcomes. In terms of parent outcomes measured by PAFAS, the
+repeated measures ANOVA results showed significant intervention effects on
+parenting practices and parental adjustment. Specifically, intervention group
+parents reported significant improvement in parenting practices, F(1, 73) =
+17.76, p < .001, and parental adjustment problems, F(1, 76) = 7.24, p = .009,
+than control group parents at post-intervention. However, there were nonsignificant group by time interaction effects on family relationships, F(1, 56)
+= .02, p = .885, or parental teamwork, F(1, 49) = .28, p = .601, indicating no
+significant intervention effects on these two outcomes.
+Repeated measures ANOVAs also showed that parents in the intervention
+group significantly increased their parenting confidence compared with control group parents at post-intervention, F(1, 76) = 5.16, p = .026, and their
+children also had significantly lower levels of child adjustment problems
+than control group children after the intervention, F(1, 60) = 7.26, p = .009.
+Academic-related parent-report outcomes. In relation to academic-related outcomes, repeated measures ANOVAs revealed that the intervention group parents reported significant improvement in parenting practices in children’s
+academic lives, F(1, 71) = 20.20, p < .001, as well as academic problem
+behaviors, F(1, 75) = 11.03, p = .001, in their children at post-intervention.
+The multivariate group by time effects on parental cognitions about children’s academic learning was also significant, F (2, 78) = 4.89-6.00, p = .004-
+.010. The results of univariate ANOVA analyses showed that parents’
+satisfaction with children’s academic achievement increased significantly for
+the intervention group compared with parents in the control group at postintervention, F(1, 76) = 10.54, p = .002, but the intervention effect on parents’
+perceptions of children’s academic learning was not significant, F(1, 56) =
+2.27, p = .137. In addition, there was no significant intervention effect on
+parent-report RAI, F(1, 75) = 0.86, p = .356.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+16Table 2. Short-Term Intervention Effects.
+Measure
+Intervention (n = 40) Wait-list control (n = 41)
+F df p d [95% CI]
+Pre Post Pre Post
+M SD M SD M SD M SD
+Parent measures
+PAFAS parenting 14.67 4.83 10.45 4.05 14.29 5.78 14.97 5.12 17.76 (1, 73) <.001*** 0.91 [0.46, 1.36]
+PAFAS parental adjustment 4.98 1.93 3.43 2.01 4.74 2.08 4.38 2.06 7.24 (1, 76) .009** 0.59 [0.15, 1.03]
+PAFAS family relationships 3.11 2.16 2.57 2.46 3.43 2.19 2.83 1.91 0.02 (1, 56) .885 −0.03 [−0.46, 0.40]
+PAFAS teamwork 2.71 1.67 2.09 1.81 3.27 1.68 2.85 1.56 0.28 (1, 49) .601 0.12 [−0.31, 0.55]
+CAPES confidence 132.89 22.64 147.01 19.09 134.73 23.05 138.77 19.39 5.16 (1, 76) .026* 0.44 [0.00, 0.87]
+CAPES child adjustment 19.49 6.69 16.71 6.73 19.92 8.35 21.07 8.55 7.26 (1, 60) .009** 0.51[0.08, 0.95]
+Parenting in child’s academic context 19.66 5.45 13.84 5.36 18.32 5.42 18.13 5.81 20.20 (1, 71) <.001*** 1.03 [0.57, 1.48]
+Academic problem behaviors 9.66 5.24 6.76 3.57 9.34 5.30 9.53 5.37 11.03 (1, 75) .001** 0.58 [0.14, 1.02]
+Parental perception 3.19 0.97 3.32 0.71 3.35 0.69 3.21 0.80 2.27 (1, 56) .137 0.32 [−0.12, 0.75]
+Parental satisfaction 2.70 0.99 3.07 0.91 3.28 1.01 2.94 0.90 10.54 (1, 76) .002** 0.70 [0.26, 1.15]
+Relative Autonomy Index −1.26 2.61 −1.06 2.31 −1.10 2.48 −1.45 2.47 0.86 (1, 75) .356 0.21 [−0.22, 0.65]
+Child measures
+Positive parenting 8.22 2.67 9.57 2.54 8.17 2.78 7.81 2.62 8.06 (1, 67) .006** 0.62 [0.18, 1.06]
+Corporal punishment 3.61 3.52 3.10 3.36 3.53 3.05 2.70 2.55 0.25 (1, 51) .616 −0.10 [−0.53, 0.34]
+Learning stress 9.01 3.93 8.97 4.28 9.90 4.37 9.36 4.16 0.25 (1, 46) .620 −0.12 [−0.55, 0.31]
+Relative Autonomy Index 1.40 3.33 0.74 3.11 −0.13 2.48 0.40 2.38 5.77 (1, 65) .019* −0.40 [−0.84, 0.03]
+Note. Pre and Post = pre- and post-intervention assessment consisting of pooled
+M and SE values from multiple imputation data sets; F, df, p = the pooled ANOVA results
+for time by group computed from multiple imputation data sets; d = Cohen’s d for pre-test and post-test-control group designs; 95% CI = 95% confidence intervals of
+effect sizes; PAFAS = Parenting and Family Adjustment Scale; CAPES = Child Adjustment and Parent Efficacy Scale.
+*p < .05. **p < .01. ***p < .001.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 17
+Child-report outcomes. Regarding child-measure outcomes, there was a significant multivariate group by time interaction effect on parenting practices,
+F(2, 78) = 3.67-5.54, p = .006-.030. Univariate ANOVA analyses indicated
+that intervention group children reported their parents used more positive
+parenting practices than children in the control group after the intervention,
+F(1, 67) = 8.06, p = .006, but there was no significant difference in use of
+corporal punishment between the two groups, F(1, 51) = .25, p = .616. The
+ANOVA results also showed no significant intervention effect on children’s
+learning stress, F(1, 46) = .25, p = .620). However, child-report RAI in intervention group children decreased significantly more than control group children at post-intervention, F(1, 65) = 5.77, p = .019.
+Long-Term Effects
+Parent-report outcomes. The analyses of long-term effects were restricted to
+the intervention group only. The results are presented in Table 3. As shown
+in the table, the repeated measures ANOVAs showed a significant time effect
+for parenting practices, F(1, 35) = 11.83, p = .002, parental adjustment,
+F(1, 35) = 22.55, p < .001, and family relationships, F(1, 36) = 7.85, p = .006,
+for the intervention group at 6-month follow-up, indicating significant
+improvement in these parent outcomes. However, no significant improvement was found in parental teamwork, F(1, 27) = 2.02, p = .167. Parents also
+reported significantly higher parenting confidence, F(1, 36) = 28.21,
+p < .001, and less child adjustment problems, F(1, 34) = 19.07, p < .001, at
+6-month follow-up.
+Academic-related parent-report outcomes. For academic-related outcomes, the
+repeated measures ANOVA results showed significant improvement in parenting practices in the academic context, F(1, 36) = 39.13, p < .001, and
+academic problem behaviors, F(1, 35) = 14.36, p < .001, in children at
+6-month follow-up. Similarly, there was a significant multivariate effect on
+parental cognitions about children’s academic learning, F(2, 38) = 9.01-
+12.01, p < .001. Univariate ANOVA analyses showed that parents reported
+significant increased satisfaction with children’s academic achievement,
+F(1, 27) = 17.69, p < .001, but their change in the perceptions of children’s
+academic learning was not significant, F(1, 25) = 1.81, p = .191. There was
+no significant time effect for parent-report RAI, F(1, 32) = 0.22, p = .643.
+Child-report outcomes. There were mixed long-term effects for child report of
+parents’ use of parenting practices, F(2, 38) = 2.48-5.57 p = .097-.008. Univariate ANOVA analyses indicated significant time effects for positive parenting, F(1, 24) = 6.89, p = .015, but not for corporal punishment, F(1, 36) = .31,
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+18Table 3. Maintenance of Intervention Effects.
+Measure
+Intervention (n = 40)
+F df p d [95% CI]
+Pre Follow up
+M SD M SD
+Parent measures
+PAFAS parenting 14.67 4.83 11.19 4.65 11.83 (1, 35) .002** 0.71 [0.31, 1.10]
+PAFAS parental adjustment 4.98 1.93 3.26 2.41 22.55 (1, 35) <.001*** 0.87[0.50, 1.25]
+PAFAS family relationships 3.11 2.16 2.16 1.72 7.85 (1, 36) .008** 0.43 [0.08, 0.77]
+PAFAS teamwork 2.71 1.67 2.28 1.90 2.02 (1, 27) .167 0.25 [−0.07, 0.57]
+CAPES confidence 132.89 22.64 153.61 14.99 28.21 (1, 36) <.001*** 0.90 [0.47, 1.33]
+CAPES child adjustment 19.49 6.69 14.97 6.16 19.07 (1, 34) <.001*** 0.66 [0.32, 1.01]
+Parenting in child’s academic context 19.66 5.45 14.07 4.67 39.13 (1, 36) <.001*** 1.01 [0.59, 1.42]
+Academic problem behaviors 9.66 5.24 6.11 4.63 14.36 (1, 35) <.001*** 0.66 [0.27, 1.06]
+Parental perception 3.19 0.97 3.42 0.85 1.81 (1, 25) .191 0.23 [−0.14, 0.61]
+Parental satisfaction 2.70 0.99 3.51 0.94 17.69 (1, 27) <.001*** 0.80 [0.38, 1.22]
+Relative Autonomy Index −1.26 2.61 −1.05 2.68 0.22 (1, 32) .643 0.08 [−0.25, 0.41]
+Child measures
+Positive parenting 8.22 2.67 9.57 2.27 6.89 (1, 24) .015* 0.50 [0.09, 0.90]
+Corporal punishment 3.61 3.52 3.31 2.38 0.31 (1, 36) .581 0.08 [−0.26, 0.43]
+Learning stress 9.01 3.93 9.39 3.50 0.28 (1, 34) .597 −0.09 [−0.47, 0.28]
+Relative Autonomy Index 1.40 3.33 0.51 2.82 2.31 (1, 32) .138 −0.26 [−0.63, 0.10]
+Note. Pre and follow-up = pre-intervention and follow-up assessment consisting of pooled
+M and SE values from multiple imputation data sets; t, df, and
+p = the results of pooled t tests that were computed from multiple imputation data sets; d = Cohen’s d for single-group repeated measures design; 95%
+CI = 95% confidence intervals of effect sizes; PAFAS = Parenting and Family Adjustment Scale; CAPES = Child Adjustment and Parent Efficacy Scale.
+*p < .05. **p < .01. ***p < .001.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 19
+p = .581. In addition, the intervention effects were not significant on either
+child reports of learning stress, F(1, 34) = .28, p = .597, or child-report RAI,
+F(1, 32) = 2.31, p = .138, at 6-month follow-up.
+Client satisfaction. Parents’ ratings of satisfaction with the program ranged
+from 42 to 89 (possible range = 13-91). On average, parents were very satisfied with the program (M = 69.89, SD = 10.52).
+Discussion
+To our knowledge, this is the first randomized controlled trial of a Westerndeveloped parenting program in Mainland China. We evaluated the effects of
+Group Triple P on general parent and child outcomes including parenting
+practices and child adjustment problems, and parent outcomes related to
+child academic learning as well as children’s academic outcomes.
+In regard to general parent and child outcomes, we found that Group
+Triple P significantly improved dysfunctional parenting and parental adjustment, increased parenting confidence and reduced child adjustment problems, and all the effects were maintained at 6-month follow-up. These results
+are consistent with Triple P trials with parents in other Asian countries (C.
+Leung et al., 2003; Matsumoto et al., 2010; Sumargi et al., 2015). Triple P
+encourages nurturing, engaging, consistent, and assertive parenting (Sanders,
+2012); hence, it coaches authoritative parenting. As recent research (Lu &
+Chang, 2013) has shown that Mainland Chinese parents endorse authoritative
+parenting and this is positively related to children’s social and school adjustment (Chen et al., 1997; Wang & Chang, 2005), it is not surprising that Group
+Triple P had positive effects on a range of parent and child outcomes in this
+study.
+It is noteworthy that there was no significant effect on family relationships
+until the 6-month follow-up, which may be due to a longer time that parents
+need to significantly influence family member relationships. Moreover, parent’s participation in Group Triple P also significantly increased children’s
+perceptions of positive parenting at post-intervention, meaning that parents
+used significantly more positive parenting practices in children’s eyes.
+However, this short-term effect was not maintained at 6-month follow-up
+indicated by the mixed MANOVA significance levels, though the univariate
+ANOVA result showed a significant intervention effect. As this is a rare
+attempt to evaluate parenting changes in a parenting program from a child
+perspective, more research is needed to explore children’s views on changes
+in parenting practices following parents’ participation in a parenting program. The intervention effect on child report of corporal punishment was not
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+20 Behavior Modification
+significant either at post-intervention or 6-month follow-up, which might be
+caused by a floor effect due to the low average level of corporal punishment
+reported by parents in this study.
+Regarding academic-related outcomes, the results showed that Group
+Triple P improved parenting in the academic context and reduced child academic problem behaviors, and the effects continued to be significant at
+6-month follow-up. These findings suggest that Chinese parents applied
+Triple P strategies they learned to children’s academic lives and thus made a
+significant impact on children’s academic behaviors. Moreover, the parenting
+intervention also significantly enhanced parents’ satisfaction with children’s
+academic achievement, which might be because parents adjusted their expectations and became more accepting of their children’s academic achievement
+or an actual change in their child’s academic achievement. Unfortunately, we
+were not able to measure academic performance directly in this study,
+although a recent 15-year follow-up study (Smith, 2015) in Western Australia
+indicated Group Triple P when delivered to parents of children aged at 3 to 4
+years produced sustained improvements in children’s literacy and numeracy
+scores once at school (Smith, 2015).
+Unexpectedly, the results indicated no significant effect of the intervention on parents’ reports of children’s academic self-regulation, but the intervention significantly reduced child report of academic autonomy at
+post-intervention, though the effect was not maintained at 6-month followup. Children may have temporarily perceived the parenting changes as an
+increased expectation for them to achieve more in academic learning so that
+they became more externally regulated in the short term. However, Group
+Triple P did not effectively promote children’s academic self-regulation in
+this study as expected. As child academic self-regulation in primary schoolers is positively associated with positive parenting (Grolnick & Ryan, 1989;
+Guo, 2011), and there was significant improvement in parenting practices for
+this sample, the non-significant effect on academic self-regulation seems to
+contradict this hypothesis. Similarly, the insignificant effects on children’s
+learning stress also indicated that the parenting intervention did not reduce
+learning stress in children as expected. Although some research (G. S. M.
+Leung & He, 2010) has shown that parental support contributes to buffering
+the negative influence of academic stress on academic achievement for primary schoolchildren, little research has illuminated the relationship between
+parenting practices, parenting efficacy, and primary schoolers’ learning
+stress. This means that it is unclear whether a parenting program can reduce
+children’s learning stress through improving parenting practices and promoting parental confidence. Alternatively, it might be more difficult to make a
+change to internalizing problems such as self-regulation and learning stress
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 21
+than externalizing problems, or the intensity of the parenting intervention is
+not strong enough to make expected changes as only examples were tailored
+in group sessions rather than including additional content focused on children’s academic learning.
+There were some limitations to the study that should be considered. First,
+parents were only recruited from a developed city, had received higher education, and had better financial status than the average levels in Mainland China.
+Specifically taking education for instance, 69.2% of parents in this study had
+a university or higher degree, whereas the gross rate of enrollment in higher
+education was only 34.5% in 2013 and lower in the years before 2013 (Ministry
+of Education of the People’s Education of China, 2014). This limits the generalizability of the findings to families in other areas of China or parents with
+lower education or worse financial situation. As greater Triple P intervention
+effects have been found to be related to lower family income for Chinese parents in Hong Kong (C. Leung, Sanders, Lp, & Lau, 2006), further research is
+warranted to examine similar issues in Mainland China to inform public policies and family services. Second, several measures used in the study were
+newly designed (e.g., Academic Problem Behavior Questionnaire) or adapted
+from other existing measures (e.g., Parenting in Academic Context
+Questionnaire), and they had not been previously validated. Although most of
+the measures (except APQ) obtained adequate internal reliability, it is still
+unknown whether they had satisfactory validity for Chinese parents or children. Moreover, even though we helped children in Grades 1 and 2 to complete the questionnaires, it is possible that the children did not fully understand
+the items or how to respond properly, which may have influenced the validity
+of the assessment, particularly considering that three subscales of the APQ for
+children had low internal reliability. Therefore, the results of some outcomes
+need to be treated with caution. Furthermore, even for validated measures
+including PAFAS and CAPES, there is lack of normative values for Chinese
+parents and children; thus, it was not possible to identify cases within or outside the clinical range and to compute reliable change indices. Finally, the
+present design could not rule out the possibility that intervention effects may
+be related to the increased attention provided to the participating parents in the
+intervention arm compared with the wait-list control. However, we considered
+it problematic and potentially unethical to use an attention placebo control
+condition as a comparator. Such a condition can create additional difficulties
+in retaining parents thereby creating a condition by attrition interaction.
+Despite the aforementioned limitations, this study can offer unique contribution to understanding the effectiveness of a Western parenting program with
+Chinese parents and especially its effects on parent outcomes related to child
+academic learning as well as children’s academic outcomes.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+22 Behavior Modification
+Declaration of Conflicting Interests
+The author(s) declared the following potential conflicts of interest with respect to the
+research, authorship, and/or publication of this article: The Triple P–Positive Parenting
+Program is owned by The University of Queensland. The University, through its main
+technology transfer company, UniQuest Pty Ltd., has licensed Triple P International
+Pty Ltd. to publish and disseminate the program worldwide. Royalties stemming from
+published Triple P resources are distributed in accordance with the University’s intellectual property policy and flow to the Parenting and Family Support Centre, School
+of Psychology, Faculty of Health and Behavioral Sciences, and contributory authors.
+No author has any share or ownership in Triple P International Pty Ltd. Matthew
+Sanders and Alina Morawska are authors of various Triple P resources and Mingchun
+Guo is a PhD recently graduated from the Parenting and Family Support Center.
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of this article.
+Notes
+1. Parents needed to answer “Yes” to the question “Are you worried about your
+child’s academic learning?” and rate five or higher on a 10-point scale from 1 to
+10 when responding to the question “To what extent are you worried about your
+child’s academic learning.”
+2. Percentages do not add up to 100 due to missing data.
+References
+Achenbach, T. M., McConaughy, S. H., & Howell, C. T. (1987). Child/adolescent behavioral and emotional problems: Implications of cross-informant correlations for situational specificity. Psychological Bulletin, 101, 213-232.
+doi:10.1037/0033-2909.101.2.213
+Brestan, E. V., & Eyberg, S. M. (1998). Effective psychosocial treatments of conductdisordered children and adolescents: 29 years, 82 studies, and 5,272 kids. Journal
+of Clinical Child Psychology, 27, 180-189. doi:10.1207/s15374424jccp2702_5
+Chang, L., Chen, B.-B., & Ji, L. Q. (2011). Attributions and attitudes of mothers and
+fathers in China. Parenting, 11, 102-115. doi:10.1080/15295192.2011.585553
+Chao, R. K. (1994). Beyond parental control and authoritarian parenting style:
+Understanding Chinese parenting through the cultural notion of training. Child
+Development, 65, 1111-1119.
+Chao, R. K. (2000). The parenting of immigrant Chinese and European American
+mothers: Relations between parenting styles, socialization goals, and parental
+practices. Journal of Applied Developmental Psychology, 21, 233-248.
+Chau, I. Y.-F., & Landreth, G. L. (1997). Filial therapy with Chinese parents: Effects
+on parental empathic interactions, parental acceptance of child and parental stress.
+International Journal of Play Therapy, 6(2), 75-92. doi:10.1037/h0089409
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 23
+Chen, X., Dong, Q., & Zhou, H. (1997). Authoritative and authoritarian parenting
+practices and social and school performance in Chinese children. International
+Journal of Behavioral Development, 21, 855-873. doi:10.1080/016502597384703
+Chiu, L.-H. (1987). Child-rearing attitudes of Chinese, Chinese-American, and
+Anglo-American mothers. International Journal of Psychology, 22, 409-419.
+doi:10.1080/00207598708246782
+Coren, E., Barlow, J., & Stewart-Brown, S. (2003). The effectiveness of individual
+and group-based parenting programmes in improving outcomes for teenage
+mothers and their children: A systematic review. Journal of Adolescence, 26,
+79-103. doi:10.1016/s0140-1971(02)00119-7
+Crisante, L., & Ng, S. (2003). Implementation and process issues in using Group
+Triple P with Chinese parents: Preliminary findings. Australian e-Journal for the
+Advancement of Mental Health, 2, 226-235.
+Goto, A., Yabe, J., Sasaki, H., & Yasumura, S. (2010). Short-term operational evaluation of a group-parenting program for Japanese mothers with poor psychological
+status: Adopting a Canadian program into the Asian public service setting. Health
+Care for Women International, 31, 636-651. doi:10.1080/07399331003690578
+Grolnick, W. S., & Ryan, R. M. (1989). Parent styles associated with children’s selfregulation and competence in school. Journal of Educational Psychology, 81,
+143-154.
+Gu, S. (2005). Tuan ti fu dao dui gai shan chu er xue sheng mu zi guan xi de ying
+xiang yan jiu [The effects of parent group training on mother-child relationship
+for parents of grade 2 students in junior middle schools] (Master’s thesis). Hebei
+Normal University, Hebei, China.
+Guo, M. (2011). The relationship between parental factors and academic selfregulation (Master’s thesis). East China Normal University, Shanghai, China.
+Guo, M., & Morawska, A. (2014a). Academic Problem Behaviour Questionnaire.
+Brisbane, Australia: Parenting and Family Support Center, The University of
+Queensland.
+Guo, M., & Morawska, A. (2014b). Parenting in Child’s Academic Context
+Questionnaire. Brisbane, Australia: Parenting and Family Support Center, The
+University of Queensland.
+Guo, M., & Morawska, A. (2015). Chinese parents’ experiences of children’s academic lives and their needs for parenting support. Manuscript submitted for publication.
+Guo, M., Morawska, A., & Filus, A. (2015). Validation of the parent-report Child
+Adjustment and Parent Efficacy Scales (CAPES) in a Chinese cultural context.
+Manuscript submitted for publication.
+Guo, M., Morawska, A., & Filus, A. (2016). Validation of the Parenting and Family
+Adjustment Scales (PAFAS) to measure parenting skills and family adjustment in
+Chinese parents. Measurement and Evaluation in Counseling and Development,
+1-19. doi:10.1177/0748175615625754.
+Jeynes, W. (2012). A meta-analysis of the efficacy of different types of parental involvement programs for urban students. Urban Education, 47, 706-742.
+doi:10.1177/0042085912445643
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+24 Behavior Modification
+Jones, K., Daley, D., Hutchings, J., Bywater, T., & Eames, C. (2007). Efficacy of
+the Incredible Years Basic parent training programme as an early intervention for children with conduct problems and ADHD. Child: Care, Health and
+Development, 33, 749-756. doi:10.1111/j.1365-2214.2007.00747.x
+Jose, P. E., Huntsinger, C. S., Huntsinger, P. R., & Liaw, F.-R. (2000). Parental values and practices relevant to young children’s social development in Taiwan
+and the United States. Journal of Cross-Cultural Psychology, 31, 677-702.
+doi:10.1177/0022022100031006002
+Kumpfer, K. L., Pinyuchon, M., de Melo, A. T., & Whiteside, H. O. (2008). Cultural
+adaptation process for international dissemination of the Strengthening Families
+Program. Evaluation and the Health Professions, 31, 226-239.
+Lau, A. S., Fung, J. J., & Yung, V. (2010). Group parent training with immigrant
+Chinese families: Enhancing engagement and augmenting skills training. Journal
+of Clinical Psychology, 66, 880-894. doi:10.1002/jclp.20711
+Leung, C., Sanders, M. R., Leung, S., Mak, R., & Lau, J. (2003). An outcome evaluation of the implementation of the Triple P-Positive Parenting Program in Hong
+Kong. Family Process, 42, 531-544. doi:10.1111/j.1545-5300.2003.00531.x
+Leung, C., Sanders, M. R., Lp, F., & Lau, J. (2006). Implementation of Triple
+P-Positive Parenting Program in Hong Kong: Predictors of programme completion and clinical outcomes. Journal of Children’s Services, 1(2), 4-17.
+doi:10.1108/17466660200600010
+Leung, G. S. M., & He, X. S. (2010). Resourcefulness: A protective factor buffer
+against the academic stress of school-aged children. Educational Psychology, 30,
+395-410. doi:10.1080/01443411003682574
+Leung, J. T. Y., & Shek, D. T. L. (2011). Expecting my child to become “dragon”—
+Development of the Chinese Parental Expectation on Child’s Future Scale.
+International Journal on Disability and Human Development, 10, 257-265.
+doi:10.1515/ijdhd.2011.043
+Leung, K., Lau, S., & Lam, W. L. (1998). Parenting styles and academic achievement:
+A cross-cultural study. Merrill-Palmer Quarterly, 44, 157-172.
+Li, J. (2004). Parental expectations of Chinese immigrants: A folk theory about
+children’s school achievement. Race Ethnicity and Education, 7, 167-183.
+doi:10.1080/1361332042000234286
+Lin, C.-Y. C., & Fu, V. R. (1990). A comparison of child-rearing practices
+among Chinese, immigrant Chinese, and Caucasian-American parents. Child
+Development, 61, 429-433. doi:10.1111/j.1467-8624.1990.tb02789.x
+Liu, R. X., Lin, W., & Chen, Z.-y. (2010). The effect of parental responsiveness on
+differences in psychological distress and delinquency between singleton and nonsingleton Chinese adolescents. Journal of Child and Family Studies, 19, 547-558.
+doi:10.1007/s10826-009-9329-z
+Lu, H. J., & Chang, L. (2013). Parenting and socialization of only children in urban
+China: An example of authoritative parenting. Journal of Genetic Psychology,
+174, 335-343. doi:10.1080/00221325.2012.681325
+Matsumoto, Y., Sofronoff, K., & Sanders, M. R. (2010). Investigation of the effectiveness and social validity of the Triple P Positive Parenting Program in Japanese
+society. Journal of Family Psychology, 24, 87-91. doi:10.1037/a0018181
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 25
+Mattingly, D. J., Prislin, R., McKenzie, T. L., Rodriguez, J. L., & Kayzar, B. (2002).
+Evaluating evaluations: The case of parent involvement programs. Review of
+Educational Research, 72, 549-576. doi:10.3102/00346543072004549
+McIntyre, L. L. (2008). Adapting Webster-Stratton’s incredible years parent training
+for children with developmental delay: Findings from a treatment group only
+study. Journal of Intellectual Disability Research, 52, 1176-1192. doi:10.1111/
+j.1365-2788.2008.01108.x
+Ministry of Education of the People’s Education of China. (2014). Gross enrolment
+rate of education by level. Retrieved from http://www.moe.edu.cn/publicfiles/
+business/htmlfiles/moe/s8493/201412/181724.html
+Morawska, A., Sanders, M. R., Haslam, D. M., Filus, A., & Fletcher, R. (2014).
+Child Adjustment and Parent Efficacy Scale (CAPES): Development and Initial
+Validation of a Parent Report Measure. Australian Psychologist, 49, 241-252.
+Ortiz, C., & Del Vecchio, T. (2013). Cultural diversity: Do we need a new wake-up
+call for parent training? Behavior Therapy, 44, 443-458.
+Pan, Z.-y., & Wu, X.-c. (2008). Fu mu xiao neng xi tong xun lian dui gai shan qin
+zi guan xi de xiao guo yan jiu [A study on the effect of Systematic Training for
+Effective Parenting on improving the parent-child relation]. Chinese Journal of
+Clinical Psychology, 16, 446-448.
+Phares, V., Compas, B. E., & Howell, D. C. (1989). Perspectives on child behavior
+problems: Comparisons of children’s self-reports with parent and teacher reports.
+Psychological Assessment: A Journal of Consulting and Clinical Psychology, 1,
+68-71. doi:10.1037/1040-3590.1.1.68
+Pidano, A. E., & Allen, A. R. (2015). The Incredible Years Series: A review of
+the independent research base. Journal of Child and Family Studies, 24(7),
+1898-1916.
+Plant, K. M., & Sanders, M. R. (2007). Reducing problem behavior during care-giving
+in families of preschool-aged children with developmental disabilities. Research
+in Developmental Disabilities, 28, 362-385. doi:10.1016/j.ridd.2006.02.009
+Pomerantz, E. M., Moorman, E. A., & Litwack, S. D. (2007). The how, whom, and why
+of parents’ involvement in children’s academic lives: More is not always better.
+Review of Educational Research, 77, 373-410. doi:10.3102/003465430305567
+Roberts, D., & Pickering, N. (2010). Parent training programme for autism spectrum
+disorders: An evaluation. Community Practitioner, 83(10), 27-30.
+Ryan, R. M., & Connell, J. P. (1989). Perceived locus of causality and internalization:
+Examining reasons for acting in two domains. Journal of Personality and Social
+Psychology, 57, 749-761. doi:10.1037/0022-3514.57.5.749
+Sanders, M. R. (2012). Development, evaluation, and multinational dissemination of
+the triple P-Positive Parenting Program. Annual Review of Clinical Psychology,
+8, 345-379. doi:10.1146/annurev-clinpsy-032511-143104
+Sanders, M. R., Kirby, J. N., Tellegen, C. L., & Day, J. J. (2014). The Triple P-Positive
+Parenting Program: A systematic review and meta-analysis of a multi-level system of parenting support. Clinical Psychology Review, 34, 337-357.
+Sanders, M. R., & Morawska, A. (2010). Family Background Questionnaire. Brisbane,
+Australia: Parenting and Family Support Centre, University of Queensland.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+26 Behavior Modification
+Sanders, M. R., Morawska, A., Haslam, D., Filus, A., & Fletcher, R. (2014). Parenting
+and Family Adjustment Scales (PAFAS): Validation of a brief parent-report
+measure for use in assessment of parenting skills and family relationships. Child
+Psychiatry and Human Development, 45, 255-272. doi:10.1007/s10578-013-
+0397-3
+Schafer, J. L., & Graham, J. W. (2002). Missing data: Our view of the state of the art.
+Psychological Methods, 7, 147-177.
+Scott, S., Briskman, J., & Dadds, M. R. (2011). Measuring parenting in community
+and public health research using brief child and parent reports. Journal of Child
+and Family Studies, 20, 343-352. doi:10.1007/s10826-010-9398-z
+Shelton, K. K., Frick, P. J., & Wootton, J. (1996). Assessment of parenting practices in families of elementary school-age children. Journal of Clinical Child
+Psychology, 25, 317-329. doi:10.1207/s15374424jccp2503_8
+Smith, G. (2015). Collaboration for Applied Research and Evaluation: 15 year followup of WA Triple P Trial. Subiaco, Western Australia: Telethon Kids Institute,.
+Spera, C. (2005). A review of the relationship among parenting practices, parenting
+styles, and adolescent school achievement. Educational Psychology Review, 17,
+125-146. doi:10.1007/s10648-005-3950-1
+Steinberg, L., Elmen, J. D., & Mounts, N. S. (1989). Authoritative parenting, psychosocial maturity, and academic success among adolescents. Child Development,
+60, 1424-1436. doi:10.1111/j.1467-8624.1989.tb04014.x
+Sumargi, A., Sofronoff, K., & Morawska, A. (2015). A randomized-controlled trial of
+the Triple P-Positive Parenting Program Seminar Series with Indonesian parents.
+Child Psychiatry and Human Development, 46(5), 749-761.
+Sun, J., Hou, X.-y., Xu, A.-q., & Dunne, M. P. (2011). Educational Stress Scale for
+Adolescents: Development, validity, and reliability with Chinese students. Journal
+of Psychoeducational Assessment, 29, 534-546. doi:10.1177/0734282910394976
+Tang, B. Y. (2002). The relationship between high school students’ perceptions
+of social support and their academic motivation (Master’s thesis). Shandong
+Normal University, Jinan, China.
+Tein, J.-Y., Roosa, M. W., & Michaels, M. (1994). Agreement between parent
+and child reports on parental behaviors. Journal of Marriage and Family, 56,
+341-355.
+Turner, K. M. T., Markie-Dadds, C., & Sanders, M. R. (2002). Facilitator’s manual
+for Group Triple P. Brisbane, Australia: Triple P International.
+Turner, K. M. T., Markie-Dadds, C., & Sanders, M. R. (2010). Facilitator’s manual
+for Group Triple P (Edition III). Brisbane, Australia: Triple P International.
+van Ginkel, J. R. (2014). SPSS syntax for applying rules for combining multivariate estimates in multiple imputation. Retrieved from http://socialsciences.leiden.
+edu/educationandchildstudies/childandfamilystudies/organisation/staffcfs/vanginkel.html
+van Ginkel, J. R., & Kroonenberg, P. M. (2014). Analysis of variance of multiply
+imputed data. Multivariate Behavioral Research, 49, 78-91.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016
+Guo et al. 27
+Wang, Y., & Chang, L. (2005). Er tong xue ye zi wo gai nian zai fu mu jiao yang
+feng ge yu xue ye cheng jiu jian de zhong jie xiao ying [Mediating influence
+of children’s academic self-concept on the relation between parenting style and
+children’s academic achievement]. Chinese Journal of Applied Psychology, 11,
+186-192.
+Whittingham, K., Sofronoff, K., Sheffield, J., & Sanders, M. R. (2009). Stepping
+stones Triple P: An RCT of a parenting program with parents of a child diagnosed
+with an autism spectrum disorder. Journal of Abnormal Child Psychology, 37,
+469-480. doi:10.1007/s10802-008-9285-x
+Author Biographies
+Mingchun Guo is a recent PhD graduate from the Parenting and Family Support
+Center, University of Queensland. His research focuses on parenting intervention
+with Chinese parents, particularly looking into how to improve children’s academic
+outcomes through parenting intervention.
+Alina Morawska is deputy director (research) at the Parenting and Family Support
+Centre, University of Queensland. Her research interests are in the prevention and
+early intervention of child behavioral and emotional problems, and she has published
+extensively in the area. She is a director of AACBT Ltd.
+Matthew R. Sanders is a professor of clinical psychology and director of the
+Parenting and Family Support Centre at the University of Queensland and founder of
+the Triple P-Positive Parenting Program. He has published extensively in the development, implementation, evaluation, and dissemination of population-level parenting
+and family interventions.
+Downloaded from bmo.sagepub.com at LAURENTIAN UNIV LIBRARY on April 21, 2016

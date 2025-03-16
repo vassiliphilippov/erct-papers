@@ -4,7 +4,6 @@ title: >-
   Randomized Experiment in Migrant Schools in Beijing
 authors: "Fang Lai, Renfu Luo, Linxiu Zhang, Xinzhe Huang, Scott Rozelle"
 paper_link: "https://doi.org/10.1016/j.econedurev.2015.03.005"
-slug: "lai-et-al-2015-cal-migrant-schools-beijing"
 abstract: >-
   Using a randomized field experiment in 43 migrant schools in Beijing, this paper
   examines the impact of a computer-assisted learning (CAL) program on math

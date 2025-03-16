@@ -6,7 +6,6 @@ authors: >-
   Mohamed E. H. Elzeky, Heba M. M. Elhabashy, Wafaa G. M. Ali, and
   Shaimaa M. E. Allam
 paper_link: "https://doi.org/10.1186/s12912-022-01096-6"
-slug: "elzeky-et-al-2022-gamified-flipped-classroom"
 abstract: >-
   Background: Flipped learning excessively boosts students’
   understanding through reversed arrangements of pre-learning and
@@ -30,7 +29,7 @@ journal: "BMC Nursing"
 date_erct_check: "2025-03-09"
 tags:
   - flipped classroom
-  - university level
+  - higher education
   - gamification
   - EdTech website
   - digital assessment

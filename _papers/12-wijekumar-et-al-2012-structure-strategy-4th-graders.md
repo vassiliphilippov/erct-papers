@@ -5,7 +5,6 @@ title: >-
   nonfiction reading comprehension
 authors: "Kausalai Kay Wijekumar, Bonnie J. F. Meyer, Puiwa Lei"
 paper_link: "https://doi.org/10.1007/s11423-012-9263-4"
-slug: "wijekumar-et-al-2012-structure-strategy-4th-graders"
 abstract: >-
   Reading comprehension is a challenge for K-12 learners, especially with
   nonfiction texts. This paper reports on a large-scale randomized controlled
@@ -156,21 +155,23 @@ criteria:
       study states that the intervention lasted “6–7 months,” which is shorter than a
       full academic year (often 9–10 months). Therefore, Y is not satisfied.
   b:
-    met: false
+    met: true
     explanation: >-
-      They did not allocate equivalent resources or tools to control 
-      classrooms; the intervention group had exclusive access to the ITSS system.
+      Although the ITSS group used the system for 30–45 minutes weekly as a
+      substitute, total instructional time was identical. Since the study
+      aimed to test the tutoring system's impact—not extra time—the control
+      group's standard instruction is balanced.
     quote: >-
-      "…the control group in each school used the same language arts curriculum… 
-      whereas the intervention group used ITSS for 30–45 min each week as a partial 
-      substitute for the regular curriculum." (Method section)
+      "Teachers in the intervention condition were advised and regularly reminded
+      to use ITSS for 30–45 min each week as a partial substitute for the regular
+      language arts curriculum, while the control group continued using the same
+      language arts curriculum." (Methods section)
     analysis: >-
-      To meet B (Balanced Control Group), any extra budget, time, or resources 
-      given to the treatment group should also be allocated to the control group. 
-      Although total instructional time was kept identical, the ITSS group 
-      received a specialized tutoring software that was not provided to the control group. 
-      The control classes simply continued with the standard curriculum, 
-      without an alternative intervention of equal scope or intensity. Hence, B is not met.
+      Under the updated Balanced Control Group (B) criterion, the absence of extra
+      resources in the control group is acceptable when the extra resource (ITSS
+      tutoring) is the treatment variable. Since both groups received identical total
+      instructional time and the intervention is defined by the use of ITSS, the
+      control group is balanced relative to the treatment group. Therefore, B is now met.
   g:
     met: false
     explanation: >-

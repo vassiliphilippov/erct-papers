@@ -4,7 +4,6 @@ title: >-
   Evidence from a randomized control trial in Mexico
 authors: "Ciro Avitabile and Rafael de Hoyos"
 paper_link: "https://doi.org/10.1016/j.jdeveco.2018.07.008"
-slug: "avitabile-dehoyos-2018-mexico-info-rct"
 abstract: >-
   We use data from an RCT in Mexico to study whether providing 10th-grade
   students with information on monetary and non-monetary rewards of education
