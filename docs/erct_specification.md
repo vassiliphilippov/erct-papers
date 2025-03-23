@@ -45,7 +45,7 @@ Expands testing to whole schools for real-world relevance
 Assesses effects across all core subjects, avoiding imbalances
 
 #### Year Duration (Y)
-Ensures studies last at least one academic term to measure meaningful impacts
+Ensures studies last at least one academic year to measure meaningful impacts
 
 #### Balanced Resources (B)
 Ensures equal time and resources for both groups to isolate the intervention's impact
@@ -74,28 +74,45 @@ This standard guides high-quality educational RCTs and evaluates existing resear
 
 #### C - Class-level RCT
 
-- The intervention must last for at least one full academic term.
-- A term is typically defined as a semester or equivalent (approximately 3-4 months).
-- Check for: Clear statement of intervention duration, dates, and alignment with academic calendar.
-- Stronger one year-long intervention duration is required at Level 2.
-- If the study duration was year-long then this weaker term-duration criterion is considered met.
+- The study must be a Randomised Controlled Trial (RCT) conducted at the class level.  
+- Randomisation should be clearly described and properly implemented.  
+- Check for: Description of randomisation process, sample size, and unit of randomisation.  
+- A stronger school-level RCT is required at Level 2.  
+- If the study was done as a school-level RCT, then this weaker class-level criterion is considered met.
 
 ##### Problem
+A study claims to be an RCT but assigns treatments to students within the same classroom. 
+This can lead to contamination effects, where students in the control group are influenced by 
+those in the treatment group, or teachers inadvertently apply intervention techniques to all students. 
+Class-level RCT helps to ensure proper isolation of treatment and control groups, reducing interference.
 
-Many studies conduct a brief, two-week intervention and immediately measures outcomes. 
-Short-term interventions may show temporary effects that don't persist, or miss delayed 
-effects that take time to manifest. Ensuring at least a term-long intervention allows for 
-more reliable assessment of the intervention's impact.
+##### Exception
+If an intervention is designed for personal teaching like tutoring then this Class-level RCT 
+criterion isn’t applicable and even normal student-level RCT is considered OK.
 
 ##### Procedure
 
-1. **Find Intervention Duration**
-   - Identify quotes from the paper specifying the start and end dates or the duration of the intervention (e.g., "The program ran from September to December…").
-2. **Assess Documentation Clarity**
-   - Check if these quotes detail who the control group is, their baseline characteristics, and confirm that no special treatment was given beyond normal schooling. If no such descriptive quote is found, this is a failure.
+1. **Locate Randomisation Description**
+Search the paper for any section describing how participants were allocated to intervention 
+and control conditions. Extract a direct quote that explains the unit of 
+randomisation (e.g., "Classes were randomly assigned...").  
 
-3. **Decision**
-   - Mark as "met" if you can quote clear documentation of the control group's characteristics. Mark as "not met" if no adequate quote describing the control group is provided.
+2. **Check Unit of Randomisation**
+Verify that the quote states that entire classes or school, not individual students 
+within a single class, were randomized. If it’s unclear, look for additional quotes clarifying randomisation steps.  
+
+3. **Exception Check (Tutoring/Personal Teaching)**
+If the intervention is specifically about personal tutoring or one-to-one teaching,
+locate a quote in the paper stating this. If such an exception is clearly described,
+then student-level RCT is allowed, and the criterion is satisfied.  
+
+4. **Decision**
+If the paper clearly states that randomisation was at the class level or stronger 
+school level (or meets the exception criterion), mark this criterion as “met,” 
+including the quotes used to verify this. If randomisation was done at the student 
+level within a single class without a valid exception, mark as “not met” and 
+provide the quote that shows incorrect randomisation.
+
 
 #### E - Exam-based Assessment
 
@@ -120,7 +137,7 @@ apparent effectiveness. Standardised exams provide a more objective and comparab
    - If the exam name or description indicates it is a widely recognised standardised test (e.g., "state-wide standardised achievement test," "national curriculum exam"), it meets the criterion. Quote the part that confirms its standardization.
 
 3. **Decision**
-   - Mark as "met" if the quoted duration is at least one full term. Mark as "not met" if the quoted duration is shorter than a term or not clearly stated.
+   - Mark as "met" if you found a quote confirming a known standardised exam. Mark as "not met" if you found a quote confirming a custom-made assessment.
 
 #### T - Term Duration
 
@@ -140,10 +157,11 @@ Many studies conduct a brief, two-week intervention and immediately measures out
    - Identify quotes from the paper specifying the start and end dates or the duration of the intervention (e.g., "The program ran from September to December…").
 
 2. **Assess Documentation Clarity**
-   - Check if these quotes detail who the control group is, their baseline characteristics, and confirm that no special treatment was given beyond normal schooling. If no such descriptive quote is found, this is a failure.
+   - Ensure that the quoted period covers at least one full academic term (or longer). 
+   If the paper’s academic calendar is unclear, look for quotes describing what constitutes a term in that context.
 
 3. **Decision**
-   - Mark as "met" if you can quote clear documentation of the control group's characteristics. Mark as "not met" if no adequate quote describing the control group is provided.
+   - Mark as “met” if the quoted duration is at least one full term. Mark as “not met” if the quoted duration is shorter than a term or not clearly stated.
 
 #### D - Documented Control Group
 
@@ -189,7 +207,7 @@ A class-level RCT shows positive results, but when implemented school-wide, the 
    - If you find quotes that randomisation was at class or student level only, this criterion is not met.
 
 3. **Decision**
-   - Mark as "met" if a quote confirms school-level randomisation (here, 'school' means the educational institution or unit implementing the intervention (e.g., preschool centers, club, sites, K-12 schools, etc.). Mark as "not met" if no quote indicates school-level assignment.
+   - Mark as "met" if a quote confirms school-level randomisation (here, 'school' means the educational institution or unit implementing the intervention e.g., preschool centers, club, sites, K-12 schools, etc.). Mark as "not met" if no quote indicates school-level assignment.
 
 
 #### A - All-subject Exams
@@ -218,7 +236,7 @@ measuring impact on directly related subjects might be sufficient if the rationa
 1. **Check Subjects Assessed**
    - Locate quotes from the paper listing the subjects tested. For example: "We assessed student performance in math, science, and language arts at the end of the year…"
 
-2. **ACriterion E As Prerequisite**
+2. **Criterion E As Prerequisite**
    - Academic outcomes must be assessed using standardized exam-based assessments that are widely recognized and validated. Teacher ratings or custom-designed measures, while potentially useful as supplementary information, do not satisfy this criterion unless they are part of a standardized testing protocol. If the criterion E is not met then this criterion is not met.
 
 3. **All Main Subjects Coverage**
@@ -238,7 +256,10 @@ measuring impact on directly related subjects might be sufficient if the rationa
 
 ##### Problem
 
-A term-long intervention shows promising results, but these gains fade by the end of the school year. Some educational interventions may have short-term effects that don't persist long-term. A year-long study is a reasonable practical compromise - it is long-enough to have good confidence in the intervention results while still practical as schools often are organised around years.
+A term-long intervention shows promising results, but these gains fade by the end of the school year. 
+Some educational interventions may have short-term effects that don't persist long-term. 
+A year-long study is a reasonable practical compromise - it is long-enough to have good confidence in the 
+intervention results while still practical as schools often are organised around years.
 
 ##### Procedure
 
@@ -332,7 +353,8 @@ Interventions may show short-term benefits, but researchers often neglect to fol
 #### R - Reproduced
 
 - The study must be independently replicated.
-- Replication should ideally be conducted by a different research team in a different context.
+- Replication should be conducted by a different research team in a different context.
+- Replication should be published in a peer-reviewed scientific journal.
 - Check for: Reference to original study, description of replication process, and comparison of results.
 - Evidence of independent reproduction may appear after the original study's publication in other papers.
 
@@ -349,10 +371,10 @@ A highly publicised educational intervention fails to show the same positive res
    - Confirm from the quotes that the replication was done by a different team or institution, not the same authors.
 
 3. **Search for External Replication Studies**
-   - Check if other researchers have published attempts to replicate the original intervention. Consider studies that clearly reference the original work and attempt to reproduce its methods and findings. Replication studies may appear years after the original publication and should be considered even if not referenced in the original paper. Confirm that the replication was done by a different team or institution, not the same authors. Provide the relevant quotes from the replication studies.
+   - Check if other researchers have published attempts to replicate the original intervention in peer-reviewed scientific journals. Consider studies that clearly reference the original work and attempt to reproduce its methods and findings. Replication studies may appear years after the original publication and should be considered even if not referenced in the original paper. Confirm that the replication was done by a different team or institution, not the same authors. Provide the relevant quotes from the replication studies.
 
 4. **Decision**
-   - Mark as "met" if quoted references show independent replication in a different context. Mark as "not met" if no quotes mention replication or if the replication was by the same research team only.
+   - Mark as "met" if quoted references show independent replication in a different context published in peer-reviewed scientific journals. Mark as "not met" if no quotes mention replication or if the replication was by the same research team only.
 
 #### I - Independent Conduct
 

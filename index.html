@@ -34,9 +34,6 @@ title: "ERCT - Educational RCT Standard"
       <div class="block-level__row">
         <div class="block-level__level">
           <h3 class="block-level__title title">Level 1</h3>
-          <div class="block-level__label">Base</div>
-          <div class="block-level__text">Focuses on short-term classroom studies with clear documentation
-            and assessments.</div>
         </div>
         <ul class="block-level__list-cards list-cards">
           <li class="list-cards__item">
@@ -72,9 +69,6 @@ title: "ERCT - Educational RCT Standard"
       <div class="block-level__row">
         <div class="block-level__level">
           <h3 class="block-level__title title">Level 2</h3>
-          <div class="block-level__label">Middle</div>
-          <div class="block-level__text">Focuses on short-term classroom studies with clear documentation
-            and assessments.</div>
         </div>
         <ul class="block-level__list-cards list-cards">
           <li class="list-cards__item">
@@ -109,9 +103,6 @@ title: "ERCT - Educational RCT Standard"
       <div class="block-level__row">
         <div class="block-level__level">
           <h3 class="block-level__title title">Level 3</h3>
-          <div class="block-level__label">Top</div>
-          <div class="block-level__text">Focuses on short-term classroom studies with clear documentation
-            and assessments.</div>
         </div>
         <ul class="block-level__list-cards list-cards">
           <li class="list-cards__item">
@@ -154,7 +145,50 @@ title: "ERCT - Educational RCT Standard"
     <h2 class="studies__title title">ERCT Evaluated Studies</h2>
     <ul class="studies__block block-studies">
       {% assign sorted_papers = site.papers | sort: 'erct_level' | reverse %}
-      {% for paper in sorted_papers %}
+
+      {% comment %}First group papers by ERCT level{% endcomment %}
+      {% assign papers_by_level = site.papers | group_by: 'erct_level' %}
+      
+      {% comment %}Create empty array for final sorted papers{% endcomment %}
+      {% assign final_sorted_papers = '' | split: '' %}
+      
+      {% comment %}Process groups in reverse order (highest to lowest level){% endcomment %}
+      {% assign sorted_levels = papers_by_level | sort: 'name' | reverse %}
+      
+      {% for level in sorted_levels %}
+        {% comment %}Calculate criteria met for each paper{% endcomment %}
+        {% assign papers_with_count = '' | split: '' %}
+        
+        {% for paper in level.items %}
+          {% assign met_count = 0 %}
+          {% for criterion in paper.criteria %}
+            {% if criterion[1].met %}
+              {% assign met_count = met_count | plus: 1 %}
+            {% endif %}
+          {% endfor %}
+          
+          {% comment %}Create sortable string with count and index{% endcomment %}
+          {% assign paper_index = forloop.index0 %}
+          {% assign paper_with_count = met_count | append: ':' | append: paper_index %}
+          {% assign papers_with_count = papers_with_count | push: paper_with_count %}
+        {% endfor %}
+        
+        {% comment %}Sort papers by criteria met (descending){% endcomment %}
+        {% assign sorted_paper_indices = papers_with_count | sort | reverse %}
+        
+        {% comment %}Add sorted papers to final array{% endcomment %}
+        {% for item in sorted_paper_indices %}
+          {% assign parts = item | split: ':' %}
+          {% assign paper_index = parts[1] | plus: 0 %}
+          {% assign paper = level.items[paper_index] %}
+          {% assign final_sorted_papers = final_sorted_papers | push: paper %}
+        {% endfor %}
+      {% endfor %}
+      
+      {% comment %}Then use final_sorted_papers instead of sorted_papers in your loop{% endcomment %}
+
+
+      {% for paper in final_sorted_papers %}
       <li class="block-studies__card">
         <a href="{{ paper.url | relative_url }}">
           <article class="block-studies__article">

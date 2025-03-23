@@ -4,11 +4,19 @@ authors: "Jeremy Roschelle, Mingyu Feng, Robert F. Murphy, and Craig A. Mason"
 paper_link: "https://doi.org/10.1177/2332858416673968"
 abstract: >-
   In a randomized field trial with 2,850 seventh-grade mathematics students, 
-  the authors evaluated whether an educational technology intervention (ASSISTments) 
-  increased mathematics learning when used for homework. The intervention provided 
-  automated feedback and hints for students, while delivering organized performance 
-  data to teachers so they could adapt their instruction. Results showed significant 
-  gains in math test scores, especially for students with lower prior achievement.
+  we evaluated whether an educational technology intervention increased mathematics 
+  learning. Assigning homework is common yet sometimes controversial. Building on prior
+  research on formative assessment and adaptive teaching, we predicted that 
+  combining an online homework tool with teacher training could increase learning. 
+  The online tool ASSISTments (a) provides timely feedback and hints to students as they do
+  homework and (b) gives teachers timely, organized information about students’ work. 
+  To test this prediction, we analyzed data from 43 schools that participated in a 
+  random assignment experiment in Maine, a state that provides every seventh-grade
+  student with a laptop to take home. Results showed that the intervention significantly 
+  increased student scores on an end-ofthe-year standardized mathematics assessment as 
+  compared with a control group that continued with existing homework practices. 
+  Students with low prior mathematics achievement benefited most. 
+  The intervention has potential for wider adoption.
 publication_date: 2016-10-01
 erct_level: 1
 rct: true

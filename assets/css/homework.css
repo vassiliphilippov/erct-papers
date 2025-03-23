@@ -38,6 +38,7 @@
   margin-block-end: 2.5rem; /* 40/16 */
 }
 .hero__published,
+.hero__doi,
 .hero__date {
   display: flex;
   column-gap: 0.5rem; /* 8/16 */
@@ -49,6 +50,10 @@
 }
 .hero__published time,
 .hero__date time {
+  font-size: 0.75rem; /* 12/16 */
+  font-weight: 400;
+}
+.hero__doi span {
   font-size: 0.75rem; /* 12/16 */
   font-weight: 400;
 }

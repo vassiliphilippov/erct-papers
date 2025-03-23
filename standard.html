@@ -26,7 +26,7 @@
 						<li><a href="index.html">Home</a></li>
 						<li><a class="menu__active" href="standard.html">ERCT Standard</a></li>
 						<li><a href="#">Papers</a></li>
-						<li><a href="#">About</a></li>
+						<li><a href="about.html">About</a></li>
 					</ul>
 				</nav>
 				<button type="button" aria-label="open/closed menu" class="header__icon icon-menu"><span></span></button>
@@ -58,7 +58,7 @@
 							educational contexts.
 						</p>
 						<p>ERCT was specially designed to be LLM friendly to provide well defined and easy to evaluate criteria that can 
-							checked automatically using model Large Language Models like ChatGPT. 
+							be checked automatically using model Large Language Models like ChatGPT. 
 							Download the <a style="text-decoration: underline;" href="/docs/erct_specification.md">ERCT Standard Specification in Markdown format</a>.
 						</p>
 					</div>
@@ -145,7 +145,7 @@
 								<li class="list-cards__item">
 									<article class="list-cards__article">
 										<h4 class="list-cards__title">Year Duration</h4>
-										<p class="list-cards__text">Ensures studies last at least one academic term to measure
+										<p class="list-cards__text">Ensures studies last at least one academic year to measure
 											meaningful impacts</p>
 									</article>
 								</li>
@@ -218,16 +218,11 @@
 											</div>
 											<div class="section-header__body">
 												<ul class="section-header__content">
-													<li>The intervention must last for at least one full academic term.</li>
-													<li>A term is typically defined as a semester or equivalent (approximately 3-4
-														months).</li>
-													<li>Check for: Clear statement of intervention duration, dates, and alignment
-														with
-														academic calendar.</li>
-													<li>Stronger one year-long intervention duration is required at Level 2.</li>
-													<li>If the study duration was year-long then this weaker term-duration criterion
-														is
-														considered met.</li>
+													<li>The study must be a Randomised Controlled Trial (RCT) conducted at the class level.</li>
+													<li>Randomisation should be clearly described and properly implemented. </li>
+													<li>Check for: Description of randomisation process, sample size, and unit of randomisation.</li>
+													<li>A stronger school-level RCT is required at Level 2.</li>
+													<li>If the study was done as a school-level RCT, then this weaker class-level criterion is considered met.</li>
 												</ul>
 												<ul class="section-header__list">
 													<li class="section-header__active">C</li>
@@ -248,38 +243,45 @@
 										<div class="details__approach approach">
 											<div class="approach__top">
 												<h5 class="approach__title title">Problem</h5>
-												<p class="approach__text">Many studies conduct a brief, two-week intervention and
-													immediately measures outcomes. Short-term interventions may show
-													temporary effects that don't persist, or miss delayed effects that take time to
-													manifest. Ensuring at least a term-long
-													intervention allows for more reliable assessment of the intervention's impact.
+												<p class="approach__text">A study claims to be an RCT but assigns treatments to students within the same classroom. 
+													This can lead to contamination effects, where students in the control group are influenced by 
+													those in the treatment group, or teachers inadvertently apply intervention techniques to all students. 
+													Class-level RCT helps to ensure proper isolation of treatment and control groups, reducing interference.
+												</p>
+											</div>
+											<div class="approach__middle">
+												<h5 class="approach__title title">Exception</h5>
+												<p class="approach__text">If an intervention is designed for personal teaching like tutoring then this Class-level RCT 
+													criterion isn’t applicable and even normal student-level RCT is considered OK.
 												</p>
 											</div>
 											<div class="approach__bottom">
 												<h5 class="approach__title title">Procedure</h5>
 												<ul class="approach__list">
 													<li>
-														<h6 class="approach__subtitle">Find Intervention Duration</h6>
-														<p class="approach__text">Identify quotes from the paper specifying the start
-															and
-															end dates or the duration of the intervention (e.g., “The
-															program ran from September to December…”).</p>
+														<h6 class="approach__subtitle">Locate Randomisation Description</h6>
+														<p class="approach__text">Search the paper for any section describing how participants were allocated to intervention 
+															and control conditions. Extract a direct quote that explains the unit of 
+															randomisation (e.g., "Classes were randomly assigned...").  </p>
 													</li>
 													<li>
-														<h6 class="approach__subtitle">Assess Documentation Clarity</h6>
-														<p class="approach__text">Check if these quotes detail who the control group
-															is,
-															their baseline characteristics, and confirm that no special
-															treatment was given beyond normal schooling. If no such descriptive quote
-															is
-															found, this is a failure.</p>
+														<h6 class="approach__subtitle">Check Unit of Randomisation</h6>
+														<p class="approach__text">Verify that the quote states that entire classes or school, not individual students 
+															within a single class, were randomized. If it’s unclear, look for additional quotes clarifying randomisation steps.  </p>
+													</li>
+													<li>
+														<h6 class="approach__subtitle">Exception Check (Tutoring/Personal Teaching)</h6>
+														<p class="approach__text">If the intervention is specifically about personal tutoring or one-to-one teaching,
+															locate a quote in the paper stating this. If such an exception is clearly described,
+															then student-level RCT is allowed, and the criterion is satisfied.  </p>
 													</li>
 													<li>
 														<h6 class="approach__subtitle">Decision</h6>
-														<p class="approach__text">Mark as “met” if you can quote clear documentation
-															of
-															the control group’s characteristics. Mark as “not met” if no
-															adequate quote describing the control group is provided.</p>
+														<p class="approach__text">If the paper clearly states that randomisation was at the class level or stronger 
+															school level (or meets the exception criterion), mark this criterion as “met,” 
+															including the quotes used to verify this. If randomisation was done at the student 
+															level within a single class without a valid exception, mark as “not met” and 
+															provide the quote that shows incorrect randomisation.</p>
 													</li>
 												</ul>
 											</div>
@@ -350,9 +352,9 @@
 													</li>
 													<li>
 														<h6 class="approach__subtitle">Decision</h6>
-														<p class="approach__text">Mark as “met” if the quoted duration is at least one
-															full term. Mark as “not met” if the quoted duration is shorter than
-															a term or not clearly stated.</p>
+														<p class="approach__text">Mark as "met" if you found a quote confirming
+															a known standardised exam. Mark as "not met" if you found a 
+														    quote confirming a custom-made assessment.</p>
 													</li>
 												</ul>
 											</div>
@@ -412,16 +414,14 @@
 													</li>
 													<li>
 														<h6 class="approach__subtitle">Assess Documentation Clarity</h6>
-														<p class="approach__text">Check if these quotes detail who the control group
-															is, their baseline characteristics, and confirm that no special
-															treatment was given beyond normal schooling. If no such descriptive quote
-															is found, this is a failure.</p>
+														<p class="approach__text">Ensure that the quoted period covers at least one full academic term (or longer). 
+															If the paper’s academic calendar is unclear, look for quotes describing what constitutes a term in that context.</p>
 													</li>
 													<li>
 														<h6 class="approach__subtitle">Decision</h6>
-														<p class="approach__text">Mark as “met” if you can quote clear documentation
-															of the control group’s characteristics. Mark as “not met” if no
-															adequate quote describing the control group is provided.</p>
+														<p class="approach__text">Mark as “met” if the quoted duration is at least 
+															one full term. Mark as “not met” if the quoted duration is shorter 
+															than a term or not clearly stated.</p>
 													</li>
 												</ul>
 											</div>
@@ -517,6 +517,8 @@
 														level.</li>
 													<li>Randomisation should occur among schools, not just classes within schools.
 													</li>
+													<li>Here, 'school' means the educational institution or unit implementing the 
+														intervention (e.g., preschool centers, club, sites, K-12 schools, etc).</li>
 													<li>Check for: Description of school selection process, number of schools
 														involved, and randomisation method.</li>
 													<li>If this stronger school-level RCT criterion is met then weaker class-level
@@ -568,7 +570,9 @@
 													<li>
 														<h6 class="approach__subtitle">Decision</h6>
 														<p class="approach__text">Mark as “met” if a quote confirms school-level
-															randomisation. Mark as “not met” if no quote indicates school-level
+															randomisation (here, 'school' means the educational institution or unit 
+															implementing the intervention e.g., preschool centers, club, sites, 
+															K-12 schools, etc.). Mark as “not met” if no quote indicates school-level
 															assignment.</p>
 													</li>
 												</ul>
@@ -638,6 +642,15 @@
 														<p class="approach__text">Locate quotes from the paper listing the subjects
 															tested. For example: “We assessed student performance in math,
 															science, and language arts at the end of the year…”</p>
+													</li>
+													<li>
+														<h6 class="approach__subtitle">Criterion E As Prerequisite</h6>
+														<p class="approach__text">Academic outcomes must be assessed using 
+															standardized exam-based assessments that are widely recognized and 
+															validated. Teacher ratings or custom-designed measures, while potentially 
+															useful as supplementary information, do not satisfy this criterion 
+															unless they are part of a standardized testing protocol. 
+															If the criterion E is not met then this criterion is not met.</p>
 													</li>
 													<li>
 														<h6 class="approach__subtitle">All Main Subjects Coverage</h6>
@@ -764,17 +777,25 @@
 										<div class="details__approach approach">
 											<div class="approach__top">
 												<h5 class="approach__title title">Problem</h5>
-												<p class="approach__text">An intervention that provides extra tutoring time (or
-													extra budget) shows positive results, but the control group
-													received no additional educational time (or money). It's unclear whether the
-													positive results are due to the specific
-													intervention or simply the additional time or money spent on education. Ensuring
-													the control group receives balanced
-													time and resources isolates the effect of the specific intervention.
+												<p class="approach__text">An intervention that provides extra tutoring time (or extra budget) shows positive results, 
+													but the control group received no additional educational time (or money). 
+													It's unclear whether the positive results are due to the specific intervention or simply 
+													the additional time or money spent on education. Ensuring the control group receives 
+													balanced time and resources isolates the effect of the specific intervention.
 													When an intervention is designed to test the impact of additional resources 
-													(such as extra tutoring time or rewards) on outcomes, the control group typically 
-													receives the standard 'business as usual' level. In this case, the absence 
-													of extra resources in the control group is by design and does not indicate an imbalance.
+													(such as extra tutoring time or rewards) on outcomes, the control group typically receives 
+													the standard 'business as usual' level. In this case, the absence of extra resources 
+													in the control group is by design and does not indicate an imbalance.
+												</p>
+											</div>
+											<div class="approach__middle">
+												<h5 class="approach__title title">Exception</h5>
+												<p class="approach__text">When an intervention explicitly tests the impact of additional resources 
+													(e.g., extra tutoring time or materials) as the primary treatment variable, 
+													the control group may receive the standard 'business as usual' level without additional 
+													resources, provided this is clearly stated as the study’s intent. 
+													Otherwise, any increase in time or budget in the intervention group must be 
+													matched in the control group with comparable educational inputs.
 												</p>
 											</div>
 											<div class="approach__bottom">
@@ -783,52 +804,59 @@
 													<li>
 													<h6 class="approach__subtitle">Determine Study Intent</h6>
 													<p class="approach__text">
-														Assess whether the study is explicitly testing the impact of additional resources. 
-														If so, the control group should receive the baseline “business as usual” input.
+														Verify if the study explicitly tests the impact of additional resources 
+														(e.g., extra time, materials) as the treatment variable; quote evidence of this intent or lack thereof.
 													</p>
 													</li>
 													<li>
 														<h6 class="approach__subtitle">Identify Intervention Resources</h6>
-														<p class="approach__text">Find quotes describing the intervention in the test
-															group. Examples: “Students in the intervention group received an
-															additional hour of tutoring each day.” “Teachers in the intervention group
-															were provided with new tablets and training
-															sessions.”</p>
+														<p class="approach__text">Find quotes describing time, budget, or materials 
+															provided to the intervention group (e.g., hours of training, technology access). 
+															Examples: "Students in the intervention group received an additional hour of 
+															tutoring each day." "Teachers in the intervention group were provided 
+															with new tablets and training sessions."</p>
 													</li>
 													<li>
 														<h6 class="approach__subtitle">Determine if Additional Resources were Provided
 														</h6>
-														<p class="approach__text">Based on the quotes, decide if these interventions
-															required extra budget/time/resources compared to standard
-															instruction. If uncertain, look for additional quotes clarifying the nature
-															of the intervention. Include the detailed
-															description of the additional resources into your explanation.
-															If the extra resources are the treatment variable, 
-															then the control group should be documented as receiving the standard input.
+														<p class="approach__text">Based on the quotes, decide if these interventions 
+															required extra budget/time/resources compared to standard instruction. 
+															If uncertain, look for additional quotes clarifying the nature of the intervention. 
+															Include the detailed description of the additional resources into your explanation. 
+															If the extra resources are the treatment variable, then the control group
+															should be documented as receiving the standard input.
 														</p>
 													</li>
 													<li>
 														<h6 class="approach__subtitle">If No Additional Resources Required</h6>
-														<p class="approach__text">If the quotes show no extra resources (e.g., “The
-															intervention involved a new teaching method but no additional class
-															time or materials”), mark as “met” without further checking.</p>
+														<p class="approach__text">If the quotes show no extra resources 
+															(e.g., "The intervention involved a new teaching method but no 
+															additional class time or materials"), mark as "met" without further checking.</p>
 													</li>
 													<li>
 														<h6 class="approach__subtitle">If Additional Resources Required</h6>
-														<p class="approach__text">Locate quotes that describe what the control group
-															received. For example: “Control schools also received additional
-															professional development time equivalent to the intervention group’s
-															training hours.” Verify that the quoted
-															resources/time for the control group matches or balances out the
-															intervention group’s extra input.</p>
+														<p class="approach__text">Locate quotes that describe what the control group received. 
+															For example: "Control schools also received additional professional 
+															development time equivalent to the intervention group's training hours." 
+															Verify that the quoted resources/time for the control group must receive 
+															resources comparable to the intervention group in terms of time, budget, 
+															and the nature of the support provided. This includes matching the type and 
+															quality of resources (e.g., training, expert consultation) to ensure the 
+															only difference is the intervention itself. The control group should 
+															receive equivalent time and resources for 'business as usual' or alternative 
+															activities to isolate the intervention’s specific effect. In within-subjects 
+															designs, the no-treatment baseline period must similarly provide equivalent 
+															educational engagement (e.g., standard curriculum time or placebo activities) 
+															unless the additional resources are the explicit treatment variable being tested.</p>
 													</li>
 													<li>
 														<h6 class="approach__subtitle">Decision</h6>
-														<p class="approach__text">Mark as “met” if the evaluation confirms a balanced 
+														<p class="approach__text">Mark as "met" if the evaluation confirms a balanced 
 															allocation—either by matching extra resources or, if the extra resource is 
 															the treatment variable, by ensuring all groups receive the same core inputs. 
-															Mark as “not met” if no quotes indicate any effort to balance or if 
-															baseline inputs differ.</p>
+															Mark as "not met" if no quotes indicate any effort to balance or if 
+															baseline inputs differ.
+													    </p>
 													</li>
 												</ul>
 											</div>
@@ -853,6 +881,8 @@
 													<li>This assesses long-term impacts of the intervention.</li>
 													<li>Check for: Description of follow-up methods, duration of tracking, and
 														graduation data collection processes.</li>
+													<li>Evidence of graduation tracking may not always be present in the original paper 
+														but in the follow-up papers by the same authors.</li>
 												</ul>
 												<ul class="section-header__list">
 													<li>C</li>
@@ -896,6 +926,14 @@
 															until the students graduated from that educational stage.</p>
 													</li>
 													<li>
+														<h6 class="approach__subtitle">check for Follow-up Publications</h6>
+														<p class="approach__text">If graduation tracking is not mentioned in the main paper, 
+															look for references to planned follow-up studies or check if the 
+															authors have published subsequent papers tracking the same cohort. 
+															If such papers exist, apply the same evaluation process to quotes 
+															from those follow-up publications.</p>
+													</li>
+													<li>
 														<h6 class="approach__subtitle">Decision</h6>
 														<p class="approach__text">Mark as “met” if quoted evidence shows tracking
 															continued through graduation. Mark as “not met” if quoted evidence shows
@@ -914,10 +952,12 @@
 											<div class="section-header__body">
 												<ul class="section-header__content">
 													<li>The study must be independently replicated.</li>
-													<li>Replication should ideally be conducted by a different research team in a
-														different context.</li>
+													<li>Replication should be conducted by a different research team in a
+														different context.</li>														
+													<li>Replication should be published in a peer-reviewed scientific journal.</li>
 													<li>Check for: Reference to original study, description of replication process,
 														and comparison of results.</li>
+													<li>Evidence of independent reproduction may appear after the original study's publication in other papers.</li>
 												</ul>
 												<ul class="section-header__list">
 													<li>C</li>
@@ -966,11 +1006,22 @@
 															done by a different team or institution, not the same authors.</p>
 													</li>
 													<li>
+														<h6 class="approach__subtitle">Search for External Replication Studies</h6>
+														<p class="approach__text">Check if other researchers have published attempts 
+															to replicate the original intervention in peer-reviewed scientific journals.
+															Consider studies that clearly reference the original work and attempt to
+															reproduce its methods and findings. Replication studies may appear years
+															after the original publication and should be considered even if not
+															referenced in the original paper. Confirm that the replication was done 
+															by a different team or institution, not the same authors. 
+															Provide the relevant quotes from the replication studies.</p>
+													</li>
+													<li>
 														<h6 class="approach__subtitle">Decision</h6>
-														<p class="approach__text">Mark as “met” if quoted references show independent
-															replication in a different context. Mark as “not met” if no quotes
-															mention replication or if the replication was by the same research team
-															only.</p>
+														<p class="approach__text">Mark as "met" if quoted references show independent
+															replication in a different context published in peer-reviewed scientific 
+															journals. Mark as "not met" if no quotes mention replication or if the 
+															replication was by the same research team only.</p>
 													</li>
 												</ul>
 											</div>

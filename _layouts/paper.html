@@ -26,15 +26,18 @@
 							<time datetime="{{ page.publication_date }}">{{ page.publication_date | date: "%b %-d, %Y" }}</time>
 						</div>
 						<div class="hero__date">
-							ERCT Date:
+							ERCT Check Date:
 							<time datetime="2021-10-01">{{ page.date_erct_check | date: "%b %-d, %Y" }}</time>
 						</div>
+						<div class="hero__doi">
+							DOI: <span>{{ page.doi }}</span>
+						</div>
 						<div class="hero__link"><a href="{{ page.paper_link }}">
-								<div class="hero__svg hero__svg--contain">
-									<img src="{{ '/assets/img/icons/link-2.svg' | relative_url }}" alt="link icon">
-								</div>Link
-							</a></div>
-						{% if page.pdf_link and page.pdf_link != "" %}
+							<div class="hero__svg hero__svg--contain">
+								<img src="{{ '/assets/img/icons/link-2.svg' | relative_url }}" alt="link icon">
+							</div>Link
+						</a></div>
+				{% if page.pdf_link and page.pdf_link != "" %}
 						<div class="hero__download"><a href="{{ page.pdf_link }}">
 								<div class="hero__svg hero__svg--contain">
 									<img src="{{ '/assets/img/icons/download.svg' | relative_url }}" alt="download icon">
