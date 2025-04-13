@@ -130,8 +130,8 @@
 }
 .list-cards__text {
   color: var(--primary-text);
-  font-size: 0.875rem; /* 14/16 */
-  line-height: 1.286; /* 128.571% */
+  font-size: 1rem; /* 16/18 */
+  line-height: 1.4; /* 140% */
 }
 .criteria-details__title {
   text-align: left;
