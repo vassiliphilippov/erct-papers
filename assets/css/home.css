@@ -337,7 +337,7 @@
 }
 .block-studies__label {
   color: var(--primary-text);
-  font-size: 0.75rem; /* 12/16 */
+  font-size: 0.85rem; /* 14/16 */
   font-weight: 600;
   line-height: 1.4; /* 140% */
   margin-block-end: 0.5rem; /* 8/16 */
