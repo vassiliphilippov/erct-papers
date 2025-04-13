@@ -3,6 +3,14 @@ ERCT (Educational RCT) Standards Paper Repository
 
 Todo:
 - Swap I and A
+  - update /Users/vassiliphilippov/erct-papers/docs/erct_specification.md
+  - update standard.html
+  - update home layout
+  - update paper loayout
+  - update /Users/vassiliphilippov/erct-papers/docs/prompts/3 paper evaluation according to ERCT standard - Deep Research.txt
+  - update /Users/vassiliphilippov/erct-papers/docs/prompts/1 paper evaluation according to ERCT standard.txt
+  - update /Users/vassiliphilippov/erct-papers/docs/prompts/2 paper evaluation check using Deep Search.txt
+- Write good readme
 - Increase fonts
 - Paper 15, ask Deep Research to provide quotes for R from other papers confirming confirmation
 - Paper 16, ask Deep Research to fix small incorrections in quotes
@@ -13,4 +21,4 @@ Todo:
 - Update criteria.yml to include level for each criteria and remove custom code for checking letters for each level 
 - Add comparison to other framewords
 - Add links to papers describing why additional requirements are needed
-- Find other homework terms and replace them with papers
+

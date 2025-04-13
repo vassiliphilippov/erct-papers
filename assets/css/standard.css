@@ -254,7 +254,23 @@
 .approach__list {
   display: flex;
   flex-direction: column;
-  row-gap: 0.5rem; /* 8/16 */
+  row-gap: 1.0rem; /* 24/16 */
+  counter-reset: item;
+  padding-left: 0;
+}
+.approach__list li {
+  position: relative;
+  padding-left: 1.5rem;
+  list-style-type: none;
+}
+
+.approach__list li::before {
+  content: counter(item) ".";
+  counter-increment: item;
+  position: absolute;
+  left: 0;
+  font-weight: 600;
+  color: var(--primary-text);
 }
 .approach__subtitle {
   color: var(--primary-text);

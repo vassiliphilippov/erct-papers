@@ -79,9 +79,8 @@ title: "ERCT - Educational RCT Standard"
           </li>
           <li class="list-cards__item">
             <article class="list-cards__article">
-              <h4 class="list-cards__title">All-subject Exams</h4>
-              <p class="list-cards__text">Assesses effects across all core subjects, avoiding imbalances
-              </p>
+              <h4 class="list-cards__title">Independent Conduct</h4>
+              <p class="list-cards__text">Removes bias by using third-party evaluators.</p>
             </article>
           </li>
           <li class="list-cards__item">
@@ -107,13 +106,6 @@ title: "ERCT - Educational RCT Standard"
         <ul class="block-level__list-cards list-cards">
           <li class="list-cards__item">
             <article class="list-cards__article">
-              <h4 class="list-cards__title">Graduation Tracking</h4>
-              <p class="list-cards__text">Tracks students until graduation to evaluate long-term
-                impacts.</p>
-            </article>
-          </li>
-          <li class="list-cards__item">
-            <article class="list-cards__article">
               <h4 class="list-cards__title">Replicated Results</h4>
               <p class="list-cards__text">Uses standardized exams for objective and comparable results
               </p>
@@ -121,8 +113,16 @@ title: "ERCT - Educational RCT Standard"
           </li>
           <li class="list-cards__item">
             <article class="list-cards__article">
-              <h4 class="list-cards__title">Independent Conduct</h4>
-              <p class="list-cards__text">Removes bias by using third-party evaluators.</p>
+              <h4 class="list-cards__title">All-subject Exams</h4>
+              <p class="list-cards__text">Assesses effects across all core subjects, avoiding imbalances
+              </p>
+            </article>
+          </li>
+          <li class="list-cards__item">
+            <article class="list-cards__article">
+              <h4 class="list-cards__title">Graduation Tracking</h4>
+              <p class="list-cards__text">Tracks students until graduation to evaluate long-term
+                impacts.</p>
             </article>
           </li>
           <li class="list-cards__item">
@@ -214,7 +214,7 @@ title: "ERCT - Educational RCT Standard"
                   </svg>
                 </div>
                 <ul class="progress__lessons lessons">
-                  {% assign criteria_order = "c,e,t,d,s,a,y,b,g,r,i,p" | split: ',' %}
+                  {% assign criteria_order = "c,e,t,d,s,i,y,b,r,a,g,p" | split: ',' %}
                   {% for letter in criteria_order %}
                     {% assign criterion = paper.criteria[letter] %}
                       <li class="{% if criterion and criterion.met %}lessons__active{% else %}lessons__inactive{% endif %}">

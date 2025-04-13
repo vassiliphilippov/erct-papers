@@ -117,8 +117,8 @@ paper (with page numbers if available) and include all of them in the analysis f
 Based on the ERCT standard levels and your findings about the 12 criteria assign correct erct_level to the paper.
 By default set erct_level to 0.
 If all level 1 criteria are met (C, E, T, D), set erct_level to 1.
-If in additional to all level 1 criteria also all level 2 criteria are met (S, A, Y, B), set erct_level to 2.
-If in additional to all level 1 and 2 criteria also all level 3 criteria are met (G, R, I, P), set erct_level to 3.
+If in additional to all level 1 criteria also all level 2 criteria are met (S, I, Y, B), set erct_level to 2.
+If in additional to all level 1 and 2 criteria also all level 3 criteria are met (R, A, G, P), set erct_level to 3.
 
 ## 2.6 Output the final YAML
 Output the final YAML following my output specification. Keep the following three links blank so far:
@@ -246,6 +246,24 @@ inputs (e.g., equivalent educational time or alternative activities).
 If not, explain how this imbalance affects the study’s ability to isolate 
 the intervention’s effect, unless the study explicitly tests additional 
 resources as the treatment variable (quote evidence of this intent).
+
+Please note, than when an intervention explicitly tests the impact of 
+additional resources (e.g., extra tutoring time or materials) as the primary
+treatment variable, the control group may receive the standard 
+'business as usual' level without additional resources, provided this is clearly 
+stated as the study’s intent. Otherwise, any increase in time or budget in 
+the intervention group must be matched in the control group with 
+comparable educational inputs.
+
+After you identify additional resources in the intervention group 
+(like additional teacher professional development, additional time, etc),
+you need to check if this additional resource was an integram part of the tested
+intervention or it was an additional optional resource not an integral 
+part of the intervention how it was defined in the paper. 
+
+If this additional resource is an integral part of the intervention then 
+if doesn't automatically violate this criterion B. However make sure that 
+this additional resouce is clearly mentioned in your analysis and the summary.
 
 #### Criterion A:
 If criterion E (Exam-based Assessment) is not met, then this criterion is not met either.
@@ -407,26 +425,25 @@ criteria:
       
       Since randomization occurred at the student level in a single university course,
       criterion S is not met.
-  a:
+  i:
     met: false
     explanation: >
-      They measured only stereochemistry; no other subjects were tested, failing
-      the ‘AllExams’ requirement.
+      The same team designed, delivered, and assessed the intervention; there is no
+      third-party or external evaluation group.
     quote: >
-      “We administered a custom stereochemistry assessment … focusing on R/S
-      configurations and enantiomeric relationships.”
+      “The online videos were produced … by the same instructor who delivered the
+      in-person lecture.”
     analysis: >-
       Relevant Quotes:
       
-      1) “The pre- and posttest instruments focus on skill-based assessments
-      measuring stereochemical properties …” (p. C)
+      1) “An RCT was conducted with student volunteers (n = 49) … The authors
+      developed the custom pre/posttest instruments …” (p. B, p. D)
       
-      2) “Students were tested on identifying R/S configuration, counting chirality
-      centers, and drawing stereoisomers … We did not assess overall general
-      chemistry or other subject matter.” (various sections)
+      2) “The online learning component used a playlist of videos produced in a
+      screen-capture system with instructor voiceover, featuring the same instructor
+      who taught the traditional lecture group …” (p. C)
       
-      The outcome measure focused exclusively on stereochemistry, so criterion A is
-      not met.
+      The intervention was entirely managed by the same team, so criterion I is not met.
   y:
     met: false
     explanation: >
@@ -462,6 +479,43 @@ criteria:
       control group did not receive any learning interventions.” (p. C)
       
       The control group received no additional resources, so criterion B is not met.
+  r:
+    met: true
+    explanation: >
+      Although the original paper did not report an independent replication,
+      subsequent peer-reviewed studies (e.g., Luong et al. (2021), Setren et al. (2021),
+      and Holm et al. (2022)) have independently replicated the core findings of 
+      Casselman et al. (2019).
+      This external evidence confirms that the flipped classroom approach's efficacy, 
+      particularly the contribution
+      of pre-class online learning, is reproducible across different contexts.
+    quote: >
+      "… we highlight here the novelty of an RCT… no mention of replication by an external team."
+    analysis: >-
+      The initial evaluation marked the reproduction criterion as not met due to a lack 
+      of reported replication in the original study.
+      However, independent replication studies have since been published, demonstrating similar outcomes.
+      Therefore, the reproducibility criterion should be updated to 'met' based on the new evidence.
+  a:
+    met: false
+    explanation: >
+      They measured only stereochemistry; no other subjects were tested, failing
+      the ‘AllExams’ requirement.
+    quote: >
+      “We administered a custom stereochemistry assessment … focusing on R/S
+      configurations and enantiomeric relationships.”
+    analysis: >-
+      Relevant Quotes:
+      
+      1) “The pre- and posttest instruments focus on skill-based assessments
+      measuring stereochemical properties …” (p. C)
+      
+      2) “Students were tested on identifying R/S configuration, counting chirality
+      centers, and drawing stereoisomers … We did not assess overall general
+      chemistry or other subject matter.” (various sections)
+      
+      The outcome measure focused exclusively on stereochemistry, so criterion A is
+      not met.
   g:
     met: false
     explanation: >
@@ -480,42 +534,6 @@ criteria:
       Day 7.”
       
       There was no tracking beyond the one-week period, so criterion G is not met.
-  r:
-    met: true
-    explanation: >
-      Although the original paper did not report an independent replication,
-      subsequent peer-reviewed studies (e.g., Luong et al. (2021), Setren et al. (2021),
-      and Holm et al. (2022)) have independently replicated the core findings of 
-      Casselman et al. (2019).
-      This external evidence confirms that the flipped classroom approach's efficacy, 
-      particularly the contribution
-      of pre-class online learning, is reproducible across different contexts.
-    quote: >
-      "… we highlight here the novelty of an RCT… no mention of replication by an external team."
-    analysis: >-
-      The initial evaluation marked the reproduction criterion as not met due to a lack 
-      of reported replication in the original study.
-      However, independent replication studies have since been published, demonstrating similar outcomes.
-      Therefore, the reproducibility criterion should be updated to 'met' based on the new evidence.
-  i:
-    met: false
-    explanation: >
-      The same team designed, delivered, and assessed the intervention; there is no
-      third-party or external evaluation group.
-    quote: >
-      “The online videos were produced … by the same instructor who delivered the
-      in-person lecture.”
-    analysis: >-
-      Relevant Quotes:
-      
-      1) “An RCT was conducted with student volunteers (n = 49) … The authors
-      developed the custom pre/posttest instruments …” (p. B, p. D)
-      
-      2) “The online learning component used a playlist of videos produced in a
-      screen-capture system with instructor voiceover, featuring the same instructor
-      who taught the traditional lecture group …” (p. C)
-      
-      The intervention was entirely managed by the same team, so criterion I is not met.
   p:
     met: false
     explanation: >
@@ -764,43 +782,39 @@ criteria:
       but it is considered stronger in capturing real-school effects.
 
       (3) Consequently, the study clearly meets the standard for a school-level RCT.
-  a:
+  i:
     met: false
     explanation: >-
-      The study only measured outcomes in financial literacy (knowledge and behavior); it did 
-      not assess performance in other core subjects (e.g. math, language), as required for the 
-      "All-subject exams" criterion.
+      The authors designed and evaluated the intervention themselves; no independent
+      research or external evaluator was involved in running the study.
     quote: >-
-      "We assessed financial knowledge by five questions covering the calculation of monthly 
-      savings, risks and rewards, rates of return, interest, and inflation. ... We measured 
-      financial behavior by three questions related to the reliability of information and saving 
-      strategies." (pp. 5–6)
+      “The learning material was designed as four lectures of 50 minutes in the form of a
+      computer-assisted learning path.” (p. 5)
     analysis: >-
       Quotes:
 
-      1) “Financial literacy can be decomposed into financial knowledge and financial behavior. 
-      We assessed financial knowledge by five questions ... We measured financial behavior by 
-      three questions...” (pp. 5–6)
+      1) “CRediT author statement: ... Conceptualization, Methodology, Formal analysis,
+      Investigation, Writing...” (front matter)
 
-      2) “We ... studied the effects on the learning outcomes of secondary school students in a 
-      financial education program.” (p. 2)
+      2) “The learning material was designed as four lectures of 50 minutes ... We took
+      care in designing our study to prevent potentially confounding influences.” (p. 15)
 
-      3) “The results showed that the program, on average, enhanced the financial knowledge of 
-      students by almost half of a standard deviation.” (p. 2)
-      
+      3) “We are grateful to ... for research assistance. ... We thank seminar
+      participants ... for valuable suggestions.” (p. 20)
+
       Analysis:
 
-      (1) All-subject Exam-based Assessment requires that the study measure learning outcomes 
-      in all major subjects (or justify a focus on a specialized domain). Here, the outcomes are 
-      specific to financial education only (a specialized subject matter).
+      (1) Under I (Independent Conduct), the study team implementing and analyzing the
+      intervention should be independent from the developers/designers of the
+      intervention. In this paper, the same authors appear to have designed the program
+      (the learning path, random assignment process) and carried out the evaluation.
 
-      (2) The authors make no mention of testing students in general subjects like mathematics, 
-      reading, or science. All outcome measures (financial knowledge and financial behavior) are 
-      within the single domain of financial literacy.
+      (2) The text does not suggest that an external, third-party evaluator performed the
+      trial. Instead, the authors wrote the learning modules themselves, administered
+      them, and analyzed the results.
 
-      (3) Because the study’s assessments are narrowly focused on one subject area and it doesn’t 
-      evaluate broad academic achievement across the curriculum, it fails to meet the “All-subject 
-      exams” criterion.
+      (3) This does not fulfill the independence requirement because the same research
+      group that created the content also tested it. Hence, I is not met.
   y:
     met: false
     explanation: >-
@@ -866,6 +880,62 @@ criteria:
 
       (3) As a result, they do not meet B. The difference in instruction time and materials is
       not offset with a matching resource for the control.
+  r:
+    met: false
+    explanation: >-
+      The study has not been independently replicated by a different research team (no such 
+      replication is reported by the authors).
+    quote: >-
+      (No independent replication of this intervention is mentioned in the paper.)
+    analysis: >-
+      Analysis:
+
+      (1) To satisfy R, a separate research team should have replicated the same experiment in 
+      a different setting. There is no indication anywhere in the article that an external team 
+      repeated this study.
+
+      (2) The authors cite other financial education studies for context, but these are **not** 
+      replications of this specific intervention and design.
+
+      (3) Thus, the criterion **Reproduced** is not met — the results have not been confirmed by 
+      an independent replication study.
+  a:
+    met: false
+    explanation: >-
+      The study only measured outcomes in financial literacy (knowledge and behavior); it did 
+      not assess performance in other core subjects (e.g. math, language), as required for the 
+      "All-subject exams" criterion.
+    quote: >-
+      "We assessed financial knowledge by five questions covering the calculation of monthly 
+      savings, risks and rewards, rates of return, interest, and inflation. ... We measured 
+      financial behavior by three questions related to the reliability of information and saving 
+      strategies." (pp. 5–6)
+    analysis: >-
+      Quotes:
+
+      1) “Financial literacy can be decomposed into financial knowledge and financial behavior. 
+      We assessed financial knowledge by five questions ... We measured financial behavior by 
+      three questions...” (pp. 5–6)
+
+      2) “We ... studied the effects on the learning outcomes of secondary school students in a 
+      financial education program.” (p. 2)
+
+      3) “The results showed that the program, on average, enhanced the financial knowledge of 
+      students by almost half of a standard deviation.” (p. 2)
+      
+      Analysis:
+
+      (1) All-subject Exam-based Assessment requires that the study measure learning outcomes 
+      in all major subjects (or justify a focus on a specialized domain). Here, the outcomes are 
+      specific to financial education only (a specialized subject matter).
+
+      (2) The authors make no mention of testing students in general subjects like mathematics, 
+      reading, or science. All outcome measures (financial knowledge and financial behavior) are 
+      within the single domain of financial literacy.
+
+      (3) Because the study’s assessments are narrowly focused on one subject area and it doesn’t 
+      evaluate broad academic achievement across the curriculum, it fails to meet the “All-subject 
+      exams” criterion.
   g:
     met: false
     explanation: >-
@@ -895,58 +965,6 @@ criteria:
 
       (3) Consequently, the criterion for a sustained follow-up through graduation is not
       satisfied.
-  r:
-    met: false
-    explanation: >-
-      The study has not been independently replicated by a different research team (no such 
-      replication is reported by the authors).
-    quote: >-
-      (No independent replication of this intervention is mentioned in the paper.)
-    analysis: >-
-      Analysis:
-
-      (1) To satisfy R, a separate research team should have replicated the same experiment in 
-      a different setting. There is no indication anywhere in the article that an external team 
-      repeated this study.
-
-      (2) The authors cite other financial education studies for context, but these are **not** 
-      replications of this specific intervention and design.
-
-      (3) Thus, the criterion **Reproduced** is not met — the results have not been confirmed by 
-      an independent replication study.
-  i:
-    met: false
-    explanation: >-
-      The authors designed and evaluated the intervention themselves; no independent
-      research or external evaluator was involved in running the study.
-    quote: >-
-      “The learning material was designed as four lectures of 50 minutes in the form of a
-      computer-assisted learning path.” (p. 5)
-    analysis: >-
-      Quotes:
-
-      1) “CRediT author statement: ... Conceptualization, Methodology, Formal analysis,
-      Investigation, Writing...” (front matter)
-
-      2) “The learning material was designed as four lectures of 50 minutes ... We took
-      care in designing our study to prevent potentially confounding influences.” (p. 15)
-
-      3) “We are grateful to ... for research assistance. ... We thank seminar
-      participants ... for valuable suggestions.” (p. 20)
-
-      Analysis:
-
-      (1) Under I (Independent Conduct), the study team implementing and analyzing the
-      intervention should be independent from the developers/designers of the
-      intervention. In this paper, the same authors appear to have designed the program
-      (the learning path, random assignment process) and carried out the evaluation.
-
-      (2) The text does not suggest that an external, third-party evaluator performed the
-      trial. Instead, the authors wrote the learning modules themselves, administered
-      them, and analyzed the results.
-
-      (3) This does not fulfill the independence requirement because the same research
-      group that created the content also tested it. Hence, I is not met.
   p:
     met: false
     explanation: >-

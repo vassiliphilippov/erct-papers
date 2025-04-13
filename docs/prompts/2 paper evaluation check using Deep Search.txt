@@ -173,12 +173,12 @@ criteria:
   t: include('criterion')
   d: include('criterion')
   s: include('criterion')
-  a: include('criterion')
+  i: include('criterion')
   y: include('criterion')
   b: include('criterion')
-  g: include('criterion')
   r: include('criterion')
-  i: include('criterion')
+  a: include('criterion')
+  g: include('criterion')
   p: include('criterion')
 
 # Individual criterion definition  
@@ -253,13 +253,21 @@ If not, explain how this imbalance affects the study’s ability to isolate
 the intervention’s effect, unless the study explicitly tests additional 
 resources as the treatment variable (quote evidence of this intent).
 
+Please note, than when an intervention explicitly tests the impact of 
+additional resources (e.g., extra tutoring time or materials) as the primary
+treatment variable, the control group may receive the standard 
+'business as usual' level without additional resources, provided this is clearly 
+stated as the study’s intent. Otherwise, any increase in time or budget in 
+the intervention group must be matched in the control group with 
+comparable educational inputs.
+
 #### Criterion A:
 If criterion E (Exam-based Assessment) is not met, then this criterion is not met either.
 
 #### Criterion Y:
 If criterion T (Term Duration) is not met, then this criterion is not met.
 
-#### Criterion G:
+#### Criterion Y:
 If criterion Y (Year Duration) is not met, then this criterion is not met.
 
 #### Criterion G:
