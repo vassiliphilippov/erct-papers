@@ -490,14 +490,11 @@
 @media (max-width: 66.9988em) {
   .hero {
     padding-block: 1rem 2.5rem; /* 40/16 */
-    margin-left: 8px;
-    margin-right: 8px;
   }
   .framework,
   .studies {
     padding-block: 2.5rem; /* 40/16 */
-    margin-left: 8px;
-    margin-right: 8px;
+
   }
   .suggest {
     padding-block: 2.5rem 5.5rem; /* 88/16 */
