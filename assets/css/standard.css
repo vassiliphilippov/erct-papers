@@ -181,6 +181,7 @@
   display: grid;
   grid-template-columns: 3.875rem 1fr;
   margin-block-end: 1.5rem; /* 24/16 */
+  align-items: center;
 }
 .section-header__title {
   text-transform: capitalize;
