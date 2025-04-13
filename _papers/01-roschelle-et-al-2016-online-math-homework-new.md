@@ -66,8 +66,8 @@ criteria:
     met: true
     explanation: "The intervention lasted for a full school year, meeting the term duration criterion."
     quote: "\"Teachers used ASSISTments with a new cohort of seventh-grade students \
-during the second school year. Scores from this second cohort ... were used ... at the \
-end of seventh-grade.\" (pp. 3–4)"
+    during the second school year. Scores from this second cohort ... were used ... at the \
+    end of seventh-grade.\" (pp. 3–4)"
     analysis: >-
       Relevant Quotes:
       
