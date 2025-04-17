@@ -110,8 +110,8 @@ paper (with page numbers if available) and include all of them in the analysis f
 Based on the ERCT standard levels and your findings about the 12 criteria assign correct erct_level to the paper.
 By default set erct_level to 0.
 If all level 1 criteria are met (C, E, T, D), set erct_level to 1.
-If in additional to all level 1 criteria also all level 2 criteria are met (S, A, Y, B), set erct_level to 2.
-If in additional to all level 1 and 2 criteria also all level 3 criteria are met (G, R, I, P), set erct_level to 3.
+If in additional to all level 1 criteria also all level 2 criteria are met (S, I, Y, B), set erct_level to 2.
+If in additional to all level 1 and 2 criteria also all level 3 criteria are met (R, A, G, P), set erct_level to 3.
 
 ## 2.6 Output the final YAML
 Output the final YAML following my output specification. 

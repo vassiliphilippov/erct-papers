@@ -52,7 +52,7 @@ Ensures equal time and resources for both groups to isolate the intervention's i
 
 ### Level 3: Top
 
-#### Replicated Results (R)
+#### Reproduced (R)
 Independently replicated study
 
 #### All-subject Exams (A)
@@ -184,7 +184,7 @@ Many studies mention having a control group but provide no details about its com
 3. **Decision**
 - Mark as "met" if you can quote clear documentation of the control group's characteristics. Mark as "not met" if no adequate quote describing the control group is provided.
 
-### Level 2: SAYB
+### Level 2: SIYB
 
 #### S - School-level RCT
 
@@ -310,7 +310,7 @@ matched in the control group with comparable educational inputs.
 - Mark as "met" if the evaluation confirms a balanced allocation—either by matching extra resources or, if the extra resource is the treatment variable, by ensuring all groups receive the same core inputs. Mark as "not met" if no quotes indicate any effort to balance or if baseline inputs differ.
 
 
-### Level 3: GRIP
+### Level 3: RAGP
 
 #### R - Reproduced
 
@@ -375,6 +375,7 @@ measuring impact on directly related subjects might be sufficient if the rationa
 
 5. **Decision**
 - Mark as "met" if quoted evidence shows all main subjects (or justified exception) were assessed. Mark as "not met" if quoted evidence shows only one or a limited set of subjects without justification.
+
 #### G - Graduation Tracking
 
 - The study must follow up and track participants until their graduation.

@@ -32,12 +32,12 @@ criteria:
   t: include('criterion')
   d: include('criterion')
   s: include('criterion')
-  a: include('criterion')
+  i: include('criterion')
   y: include('criterion')
   b: include('criterion')
-  g: include('criterion')
   r: include('criterion')
-  i: include('criterion')
+  a: include('criterion')
+  g: include('criterion')
   p: include('criterion')
 
 # Individual criterion definition  
