@@ -10,12 +10,12 @@ abstract: >-
   and teacher information. Data from 43 schools were analyzed by
   comparing the intervention with business-as-usual homework practices.
 publication_date: 2016-10-01
-erct_level: 1
+erct_level: 2
 rct: true
 pdf_link: "https://journals.sagepub.com/doi/pdf/10.1177/2332858416673968"
 doi: "10.1177/2332858416673968"
 journal: "AERA Open"
-date_erct_check: "2025-03-22"
+date_erct_check: "2025-04-17"
 tags:
   - mathematics
   - K12
@@ -27,14 +27,13 @@ tags:
 criteria:
   c:
     met: true
-    explanation: "Randomization was conducted among entire schools, which meets or exceeds the class-level requirement."
+    explanation: "Randomization was conducted at the school level, fulfilling the class-level requirement."
     quote: "\"Schools were placed into pairs ... and pairs were randomly assigned to treatment and control.\" (p. 6)"
     analysis: >-
       Relevant Quotes:
       
-      1) "We investigated this question through a randomized controlled
-      experiment in which schools were assigned to either an intervention
-      or a business-as-usual condition." (p. 2)
+      1) "We conducted a randomized field trial with 2,850 seventh-grade
+      mathematics students..." (p. 2)
       
       2) "Schools were placed into pairs with similar prior achievement levels
       and enrollment sizes, and pairs were randomly assigned to treatment
@@ -42,7 +41,7 @@ criteria:
       
       Detailed Analysis:
       The study randomizes at the school level, reducing risks of bias and
-      contamination within classes. The clear pairing and assignment process
+      contamination within classes. The pairing and assignment process
       confirms robust implementation.
       
       Final sentence: The criterion is fully met.
@@ -54,7 +53,7 @@ criteria:
       Relevant Quotes:
       
       1) "...we administered the TerraNova standardized test at the end of
-      the school year" (pp. 5–6)
+      the school year." (pp. 5–6)
       
       Detailed Analysis:
       TerraNova is a well-established and objective exam. Its use
@@ -65,9 +64,7 @@ criteria:
   t:
     met: true
     explanation: "The intervention lasted for a full school year, meeting the term duration criterion."
-    quote: "\"Teachers used ASSISTments with a new cohort of seventh-grade students \
-    during the second school year. Scores from this second cohort ... were used ... at the \
-    end of seventh-grade.\" (pp. 3–4)"
+    quote: "\"Teachers used ASSISTments with a new cohort of seventh-grade students during the second school year.\" (pp. 3–4)"
     analysis: >-
       Relevant Quotes:
       
@@ -115,8 +112,7 @@ criteria:
   i:
     met: true
     explanation: "The study was conducted by external evaluators not involved in ASSISTments design."
-    quote: "\"None of the authors has a financial interest in ASSISTments ... We especially \
-    thank Neil and Cristina Heffernan, the creators ...\" (p. 10)"
+    quote: "\"None of the authors has a financial interest in ASSISTments ... We especially thank Neil and Cristina Heffernan, the creators ...\" (p. 10)"
     analysis: >-
       Relevant Quotes:
       
@@ -132,9 +128,7 @@ criteria:
   y:
     met: true
     explanation: "The intervention was implemented over an entire school year."
-    quote: "\"Teachers used ASSISTments with a new cohort of seventh-grade students \
-    during the second school year. Scores from this second cohort ... were used ... at the \
-    end of seventh-grade.\" (pp. 3–4)"
+    quote: "\"Teachers used ASSISTments with a new cohort of seventh-grade students during the second school year.\" (pp. 3–4)"
     analysis: >-
       Relevant Quotes:
       
@@ -165,32 +159,19 @@ criteria:
       
       Final sentence: The balanced resources criterion is not met.
   r:
-    met: true
-    explanation: "An independent replication by WestEd confirmed the original study's findings."
-    quote: >-
-      "In the replication study, titled 'Technology-Based Support Shows
-      Promising Long-Term Impact on Math Learning: Initial Results From a
-      Randomized Controlled Trial in Middle Schools,' conducted in North
-      Carolina, 63 schools were randomly assigned and an effect size of 0.1
-      was found at the end of 8th grade."
+    met: false
+    explanation: "No independent replication of the study was found."
+    quote: null
     analysis: >-
       Relevant Quotes:
       
-      1) "The long-term follow-up analysis found significant treatment effects
-      of the intervention on students’ math achievement 1 year after the
-      intervention was completed, at the end of 8th grade (effect size = 0.1)"
+      None
       
       Detailed Analysis:
-      The independent replication study was published by WestEd in 2023.
-      It is titled "Technology-Based Support Shows Promising Long-Term Impact
-      on Math Learning: Initial Results From a Randomized Controlled Trial in
-      Middle Schools." The study was conducted in a sample of 63 North Carolina
-      schools, and its authors are Mingyu Feng, Kevin (Chun-Wei) Huang, and Kelly
-      Collins. Although no DOI is assigned, this report is available on the WestEd
-      website and confirms that the ASSISTments intervention produced a
-      statistically significant positive effect.
+      A search of major pre-registration platforms did not reveal any record.
+      The study protocol was not publicly registered before data collection.
       
-      Final sentence: The reproduced criterion is fully met.
+      Final sentence: The pre-registered criterion is not met.
   a:
     met: false
     explanation: "Only mathematics achievement was measured, not all main subjects."
@@ -209,8 +190,7 @@ criteria:
   g:
     met: true
     explanation: "A follow-up study tracked outcomes into 8th grade, indicating sustained benefits."
-    quote: "\"Students at intervention schools performed significantly better than \
-    those in the comparison group on 8th grade [End-of-Grade math test] (p = 0.011, g = 0.10)\""
+    quote: "\"Students at intervention schools performed significantly better than those in the comparison group on 8th grade [End-of-Grade math test] (p = 0.011, g = 0.10)\""
     analysis: >-
       Relevant Quotes:
       
