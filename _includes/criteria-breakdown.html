@@ -18,7 +18,7 @@
                 <h3 class="level-criteria__title title">Level 2 Criteria</h3>
                 <ul class="level-criteria__stage stage">
                     {% for criterion in page.criteria %}
-                    {% if criterion[0] == 's' or criterion[0] == 'a' or criterion[0] == 'y' or criterion[0] == 'b' %}
+                    {% if criterion[0] == 's' or criterion[0] == 'i' or criterion[0] == 'y' or criterion[0] == 'b' %}
                     {% include paper-level-section.html %}
                     {% endif %}
                     {% endfor %}
@@ -30,7 +30,7 @@
                 <h3 class="level-criteria__title title">Level 3 Criteria</h3>
                 <ul class="level-criteria__stage stage">
                     {% for criterion in page.criteria %}
-                    {% if criterion[0] == 'g' or criterion[0] == 'r' or criterion[0] == 'i' or criterion[0] == 'p' %}
+                    {% if criterion[0] == 'r' or criterion[0] == 'a' or criterion[0] == 'g' or criterion[0] == 'p' %}
                     {% include paper-level-section.html %}
                     {% endif %}
                     {% endfor %}
