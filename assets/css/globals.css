@@ -26,5 +26,7 @@ main {
 @media (max-width: 47.9988em) {
   [class*='__container'] {
     padding-inline: 1rem; /* 16/16 */
+    margin-left: 8px;
+    margin-right: 8px;
   }
 }
