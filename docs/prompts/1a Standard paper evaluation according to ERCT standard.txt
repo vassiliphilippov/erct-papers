@@ -277,6 +277,64 @@ If this additional resource is an integral part of the intervention then
 if doesn't automatically violate this criterion B. However make sure that 
 this additional resouce is clearly mentioned in your analysis and the summary.
 
+BE VERY CAREFUL WITH THIS CRITERION. MANY PEOPLE FAIL MARKINGTHIS CRITERION.
+Use the following pseudo code decision tree to make your decision regarding 
+criterion B:
+
+```pseudocode
+function evaluateCriterionB(paper) {
+  /* ---------------- 0. Paper‑specific helper stubs ------------------ */
+  const EXTRA_RESOURCES_PRESENT   = paper.interventionAddsTimeOrBudget();     
+  const RESOURCES_ARE_TREATMENT   = paper.extraResourcesIntegralToDesign();   
+  const CONTROL_MATCHES_RESOURCES = paper.controlMatchesTimeBudget();        
+  const WITHIN_SUBJECTS           = paper.isWithinSubjectsDesign();           
+  const BASELINE_IS_EQUIVALENT    = paper.baselineHasEquivalentEngagement();  
+  const NEGLIGIBLE_DIFF           = paper.extraResourcesDifferenceIsNegligible(); 
+
+  /* ------------ 1. No extra time/budget at all → met --------------- */
+  if (!EXTRA_RESOURCES_PRESENT) {
+    // Reason: Intervention adds no extra resources; balance requirement trivially satisfied.
+    return met();
+  }
+
+  /* ---- 1a. Extra resources present but difference is NEGLIGIBLE ---- */
+  if (NEGLIGIBLE_DIFF) {
+    // Reason: Additional time/budget is so small it cannot plausibly
+    // account for outcome differences; treat groups as balanced.
+    return met();
+  }
+
+  /* === 2. Extra resources *are the thing being tested* → met ======= */
+  if (RESOURCES_ARE_TREATMENT) {
+    // Reason: Study explicitly tests the effect of providing additional resources.
+    // Control may remain “business‑as‑usual” by design (spec §§ 5a–5c).
+    return met();
+  }
+
+  /* ------------- 3. Extra resources but NOT integral --------------- */
+  if (CONTROL_MATCHES_RESOURCES) {
+    // Reason: Control group was given equivalent time/budget, isolating the intervention itself.
+    return met();
+  }
+
+  /* ------------ 4. Within‑subjects special‑case branch -------------- */
+  if (WITHIN_SUBJECTS) {
+    if (BASELINE_IS_EQUIVALENT) {
+      // Reason: Baseline periods provided equivalent engagement despite within‑subjects design.
+      return met();
+    } else {
+      // Reason: Baseline periods lacked equivalent engagement in within‑subjects design.
+      return notMet();
+    }
+  }
+
+  /* -------------------- 5. Otherwise → not met --------------------- */
+  // Reason: Extra resources given only to intervention with no matching control
+  // and those resources are NOT framed as the treatment variable.
+  return notMet();
+}
+```
+
 #### Criterion A:
 If criterion E (Exam-based Assessment) is not met, then this criterion is not met either.
 
@@ -1009,3 +1067,8 @@ criteria:
 Now I want you to carefully check the ERCT Standard, the provided paper and act according to 
 the provided step-by-step instructions to generate the final output following the specification format
 as a valid markdown file containing YAML as your final.
+
+Make sure that your YAML file starts and ends with ---.
+
+Please ensure that no internal citation markers (e.g., :contentReference[...] or any 
+similar tags) are present in the final YAML output.

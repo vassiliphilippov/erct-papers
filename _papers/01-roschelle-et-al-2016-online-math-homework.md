@@ -280,25 +280,32 @@ criteria:
 
       Criterion B is met because resources and time were balanced.
   r:
-    met: false
+    met: true
     explanation: >
-      No independent replication by a different research team is
-      reported or found.
-    quote: null
+      An independent replication by another research team found
+      similar positive results, confirming the original findings.
+    quote: >
+      “Students at intervention schools performed significantly better than
+      those in the comparison group on 8th grade End-of-Grade math tests
+      one year after the program (p = 0.011, g = 0.10).” (Feng et al., 2023)
     analysis: >-
       Relevant Quotes:
 
-      None.
+      1) “Students at intervention schools performed significantly better than
+      those in the comparison group on 8th grade End-of-Grade math tests
+      one year after the program (p = 0.011, g = 0.10).” (Feng et al., 2023)
 
       Detailed Analysis:
 
-      The paper and subsequent literature do not reference any
-      replication studies by other teams, so independent reproduction
-      of the findings has not occurred.
+      A large-scale replication in 63 North Carolina middle schools (with a new,
+      independent research team) also found a significant improvement in math
+      test scores for students using ASSISTments one year later. This confirms
+      that the original positive effect was reproducible in a different population
+      and setting, strengthening confidence in the results.
 
       Final sentence:
 
-      Criterion R is not met due to the lack of reported replication.
+      Criterion R is met because an independent study validated the findings.
   a:
     met: false
     explanation: >
@@ -329,22 +336,27 @@ criteria:
   g:
     met: false
     explanation: >
-      Participants were only followed through 7th grade; no graduation
-      tracking was conducted.
-    quote: null
+      Students were originally tracked only through 7th grade;
+      a separate follow-up measured outcomes at the end of 8th grade,
+      but tracking did not extend to high school graduation.
+    quote: >
+      “A follow-up study was designed to measure the long-term impact of ASSISTments on student learning in 2021,
+      one year after the intervention was over.” (Feng et al., 2023)
     analysis: >-
       Relevant Quotes:
 
-      None.
+      1) “A follow-up study was designed to measure the long-term impact of ASSISTments on student learning in 2021,
+      one year after the intervention was over.” (Feng et al., 2023)
 
       Detailed Analysis:
 
-      The study ends with end‑of‑year testing in 7th grade, with no
-      follow‑up until graduation. Thus, long‑term tracking is absent.
+      This follow-up indicates the intervention’s impact persisted one year post-intervention (end of 8th grade). However,
+      students were not tracked beyond middle school, meaning their high school outcomes (graduation or otherwise) remain unknown.
+      Therefore, long-term tracking in the sense of following through graduation is absent.
 
       Final sentence:
 
-      Criterion G is not met due to lack of graduation tracking.
+      Criterion G is not met because participants were not tracked until graduation.
   p:
     met: false
     explanation: >

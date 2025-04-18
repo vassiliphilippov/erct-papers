@@ -310,6 +310,92 @@ authors, year) and relevant quotes and analysis of them. Please pay special atte
 provide exact verbatim quotes from the papers. Please write if you cannot fine
 them , but don't try to make up quotes.
 
+#### Criterion B:
+In your analysis, compare the nature, quantity, and quality of resources 
+(e.g., time, budget, materials) provided to both intervention and control 
+conditions, including within-subjects baseline periods. Describe whether 
+the control condition offers a comparable substitute for the intervention’s 
+inputs (e.g., equivalent educational time or alternative activities). 
+If not, explain how this imbalance affects the study’s ability to isolate 
+the intervention’s effect, unless the study explicitly tests additional 
+resources as the treatment variable (quote evidence of this intent).
+
+Please note, than when an intervention explicitly tests the impact of 
+additional resources (e.g., extra tutoring time or materials) as the primary
+treatment variable, the control group may receive the standard 
+'business as usual' level without additional resources, provided this is clearly 
+stated as the study’s intent. Otherwise, any increase in time or budget in 
+the intervention group must be matched in the control group with 
+comparable educational inputs.
+
+After you identify additional resources in the intervention group 
+(like additional teacher professional development, additional time, etc),
+you need to check if this additional resource was an integram part of the tested
+intervention or it was an additional optional resource not an integral 
+part of the intervention how it was defined in the paper. 
+
+If this additional resource is an integral part of the intervention then 
+if doesn't automatically violate this criterion B. However make sure that 
+this additional resouce is clearly mentioned in your analysis and the summary.
+
+BE VERY CAREFUL WITH THIS CRITERION. MANY PEOPLE FAIL MARKINGTHIS CRITERION.
+Use the following pseudo code decision tree to make your decision regarding 
+criterion B:
+
+```pseudocode
+function evaluateCriterionB(paper) {
+  /* ---------------- 0. Paper‑specific helper stubs ------------------ */
+  const EXTRA_RESOURCES_PRESENT   = paper.interventionAddsTimeOrBudget();     
+  const RESOURCES_ARE_TREATMENT   = paper.extraResourcesIntegralToDesign();   
+  const CONTROL_MATCHES_RESOURCES = paper.controlMatchesTimeBudget();        
+  const WITHIN_SUBJECTS           = paper.isWithinSubjectsDesign();           
+  const BASELINE_IS_EQUIVALENT    = paper.baselineHasEquivalentEngagement();  
+  const NEGLIGIBLE_DIFF           = paper.extraResourcesDifferenceIsNegligible(); 
+
+  /* ------------ 1. No extra time/budget at all → met --------------- */
+  if (!EXTRA_RESOURCES_PRESENT) {
+    // Reason: Intervention adds no extra resources; balance requirement trivially satisfied.
+    return met();
+  }
+
+  /* ---- 1a. Extra resources present but difference is NEGLIGIBLE ---- */
+  if (NEGLIGIBLE_DIFF) {
+    // Reason: Additional time/budget is so small it cannot plausibly
+    // account for outcome differences; treat groups as balanced.
+    return met();
+  }
+
+  /* === 2. Extra resources *are the thing being tested* → met ======= */
+  if (RESOURCES_ARE_TREATMENT) {
+    // Reason: Study explicitly tests the effect of providing additional resources.
+    // Control may remain “business‑as‑usual” by design (spec §§ 5a–5c).
+    return met();
+  }
+
+  /* ------------- 3. Extra resources but NOT integral --------------- */
+  if (CONTROL_MATCHES_RESOURCES) {
+    // Reason: Control group was given equivalent time/budget, isolating the intervention itself.
+    return met();
+  }
+
+  /* ------------ 4. Within‑subjects special‑case branch -------------- */
+  if (WITHIN_SUBJECTS) {
+    if (BASELINE_IS_EQUIVALENT) {
+      // Reason: Baseline periods provided equivalent engagement despite within‑subjects design.
+      return met();
+    } else {
+      // Reason: Baseline periods lacked equivalent engagement in within‑subjects design.
+      return notMet();
+    }
+  }
+
+  /* -------------------- 5. Otherwise → not met --------------------- */
+  // Reason: Extra resources given only to intervention with no matching control
+  // and those resources are NOT framed as the treatment variable.
+  return notMet();
+}
+```
+
 ## 3.5 Text Format
 
 VERY IMPORTANT: Don't include references like ":contentReference[oaicite:1]{index=1}" 

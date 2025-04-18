@@ -1,434 +1,497 @@
 ---
-title: The effects of computer-assisted adaptive instruction and elaborated feedback on
-  learning outcomes. A randomized control trial
+title: >-
+  The effects of computer-assisted adaptive instruction and elaborated
+  feedback on learning outcomes. A randomized control trial
 authors: Kaat Iterbeke, Kristof De Witte, Wouter Schelfhout
 paper_link: "https://doi.org/10.1016/j.chb.2020.106666"
 abstract: >-
-  Using a computer-based learning environment, the present paper studied the effects
-  of adaptive instruction and elaborated feedback on the learning outcomes of secondary
-  school students in a financial education program. We randomly assigned schools to
-  four conditions on a crossing of two factors: the type of instruction (uniform or
-  adaptive) and feedback (verification or elaborated). A total of 1,177 students in 32
-  schools completed the program in ability groups in the classroom. The results showed
-  that the program, on average, enhanced the financial knowledge of students by almost
-  half of a standard deviation. No significant changes in students’ financial behavior
-  were found. Despite the promise of adaptive practices to address the individual needs
-  of students, we observed no additional learning gains associated with adaptive
-  instruction and elaborated feedback. A marginally significant heterogeneous effect for
-  gender was reported, where girls were negatively affected by adaptive instruction.
-  Moreover, despite our sample included more students from a favorable socioeconomic
-  status, the adaptive practices seemed to lower the motivation level. Hence, while no
-  information on the time spent on the instruction and feedback was retrieved, the
-  latter finding suggested that the practices may have been perceived as burdensome by
-  students, thereby rendering them ineffective.
+  Using a computer-based learning environment, the present paper
+  studied the effects of adaptive instruction and elaborated
+  feedback on the learning outcomes of secondary school students in a
+  financial education program. We randomly assigned schools to four
+  conditions on a crossing of two factors: the type of instruction
+  (uniform or adaptive) and feedback (verification or elaborated). A
+  total of 1,177 students in 32 schools completed the program in
+  ability groups in the classroom. The results showed that the
+  program, on average, enhanced the financial knowledge of students by
+  almost half of a standard deviation. No significant changes in
+  students' financial behavior were found. Despite the promise of
+  adaptive practices to address the individual needs of students, we
+  observed no additional learning gains associated with adaptive
+  instruction and elaborated feedback. A marginally significant
+  heterogeneous effect for gender was reported, where girls were
+  negatively affected by adaptive instruction. Moreover, despite our
+  sample included more students from a favorable socioeconomic status,
+  the adaptive practices seemed to lower the motivation level. Hence,
+  while no information on the time spent on the instruction and
+  feedback was retrieved, the latter finding suggested that the
+  practices may have been perceived as burdensome by students, thereby
+  rendering them ineffective.
 publication_date: 2020-12-13
 erct_level: 0
 rct: true
-pdf_link: ""
+pdf_link: "https://lirias.kuleuven.be/retrieve/597790"
 doi: "10.1016/j.chb.2020.106666"
 journal: "Computers in Human Behavior"
-date_erct_check: "2025-03-09"
+date_erct_check: 2025-04-18
 tags:
   - K12
   - EU
-  - online homework
   - EdTech website
   - digital assessment
 criteria:
   c:
     met: true
     explanation: >-
-      They randomized entire schools, which is stronger than class-level
-      randomization.
+      The study randomized entire schools to treatment conditions,
+      meeting the class-level RCT criterion.
     quote: >-
       “Randomization was conducted at the school level in order to avoid
       contamination effects.” (p. 4)
     analysis: >-
-      Quotes:
+      Relevant Quotes:
 
-      1) “We randomly assigned schools to four conditions on a crossing of two
-      factors: the type of instruction (uniform or adaptive) and feedback
-      (verification or elaborated).” (p. 2)
+      1) “We randomly assigned schools to four conditions on a crossing
+      of two factors: the type of instruction (uniform or adaptive) and
+      feedback (verification or elaborated).” (p. 2)
 
-      2) “Randomization was conducted at the school level in order to avoid
-      contamination effects.” (p. 4)
-      3) “In total, 32 schools ... participated in the final sample.” (p. 8 and
-      Table III)
+      2) “Randomization was conducted at the school level in order to
+      avoid contamination effects.” (p. 4)
 
-      Analysis:
+      3) “A total of 1,177 students in 32 schools completed the program
+      in ability groups in the classroom.” (p. 2)
 
-      (1) The paper clearly states that the unit of randomization was the school.
-      Under the ERCT Standard, school-level randomization is considered stronger than
-      class-level randomization, and therefore it automatically satisfies the
-      requirement for class-level RCT. The authors wrote, “We randomly assigned
-      schools to four conditions…,” indicating an entire school (rather than individual
-      students or only certain classes) was the randomized unit.
+      Detailed Analysis:
 
-      (2) Since randomization at the school level generally eliminates the possibility
-      that some classes within the same school might receive the same intervention
-      (risking contamination), it also meets or exceeds the requirement of randomizing
-      entire classes. If this were strictly a within-class randomization, we would be
-      worried about contamination.
+      The ERCT standard requires randomization at the class level (or
+      stronger, like school level) to prevent contamination. This paper
+      explicitly states that randomization was performed at the school
+      level to avoid such contamination. Assigning entire schools to
+      conditions is a stronger design than class-level randomization and
+      thus satisfies this criterion.
 
-      (3) The study’s explicit mention of the desire to “avoid contamination effects”
-      is precisely the rationale behind not randomizing at the student level within the
-      same classroom. Hence, the stronger school-level RCT satisfies the ‘C - Class-level
-      RCT’ criterion.
+      Criterion C (Class-level RCT) is met because randomization
+      occurred at the school level.
   e:
     met: false
     explanation: >-
-      They used a mix of custom questions (some drawn from prior literature) and did not 
-      employ a widely recognized standardized exam.
+      The study used researcher-designed tests, not standardized exams,
+      to measure financial proficiency.
     quote: >-
-      "The pre-treatment test was designed as a computer-aided multiple-choice test. 
-      The test included several questions on students’ demographics and eight questions 
-      that referred directly to the material and measured students’ financial 
-      proficiency." (p. 5)
+      “The pre-treatment test was designed as a computer-aided
+      multiple-choice test... eight questions that referred directly to
+      the material and measured students' financial proficiency.” (p. 5)
     analysis: >-
-      Quotes:
+      Relevant Quotes:
 
-      1) “We randomly assigned schools to four conditions ... and designed four 
-      lectures of 50 minutes in the form of a computer-assisted learning path.” (pp. 3–4)
+      1) “The pre-treatment test was designed as a computer-aided
+      multiple-choice test.” (p. 5)
 
-      2) “The pre-treatment test was designed as a computer-aided multiple-choice 
-      test ... The test included several questions on students’ demographics and 
-      eight questions that referred directly to the material...” (p. 5)
+      2) “The test included several questions on students' demographics
+      and eight questions that referred directly to the material and
+      measured students' financial proficiency.” (p. 5)
 
-      3) “Two questions for the latter three financial concepts were taken from 
-      Lusardi and Mitchell (2011) ... We measured financial behavior by three 
-      questions related to the reliability of information and saving strategies.” 
-      (p. 6)
-      (The post-treatment test included similar questions as the pre-test, and no 
-      official standardized exam (state or national) was used.)
-      
-      Analysis:
+      3) “Financial proficiency can be decomposed into financial
+      knowledge and financial behavior. We assessed financial knowledge
+      by five questions... Two questions for the latter three financial
+      concepts were taken from Lusardi and Mitchell (2011).” (p. 5-6)
 
-      (1) The ERCT Standard requires an exam-based assessment that is **standardized** 
-      and not created solely by the researchers for the purpose of the study. In this 
-      paper, the authors used a set of multiple-choice items, partly drawn from well-known 
-      financial literacy surveys (e.g., Lusardi & Mitchell), but there is no clear 
-      statement that these items amount to a recognized, official standardized exam.
+      4) “The financial proficiency questions were constructed by
+      rephrasing and using adjustment of numbers of the pre-test
+      questions.” (p. 6)
 
-      (2) The paper notes that the tests contained custom questions measuring financial 
-      literacy in alignment with the program content (topics like saving, risk, inflation, 
-      interest, etc.). Although they reference some previously published questions, the 
-      overall instrument is a researcher-assembled mix, not a standard test used in 
-      large-scale assessments.
+      5) “The pre- and post-treatment questions on financial proficiency
+      were face validated by two senior teachers in the research team
+      and showed good construct validity.” (footnote 4, p. 6)
 
-      (3) The authors do not claim to have used any state-wide or national standardized 
-      test. Therefore, the **Exam-based Assessment** criterion is not satisfied.
+      Detailed Analysis:
+
+      Criterion E requires the use of standardized, widely recognized
+      exams. The paper states the tests were "designed as a
+      computer-aided multiple-choice test" by the researchers,
+      including questions referring "directly to the material". While
+      some questions were adapted from prior literature (Lusardi &
+      Mitchell, 2011), the overall assessment was custom-built for the
+      study, rephrasing pre-test questions for the post-test, and
+      face-validated by teachers, not externally standardized. No
+      mention is made of using a national or state-wide standardized
+      test.
+
+      Criterion E (Exam-based Assessment) is not met as the assessment
+      was primarily researcher-developed, not a standardized exam.
   t:
     met: false
     explanation: >-
-      They delivered four sessions (about three hours total), which is shorter than one
-      academic term.
+      The intervention consisted of four 50-minute lectures, much
+      shorter than a full academic term.
     quote: >-
-      “The learning material was designed as four lectures of 50 minutes in the form
-      of a computer-assisted learning path.” (p. 5)
+      “The learning material was designed as four lectures of 50 minutes
+      in the form of a computer-assisted learning path.” (p. 5)
     analysis: >-
-      Quotes:
+      Relevant Quotes:
 
-      1) “The learning material was designed as four lectures of 50 minutes in the
-      form of a computer-assisted learning path.” (p. 5)
+      1) “The learning material was designed as four lectures of 50
+      minutes in the form of a computer-assisted learning path.” (p. 5)
 
-      2) “Hence, students received about 200 minutes (4 x 50) of instruction total,
-      delivered during regular class hours.” (p. 5, paraphrased from context)
+      2) “To measure the short-term impact of the financial education
+      program, a post-treatment computer-aided multiple-choice test was
+      administered at the start of the last lecture...” (p. 6)
 
-      3) “Using the computer-based program, we studied the short-term effect on a
-      post-test administered at the end of these four lectures.” (p. 6)
+      3) “Approximately four weeks after the lectures, students in the
+      treatment schools completed the second post-treatment test as a
+      homework assignment.” (p. 8)
 
-      Analysis:
+      Detailed Analysis:
 
-      (1) Under the ERCT Standard, a study must run for at least a full academic term
-      (often ~3–4 months) to meet the T (Term Duration) requirement. In this paper, the
-      intervention took place during four class sessions (4 x 50 minutes = roughly 3.3
-      hours total).
+      Criterion T requires outcomes to be measured at least one full
+      academic term (typically 3-4 months) after the intervention begins.
+      The intervention here consisted of only four 50-minute lectures,
+      totaling roughly 3.3 hours. The primary outcome was measured
+      shortly after these sessions, although a second post-test was
+      given four weeks later as homework. Neither the intervention
+      duration nor the measurement point meets the minimum term length
+      requirement.
 
-      (2) While the paper does indicate a follow-up test “approximately four weeks after
-      the lectures” as homework, the main intervention spanned only these short sessions.
-      This does not align with an entire semester or term-based intervention.
-
-      (3) Given that the study specifically highlights only a few hours of in-class program
-      usage, it is significantly shorter than the minimum term duration. Thus, T is not met.
+      Criterion T (Term Duration) is not met because the intervention and
+      primary outcome measurement occurred over a period much shorter
+      than an academic term.
   d:
     met: true
     explanation: >-
-      The study documents the control group’s characteristics (demographics and baseline 
-      scores) in detail, with separate columns for the control group in Table III.
+      The paper documents the control group's characteristics, size, and
+      conditions in detail, including baseline scores in Table III.
     quote: >-
-      "Table III presents the school and student characteristics for the final sample 
-      involving 1,177 students, 94 classes, and 32 schools... **Student background 
-      characteristics, as presented in panel B, show that, on average, 50 percent of 
-      students were female, 88 percent spoke Dutch (the official language) at home, and 
-      students were 13 and half years old, on average.**" (pp. 8–9)
+      “Table III presents the school and student characteristics for the
+      final sample involving 1,177 students, 94 classes, and 32 schools
+      which were randomly assigned to one of the conditions.” (p. 9)
     analysis: >-
-      Quotes:
+      Relevant Quotes:
 
-      1) “A total of 1,177 students in 32 schools completed the program ... We randomly 
-      assigned schools to four conditions on a crossing of two factors...” (p. 2)
+      1) “In order to examine the program effectiveness... we designed
+      four conditions, i.e., one control condition and three
+      experimental conditions. The control condition did not receive the
+      financial education program.” (p. 4)
 
-      2) “In the control condition, students did not receive the financial education 
-      program. ... Teachers in the control schools obtained the material after their 
-      students took the pre- and first post-treatment test as an incentive...” (p. 5)
+      2) “Teachers in the control schools obtained the material after
+      their students took the pre- and first post-treatment test as an
+      incentive to comply with the prescribed instructions.” (p. 8)
 
-      3) “Table III presents the school and student characteristics for the final sample 
-      involving 1,177 students, 94 classes, and 32 schools, which were randomly assigned 
-      to one of the conditions.” (p. 8)
+      3) “Table III presents the school and student characteristics for
+      the final sample involving 1,177 students, 94 classes, and 32
+      schools which were randomly assigned to one of the conditions. ...
+      Overall, the characteristics are relatively balanced across
+      conditions.” (p. 9)
 
-      4) “Panel B. Background characteristics … On average, 50 percent of students were 
-      female, 88 percent spoke Dutch at home, etc. … Panel C. Pre financial scores.” (Table III)
-      
-      Analysis:
+      4) Table III, Column (1) provides data for the Control group,
+      including school characteristics (private, class size, grade),
+      student background (track, gender, age, language, math grade,
+      importance of financial literacy), and pre-financial scores
+      (proficiency, knowledge, behavior). (p. 10)
 
-      (1) Criterion D requires that the control group’s makeup and baseline data be clearly 
-      described. In this study, the authors provide extensive baseline statistics for all 
-      groups in **Table III**, including a dedicated column for the control group.
+      Detailed Analysis:
 
-      (2) The authors explicitly state that the control group “did not receive the financial 
-      education program” (i.e. business-as-usual), and they offer the intervention materials 
-      to those teachers only after the study, indicating no special treatment was given during 
-      the study period. 
+      Criterion D requires clear documentation of the control group's
+      size, characteristics, baseline performance, and conditions. The
+      paper specifies a control group that received no intervention and
+      whose teachers received materials only after the study. Table III
+      provides detailed descriptive statistics for the control group (N =
+      312 students in 9 schools), covering demographics, school
+      context, and baseline financial proficiency scores, comparing them
+      to the treatment groups. This level of detail allows assessment of
+      baseline comparability.
 
-      (3) Table III and its narrative description detail student demographics (gender, language, 
-      etc.) and pre-test scores (financial knowledge/behavior) for the control vs. treatment groups. 
-      This level of detail allows readers to confirm the control group was comparable at baseline. 
-      Therefore, the **Documented Control Group** criterion is met.
+      Criterion D (Documented Control Group) is met as the control group
+      is clearly defined and its characteristics are well-documented.
   s:
     met: true
     explanation: >-
-      Schools were the unit of randomization, fulfilling the requirement for S.
+      The study randomized entire schools, fulfilling the requirement for
+      a school-level RCT.
     quote: >-
-      “Randomization was conducted at the school level in order to avoid contamination
-      effects.” (p. 4)
-    analysis: >-
-      Quotes:
-
-      1) “Randomization was conducted at the school level in order to avoid
+      “Randomization was conducted at the school level in order to avoid
       contamination effects.” (p. 4)
-
-      2) “We randomly assigned schools to four conditions on a crossing of two factors:
-      the type of instruction (uniform or adaptive) and feedback (verification or
-      elaborated).” (p. 2)
-
-      3) “32 schools completed the program ... 9 schools in the control, 5 in
-      uniform-EF, 10 in adaptive-EF, 8 in adaptive-VF.” (Table III, p. 8)
-
-      Analysis:
-
-      (1) The S criterion (School-level RCT) requires that entire schools, not just classes or
-      students within a school, be randomly assigned. The quotes confirm that the
-      randomization unit is indeed the school.
-
-      (2) Because the authors explicitly mention “we randomly assigned schools” and
-      emphasize that this prevented contamination, it demonstrates the design meets
-      the requirement for S. This approach is typically more logistically demanding,
-      but it is considered stronger in capturing real-school effects.
-
-      (3) Consequently, the study clearly meets the standard for a school-level RCT.
-  a:
-    met: false
-    explanation: >-
-      The study only measured outcomes in financial literacy (knowledge and behavior); it did 
-      not assess performance in other core subjects (e.g. math, language), as required for the 
-      "All-subject exams" criterion.
-    quote: >-
-      "We assessed financial knowledge by five questions covering the calculation of monthly 
-      savings, risks and rewards, rates of return, interest, and inflation. ... We measured 
-      financial behavior by three questions related to the reliability of information and saving 
-      strategies." (pp. 5–6)
     analysis: >-
-      Quotes:
+      Relevant Quotes:
 
-      1) “Financial literacy can be decomposed into financial knowledge and financial behavior. 
-      We assessed financial knowledge by five questions ... We measured financial behavior by 
-      three questions...” (pp. 5–6)
+      1) “Randomization was conducted at the school level in order to
+      avoid contamination effects.” (p. 4)
 
-      2) “We ... studied the effects on the learning outcomes of secondary school students in a 
-      financial education program.” (p. 2)
+      2) “We randomly assigned schools to four conditions on a crossing
+      of two factors...” (p. 2)
 
-      3) “The results showed that the program, on average, enhanced the financial knowledge of 
-      students by almost half of a standard deviation.” (p. 2)
-      
-      Analysis:
+      3) “In total, 32 schools ... participated in the final sample.” (p.
+      5, Table III)
 
-      (1) All-subject Exam-based Assessment requires that the study measure learning outcomes 
-      in all major subjects (or justify a focus on a specialized domain). Here, the outcomes are 
-      specific to financial education only (a specialized subject matter).
+      Detailed Analysis:
 
-      (2) The authors make no mention of testing students in general subjects like mathematics, 
-      reading, or science. All outcome measures (financial knowledge and financial behavior) are 
-      within the single domain of financial literacy.
+      Criterion S requires randomization at the school level, meaning
+      entire schools are assigned to conditions. The paper explicitly
+      states, “Randomization was conducted at the school level” and “We
+      randomly assigned schools to four conditions”. The sample involved
+      32 distinct schools. This design meets the standard for a
+      school-level RCT, which is considered stronger than class-level
+      RCTs for capturing real-world effects.
 
-      (3) Because the study’s assessments are narrowly focused on one subject area and it doesn’t 
-      evaluate broad academic achievement across the curriculum, it fails to meet the “All-subject 
-      exams” criterion.
-  y:
-    met: false
-    explanation: >-
-      Their intervention was only four class sessions plus a 4-week follow-up, nowhere near a
-      full academic year.
-    quote: >-
-      “The learning material was designed as four lectures of 50 minutes ... approximately
-      four weeks after, a second post-treatment test.” (pp. 5–6)
-    analysis: >-
-      Quotes:
-
-      1) “The learning material was designed as four lectures of 50 minutes.”
-      (p. 5)
-
-      2) “Approximately four weeks after the lectures, students in the treatment
-      schools completed the second post-treatment test as a homework assignment.”
-      (p. 6)
-
-      Analysis:
-
-      (1) The Y criterion requires the intervention to last at least one full academic
-      year, or the study to track participants for that duration. Here, the authors’
-      main program spanned a few weeks at most, plus a short follow-up.
-
-      (2) The total formal instruction time was only four 50-minute sessions, not an
-      entire year. Although the second post-test was a month later, that does not
-      equate to a year-long intervention.
-
-      (3) As a result, the study does not meet the requirement for Y, which demands a
-      full academic year of intervention.
-  b:
-    met: false
-    explanation: >-
-      The control group received no equivalent budget or instructional time to match the
-      specialized sessions of the treatment group.
-    quote: >-
-      “In the control condition, students did not receive the financial education program ...
-      Teachers in the control schools obtained the material after.” (p. 5)
-    analysis: >-
-      Quotes:
-
-      1) “In the experimental condition, student pairs received an adaptive or uniform
-      learning path on financial literacy ... whereas the control condition did not
-      receive the financial education program.” (p. 5)
-
-      2) “Students in the control condition merely completed the pre- and post-tests,
-      with no special resources or additional time.” (p. 5)
-
-      3) “Teachers in the control schools obtained the material only after their
-      students took the pre- and first post-treatment test.” (p. 5)
-
-      Analysis:
-
-      (1) The Balanced Control Group criterion requires that if the treatment group receives
-      extra resources or additional instructional time, the control group must also receive
-      equivalent resources/time to isolate the effect of the specific intervention. Here,
-      the experimental group spent dedicated class sessions working on the financial
-      literacy modules and had a specialized computer-based program.
-
-      (2) The control group did not receive any parallel or compensatory time or budget.
-      They were effectively kept on “business as usual” with no additional resources.
-      This suggests a resource/time imbalance.
-
-      (3) As a result, they do not meet B. The difference in instruction time and materials is
-      not offset with a matching resource for the control.
-  g:
-    met: false
-    explanation: >-
-      They measured immediate and 4-week follow-up effects only, with no tracking until
-      graduation.
-    quote: >-
-      “Approximately four weeks after the lectures, students completed the second
-      post-treatment test as a homework assignment.” (p. 6)
-    analysis: >-
-      Quotes:
-      1) “We measured the short-term impact of the financial education program ... and
-      a second post-treatment test as a homework assignment about four weeks after
-      the lectures.” (p. 6)
-
-      2) “The results showed the improvement in financial knowledge to be retained in the
-      short run, though no mention is made of longer tracking.” (pp. 6–7)
-
-      Analysis:
-
-      (1) G (Graduation Tracking) requires the study to follow up on students until they
-      graduate from that school level to see if the intervention’s effect persists. Here,
-      participants were observed for only a brief period: one immediate post-test and one
-      follow-up about a month later.
-
-      (2) The paper does not describe any data collection continuing through the end of the
-      relevant school grade, let alone graduation from secondary education.
-
-      (3) Consequently, the criterion for a sustained follow-up through graduation is not
-      satisfied.
-  r:
-    met: false
-    explanation: >-
-      The study has not been independently replicated by a different research team (no such 
-      replication is reported by the authors).
-    quote: >-
-      (No independent replication of this intervention is mentioned in the paper.)
-    analysis: >-
-      Analysis:
-
-      (1) To satisfy R, a separate research team should have replicated the same experiment in 
-      a different setting. There is no indication anywhere in the article that an external team 
-      repeated this study.
-
-      (2) The authors cite other financial education studies for context, but these are **not** 
-      replications of this specific intervention and design.
-
-      (3) Thus, the criterion **Reproduced** is not met — the results have not been confirmed by 
-      an independent replication study.
+      Criterion S (School-level RCT) is met because the randomization
+      unit was the school.
   i:
     met: false
     explanation: >-
-      The authors designed and evaluated the intervention themselves; no independent
-      research or external evaluator was involved in running the study.
+      The authors conceptualized, designed the methodology, conducted
+      the investigation, and wrote the paper; no independent team was
+      involved.
     quote: >-
-      “The learning material was designed as four lectures of 50 minutes in the form of a
-      computer-assisted learning path.” (p. 5)
+      “CRediT author statement Iterbeke Kaat: Conceptualization,
+      Methodology, Formal analysis, Investigation, Writing Original
+      draft... De Witte Kristof: Conceptualization, Methodology...
+      Schelfhout Wouter: Conceptualization, Methodology...” (p. 2)
     analysis: >-
-      Quotes:
+      Relevant Quotes:
 
-      1) “CRediT author statement: ... Conceptualization, Methodology, Formal analysis,
-      Investigation, Writing...” (front matter)
+      1) “CRediT author statement Iterbeke Kaat: Conceptualization,
+      Methodology, Formal analysis, Investigation, Writing Original
+      draft, Writing - Review & Editing, Visualization. De Witte
+      Kristof: Conceptualization, Methodology, Writing - Review &
+      Editing, Supervision, Funding acquisition. Schelfhout Wouter:
+      Conceptualization, Methodology, Writing - Review & Editing,
+      Supervision, Funding acquisition.” (p. 2)
 
-      2) “The learning material was designed as four lectures of 50 minutes ... We took
-      care in designing our study to prevent potentially confounding influences.” (p. 15)
+      2) “The learning material was designed as four lectures of 50
+      minutes in the form of a computer-assisted learning path.” (p. 5)
 
-      3) “We are grateful to ... for research assistance. ... We thank seminar
-      participants ... for valuable suggestions.” (p. 20)
+      3) “We took care in designing our study to prevent potentially
+      confounding influences.” (p. 15)
 
-      Analysis:
+      Detailed Analysis:
 
-      (1) Under I (Independent Conduct), the study team implementing and analyzing the
-      intervention should be independent from the developers/designers of the
-      intervention. In this paper, the same authors appear to have designed the program
-      (the learning path, random assignment process) and carried out the evaluation.
+      Criterion I requires the study to be conducted independently from
+      the intervention designers to reduce bias. The CRediT statement
+      clearly shows the authors (Iterbeke, De Witte, Schelfhout) were
+      responsible for conceptualization, methodology, investigation, and
+      analysis. They designed the learning material and the study
+      itself. There is no mention of an external or third-party team
+      conducting the implementation or evaluation. The acknowledgements
+      thank individuals for research assistance but not for independent
+      conduct of the trial.
 
-      (2) The text does not suggest that an external, third-party evaluator performed the
-      trial. Instead, the authors wrote the learning modules themselves, administered
-      them, and analyzed the results.
+      Criterion I (Independent Conduct) is not met because the same team
+      designed, implemented, and analyzed the intervention.
+  y:
+    met: false
+    explanation: >-
+      The intervention involved four 50-minute sessions and a four-week
+      follow-up, falling short of the required full academic year.
+    quote: >-
+      “Approximately four weeks after the lectures, students in the
+      treatment schools completed the second post-treatment test as a
+      homework assignment.” (p. 8)
+    analysis: >-
+      Relevant Quotes:
 
-      (3) This does not fulfill the independence requirement because the same research
-      group that created the content also tested it. Hence, I is not met.
+      1) “The learning material was designed as four lectures of 50
+      minutes in the form of a computer-assisted learning path.” (p. 5)
+
+      2) “Approximately four weeks after the lectures, students in the
+      treatment schools completed the second post-treatment test as a
+      homework assignment.” (p. 8)
+
+      3) “To measure the long-term impact, a second post-treatment test
+      was offered... and included similar financial proficiency questions
+      as the other two tests.” (p. 6)
+
+      Detailed Analysis:
+
+      Criterion Y requires outcome measurement at least one full academic
+      year (~9-10 months) after the intervention starts. The
+      intervention itself was brief (four 50-min sessions). While a
+      second post-test was administered "approximately four weeks after
+      the lectures" to measure "long-term impact", this four-week
+      follow-up is significantly shorter than a full academic year. The
+      paper does not mention any longer-term tracking.
+
+      Criterion Y (Year Duration) is not met as the follow-up measurement
+      occurred only about four weeks after the short intervention, not a
+      full year.
+  b:
+    met: false
+    explanation: >-
+      The control group did not receive the financial education program
+      or any comparable substitute, creating an imbalance in educational
+      time/resources.
+    quote: >-
+      “The control condition did not receive the financial education
+      program.” (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) “The control condition did not receive the financial education
+      program.” (p. 4)
+
+      2) “The learning material was designed as four lectures of 50
+      minutes in the form of a computer-assisted learning path.” (p. 5)
+
+      3) “Teachers in the control schools obtained the material after
+      their students took the pre- and first post-treatment test...” (p.
+      8)
+
+      Detailed Analysis:
+
+      Criterion B requires that if the intervention adds educational time
+      or resources, the control group must receive a comparable amount of
+      "business as usual" or alternative activities to ensure balance,
+      unless the extra resources are the explicit treatment variable. The
+      intervention involved four 50-minute sessions using a specific
+      computer-assisted program. The paper states the control group "did
+      not receive the financial education program" and teachers only got
+      materials afterward. There's no mention of the control group
+      receiving alternative activities or equivalent instructional time
+      during those 200 minutes. The intervention itself (adaptive
+      instruction/feedback) was the focus, not the provision of extra
+      time/resources per se. Therefore, the ~3.3 hours of specialized
+      instruction for the treatment groups were not balanced for the
+      control group.
+
+      Criterion B (Balanced Control Group) is not met because the
+      treatment group received ~200 minutes of specific instruction that
+      was not matched with equivalent time/resources for the control
+      group.
+  r:
+    met: false
+    explanation: >-
+      There is no mention in the paper or readily available external
+      evidence of an independent replication of this specific study.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      None mentioning replication were found in the paper. The authors
+      cite related literature but not independent replications of this
+      trial.
+
+      Detailed Analysis:
+
+      Criterion R requires the study's main findings to be independently
+      replicated by a different research team in a different context,
+      published in a peer-reviewed journal. The paper itself does not
+      cite any such replication. A quick check doesn't reveal obvious
+      published replications by independent teams focusing on this
+      specific intervention (adaptive instruction and elaborated
+      feedback in a computer-assisted financial literacy program for
+      Belgian 8th/9th graders with this design). While other studies
+      examine financial literacy or adaptive learning, they do not
+      constitute direct replications of this particular experiment.
+
+      Criterion R (Reproduced) is not met as there is no evidence of
+      independent replication.
+  a:
+    met: false
+    explanation: >-
+      The study only assessed financial proficiency (knowledge and
+      behavior) and did not use standardized exams for other core
+      subjects.
+    quote: >-
+      “Financial proficiency can be decomposed into financial knowledge
+      and financial behavior. We assessed financial knowledge by five
+      questions... We measured financial behavior by three questions...”
+      (p. 5-6)
+    analysis: >-
+      Relevant Quotes:
+
+      1) “Financial proficiency can be decomposed into financial
+      knowledge and financial behavior. We assessed financial knowledge
+      by five questions... We measured financial behavior by three
+      questions related to the reliability of information and saving
+      strategies.” (p. 5-6)
+
+      2) “...the present paper studied the effects of adaptive
+      instruction and elaborated feedback on the learning outcomes of
+      secondary school students in a financial education program.” (p.
+      2)
+
+      Detailed Analysis:
+
+      Criterion A requires assessment across all main subjects using
+      standardized exams, unless a focus on a specific area is justified.
+      Firstly, Criterion E (standardized exams) was not met, which
+      automatically means Criterion A cannot be met. Secondly, even if
+      standardized exams were used, the study focused exclusively on
+      "financial proficiency," broken down into "financial knowledge" and
+      "financial behavior". There is no mention of assessing outcomes in
+      other core subjects like mathematics, language, or science. The
+      context is financial education, a specific domain, not general
+      academic achievement across the curriculum.
+
+      Criterion A (All-subject Exams) is not met because standardized
+      exams were not used (Criterion E failed) and assessments were
+      limited to the single subject of financial literacy.
+  g:
+    met: false
+    explanation: >-
+      Follow-up was limited to approximately four weeks post-intervention;
+      there was no tracking until graduation.
+    quote: >-
+      “Approximately four weeks after the lectures, students in the
+      treatment schools completed the second post-treatment test as a
+      homework assignment.” (p. 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) “Approximately four weeks after the lectures, students in the
+      treatment schools completed the second post-treatment test as a
+      homework assignment.” (p. 8)
+
+      2) “To measure the long-term impact, a second post-treatment test
+      was offered...” (p. 6)
+
+      3) “Further, we find that also in the long term, this increase in
+      financial knowledge is retained by students, as shown in Table C.I
+      in Appendix C. Note, however, that we must interpret this finding
+      with caution due to the small and selective sample...” (p. 11)
+
+      Detailed Analysis:
+
+      Criterion G requires tracking participants until graduation from
+      their current educational stage. The study included a second
+      post-test administered about four weeks after the intervention to
+      measure "long-term impact". While the results suggest knowledge
+      retention at this point, this four-week follow-up does not
+      constitute tracking until graduation (end of secondary school for
+      these 8th/9th graders). There is no mention of any further,
+      longer-term data collection extending to graduation.
+
+      Criterion G (Graduation Tracking) is not met because the study's
+      follow-up period was only four weeks, not extending to graduation.
   p:
     met: false
     explanation: >-
-      The study was registered after the intervention and data collection were completed, 
-      which does not satisfy the criterion for pre-registering the protocol before data collection.
+      The study was registered in the AEA RCT Registry (AEARCTR-
+      0004431), but the registration occurred *after* the intervention
+      and data collection were completed.
     quote: >-
-      "Initial registration date: September 23, 2019"
+      “This work is registered in the AEA RCT Registry and the unique
+      identifying number is AEARCTR-0004431.” (Acknowledgements, p. 42)
     analysis: >-
-      Quotes:
+      Relevant Quotes:
 
-      1) "Intervention Start Date: September 17, 2018"
+      1) “This work is registered in the AEA RCT Registry and the unique
+      identifying number is AEARCTR-0004431.” (Acknowledgements, p. 42)
 
-      2) "Intervention End Date: January 31, 2019"
+      2) Timeline Figure I shows "Registration of schools" Jun-Aug,
+      "Randomisation to conditions" and "Pretest" in Sep-Oct,
+      "Intervention & posttest experimental conditions" Oct-Dec. (p. 8)
 
-      3) "Initial registration date: September 23, 2019"
-      
-      Analysis:
+      Detailed Analysis:
 
-      (1) The ERCT Standard requires that the study's protocol be publicly registered before data collection begins. 
-      In this case, the intervention and data collection were completed by January 31, 2019, but the study was 
-      registered on September 23, 2019.
+      Criterion P requires pre-registration of the study protocol before
+      data collection begins. The paper explicitly states it was
+      registered in the AEA RCT Registry with ID AEARCTR-0004431.
+      However, checking the registry (external information, but implied
+      by the quote) reveals the registration date (September 23, 2019)
+      was *after* the intervention period (Sep 2018 - Jan 2019) indicated
+      in the paper's timeline and the registry itself. Since
+      registration occurred after data collection started and ended,
+      criterion P is not met.
 
-      (2) Therefore, the criterion for a pre-registered protocol is not met.
+      Criterion P (Pre-registered) is not met because the registration
+      occurred after data collection was completed.
 ---

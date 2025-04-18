@@ -31,7 +31,7 @@ Tests interventions at the classroom level to prevent cross-group contamination
 Uses standardized exams for objective and comparable results
 
 #### Term Duration (T)
-Ensures studies last at least one academic term to measure meaningful impacts
+Ensures outcomes measured at least one term after intervention begins
 
 #### Documented Control Group (D)
 Requires detailed control group data for proper comparisons
@@ -141,27 +141,33 @@ apparent effectiveness. Standardised exams provide a more objective and comparab
 
 #### T - Term Duration
 
-- The intervention must last for at least one full academic term.
+- Outcomes must be measured at least one full academic term afterthe intervention begins.
 - A term is typically defined as a semester or equivalent (approximately 3-4 months).
-- Check for: Clear statement of intervention duration, dates, and alignment with academic calendar.
+- Check for: quote marking intervention start date, quote marking primary outcome measurement date, interval from start -> measurement >= one term.
 - Stronger one year-long intervention duration is required at Level 2.
 - If the study duration was year-long then this weaker term-duration criterion is considered met.
+- Some interventions are naturally short-term, we allow short interventions but insisting on term‑long follow‑up tracking.
 
 ##### Problem
 
-Many studies conduct a brief, two-week intervention and immediately measures outcomes. Short-term interventions may show temporary effects that don't persist, or miss delayed effects that take time to manifest. Ensuring at least a term-long intervention allows for more reliable assessment of the intervention's impact.
+Many studies conduct a brief, two-week intervention and immediately measures outcomes. Short-term interventions may show temporary effects that don't persist, or miss delayed effects that take time to manifest. Ensuring at least a term-long tracking since intervention start allows for more reliable assessment of the intervention's impact.
 
 ##### Procedure
 
-1. **Find Intervention Duration**
-- Identify quotes from the paper specifying the start and end dates or the duration of the intervention (e.g., "The program ran from September to December…").
+1. **Find Intervention Start Date**
+- Identify quotes from the paper specifying the start of the intervention (e.g., "The program ran from September to December…").
 
-2. **Assess Documentation Clarity**
-- Ensure that the quoted period covers at least one full academic term (or longer). 
-If the paper’s academic calendar is unclear, look for quotes describing what constitutes a term in that context.
+2. **Locate Measurement Date**
+- Find when outcomes were collected. In many situations it is in the end of the intervention, but not necessarily. Identify quotes from the paper specifying the measurement date (e.g., "The program ran from September to December…").
 
-3. **Decision**
-- Mark as “met” if the quoted duration is at least one full term. Mark as “not met” if the quoted duration is shorter than a term or not clearly stated.
+3. **Verify Interval**
+- Calculate the interval from intervention start to measurement date.
+
+4. **Assess Documentation Clarity**
+- Ensure that the quoted period covers at least one full academic term (or longer) from the intervention start date to the measurement date. If the paper’s academic calendar is unclear, look for quotes describing what constitutes a term in that context.
+
+5. **Decision**
+- Mark as “met” if the quoted interval is at least one full term. Mark as “not met” if the quoted interval is shorter than a term or not clearly stated.
 
 #### D - Documented Control Group
 
@@ -234,8 +240,9 @@ When the researchers or authors of an intervention conduct the study themselves,
 
 #### Y - Year Duration
 
-- The intervention must last for at least one full academic year.
-- Check for: Clear statement of intervention duration covering a full academic year, with specific start and end dates.
+- Outcomes must be measured at least one full academic year after the intervention begins, even if the intervention itself is shorter. 
+- A year is typically defined as the full academic cycle (~9–10 months) but can be different in different contexts, check the paper for more details.  
+- Check for: Clear statement of intervention tracking covering a full academic year, with specific start and end dates.
 - If this stronger Year Duration criterion is met then weaker "T - Term Duration" criterion is also considered as met.
 
 ##### Problem
@@ -247,14 +254,20 @@ intervention results while still practical as schools often are organised around
 
 ##### Procedure
 
-1. **Find Duration Information**
-- Identify quotes specifying the intervention period. For example: "The intervention was implemented from September 2020 to June 2021."
+1. **Find Intervention Start Date**
+- Identify quotes from the paper specifying the start of the intervention (e.g., "The program ran from September to December…").
 
-2. **Check Length Against a Year**
-- Verify from the quotes that it covers an entire academic year (generally ~9-10 months).
+2. **Locate Measurement Date**
+- Find when outcomes were collected. In many situations it is in the end of the intervention, but not necessarily. Identify quotes from the paper specifying the measurement date (e.g., "The program ran from September to December…").
 
-3. **Decision**
-- Mark as "met" if the quoted duration spans a full academic year. Mark as "not met" if quotes indicate a shorter duration.
+3. **Verify Interval**
+- Calculate the interval from intervention start to measurement date.
+
+4. **Check Length Against a Year**
+- Verify from the quotes that the tracking interval covers an entire academic year (generally ~9-10 months). Academic year definition can be different in different contexts, check the paper for more details.
+
+5. **Decision**
+- Mark as "met" if the quoted interval spans a full academic year. Mark as "not met" if quotes indicate a shorter duration.
 
 #### B - Balanced Control Group
 

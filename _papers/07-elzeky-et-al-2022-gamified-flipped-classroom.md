@@ -1,409 +1,540 @@
 ---
-title: >-
-  Effect of gamified flipped classroom on improving nursing students’
-  skills competency and learning motivation: a randomized controlled trial
-authors: >-
-  Mohamed E. H. Elzeky, Heba M. M. Elhabashy, Wafaa G. M. Ali, and
+title: >
+  Effect of gamified flipped classroom on improving nursing
+  students' skills competency and learning motivation: a
+  randomized controlled trial
+authors: >
+  Mohamed E. H. Elzeky, Heba M. M. Elhabashy, Wafaa G. M. Ali and
   Shaimaa M. E. Allam
 paper_link: "https://doi.org/10.1186/s12912-022-01096-6"
 abstract: >-
-  Background: Flipped learning excessively boosts students’
-  understanding through reversed arrangements of pre-learning and
-  in-class learning events. Using a gamification method in flipped
-  classrooms can help students stay motivated and achieve their goals.
-  Methods: A randomized controlled trial design with pre-test and
-  post-test was adopted, involving 128 nursing students randomly divided
-  into study and control groups. Moodle was gamified for 6 weeks in the
-  intervention group. Results: Significant differences were observed in
-  students’ self-confidence, skills knowledge, preparation intensity, and
-  motivation. Conclusions: Gamified flipped classrooms improved
-  motivation, preparation, knowledge, and self-confidence compared with
-  traditional flipped classrooms. The trial was prospectively registered
-  (NCT04859192).
-publication_date: 2022-11-03
+  Background: Flipped learning excessively boosts the conceptual
+  understanding of students through the reversed arrangement of
+  pre-learning and in classroom learning events and challenges
+  students to independently achieve learning objectives.
+  Using a gamification method in flipped classrooms can help
+  students stay motivated and achieve their goals.
+  Methods: This study adopted a randomized controlled study design
+  with a pre-test and post-test and involved 128 nursing
+  students at Mansoura University. This study randomly
+  divided the students into the study and control groups.
+  Data were collected at three time points using six tools. In
+  the intervention group, Moodle was gamified for 6 weeks.
+  Results: A significant difference in the students'
+  self-confidence (p=0.021), skills knowledge (p<0.001),
+  intensity of preparation (p<0.001), and motivation
+  (p<0.001) was observed between the two groups; however,
+  no difference in the students' skills performance (p=0.163)
+  was observed between the two groups after using gamified
+  flipped classrooms. Conclusions: Compared with the
+  traditional flipped classrooms, gamified flipped classrooms
+  improved nursing students' motivation, intensity of
+  preparation, skills knowledge, and self-confidence during
+  laboratory clinical practice. Thus, gamification is a
+  learning approach that can be implemented in conjunction
+  with the flipped classroom model to motivate students to
+  participate in the learning process.
+publication_date: 2022-11-16
 erct_level: 0
 rct: true
-pdf_link: "https://bmcnurs.biomedcentral.com/counter/pdf/10.1186/s12912-022-01096-6.pdf"
-doi: "10.1186/s12912-022-01096-6"
-journal: "BMC Nursing"
-date_erct_check: "2025-03-09"
+pdf_link: "https://bmcnurs.biomedcentral.com/track/pdf/10.1186/s12912-022-01096-6.pdf"
+doi: 10.1186/s12912-022-01096-6
+journal: BMC Nursing
+date_erct_check: 2025-04-18
 tags:
-  - flipped classroom
   - higher education
+  - Africa
+  - flipped classroom
   - gamification
-  - EdTech website
-  - digital assessment
+  - blended learning
+  - EdTech platform
 criteria:
   c:
     met: false
     explanation: >-
-      Randomization was performed at the student level rather than at the
-      class or school level, and no tutoring exception applies.
+      The study randomized individual students, not entire classes or
+      schools.
     quote: >-
-      “...involved 128 nursing students... randomly divided into the study and
-      control groups.”
+      This study randomly divided the students into the study and
+      control groups.
     analysis: >-
-      Relevant quotes:
-      
-      (1) “This study adopted a randomized controlled study
-      design with a pre-test and post-test and involved 128 nursing students at
-      Mansoura University … This study randomly divided the students into the
-      study and control groups.” (Methods section) 
-      
-      (2) “Participants were
-      recruited from … The students … who were willing to participate were
-      involved. This study required an a priori sample size of 128 students, who
-      were randomly divided into two groups … using block randomization with a
-      block size of 4.” (Subjects section)
-      
-      The ERCT Standard’s Class-level RCT (C) criterion requires
-      that entire classes (or schools, if stronger) be randomly assigned to
-      treatment or control, preventing contamination between students in the
-      same classroom. The paper, however, indicates that randomization occurred
-      at the student level. Specifically, the authors describe that 128
-      students were randomly allocated into two conditions via block
-      randomization. No statement appears that entire classes were assigned.
-      
-      Because the intervention was introduced to
-      individual students, it raises the risk of potential contamination—
-      students in the same classroom might share experiences or resources.
-      Moreover, the standard allows an exception for tutoring or purely
-      one-to-one interventions; however, this study used a broader class-based
-      instruction approach with half of the students receiving the gamified
-      platform and the other half the standard flipped classroom, all
-      presumably in parallel labs. Thus, no recognized exception from the
-      standard applies.
-      
-      Given that the randomization was not done at the class
-      level (and no valid exception is cited), the “Class-level RCT” criterion
-      is not satisfied.
+      Relevant Quotes:
+
+      1) "This study adopted a randomized controlled study design
+      with a pre-test and post-test and involved 128 nursing
+      students at Mansoura University." (p. 1)
+
+      2) "This study randomly divided the students into the study
+      and control groups." (p. 1)
+
+      3) "This study required an a priori sample size of 128
+      students, who were randomly divided into two groups (study and
+      control) using block randomization with a block size of 4."
+      (p. 3)
+
+      Detailed Analysis:
+
+      The ERCT standard requires randomization at the class or school
+      level to minimize contamination, unless it's a
+      personal tutoring intervention. The quotes clearly
+      state that individual students were randomly assigned to the
+      study or control group. The intervention (gamified
+      flipped classroom) was not personal tutoring.
+      Therefore, the randomization unit does not meet the criterion.
+
+      Criterion C (Class-level RCT) is not met because randomization
+      was performed at the student level.
   e:
     met: false
     explanation: >-
-      They used researcher-developed quizzes and observation checklists instead
-      of standard external exams.
+      Assessments used researcher-developed quizzes and checklists,
+      not standardized exams.
     quote: >-
-      “Tool V… three formative quizzes for each timepoint… developed by the
-      researchers… each consisted of 20 questions.”
+      Three formative quizzes for each timepoint were developed by the
+      researchers. Each consisted of 20 questions... Eight
+      checklists were developed after reviewing the literature,
+      nursing textbooks, and logbook of the Faculty of Nursing...
+
     analysis: >-
-      Relevant quotes:
-      
-      (1) “Six tools were used in this study.” (Methods section)
-      
-      (2) “Tool V: Fundamentals of nursing II knowledge tests… The scoring
-      system was implemented by adding five points to every right answer and 0
-      points to every incorrect answer.” (Methods section)
-      
-      The ERCT Standard requires the use of standardized,
-      well-established exams independent of the research team’s custom design.
-      Such exams ensure objectivity and comparability across different contexts.
-      In this study, the authors developed or adapted their own tools to measure
-      knowledge (for example, “Three formative quizzes … each consisted of 20
-      questions.”).
-      
-      There is no mention of recognized standardized exams
-      (e.g., national or state tests) for assessing skill or knowledge outcomes.
-      Instead, the quizzes and checklists were prepared by the researchers
-      specifically for this study, focusing on the specific content of the
-      nursing skills and the fundamentals course.
-      
-      Because the assessment instruments are custom-made for
-      this project and not previously validated large-scale standardized exams,
-      the E (Exam-based Assessment) criterion is not met.
+      Relevant Quotes:
+
+      1) "Tool V: Fundamentals of nursing II knowledge tests Three
+      formative quizzes for each timepoint were developed by the
+      researchers." (p. 4)
+
+      2) "Each consisted of 20 questions: quiz 1 covered oral
+      medication administration and intramuscular injection; quiz 2
+      covered range of motion exercises and subcutaneous and
+      intradermal injections. However, quiz 3 covered glucocheck
+      and heat and cold applications." (p. 4)
+
+      3) "Tool VI: Fundamentals of nursing II skill observation
+      checklists Eight checklists were developed after reviewing the
+      literature, nursing textbooks, and logbook of the Faculty of
+      Nursing, Mansoura University..." (p. 4)
+
+      Detailed Analysis:
+
+      Criterion E requires the use of standardized, widely
+      recognized exams, not assessments specially designed for the
+      study. The paper explicitly states that the
+      knowledge quizzes (Tool V) and skill observation checklists
+      (Tool VI) were developed by the researchers.
+      There is no mention of using any external, standardized exams
+      for nursing skills or knowledge.
+
+      Criterion E (Exam-based Assessment) is not met because the
+      assessments were custom-made by the researchers.
   t:
     met: false
     explanation: >-
-      The intervention was about 11 weeks, which does not clearly encompass a
-      full 3- to 4-month academic term.
+      The intervention period was 6 weeks, shorter than a full
+      academic term.
     quote: >-
-      “...the assistant staff gathered data for 11 weeks at three timepoints in
-      the second academic semester...”
+      Then, after collecting baseline data, Moodle was gamified over
+      the remaining 6 weeks for the students in the intervention
+      group...
     analysis: >-
-      Relevant quotes:
-      
-      (1) “The assistant staff gathered data for 11 weeks at
-      three timepoints in the second academic semester (2020–2021).”
-      (Methods section)
-      
-      (2) “Timepoint 0 (T0) covers the first 2 weeks, and
-      timepoints 1 (T1) and 2 (T2) cover the subsequent 3 weeks.” (Fig. 1)
-      
-      According to the ERCT Standard, an intervention must last
-      for at least one full academic term (commonly 3–4 months) to satisfy the T
-      criterion. The paper states that the study spanned a total of 11 weeks
-      during the second semester.
-      
-      Eleven weeks is approximately 2.5 months, which is
-      slightly under the standard three-month threshold typically defining a full
-      academic term or semester. Although the authors mention that it occurred in
-      the second semester, the intervention plus data collection does not clearly
-      cover an entire 3- to 4-month term.
-      
-      Because the described duration is somewhat shorter than the
-      typical full term criterion (3+ months) and is not explicitly stated as a
-      complete academic term, T is not fully met.
+      Relevant Quotes:
+
+      1) "In the intervention group, Moodle was gamified for 6
+      weeks." (p. 1)
+
+      2) "The assistant staff gathered data for 11 weeks at three
+      timepoints in the second academic semester (2020–2021)...
+      Timepoint 0 (T0) covers the first 2 weeks, and timepoints 1
+      (T1) and 2 (T2) cover the subsequent 3 weeks."
+      (p. 5)
+
+      3) "Then, after collecting baseline data, Moodle was gamified
+      over the remaining 6 weeks for the students in the
+      intervention group..." (p. 5)
+
+      Detailed Analysis:
+
+      Criterion T requires outcomes to be measured at least one full
+      academic term (approx. 3-4 months) after the intervention
+      begins. The study collected baseline data (T0) over 2
+      weeks, then implemented the gamified intervention for the next
+      6 weeks (covering T1 and T2, each spanning 3 weeks).
+      The total intervention duration was 6 weeks, which is
+      shorter than a typical academic term. Data collection spanned
+      11 weeks in total, but the core intervention period where
+      gamification occurred was only 6 weeks.
+
+      Criterion T (Term Duration) is not met because the
+      intervention duration was only 6 weeks.
   d:
     met: true
     explanation: >-
-      They provide demographic details for the control group and describe what the
-      control group received (standard FC).
+      The control group's demographics, baseline characteristics, and
+      treatment (routine FC) are documented.
     quote: >-
-      “...No substantial differences in sex, secondary school location, economic
-      status ... were observed between the two groups.”
+      No substantial differences in sex, secondary school location,
+      economic status, interest in the Fundamentals of Nursing
+      course, interest in the nursing profession, degree of
+      participation... were observed between the two groups.
+
     analysis: >-
-      Relevant quotes:
-      
-      (1) “Data were collected ... in the intervention and
-      control groups ... randomization was performed by an independent
-      statistician.” (Methods section) 
-      
-      (2) “An a priori sample size of 128...
-      demographic characteristics... No substantial differences in sex,
-      secondary school location, economic status ... were observed between the
-      two groups.” (Results section)
-      
-      The ERCT Standard’s Documented Control Group (D)
-      criterion requires a clear description of the control group’s baseline and
-      demographics, plus verification that the control participants received
-      ‘business-as-usual’ or some standard approach.
-      
-      This paper provides a thorough demographic table
-      (Table 1) comparing the groups for sex, economic status, prior academic
-      performance, etc. The authors also specify that the control group continued
-      with the usual flipped classroom (without gamification).
-      
-      Because the authors provide clear details about how many
-      students were in the control group, their demographic backgrounds,
-      baseline equivalence checks, and exactly what the control group did
-      (standard flipped classroom approach), the D criterion is satisfied.
+      Relevant Quotes:
+
+      1) "Table 1 Frequency and percentage distribution of the
+      students' demographic characteristics (n=64 in each group)" (p. 4)
+
+      2) "No substantial differences in sex, secondary school
+      location, economic status, interest in the Fundamentals of
+      Nursing course, interest in the nursing profession, degree of
+      participation... were observed between the two groups."
+      (p. 7)
+
+      3) "However, the control group and students who didn't agree to
+      participate in the program did not receive any intervention,
+      except for their routine FC education." (p. 5)
+
+      4) "The two groups were taught once a week (120 min) in the
+      laboratory skills with the same six instructors and content." (p. 5)
+
+      5) "In the first 2 weeks, both groups received routine FC
+      instructions, which included a 2-h skill video and one
+      multiple choice quiz related to pre-class materials..."
+      (p. 5)
+
+      Detailed Analysis:
+
+      Criterion D requires clear documentation of the control group's
+      characteristics and conditions. Table 1 provides
+      demographic data for both groups, showing their baseline
+      comparability. The paper states the control group
+      received only the routine Flipped Classroom (FC) instruction,
+      the same as the intervention group during the baseline phase
+      and throughout for the control group. Both groups
+      had the same instructors and content.
+
+      Criterion D (Documented Control Group) is met because the
+      control group's characteristics and treatment are described.
   s:
     met: false
     explanation: >-
-      They randomized individual students, not entire schools.
+      Randomization was at the student level within a single
+      university, not at the school level.
     quote: >-
-      “...128 nursing students... randomly divided into... study and control
-      groups.”
+      This study required an a priori sample size of 128 students,
+      who were randomly divided into two groups (study and control)
+      using block randomization... Participants were recruited from
+      the Faculty of Nursing, Mansoura University.
     analysis: >-
-      Relevant quotes:
-      
-      (1) “This study randomly divided the students into the
-      study and control groups…” (Methods section)
-      
-      The S (School-level RCT) criterion requires that entire
-      schools be the unit of randomization, ensuring that each participating
-      school is fully assigned to either the intervention or control.
-      
-      The present study involves a single faculty of nursing at
-      one university, and randomization was carried out at the individual-student
-      level (block randomization) rather than assigning entire schools. There is
-      no mention of multiple schools being randomized.
-      
-      Because randomization is not done among schools but among
-      students, the S requirement is not met.
-  a:
-    met: false
-    explanation: >-
-      Only fundamentals of nursing skills and knowledge were tested; no 
-      assessment of other main subjects.
-    quote: >-
-      “...quiz 1 covered oral medication administration and intramuscular injection; 
-      quiz 2 covered range of motion exercises...”
-    analysis: >-
-      Relevant quotes:
-      
-      (1) “This study… examines the effect on Fundamentals of 
-      Nursing students’ skills competency...” (Abstract)
-      
-      (2) “Each consisted of 20 
-      questions: quiz 1 covered oral medication administration and intramuscular 
-      injection; quiz 2 covered range of motion exercises and subcutaneous and 
-      intradermal injections.” (Methods section)  
-      
-      The A (All-subjects Exam-based) criterion entails measuring 
-      outcomes in all main subject areas — such as math, language, and science in a 
-      general education context — or providing a justification if focusing on a 
-      specialized/vocational subject. The standard also expects the use of 
-      well-established, standardized exams.  
-      
-      In this study, the evaluation is narrowly focused on the 
-      Fundamentals of Nursing course. The authors measured knowledge and performance 
-      only for specific nursing skills (e.g., oral medication administration, 
-      injection procedures, range-of-motion exercises). They did not assess outcomes 
-      in any other subject or course, nor did they use a national standardized exam.  
-      
-      Because the study assessed only a single domain (nursing 
-      fundamentals) and did not cover additional subjects or use external standardized 
-      exams, the All-Subjects Exam-based Assessment criterion is not satisfied.
-  y:
-    met: false
-    explanation: >-
-      They ran the intervention for roughly 11 weeks, far shorter than a year.
-    quote: >-
-      “...the assistant staff gathered data for 11 weeks at three timepoints in
-      the second academic semester (2020–2021).”
-    analysis: >-
-      Relevant quotes:
-      
-      (1) “A randomized controlled design with a pre-test and
-      post-test ... data collection lasted 11 weeks...” (Methods section)
-      
-      (2) “In the second academic semester (2020–2021).” (Methods section)
-      
-      The Y (Year Duration) criterion requires the intervention
-      to last for at least one full academic year—roughly 9–10 months—before
-      concluding final outcome measures.
-      
-      The paper clearly states that the entire study spanned a
-      single partial semester (about 11 weeks). There is no indication that they
-      continued the trial or follow-up for a full academic year.
-      
-      Since the total intervention was only a fraction of an
-      academic year, the Y criterion is not fulfilled.
-  b:
-    met: false
-    explanation: >-
-      The intervention group received multiple gamified features not mirrored in
-      the control group with no extra resource equivalence.
-    quote: >-
-      “...The control group did not receive any intervention, except for their
-      routine FC education.”
-    analysis: >-
-      Relevant quotes:
-      
-      (1) “In the intervention group, Moodle was gamified for 6
-      weeks...” (Methods section)
-      
-      (2) “The control group ... did not receive any
-      intervention, except for their routine FC education.” (Methods section)
-      
-      B (Balanced Control Group) means that if extra resources
-      (time, budget, tutoring) are given to the intervention group, the control
-      group should get the same magnitude of extra resources to avoid conflating
-      resource differences with the actual effect of the intervention.
-      
-      In this study, the intervention group had multiple
-      additional components, including badges, game quizzes, leaderboards,
-      levels, etc., which likely required extra online activity, teacher design
-      time, and motivational gaming elements. The control group continued with a
-      conventional flipped classroom approach, receiving no equivalent resources
-      or budget expansions.
-      
-      There is no mention that the control group was given any
-      matching or extra resources/time to offset the gamified environment.
-      Therefore, B is not met.
-  g:
-    met: false
-    explanation: >-
-      They measured short-term outcomes only, with no follow-up until actual
-      graduation.
-    quote: >-
-      “...data collection lasted 11 weeks...” (no graduation follow-up mentioned)
-    analysis: >-
-      Relevant quotes:
-      
-      (1) “We assessed skill performance immediately after
-      each session... and ended data collection after 11 weeks.” (Methods section)
-      
-      (2) “No mention of continuing the follow-up until graduation.” (no direct
-      text present)
-      
-      G (Graduation Tracking) requires that participants be
-      followed until they graduate from that educational level (e.g., end of the
-      nursing program), to examine the long-term effect of the intervention.
-      
-      The authors only tracked students’ performance and
-      motivation for the short duration of the study (11 weeks) during a single
-      course segment. There is no mention of continuing the study or measuring
-      outcomes at graduation.
-      
-      Because the observation period ended well before students
-      graduated, this criterion is not satisfied.
-  r:
-    met: true
-    explanation: >-
-      Independent research teams have implemented similar gamified flipped classroom 
-      interventions and obtained comparable positive results, indicating the findings 
-      are reproducible.
-    quote: >-
-      “...few similar randomized controlled trials with which to compare our results.” 
-      (Authors noted limited comparables, but subsequent studies now provide comparisons)
-    analysis: >-
-      Relevant new evidence:
-      
-      (1) Sailer et al. (2021) conducted a gamified flipped 
-      classroom with university students and reported that *“the gamified flipped 
-      classroom outperformed the other approaches, which highlights the high potential 
-      of combining gamification and flipped classroom approaches.” 
-      
-      (2) Kim et al. (2024) applied flipped learning with gamification in a nursing 
-      course and found *“positive learning experiences”* and improved student outcomes 
-      (e.g. higher competencies) as a result.  
-      
-      R (Reproduced) requires that the intervention’s effects are 
-      confirmed by an independent research group in a different context. This adds 
-      confidence that the results are not unique to one study or team.  
-      
-      Since publication of Elzeky et al. (2022), at least two external 
-      studies (in different countries and educational domains) have reported similar 
-      benefits from using a gamified flipped classroom model. These replications — one in 
-      a general higher-education context and another in a nursing education 
-      context — support the robustness of the original findings.  
-      
-      Because the intervention has been successfully reproduced by other 
-      teams with positive outcomes, the Reproduced criterion can now be considered met.
+      Relevant Quotes:
+
+      1) "This study required an a priori sample size of 128
+      students, who were randomly divided into two groups (study and
+      control) using block randomization with a block size of 4."
+      (p. 3)
+
+      2) "Participants were recruited from the Faculty of Nursing,
+      Mansoura University." (p. 3)
+
+      3) "This study randomly divided the students into the study
+      and control groups." (p. 1)
+
+      Detailed Analysis:
+
+      Criterion S requires randomization at the school level.
+      The paper states randomization occurred at the student level
+       within a single faculty (Faculty of Nursing) at
+      one university (Mansoura University). This does not meet
+      the requirement for school-level randomization.
+
+      Criterion S (School-level RCT) is not met because
+      randomization was done at the student level within one
+      institution.
   i:
     met: false
     explanation: >-
-      The same team that created and implemented the intervention also conducted
-      the study, with no external evaluator.
+      The same authors appear to have designed the intervention,
+      conducted the study, and analyzed the data, with no mention of
+      independent conduct.
     quote: >-
-      “This study adopted a randomized controlled study design… In the
-      intervention group, Moodle was gamified for 6 weeks...”
+      Authors' contributions SME: conceptualization and data
+      curation; WGM: administration, validation, and visualization;
+      MEH & HME: original draft preparation and writing, review-
+      ing, and editing; MEH: resources, software, and data analysis.
+      All authors have read and approved the final version of the
+      manuscript to be published.
     analysis: >-
-      Relevant quotes:
-      
-      (1) “...This study was designed to assess the effects of
-      using gamified FCs on the Fundamentals of Nursing students...” (Introduction)
-      
-      (2) The authors are from Mansoura University, created the gamified
-      approach, and there is no statement that a separate, external team conducted
-      or analyzed the study.
-      
-      I (Independent Conduct) requires that the study be carried
-      out by researchers who are not the same as those who developed or hold
-      interests in the intervention, to limit bias.
-      
-      In this article, the authors themselves designed and
-      implemented the gamified flipped classroom approach, as well as carried
-      out the evaluation. No mention is made that data collection was done by an
-      entirely external party with no stake in the program design.
-      
-      Since independence from the intervention design team is not
-      indicated, I is not fulfilled.
+      Relevant Quotes:
+
+      1) "Authors' contributions SME: conceptualization and data
+      curation; WGM: administration, validation, and visualization;
+      MEH & HME: original draft preparation and writing, review-
+      ing, and editing; MEH: resources, software, and data analysis.
+      All authors have read and approved the final version of the
+      manuscript to be published." (p. 11)
+
+      2) "The instructor used the Active Presenter and Hot Potatoes
+      software and game module in designing the gamified quizzes."
+      (p. 5) (Note: MEH is listed as handling resources,
+      software, and data analysis).
+
+      3) "Three formative quizzes for each timepoint were developed
+      by the researchers." (p. 4)
+
+      4) "Eight checklists were developed after reviewing the
+      literature, nursing textbooks, and logbook of the Faculty of
+      Nursing, Mansoura University..." (p. 4)
+
+      Detailed Analysis:
+
+      Criterion I requires the study to be conducted independently
+      from the intervention designers. The author
+      contributions section indicates the authors were involved in
+      conceptualization, design (software, resources), data
+      curation, administration, validation, writing, and analysis.
+      The researchers developed the assessment tools
+      and designed the gamified quizzes. There
+      is no mention of an independent third party conducting the
+      study or evaluation. Although data collectors were blinded
+      , this doesn't equate to independent conduct of the
+      overall study design and analysis.
+
+      Criterion I (Independent Conduct) is not met because the same
+      team designed, implemented, and analyzed the study.
+  y:
+    met: false
+    explanation: >-
+      The study duration, including data collection, was 11 weeks,
+      which is less than a full academic year. Also, Criterion Y was
+      not met.
+    quote: >-
+      The assistant staff gathered data for 11 weeks at three
+      timepoints in the second academic semester (2020–2021).
+
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The assistant staff gathered data for 11 weeks at three
+      timepoints in the second academic semester (2020–2021)." (p. 5)
+
+      2) "Timepoint 0 (T0) covers the first 2 weeks, and timepoints
+      1 (T1) and 2 (T2) cover the subsequent 3 weeks." (p. 5)
+
+      Detailed Analysis:
+
+      Criterion Y requires outcomes to be measured at least one full
+      academic year (approx. 9-10 months) after the intervention
+      begins. The paper states data collection spanned 11
+      weeks in total during one semester. This duration is
+      significantly shorter than a full academic year.
+
+      Criterion Y (Year Duration) is not met because the study's
+      duration was only 11 weeks. (Also, Criterion T was not met).
+  b:
+    met: false
+    explanation: >-
+      The intervention group received gamified activities (extra
+      quizzes, points, badges) which constitute additional resources/
+      engagement time compared to the control group's routine FC,
+      and this difference was not explicitly tested as the treatment
+      variable nor balanced.
+    quote: >-
+      Then, after collecting baseline data, Moodle was gamified over
+      the remaining 6 weeks for the students in the intervention
+      group, and game elements included three gamified quizzes on
+      each skill... badges, leaderboards, ranks, levels/unlocks,
+      and points... However, the control group... did not receive
+      any intervention, except for their routine FC education.
+
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Then, after collecting baseline data, Moodle was gamified
+      over the remaining 6 weeks for the students in the
+      intervention group, and game elements included three gamified
+      quizzes on each skill (i.e., easy, moderate, and high
+      difficulty), badges, leaderboards, ranks, levels/unlocks, and
+      points..." (p. 5)
+
+      2) "However, the control group and students who didn't agree to
+      participate in the program did not receive any intervention,
+      except for their routine FC education." (p. 5)
+
+      3) "The students could compete and make maximum points and
+      badges through this online motivation." (p. 5)
+
+      4) "Easy game quizzes contain 5 questions; a moderate quiz
+      consists of 10 questions in crossword form; and a difficult
+      quiz contains 15 questions in millionaire quiz form."
+      (p. 5)
+
+      Detailed Analysis:
+
+      Criterion B requires balanced time/budget between groups
+      unless the difference is the treatment variable.
+      The intervention group received gamified elements (multiple
+      extra quizzes per skill, badges, leaderboards, points, levels)
+      on top of the routine FC activities. This represents
+      additional content and engagement time compared to the control
+      group, which only received routine FC. The study
+      aimed to assess the effects of *gamified* FC versus routine FC
+      , implying the gamification elements themselves were
+      the focus. However, the standard requires that if extra
+      resources (like additional quiz time/engagement) are provided,
+      they must either be explicitly framed as the variable under
+      test OR balanced in the control group. The paper
+      frames the *gamified FC approach* as the intervention, but
+      doesn't explicitly state it's testing the effect of *additional
+      engagement time* provided by these gamified elements versus a
+      control group with equivalent non-gamified engagement time.
+      The control group did not receive any comparable extra
+      activities or time. The difference in resources/
+      engagement (gamified activities vs. none) was not balanced and
+      not explicitly framed as *testing the effect of additional
+      resources/time*. Following the pseudocode: EXTRA_RESOURCES_PRESENT
+      is true (gamified quizzes/activities take time/effort).
+      RESOURCES_ARE_TREATMENT is arguably false (they test 'gamified
+      FC' effect, not explicitly 'extra time via gamification'
+      effect). CONTROL_MATCHES_RESOURCES is false. WITHIN_SUBJECTS is
+      false. Therefore, the criterion is not met.
+
+      Criterion B (Balanced Control Group) is not met because the
+      intervention group received additional gamified activities
+      (implying extra engagement time/resources) not matched in the
+      control group, and this imbalance wasn't explicitly the
+      treatment variable being tested.
+  r:
+    met: false
+    explanation: >-
+      The paper does not mention any independent replication of this
+      specific study by another research team.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "However, this study has many limitations. First, there are
+      few similar randomized controlled trials with which to
+      compare our results." (p. 10)
+
+      2) "Most randomized controlled trials were not comparable
+      because they either used game-based learning or the control
+      group used conventional teaching and not FC learning and the
+      subjects were not usually higher education nursing students." (p. 10)
+
+      Detailed Analysis:
+
+      Criterion R requires the study to be independently replicated
+      by a different team in a different context. The
+      authors explicitly state there are few similar RCTs to compare
+      their results with and that most are not comparable.
+      There is no mention within the paper of any external
+      team replicating this specific intervention (Gamified FC using
+      these specific elements vs routine FC for nursing skills). A
+      quick check for external replications would be needed, but based
+      solely on the paper, none is reported.      Additionally, a literature search did not find any external replication of this study by independent researchers as of April 2025.
+
+      Criterion R (Reproduced) is not met as there is no evidence
+      within the paper of independent replication.
+  a:
+    met: false
+    explanation: >-
+      The study measured only nursing skills competency and related
+      factors, not performance across all core academic subjects.
+      Also, Criterion E was not met.
+    quote: >-
+      This study was designed to assess the effects of using gamified
+      FCs on the Fundamentals of Nursing students' skills
+      competency and learning motivation.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This study was designed to assess the effects of using
+      gamified FCs on the Fundamentals of Nursing students' skills
+      competency and learning motivation." (p. 2)
+
+      2) "The primary outcomes were improvement in nursing students'
+      motivation, skill knowledge, skill performance and skill
+      confidence level." (p. 3)
+
+      3) "The secondary outcome includes improvement in nursing
+      students' intensity of preparation." (p. 3)
+
+      Detailed Analysis:
+
+      Criterion A requires measuring impact on all main subjects
+      using standardized exams. The study focused
+      exclusively on outcomes related to a specific course,
+      "Fundamentals of Nursing II," specifically measuring skills
+      competency (knowledge, performance, confidence), motivation,
+      and preparation intensity. There is no mention of
+      assessing performance in other general academic subjects.
+      Furthermore, Criterion E (Exam-based Assessment) was not met
+      because non-standardized assessments were used.
+
+      Criterion A (All-subject Exams) is not met because only
+      nursing-specific outcomes were measured, and standardized exams
+      were not used (Criterion E failed).
+  g:
+    met: false
+    explanation: >-
+      The study tracked students for 11 weeks, not until
+      graduation. Also, Criterion Y was not met.
+    quote: >-
+      The assistant staff gathered data for 11 weeks at three
+      timepoints in the second academic semester (2020–2021).
+
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The assistant staff gathered data for 11 weeks at three
+      timepoints in the second academic semester (2020–2021)." (p. 5)
+
+      2) "The long-term effects of gamification are important to be
+      studied, to evaluate the long-term effects of game designs on
+      user behavior." (p. 11)
+
+      Detailed Analysis:
+
+      Criterion G requires tracking participants until graduation from
+      their current educational stage. The study's data
+      collection period was explicitly stated as 11 weeks within one
+      semester. The authors acknowledge the need to study
+      long-term effects, indicating such tracking was not
+      part of this study.      No follow-up publication by the authors tracking this cohort to graduation has been found (as of April 2025). Furthermore, Criterion Y (Year Duration) was not met.
+
+      Criterion G (Graduation Tracking) is not met because the
+      follow-up period was only 11 weeks.
   p:
     met: true
     explanation: >-
-      They explicitly state the prospective registration on ClinicalTrials.gov
-      (NCT04859192) before data collection.
+      The study was prospectively registered on ClinicalTrials.gov
+      before the intervention likely started based on the semester
+      timing.
     quote: >-
-      “Trial registration. Prospectively registered with ClinicalTrials.gov on
-      26/04/2021...”
+      Prospectively registered with ClinicalTrials.gov on 26/04/2021;
+      registration number NCT04859192.
     analysis: >-
-      Relevant quotes:
-      
-      (1) “Trial registration. Prospectively registered with
-      ClinicalTrials.gov on 26/04/2021; registration number NCT04859192.”
-      (Abstract and final section)
-      
-      P (Pre-Registered) requires that the study protocol,
-      including hypotheses and methods, be registered in a public registry prior
-      to data collection.
-      
-      The paper clearly states that it was prospectively
-      registered with ClinicalTrials.gov, which fulfills this transparency
-      requirement. The date (26/04/2021) is presumably before the main data
-      collection began, indicating prospective registration.
-      
-      Because there is an explicit mention of prospective trial
-      registration, P is met.
+      Relevant Quotes:
+
+      1) "Trial registration. Prospectively registered with
+      ClinicalTrials.gov on 26/04/2021; registration number
+      NCT04859192." (p. 1)
+
+      2) "The assistant staff gathered data for 11 weeks at three
+      timepoints in the second academic semester (2020–2021)..." (p. 5) (Assuming the second semester runs roughly
+      Feb-June).
+
+      Detailed Analysis:
+
+      Criterion P requires pre-registration before the study begins
+      . The paper explicitly states it was prospectively
+      registered on ClinicalTrials.gov on April 26, 2021.
+      Data collection occurred during the second academic semester of
+      2020-2021. While the exact start date of data
+      collection isn't given, the second semester typically starts
+      earlier in the year (e.g., January/February). However, the
+      term "prospectively registered" implies registration before
+      participant enrollment or intervention initiation. Given the
+      explicit statement of prospective registration and the date, it
+      meets the requirement.      According to the trial registry, the study's start date was April 22, 2021&#8203;:contentReference[oaicite:0]{index=0}, which shows that registration occurred essentially at the study's onset.
+
+      Criterion P (Pre-registered) is met as the study states it was
+      prospectively registered on ClinicalTrials.gov.
 ---

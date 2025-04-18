@@ -1,278 +1,315 @@
 ---
 title: >-
-  Does Computer-Assisted Learning Improve Learning Outcomes? Evidence from a
-  Randomized Experiment in Migrant Schools in Beijing
-authors: "Fang Lai, Renfu Luo, Linxiu Zhang, Xinzhe Huang, Scott Rozelle"
-paper_link: "https://doi.org/10.1016/j.econedurev.2015.03.005"
+  Does computer-assisted learning improve learning outcomes? Evidence from a
+  randomized experiment in migrant schools in Beijing
+authors: >-
+  Fang Lai, Renfu Luo, Linxiu Zhang, Xinzhe Huang, Scott Rozelle
+paper_link: https://doi.org/10.1016/j.econedurev.2015.03.005
 abstract: >-
-  Using a randomized field experiment in 43 migrant schools in Beijing, this paper
-  examines the impact of a computer-assisted learning (CAL) program on math
-  performance and other outcomes of third-grade students from disadvantaged
-  migrant families. One class per school was randomly assigned to receive two
-  40-minute weekly CAL sessions for one semester. Students in the CAL group
-  scored 0.15 standard deviations higher in math than control classmates and
-  reported improved attitudes toward school. The study concludes that a remedial
-  CAL program outside regular school hours can benefit low-performing students,
-  but does not address whether all standard school subjects are covered, nor does
-  it employ an officially recognized standardized exam. It also does not track
-  students until graduation or feature a pre-registered protocol. Consequently,
-  it partially meets some ERCT criteria but not at the full Level 1 threshold or
-  beyond.
+  The education of the disadvantaged population has been a long-standing
+  challenge to education systems in both developed and developing countries.
+  Although computer-assisted learning (CAL) has been considered one
+  alternative to improve learning outcomes in a cost-effective way, the
+  empirical evidence of its impacts on improving learning outcomes is mixed.
+  This paper uses a randomized field experiment to explore the effects of
+  CAL on student academic and non-academic outcomes for students in
+  migrant schools in Beijing. Our results show that a remedial CAL program
+  held out of regular school hours improved the student standardized math
+  scores by 0.15 standard deviations and most of the program effect took
+  place within 2 months after the start of the program. Students with
+  less-educated parents benefited more from the program. Moreover, CAL
+  also significantly increased the students’ interest in learning.
 publication_date: 2015-04-08
-erct_level: 0
+erct_level: 1
 rct: true
-pdf_link: "https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/lai-et-al-2015-computer_assisted_learning.pdf"
-doi: "10.1016/j.econedurev.2015.03.005"
-journal: "Economics of Education Review"
-date_erct_check: "2025-03-09"
+pdf_link: https://daneshyari.com/article/preview/6840851.pdf
+doi: 10.1016/j.econedurev.2015.03.005
+journal: Economics of Education Review
+date_erct_check: 2025-04-18
 tags:
   - mathematics
+  - language arts
   - K12
   - China
-  - EdTech website
+  - EdTech platform
 criteria:
   c:
     met: true
-    explanation: >-
-      They clearly assigned entire third-grade classes (not individual students)
-      to receive the CAL intervention, fulfilling class-level randomization.
+    explanation: >
+      The study randomized whole classes within schools, satisfying the
+      class‑level RCT requirement.
     quote: >-
-      "Within each school, one class was randomly selected to receive the CAL
-      intervention." (p. 37)
+      “We conducted a clustered (at the class level) RCT of CAL in Beijing
+      migrant schools in the fall semester of 2010.” (p. 3)
     analysis: >-
-      1) Relevant Quotes:
-         - “Within each school, one class was randomly selected to receive the
-           CAL intervention, leaving the other classes in each school to serve as the
-           control group.” (p. 37)
-         - “Our research team randomly selected one third grade class in each of the
-           24 program schools to receive the CAL intervention (the treatment group),
-           leaving the rest of the third grade classes in each school as the control
-           group.” (p. 37)
+      Relevant Quotes:
 
-      2) Detailed Analysis:
-         The paper describes a clear randomization procedure at the class level within
-         each school. In each migrant school with at least two third-grade classes, the
-         authors randomly picked one class for the CAL program while the remaining
-         classes served as controls. This design minimizes contamination by assigning
-         whole classes rather than individual students. There is no mention of any
-         tutoring exceptions, so the procedure meets the class-level RCT requirement.
+      1) “We conducted a clustered (at the class level) RCT of CAL in Beijing
+      migrant schools in the fall semester of 2010.” (p. 3)
+
+      2) “Within each school, one class was randomly selected to receive the
+      CAL intervention, leaving the other class (classes) as control group(s).”
+      (Fig. 1, p. 4)
+
+      Detailed Analysis:
+
+      The design randomises entire classes within each school, fulfilling the
+      ERCT standard’s requirement that the unit of randomisation be the
+      class (or stronger).
+
+      Final sentence explaining if criterion C is met because class‑level
+      randomisation was implemented.
   e:
     met: false
-    explanation: >-
-      They used a custom-made (or partly customized) assessment instead of a widely
-      recognized standardized exam.
+    explanation: >
+      The tests were custom assemblies of items from exam books, not formal
+      standardized exams.
     quote: >-
-      "The math test included 29–32 questions … chosen from official examination
-      books … The Chinese test included 30–35 questions." (p. 36)
+      “Some experts from the Center for Examination of Beijing helped us pick
+      questions for the tests… The math test included 29–32 questions …
+      The Chinese test included 30–35 questions.” (p. 36)
     analysis: >-
-      1) Relevant Quotes:
-         - “Some experts from the Center for Examination of Beijing helped us pick
-           questions for the tests from official examination books and exercise books.
-           The math test included 29–32 questions … The Chinese test included 30–35
-           questions.” (p. 36)
-         - “We used the scores of the students on the math and Chinese tests as our
-           measures of student academic performance.” (p. 36)
+      Relevant Quotes:
 
-      2) Detailed Analysis:
-         Criterion E requires using an externally validated, widely recognized exam.
-         Although the tests were assembled with external input, they were not a formal
-         standardized exam. Instead, the instruments were custom-designed for this
-         study, so the criterion is not met.
+      1) “Some experts from the Center for Examination of Beijing helped us
+      pick questions for the tests from official examination books and exercise
+      books. The math test included 29–32 questions… The Chinese test included
+      30–35 questions.” (p. 36)
+
+      2) “We used the scores of the students on the math and Chinese tests as
+      our measures of student academic performance.” (p. 36)
+
+      Detailed Analysis:
+
+      Criterion E requires a formal, widely recognized standardized exam.
+      Though experts contributed items, the assessments were custom-made
+      and not an official standard exam.
+
+      Final sentence: Criterion E is not met because the tests were custom
+      instruments.
   t:
     met: true
-    explanation: >-
-      The program ran for the full fall semester (about 4 months), satisfying the
-      requirement of covering at least one academic term.
+    explanation: >
+      Student performance was assessed at the end of the fall semester,
+      meeting the term‑duration requirement.
     quote: >-
-      "The CAL program … ran from early September to late December 2010, spanning the
-      Fall 2010 semester." (pp. 37–38)
+      “The third-round survey was a final evaluation survey conducted at the
+      end of the program in late December…” (p. 7)
     analysis: >-
-      1) Relevant Quotes:
-         - “The main intervention … was a math CAL remedial tutoring program that was
-           held outside of regular school hours for the Fall 2010 semester. … In total,
-           two 40-min CAL sessions per week from early September to late December.”
-           (pp. 37–38)
-         - “Our results show that a remedial CAL program held out of regular school
-           hours improved math scores by 0.15 standard deviations … The program effect
-           took place within 2 months after the start.” (p. 34)
+      Relevant Quotes:
 
-      2) Detailed Analysis:
-         The intervention took place during the Fall 2010 semester, which typically
-         lasts 3.5 to 4 months in Chinese elementary schools. This duration exceeds the
-         minimum term requirement, thereby meeting the T criterion.
+      1) “We conducted a clustered (at the class level) RCT of CAL in Beijing
+      migrant schools in the fall semester of 2010.” (p. 3)
+
+      2) “The third-round survey was a final evaluation survey conducted at
+      the end of the program in late December, a time that coincided with the
+      end of the Fall semester.” (p. 7)
+
+      Detailed Analysis:
+
+      The intervention and measurement span a full academic term (the Fall
+      semester), ensuring outcomes are collected at least one term after the
+      start.
+
+      Final sentence explaining if criterion T is met because outcomes were
+      measured after a full term.
   d:
     met: true
-    explanation: >-
-      They detail the control group’s composition, baseline test scores, and
-      demographics, and confirm it received no CAL sessions or extra input.
+    explanation: >
+      The control classes’ makeup, treatment conditions, and baseline data are
+      clearly reported.
     quote: >-
-      "...leaving the other classes as control group(s). We collected data on baseline
-      test scores, demographics, and family characteristics for all students...” (p. 37)
+      “Students in the classes that were assigned to the control group did not
+      receive any CAL intervention.” (p. 4)
     analysis: >-
-      1) Relevant Quotes:
-         - “Within each sample school, we randomly chose one class to be in the
-           treatment group, leaving the rest as control. … We collected data on baseline
-           test scores, demographics (e.g., gender, age), and family characteristics for
-           all students in both groups.” (p. 37)
-         - “In each round of survey … enumerators collected data on the characteristics
-           of students and their families … The dataset includes measures of each
-           student’s age, father’s education level, and mother’s education level.”
-           (pp. 38–39)
-         - “We also observed a group of pure control schools that were never informed of
-           the CAL program … to disentangle potential spillovers.” (p. 38)
+      Relevant Quotes:
 
-      2) Detailed Analysis:
-         The study provides extensive baseline data and clearly documents that the
-         control groups received no additional CAL intervention, thus fulfilling the
-         requirements of Criterion D.
+      1) “Students in the classes that were assigned to the control group did
+      not receive any CAL intervention… Following the protocol, they were
+      not allowed to access the computers.” (p. 4)
+
+      2) Baseline and follow‑up data, including class sizes, demographics and
+      attrition rates for control classes, are fully tabulated (Tables 1–2).
+
+      Detailed Analysis:
+
+      The control classes are described in detail: their treatment status,
+      sample size, baseline characteristics, and attrition. This allows clear
+      comparisons.
+
+      Final sentence explaining if criterion D is met because the control
+      group is comprehensively documented.
   s:
     met: false
-    explanation: >-
-      They randomized classes within schools, not entire schools, so they did not meet
-      the school-level RCT requirement.
+    explanation: >
+      The trial randomised classes within schools rather than entire schools.
     quote: >-
-      "...one class was randomly selected to receive the CAL intervention, leaving the
-      other classes in the same school as control." (p. 37)
+      “We conducted a clustered (at the class level) RCT of CAL in Beijing
+      migrant schools in the fall semester of 2010.” (p. 3)
     analysis: >-
-      1) Relevant Quotes:
-         - “Within each school, one class was randomly selected to receive the CAL
-           intervention, leaving the other classes to serve as the control group.”
-           (p. 37)
-         - “Of the 43 migrant schools in our sample frame, we randomly chose 24 schools
-           as sample schools, but the randomization of the intervention occurred at the
-           class level.” (pp. 36–37)
+      Relevant Quotes:
 
-      2) Detailed Analysis:
-         Although multiple schools were involved, the randomization was conducted
-         at the classroom level within each school rather than at the school level.
-         This does not satisfy the stronger school-level RCT criterion (S).
-  a:
-    met: false
-    explanation: >-
-      They only measured math (and checked Chinese for spillovers); no other 
-      core subjects were tested, so the ‘AllExams’ criterion is not fulfilled.
-    quote: >-
-      "The CAL program was focused on math performance… We also observed 
-      standardized Chinese test scores to check for any spillover." (p. 39)
-    analysis: >-
-      1) Relevant Quotes:
-         - “The CAL program was focused on math performance. … The main outcome 
-           measure is the standardized math score.” (p. 39) 
-         - “We also observed standardized Chinese test scores to check for any 
-           spillover.” (p. 39)
-      2) Detailed Analysis:
-         Criterion A requires that all major subjects be assessed via standardized exams. 
-         In this study, math was the only subject targeted by the intervention (with 
-         Chinese tested only to see if any effect carried over). No exams in other 
-         subjects (like science) were administered, so the AllExams requirement is not met.
-  y:
-    met: false
-    explanation: >-
-      The CAL experiment lasted one semester (roughly four months), not a full
-      academic year.
-    quote: >-
-      "Two 40-min CAL sessions per week from early September to late December."
-      (p. 37)
-    analysis: >-
-      1) Relevant Quotes:
-         - “Our main intervention ran from early September to late December 2010,
-           covering the Fall 2010 semester.” (p. 37)
-         - “Thus, about four months total, from the beginning of the semester until it
-           ended.” (p. 38)
+      1) “We conducted a clustered (at the class level) RCT of CAL in Beijing
+      migrant schools in the fall semester of 2010.” (p. 3)
 
-      2) Detailed Analysis:
-         Criterion Y demands an intervention over a full academic year. As the study
-         only spans one semester, it fails to meet this requirement.
-  b:
-    met: false
-    explanation: >-
-      CAL students received extra resources (computers, software, a paid supervisor), 
-      whereas control students received no equivalent support.
-    quote: >-
-      "Students in the classes assigned to the control group did not receive any 
-      CAL intervention. Following the protocol, they were not allowed to access 
-      the computers..." (p. 39)
-    analysis: >-
-      1) Relevant Quotes:
-         - “During each session, students in the treatment group worked in pairs on 
-           computers … The teacher–supervisor was compensated 400 yuan per month … 
-           and we provided all computers.” (pp. 38, 44)
-         - “Students in the classes that were assigned to the control group … did not 
-           receive any CAL intervention. Following the protocol, they were not allowed 
-           to access the computers….” (p. 39)
-      2) Detailed Analysis:
-         The treatment group was given access to computers, specialized math software, 
-         and a trained supervisor (with financial compensation) – resources not available 
-         to the control group. Control classes simply continued 
-         regular instruction with no additional inputs beyond the usual, meaning the two 
-         groups were not provided balanced resources. This violates Criterion B.
-  g:
-    met: false
-    explanation: >-
-      They only tracked outcomes within one semester; no long-term or graduation
-      follow-up was conducted.
-    quote: >-
-      "Our results show that a remedial CAL program held out of regular school hours
-      improved the student standardized math scores by 0.15 s.d.… we only conducted
-      midterm and final evaluations in that same semester." (pp. 34, 36)
-    analysis: >-
-      1) Relevant Quotes:
-         - “We only examine short-term outcomes: midterm in November 2010 and final
-           evaluation in December 2010.” (p. 36)
-         - “No mention of tracking through graduation or follow-up beyond the single
-           semester.” (throughout the paper)
+      Detailed Analysis:
 
-      2) Detailed Analysis:
-         The study’s outcome measurement ends with the fall semester, so it does not
-         track students until graduation.
-  r:
-    met: false
-    explanation: >-
-      No evidence is provided that an external research team replicated this 
-      CAL intervention in a different context.
-    quote: null
-    analysis: >-
-      1) Relevant Discussion:
-         - The study reports one randomized experiment in migrant schools in Beijing. 
-           It does not reference any subsequent implementation of the same program by 
-           another independent team.
-      2) Detailed Analysis:
-         Criterion R requires that the findings be reproduced by an independent study. 
-         This paper makes no mention of any follow-up study or replication carried out 
-         by different researchers. Absent an independent replication, we must conclude 
-         that this criterion is not met.
+      Randomisation was limited to classes within schools. No random
+      assignment occurred at the school level.
+
+      Final sentence explaining if criterion S is not met because only
+      class‑level randomisation occurred.
   i:
     met: false
-    explanation: >-
-      The intervention and evaluation were conducted by the same research team; 
-      there was no independent external evaluator.
+    explanation: >
+      The authors who developed the CAL were also responsible for its
+      implementation and assessment.
     quote: >-
-      "The research group conducted a total of three rounds of a survey of each 
-      third-grade student in the 24 schools..." (p. 40)
+      “Under the supervision of one teacher–supervisor trained by our research
+      group…” (p. 4)
     analysis: >-
-      1) Relevant Quotes:
-         - “We conducted a clustered (at the class level) RCT of CAL in Beijing migrant 
-           schools…” (p. 36)
-         - “The research group conducted a total of three rounds of a survey of each 
-           third-grade student in the 24 schools in our main sample…” (p. 40)
-      2) Detailed Analysis:
-         The authors themselves designed and implemented the CAL program and also carried 
-         out the randomization and data collection&#8203;:contentReference[oaicite:36]{index=36}&#8203;:contentReference[oaicite:37]{index=37}. There is no 
-         indication that any independent agency was hired to run the experiment or evaluate 
-         outcomes. Because the same team was responsible for both the intervention delivery 
-         and its evaluation, the study fails to meet the independence criterion (I).
-  p:
+      Relevant Quotes:
+
+      1) “Under the supervision of one teacher–supervisor trained by our
+      research group, the students in the treatment group had two 40-min CAL
+      sessions per week…” (p. 4)
+
+      2) “Our research team randomly selected one third grade class in each
+      of the 24 program schools to receive the CAL intervention…” (p. 6)
+
+      Detailed Analysis:
+
+      The same team designed, implemented, and evaluated the intervention,
+      with no independent third‑party evaluator noted.
+
+      Final sentence explaining if criterion I is not met because conduct
+      was not independent.
+  y:
     met: false
-    explanation: >-
-      No statement or link indicates an official pre-registration prior to data
-      collection.
+    explanation: >
+      Tracking ceased at the semester’s end, not over a full academic year.
+    quote: >-
+      “The third-round survey… conducted at the end of the Fall semester.”
+      (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) “We conducted a clustered (at the class level) RCT of CAL in Beijing
+      migrant schools in the fall semester of 2010.” (p. 3)
+
+      2) “The third-round survey was a final evaluation survey conducted at
+      the end of the program in late December…” (p. 7)
+
+      Detailed Analysis:
+
+      Outcomes are tracked only through a single semester; no year‑long
+      follow‑up is reported.
+
+      Final sentence explaining if criterion Y is not met because duration
+      was less than one academic year.
+  b:
+    met: true
+    explanation: >
+      The additional CAL sessions are the treatment itself, so the control
+      group’s business‑as‑usual status is appropriate.
+    quote: >-
+      “Under the supervision of one teacher–supervisor… the students… had two
+      40-min CAL sessions per week…” (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) “Under the supervision of one teacher–supervisor trained by our
+      research group, the students in the treatment group had two 40-min CAL
+      sessions per week during lunch break or after school…” (p. 4)
+
+      2) “Students in the classes that were assigned to the control group did
+      not receive any CAL intervention. Following the protocol, they were not
+      allowed to access the computers.” (p. 4)
+
+      Detailed Analysis:
+
+      The intervention’s extra instructional time via CAL is the primary
+      treatment variable. The control group receives business-as-usual,
+      consistent with the study’s intent to test the effect of those additional
+      CAL resources.
+
+      Final sentence explaining if criterion B is met because extra resources
+      are integral to the tested intervention.
+  r:
+    met: false
+    explanation: >
+      The paper contains no mention of independent replication by a different
+      research team.
     quote: null
     analysis: >-
-      1) Relevant Quotes:
-         - “We do not see any mention of a pre-registration on a registry platform
-           (e.g., ClinicalTrials.gov, OSF).” (entire text)
+      Relevant Papers:
 
-      2) Detailed Analysis:
-         The absence of any pre-registration or publicly documented protocol means the
-         study does not meet the pre-registration requirement.
-...
+      No independent replication of this trial is reported in peer‑reviewed
+      journals by external teams.
+
+      Detailed Analysis:
+
+      The authors do not cite any studies where different researchers
+      reproduced this exact experiment in another setting.
+
+      Final sentence explaining if criterion R is not met because no
+      replication is reported.
+  a:
+    met: false
+    explanation: >
+      The study assessed only math and Chinese; other core subjects were
+      omitted.
+    quote: >-
+      “In each round of survey… students were given a standardized math test
+      and a standardized Chinese test.” (p. 6)
+    analysis: >-
+      Relevant Quotes:
+
+      1) “In each round of survey… students were given a standardized math
+      test and a standardized Chinese test.” (p. 6)
+
+      Detailed Analysis:
+
+      Only two subjects (math and Chinese) were tested. Core areas like
+      science or social studies were not assessed.
+
+      Final sentence explaining if criterion A is not met because not all
+      main subjects were evaluated.
+  g:
+    met: false
+    explanation: >
+      Student outcomes were not monitored beyond the semester, so no
+      graduation tracking occurred.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) “The third-round survey… conducted at the end of the Fall semester.”
+      (p. 7)
+
+      Detailed Analysis:
+
+      No follow‑up beyond the fall semester is reported; students are not
+      tracked to graduation.
+
+      Final sentence explaining if criterion G is not met because graduation
+      tracking is absent.
+  p:
+    met: false
+    explanation: >
+      There is no evidence the trial was pre-registered before data collection.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      No pre-registration statement or registry identifier appears in the
+      document.
+
+      Detailed Analysis:
+
+      The study protocol is not referenced in any registry prior to data
+      collection.
+
+      Final sentence explaining if criterion P is not met because no
+      pre-registration is mentioned.
+---
