@@ -13,8 +13,9 @@ The following text provides the detailed instructions how to do that.
 2.4 Check Criteria R
 2.5 Check Criteria P
 2.6 Check Each of Other Criteria sections
-2.7 Output the final YAML
-2.8 Change Summary
+2.7 Assign ERCT Level
+2.8 Output the final YAML
+2.9 Change Summary
 3. Output Specification
 3.1 Output Format
 3.2 Maximum Line Length
@@ -115,11 +116,20 @@ In that case you should output this section exactly as it is in the provided YAM
 Pay particular attention to the criterion B as its definition in the ERCT specification has changed
 since the last paper check.
 
-## 2.7 Output the final YAML
+## 2.7 Assign ERCT Level
 
-Output the final YAML following my output specification. 
+Based on the ERCT standard levels and your findings about the 12 criteria assign correct erct_level to the paper.
+By default set erct_level to 0.
+If all level 1 criteria are met (C, E, T, D), set erct_level to 1.
+If in additional to all level 1 criteria also all level 2 criteria are met (S, I, Y, B), set erct_level to 2.
+If in additional to all level 1 and 2 criteria also all level 3 criteria are met (R, A, G, P), set erct_level to 3.
 
-## 2.8 Change Summary
+
+## 2.8 Output the final YAML
+
+Output the final YAML following my output specification in downloadable formal or format that is easy to copy and paste.
+
+## 2.9 Change Summary
 
 Output a summary of the changes you made to the YAML report.
 
@@ -128,7 +138,7 @@ Output a summary of the changes you made to the YAML report.
 Make sure that your YAML file starts and ends with ---.
 
 Ensure that no internal citation markers (e.g., :contentReference[...] 
-or any similar tags) are present in the final YAML output.
+or any similar tags) are present in the final YAML output. 
 
 ## 3.1 Output Format
 Your output should be a markdown file for GitHub pages with valid YAML inside.
@@ -195,10 +205,14 @@ criterion:
 
 ### 3.4.1 Analysis Field
 The "analysis" field should have the following structure:
-* first it should start from listing all relevant quotes from the paper in ABSOLUTELY VERBATIM form. include ALL relevant quotes exactly as they appear in the 
-paper (with page numbers if available) and include all of them in the analysis field.
-* then it should have a detailed analysis based on the criterion description from the standard and the relevant quotes and general paper content if this criterion is met or not and why
-* then it should provide the final one sentence summary
+a. first it should start from listing all relevant quotes from the 
+paper in ABSOLUTELY VERBATIM form. Include ALL relevant quotes exactly 
+as they appear in the paper (with page numbers if available) and 
+include all of them in the analysis field.
+b. then it should have a detailed analysis based on the criterion 
+description from the standard and the relevant quotes and general paper 
+content if this criterion is met or not and why
+c. then it should provide the final one sentence summary
 
 Here is a typical structure of the analysis field:
 ```
@@ -261,6 +275,16 @@ stated as the study’s intent. Otherwise, any increase in time or budget in
 the intervention group must be matched in the control group with 
 comparable educational inputs.
 
+After you identify additional resources in the intervention group 
+(like additional teacher professional development, additional time, etc),
+you need to check if this additional resource was an integram part of the tested
+intervention or it was an additional optional resource not an integral 
+part of the intervention how it was defined in the paper. 
+
+If this additional resource is an integral part of the intervention then 
+if doesn't automatically violate this criterion B. However make sure that 
+this additional resouce is clearly mentioned in your analysis and the summary.
+
 #### Criterion A:
 If criterion E (Exam-based Assessment) is not met, then this criterion is not met either.
 
@@ -301,5 +325,8 @@ Don't forget to update the paper_link, pdf_link, date_erct_check fields in the Y
 
 Please ensure that no internal citation markers (e.g., :contentReference[...] or any 
 similar tags) are present in the final YAML output.
+
+Please note that I recently changed the order of the criteria in the ERCT Standard, so the provided .md file could have older order, if so please update it to the new order.
+Make sure that erct_level is calculated correctly based on the new order of the criteria.
 
 Make sure that your YAML file starts and ends with ---.

@@ -101,7 +101,19 @@ Technology:
 * digital assessment
 * mobile learning
 * formative assessment
- 
+
+The tags section should be just a list of tags like this example:
+```
+tags:
+  - science
+  - higher education
+  - flipped classroom
+  - blended learning
+  - EdTech website
+  - online homework
+```
+
+Each tag should be one of the list above.  
 
 ## 2.4 Analyze 12 Criteria
 For each of 12 criteria perform a comprehensive analysis including:
