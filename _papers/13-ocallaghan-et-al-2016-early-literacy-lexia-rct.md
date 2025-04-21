@@ -1,276 +1,293 @@
 ---
 title: >-
-  A randomized controlled trial of an early-intervention, computer-based
-  literacy program to boost phonological skills in 4- to 6-year-old children
-authors: "Paul O’Callaghan, Aimee McIvor, Claire McVeigh, Teresa Rushe"
-paper_link: "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjep.12122"
+  A randomized controlled trial of an early‑intervention, computer‑based
+  literacy program to boost phonological skills in 4‑ to 6‑year‑old children
+authors: >-
+  Paul O’Callaghan; Aimee McIvor; Claire McVeigh; Teresa Rushe
+paper_link: "https://doi.org/10.1111/bjep.12122"
 abstract: >-
-  Many school-based interventions are being delivered in the absence of evidence 
-  of effectiveness. This study sought to address this oversight by evaluating 
-  the effectiveness of the commonly used the Lexia Reading Core5 intervention,
-  with 4- to 6-year-old pupils in Northern Ireland. A total of 126 primary school 
-  pupils in year 1 and year 2 were screened on the Phonological Assessment Battery 
-  2nd Edition (PhAB-2). Children were recruited from the equivalent year groups to 
-  Reception and Year 1 in England and Wales, and Pre-kindergarten and 
-  Kindergarten in North America. A total of 98 below-average pupils were 
-  randomized (T0) to either an 8-week block of daily access to Lexia Reading Core5 
-  (n = 49) or a waiting-list control group (n = 49). Assessment of phonological 
-  skills was completed at post-intervention (T1) and at 2-month follow-up (T2) 
-  for the intervention group only.
-  Analysis of covariance which controlled for baseline scores found that the 
-  Lexia Reading Core5 intervention group made significantly greater gains in 
-  blending, F(1, 95) = 6.50, p = .012, partial η2 = .064 (small effect size) 
-  and non-word reading, F(1, 95) = 7.20, p = .009, partial η2 = .070 (small effect size). 
-  Analysis of the 2-month follow-up of the intervention group found that all group 
-  treatment gains were maintained. However, improvements were not uniform among 
-  the intervention group with 35% failing to make progress despite access to 
-  support. Post-hoc analysis revealed that higher T0 phonological working 
-  memory scores predicted improvements made in phonological skills.
-  Conclusion: An early-intervention, computer-based literacy program can be 
-  effective in boosting the phonological skills of 4- to 6-year-olds, 
-  particularly if these literacy difficulties are not linked to phonological 
-  working memory deficits.
+  Background. Many school‑based interventions are delivered without evidence  
+  of effectiveness. Aims. This study evaluated the Lexia Reading Core5  
+  program with 4‑ to 6‑year‑olds in Northern Ireland. Sample. One hundred and  
+  twenty‑six pupils were screened; ninety‑eight below‑average readers were  
+  randomised to an 8‑week block of daily Lexia (n = 49) or a wait‑list  
+  control (n = 49). Methods. Phonological skills were assessed after the  
+  block and again two months later. Results. Lexia pupils made significantly  
+  greater gains in blending and non‑word reading that were maintained at  
+  follow‑up. Conclusions. A computer‑based early‑intervention can boost
+  phonological skills when difficulties are not tied to phonological working  
+  memory. 
 publication_date: 2016-01-01
 erct_level: 0
 rct: true
-pdf_link: ""
-doi: "10.1111/bjep.12122"
-journal: "British Journal of Educational Psychology"
-date_erct_check: "2025-03-09"
+pdf_link: "https://pureadmin.qub.ac.uk/ws/files/119903347/a_randomized_controlled_trial.pdf"
+doi: 10.1111/bjep.12122
+journal: British Journal of Educational Psychology
+date_erct_check: 2025-04-20
 tags:
   - reading
   - kindergarten
-  - K12
   - UK
-  - EdTech website
+  - EdTech app
 criteria:
   c:
-    met: true
-    explanation: >-
-      They randomized at the pupil level in an individually delivered
-      intervention, which fits the personal-tutoring exception to
-      class-level randomization.
-    quote: >-
-      "A total of 98 below-average pupils were randomized…
-      The intervention group received daily, individual, adult-supervised…
-      20- to 30-min blocks of computer-based support." (p. 548, 551)
     analysis: >-
-      Relevant quotes:
-      
-      1) “A total of 98 below-average pupils were randomized (T0) to either an
-      8-week block of daily access to Lexia Reading Core5 (n = 49) or a
-      waiting-list control group (n = 49).” (p. 548)
-      
-      2) “This was a parallel-group, RCT with a no-treatment, wait-list control
-      group.” (p. 549)
-      
-      3) “The intervention group received daily, individual, adult-supervised, 20-
-      to 30-min blocks of computer-based support…” (p. 551)
-      
-      In examining Criterion C, the paper randomized pupils individually with an
-      exception for personal tutoring. Thus, C is met.
+      Relevant Quotes:
+
+      1) “A total of 98 below‑average pupils were randomised … to either an  
+      8‑week block … or a waiting‑list control group.”
+
+      2) “This study is … the first participant‑level, RCT of Lexia with  
+      Year 1 and 2 pupils conducted to date.”
+
+      3) “The first author enrolled participants while the second author used  
+      simple randomisation … and assigned participants to the two groups.”
+
+      Detailed Analysis:
+
+      Randomisation occurred at the individual‑pupil level within classes,  
+      not at class or school level, allowing potential contamination.  
+      Consequently the Class‑level RCT criterion is not satisfied.
+
+      Final sentence: Randomisation below class level means criterion C is  
+      not met.
+    quote: >-
+      “first participant‑level, RCT of Lexia …”
+    explanation: >-
+      Pupils rather than whole classes were randomised.
+    met: false
   e:
-    met: true
-    explanation: >-
-      They employed PhAB-2, a standardized, normed, and recognized battery,
-      rather than an in-house test.
-    quote: >-
-      "The PhAB-2 was chosen … it was recently standardized … it provides
-      standardized scores…." (p. 550)
     analysis: >-
-      Relevant quotes:
-      
-      1) “To assess phonological skills the Phonological Assessment Battery
-      Second Edition (PhAB-2) [was used].” (p. 550)
-      
-      2) “The PhAB-2 was chosen because it … provides standardized scores … and
-      it contains a standardized protocol for both test administration and scoring.”
-      (p. 550)
-      
-      Therefore, Criterion E is met.
+      Relevant Quotes:
+
+      1) “To assess phonological skills the Phonological Assessment Battery  
+      Second Edition (PhAB‑2) were used.”
+
+      2) “In 2013 the PhAB‑2 was standardised with a sample of 773 (4‑ to 11‑year‑olds) children in  
+      England, Scotland and Wales.”
+
+      3) “It contains a standardised protocol for both test administration and  
+      scoring, …”
+
+      Detailed Analysis:
+
+      Outcomes were measured with the PhAB‑2, a published, validated,  
+      norm‑referenced test, satisfying the Exam‑based Assessment requirement.
+
+      Final sentence: Use of a recognised standardised exam meets criterion E.
+    quote: >-
+      “Phonological Assessment Battery Second Edition (PhAB‑2) …”
+    explanation: >-
+      A validated standardised exam (PhAB‑2) was used.
+    met: true
   t:
-    met: false
-    explanation: >-
-      The active intervention period lasted only about 8 weeks, which falls
-      short of a full academic term.
-    quote: >-
-      "…an 8-week block of daily access to Lexia Reading Core5…" (p. 548)
     analysis: >-
-      Relevant quotes:
-      
-      1) “A total of 98 below-average pupils were randomized … to either an 8-
-      week block (x̄ = 647.51 min, SD = 158.21) of daily access to Lexia Reading
-      Core5 … or a waiting-list control group.” (p. 548)
-      
-      2) “The study ran from December 2014 to June 2015. … The intervention group
-      received one block of intervention support [for 8 weeks].” (p. 549, 551)
-      
-      Since 8 weeks is under the typical term duration, T is not met.
+      Relevant Quotes:
+
+      1) “The study ran from December 2014 to June 2015.”
+
+      2) “Tests were administered … in December (T0), April (T1) and June (T2).”
+
+      Detailed Analysis:
+
+      Baseline in December and primary post‑test in April give a four‑month  
+      interval – at least one academic term – satisfying the Term‑Duration  
+      requirement.
+
+      Final sentence: Measurement one term after start meets criterion T.
+    quote: >-
+      “Tests were administered … December (T0), April (T1) …”
+    explanation: >-
+      Post‑test occurred four months after the December start.
+    met: true
   d:
-    met: true
-    explanation: >-
-      They present clear demographic and baseline data for the control group
-      and describe its ‘business-as-usual’ instruction.
-    quote: >-
-      "Baseline characteristics of participants in the two groups are presented in
-      Table 1… The wait-list control group received standard classroom teaching …
-      supplemented with phonics." (pp. 549–550)
     analysis: >-
-      Relevant quotes:
-      
-      1) “A total of 98 below-average pupils were randomized … to either an 8-
-      week block… or a waiting-list control group (n = 49). Assessment was
-      completed at post-intervention (T1) and at 2-month follow-up (T2) for the
-      intervention group only.” (p. 548)
-      
-      2) “Baseline characteristics of participants in the two groups are presented
-      in Table 1 … Randomization resulted in no significant difference on age,
-      gender, year group…” (p. 550)
-      
-      3) “The wait-list control group … received standard classroom teaching in
-      line with the statutory Northern Irish curriculum … supplemented with both
-      synthetic and linguistic phonics.” (p. 549)
-      
-      Therefore, D is met.
+      Relevant Quotes:
+
+      1) “Allocated to wait‑list control group (n = 49).”
+
+      2) “standard classroom teaching in line with the statutory Northern  
+      Irish curriculum …”
+
+      3) “Table 1. Descriptive data … Number of boys, age, EAL status, T0  
+      scores …”
+
+      Detailed Analysis:
+
+      Size, demographics and baseline attainment of the control group are  
+      reported, fulfilling the Documented Control Group requirement.
+
+      Final sentence: Control group documentation meets criterion D.
+    quote: >-
+      “Table 1. Descriptive data for the intervention and wait‑list control  
+      group …”
+    explanation: >-
+      Control demographics and baseline scores are clearly provided.
+    met: true
   s:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “The study took place in two town‑based primary schools …”
+
+      2) “98 below‑average pupils were randomised …”
+
+      Detailed Analysis:
+
+      Only two schools participated and randomisation was at the pupil level,  
+      not at the school level. Therefore School‑level RCT is not achieved.
+
+      Final sentence: Absence of school‑level assignment means criterion S is  
+      not met.
+    quote: >-
+      “participant‑level, RCT of Lexia …”
+    explanation: >-
+      Randomisation took place within, not between, schools.
     met: false
-    explanation: >-
-      Random assignment was performed at the pupil level, not by school.
-    quote: >-
-      "A total of 98 below-average pupils were randomized…
-      The study took place in two town-based primary schools…" (pp. 548–549)
-    analysis: >-
-      Relevant quotes:
-      
-      1) “A total of 98 below-average pupils were randomized (T0) … or a
-      waiting-list control group (n = 49).” (p. 548)
-      
-      2) “The study took place in two town-based primary schools … The
-      participants in each school were individually allocated through simple
-      randomization.” (pp. 548–549)
-      
-      Thus, S is not met.
-  a:
-    met: false
-    explanation: >-
-      They only measured phonological/literacy skills, not all relevant school
-      subjects.
-    quote: >-
-      "The study sought to test … improvements in blending, phoneme segmentation,
-      and non-word reading." (p. 549–550)
-    analysis: >-
-      Relevant quotes:
-      
-      1) “To assess phonological skills the Phonological Assessment Battery
-      Second Edition (PhAB-2) … [with] four subtests.” (p. 550)
-      
-      2) “…the study tested whether the intervention group would show
-      statistically significant improvements in blending, phoneme segmentation,
-      and non-word reading.” (p. 549)
-      
-      Therefore, A is not met.
-  y:
-    met: false
-    explanation: >-
-      They only implemented the program for ~8 weeks, far shorter than a full
-      school year.
-    quote: >-
-      "Children were randomized … to either an 8-week block …
-      The study ran from December 2014 to June 2015." (p. 548–549)
-    analysis: >-
-      Relevant quotes:
-      
-      1) “This was … an 8-week block … in daily 20- to 30-min sessions … The
-      study ran from December 2014 to June 2015.” (pp. 548–549)
-      
-      2) “Assessment of phonological skills was completed at post-intervention
-      (T1) and at 2-month follow-up (T2).” (p. 548)
-      
-      Thus, Y is not met.
-  b:
-    met: false
-    explanation: >-
-      The intervention group received extra daily computer-based sessions; the
-      control group did not get an equivalent resource allocation.
-    quote: >-
-      "The intervention group received daily … 20- to 30-min blocks …
-      The wait-list control group continued with standard teaching." (pp. 549, 551)
-    analysis: >-
-      Relevant quotes:
-      
-      1) “The intervention group received daily, individual, adult-supervised, 20-
-      to 30-min blocks of computer-based support…” (p. 551)
-      
-      2) “The wait-list control group … standard classroom teaching in line with the
-      statutory curriculum … supplemented with phonics.” (p. 549)
-      
-      Therefore, B is not met.
-  g:
-    met: false
-    explanation: >-
-      They only conducted a 2-month follow-up, not tracking the children through
-      their school-level graduation.
-    quote: >-
-      "Analysis of the 2-month follow-up… T2 was 2-month follow-up." (p. 548–551)
-    analysis: >-
-      Relevant quotes:
-      
-      1) “Analysis of the 2-month follow-up of the intervention group found that
-      all group treatment gains were maintained.” (p. 548)
-      
-      2) “The trial was ended after the intervention group had received one block of
-      intervention support. … T2 was 2-month follow-up.” (p. 551)
-      
-      No additional data or independent follow-up studies were found tracking participants through
-      to graduation. Therefore, Criterion G is not met.
-  r:
-    met: true
-    explanation: >-
-      Subsequent to this 2016 study, independent research teams have replicated 
-      its findings. A 2021 efficacy trial in 57 schools (evaluated by RAND) reported 
-      that children offered Lexia made significantly greater reading progress than 
-      controls. Likewise, other studies have found Core5 users 
-      outperforming non-users on standardized reading measures. These 
-      replications by different investigators mean the original results have been 
-      reproduced.
-    quote: >-
-      "This study is, to the authors’ knowledge, the first participant-level, RCT 
-      of Lexia with Year 1 and 2 pupils conducted to date." (O’Callaghan et al., 
-      2016, p. 549)  
-      Follow-up trials – e.g. a 2021 independent evaluation – confirmed that 
-      children using Lexia made additional gains in reading.
-    analysis: >-
-      The original paper noted it was the first of its kind, with no prior 
-      replications. Since then, a large-scale independent trial (Queen’s University 
-      Belfast & RAND Europe, 2021) and other studies have obtained similar positive 
-      results with Lexia. Thus, the study’s findings have 
-      been independently reproduced, satisfying Criterion R.
   i:
-    met: false
-    explanation: >-
-      They do not provide a clear statement that the study was conducted by a fully
-      independent team with no ties to the developers.
+    analysis: >-
+      Relevant Quotes:
+
+      1) “The study was run in conjunction with the Educational Psychology  
+      Service and the School of Psychology … overseen by a qualified  
+      Educational and Child Psychologist.”
+
+      2) “pre‑intervention set‑up and … technical support were provided … by  
+      LexiaUK Ltd.”
+
+      Detailed Analysis:
+
+      Investigators are university and public‑service staff, independent of the  
+      commercial developer, who only offered technical assistance. No evidence  
+      suggests Lexia staff collected or analysed data. Hence Independent  
+      Conduct is satisfied.
+
+      Final sentence: Independent evaluation team meets criterion I.
     quote: >-
-      "Pre-intervention … ongoing technical support were provided … by LexiaUK Ltd."
-      (p. 549)
+      “run … by the Educational Psychology Service and the School of Psychology”
+    explanation: >-
+      Researchers were not affiliated with the program’s developer.
+    met: true
+  y:
     analysis: >-
-      Relevant quotes:
-      
-      1) “Pre-intervention set-up and product introductory tutorials and ongoing
-      technical support were provided to both schools by LexiaUK Ltd.”
-      (p. 549)
-      
-      2) “The study was run … overseen by a qualified Educational and Child
-      Psychologist….” (p. 548–549)
-      
-      Thus, I is not met.
-  p:
+      Relevant Quotes:
+
+      1) “The study ran from December 2014 to June 2015.”
+
+      2) “Recruitment began in December 2014, with T1 testing in April 2015 and  
+      T2 testing in June 2015.”
+
+      Detailed Analysis:
+
+      Total tracking was roughly six months – less than a full academic year.  
+      Therefore the Year‑Duration criterion is not satisfied.
+
+      Final sentence: Six‑month follow‑up fails criterion Y.
+    quote: >-
+      “The study ran from December 2014 to June 2015.”
+    explanation: >-
+      Only six months of data – under one school year.
     met: false
-    explanation: "No statement about pre-registration or any registry link is provided."
-    quote: null
+  b:
     analysis: >-
-      Relevant quotes:
-      
-      No mention of pre-registration or a trial registry ID was found.
-      Therefore, P is not met.
+      Relevant Quotes:
+
+      1) “The intervention group received daily … 20‑ to 30‑min blocks of  
+      computer‑based support … for 8 weeks (x = 647.51 min).”
+
+      2) “Wait‑list control group … standard classroom teaching …”
+
+      Detailed Analysis:
+
+      Additional daily computer‑based instruction time is the essence of the  
+      treatment being tested; the study explicitly aims to gauge the benefit of  
+      that extra resource. Under ERCT, when extra time is the treatment  
+      variable, a business‑as‑usual control is acceptable, so balance is not  
+      required.
+
+      Final sentence: Extra time is integral; criterion B is met.
+    quote: >-
+      “daily … 20‑ to 30‑min blocks of computer‑based support …”
+    explanation: >-
+      Extra resources constituted the treatment itself, making balance proper.
+    met: true
+  r:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “This study is … the first participant‑level, RCT of Lexia … conducted  
+      to date.”
+
+      2) “This trial of Lexia involved 697 pupils across 57 schools. The independent evaluation found that children … offered Lexia made the equivalent of one additional months’ progress in reading …”
+
+      Detailed Analysis:
+
+      The authors noted this was the first participant‑level Lexia RCT with no prior replications. However, a subsequent independent trial (Quote 2) confirmed similar gains with a different research team. Therefore, the Reproduced criterion is now satisfied.
+
+      Final sentence: Independent replication achieved, so criterion R is met.
+    quote: >-
+      “the equivalent of one additional months’ progress in reading …”
+    explanation: >-
+      The study’s findings were later replicated by an independent team.
+    met: true
+  a:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “The first research question … improvements in blending, phoneme  
+      segmentation, and non‑word reading …”
+
+      2) “We used four subtests on the PhAB‑2 … Blending … Segmentation …  
+      Non‑Word Reading.”
+
+      Detailed Analysis:
+
+      Only literacy‑specific outcomes were measured; maths, science and other  
+      core subjects were not assessed. Consequently All‑subject Exams criterion  
+      is not met.
+
+      Final sentence: Narrow literacy focus fails criterion A.
+    quote: >-
+      “improvements in blending, phoneme segmentation, and non‑word reading”
+    explanation: >-
+      The study measured literacy only, not all subjects.
+    met: false
+  g:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “gains were maintained … at 2‑month follow‑up.”
+
+      2) “The study ran from December 2014 to June 2015.”
+
+      Detailed Analysis:
+
+      The longest follow‑up is only two months post‑intervention, far short of  
+      tracking pupils until completion of their current school stage. Without  
+      such data the Graduation‑Tracking criterion is not satisfied.
+
+      Final sentence: No graduation follow‑up, so criterion G is not met.
+    quote: >-
+      “gains were maintained … at 2‑month follow‑up.”
+    explanation: >-
+      Follow‑up ended two months after the block, not at graduation.
+    met: false
+  p:
+    analysis: >-
+      Relevant Quotes:
+
+      No mention of trial registration or protocol pre‑registration appears in  
+      the article.
+
+      Detailed Analysis:
+
+      A search of methods, acknowledgements and footnotes finds no registry ID  
+      or pre‑registration date. Thus the Pre‑Registered Protocol criterion is  
+      not met.
+
+      Final sentence: Absence of pre‑registration means criterion P is not met.
+    quote: null
+    explanation: >-
+      The paper provides no evidence of pre‑registration.
+    met: false
 ---
