@@ -5,7 +5,7 @@ title: >-
   Time Management Intervention
 authors: >-
   Rachel Baker, Brent Evans, Qiujie Li, Bianca Cung
-paper_link: ""
+paper_link: "https://doi.org/10.1007/s11162-018-9521-3"
 abstract: >-
   Time‑management skills are an essential component of college student
   success, especially in online classes. Through a randomized control
@@ -23,14 +23,14 @@ abstract: >-
   effect of the intervention on plausible mechanisms to explain the
   observed achievement effects and find no evidence that the
   intervention affected cramming, procrastination, or the time at which
-  students did work.&#8203;
-publication_date: 2018-01-01
+  students did work.
+publication_date: 2018-07-28
 erct_level: 0
 rct: true
-pdf_link: ""
+pdf_link: "https://www.rachelbbaker.com/s/Baker-Evans-Li-Cung-2018-Time-Management-RiHE.pdf"
 doi: 10.1007/s11162-018-9521-3
 journal: Research in Higher Education
-date_erct_check: 
+date_erct_check: 2025-04-21
 tags:
   - science
   - higher education
@@ -157,25 +157,29 @@ criteria:
     explanation: >-
       Randomization did not occur at the school level.
     met: false
-  a:
+  i:
     analysis: >-
       Relevant Quotes:
 
-      1) "Students’ final grades were determined by … weekly quizzes …
-      and the final exam score."&#8203;
+      1) "The suggestion was delivered to a randomly selected group of
+      students … by the course instructor…"&#8203;
+
+      2) Acknowledgements note collaboration with the instructor and
+      internal lab.&#8203;
 
       Detailed Analysis:
 
-      Learning outcomes cover only the focal STEM course; the study does
-      not assess other academic subjects, so it fails the all‑subject
-      requirement.
+      The research team designed the intervention, implemented it within
+      their own institution, and analyzed the data—no external evaluator
+      participated.
 
-      Final sentence: Criterion A is not met because only one subject was
-      tested.
+      Final sentence: Criterion I is not met; conduct was not independent
+      of developers.
     quote: >-
-      "…weekly quizzes … and the final exam score."
+      "…delivered to a randomly selected group of students … by the course
+      instructor…"
     explanation: >-
-      Outcomes are limited to a single STEM course, not all subjects.
+      The same team designed, implemented, and evaluated the study.
     met: false
   y:
     analysis: >-
@@ -223,6 +227,42 @@ criteria:
       Control and treatment groups received equivalent emails and
       incentives; no extra resources favored treatment.
     met: true
+  r:
+    analysis: >-
+      Detailed Analysis:
+
+      The article reports no independent replication, and a literature
+      search within the paper finds no mention of other teams repeating
+      the same intervention in a separate context. Similarly, no
+      independent replication by different researchers has been published
+      as of 2025.
+
+      Final sentence: Criterion R is not met; results have not been
+      independently reproduced.
+    quote: null
+    explanation: >-
+      No independent replication of this RCT is reported.
+    met: false
+  a:
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Students’ final grades were determined by … weekly quizzes …
+      and the final exam score."&#8203;
+
+      Detailed Analysis:
+
+      Learning outcomes cover only the focal STEM course; the study does
+      not assess other academic subjects, so it fails the all‑subject
+      requirement.
+
+      Final sentence: Criterion A is not met because only one subject was
+      tested.
+    quote: >-
+      "…weekly quizzes … and the final exam score."
+    explanation: >-
+      Outcomes are limited to a single STEM course, not all subjects.
+    met: false
   g:
     analysis: >-
       Relevant Quotes:
@@ -234,7 +274,8 @@ criteria:
 
       Outcomes were measured only up to the final exam at week 5; the
       study did not track students through course completion or later
-      graduation milestones.
+      graduation milestones. To our knowledge, the authors did not
+      publish any follow-up tracking these students beyond the course.
 
       Final sentence: Criterion G is not met because there is no
       post‑course follow‑up.
@@ -243,44 +284,6 @@ criteria:
     explanation: >-
       No tracking beyond the short 5‑week course was conducted.
     met: false
-  r:
-    analysis: >-
-      Detailed Analysis:
-
-      The article reports no independent replication, and a literature
-      search within the paper finds no mention of other teams repeating
-      the same intervention in a separate context.
-
-      Final sentence: Criterion R is not met; results have not been
-      independently reproduced.
-    quote: null
-    explanation: >-
-      No independent replication of this RCT is reported.
-    met: false
-  i:
-    analysis: >-
-      Relevant Quotes:
-
-      1) "The suggestion was delivered to a randomly selected group of
-      students … by the course instructor…"&#8203;
-
-      2) Acknowledgements note collaboration with the instructor and
-      internal lab.&#8203;
-
-      Detailed Analysis:
-
-      The research team designed the intervention, implemented it within
-      their own institution, and analyzed the data—no external evaluator
-      participated.
-
-      Final sentence: Criterion I is not met; conduct was not independent
-      of developers.
-    quote: >-
-      "…delivered to a randomly selected group of students … by the course
-      instructor…"
-    explanation: >-
-      The same team designed, implemented, and evaluated the study.
-    met: false
   p:
     analysis: >-
       Detailed Analysis:
@@ -288,7 +291,8 @@ criteria:
       The manuscript contains no registration ID, registry name, or
       statement of pre‑registration. A text search of the PDF reveals no
       occurrence of "prereg" or "registration" related to a study
-      protocol.
+      protocol. Additionally, we did not find any corresponding
+      pre-registration in trial registries (e.g., AEA or OSF).
 
       Final sentence: Criterion P is not met; the study was not
       pre‑registered.
