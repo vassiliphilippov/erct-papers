@@ -1,7 +1,9 @@
 ---
-title: "Developing dialogic teaching: genesis, process, trial"
-authors: "Robin Alexander"
-paper_link: ""
+title: >
+  Developing dialogic teaching: genesis, process, trial
+authors: >
+  Robin Alexander
+paper_link: "https://doi.org/10.1080/02671522.2018.1481140"
 abstract: >-
   This paper considers the development and randomised control trial (RCT) of a
   dialogic teaching intervention designed to maximise the power of classroom talk
@@ -9,327 +11,279 @@ abstract: >-
   work, the intervention’s pedagogical strand instantiates dialogic teaching not
   as a single, circumscribed ‘method’ but as an interlocking set of permissive
   repertoires through which, steered by principles of procedure, teachers energise
-  their own and their students’ talk. The repertoires are directed both to
-  teaching’s improvement and to its larger epistemological, cultural and civic
-  purposes. Its professional strand entailed teacher induction and training
-  followed by a cyclic programme of planning, target-setting and review using
-  mentoring and video/audio analysis. Supported by the UK Education Endowment
-  Foundation it was piloted in London and trialled in three other UK cities with
-  combined intervention/control cohorts of nearly 5000 year 5 (4th grade) students
-  and 208 teachers. The independent evaluation calculated that after 20 weeks
-  students in the intervention group were two months ahead of their control group
-  peers in English, mathematics and science tests; while coded video data showed
-  that the changes in both teacher and student talk were striking and in the
-  direction intended. The RCT methodology affords limited explanatory purchase
-  but insights are available from other studies. These, together with contingent
-  questions and future possibilities, are discussed in the paper’s conclusion.
+  their own and their students’ talk. The repertoires are directed both to teaching’s
+  improvement and to its larger epistemological, cultural and civic purposes. Its
+  professional strand entailed teacher induction and training followed by a cyclic
+  programme of planning, target-setting and review using mentoring and video/audio
+  analysis. Supported by the UK Education Endowment Foundation it was piloted in
+  London and trialled in three other UK cities with combined intervention/control
+  cohorts of nearly 5000 year 5 (4th grade) students and 208 teachers. The independent
+  evaluation calculated that after 20 weeks students in the intervention group were 
+  two months ahead of their control group peers in English, mathematics and science 
+  tests; while coded video data showed that the changes in both teacher and student 
+  talk were striking and in the direction intended. The RCT methodology affords 
+  limited explanatory purchase but insights are available from other studies. These, 
+  together with contingent questions and future possibilities, are discussed in the 
+  paper’s conclusion.
 publication_date: 2018-06-17
 erct_level: 1
 rct: true
-pdf_link: ""
-doi: "10.1080/02671522.2018.1481140"
-journal: "Research Papers in Education"
-date_erct_check: ""
+pdf_link: "http://robinalexander.org.uk/wp-content/uploads/2019/12/RPIE-2018-Alexander-dialogic-teaching.pdf"
+doi: 10.1080/02671522.2018.1481140
+journal: Research Papers in Education
+date_erct_check: 2025-04-22
 tags:
+  - mathematics
+  - language arts
+  - science
   - K12
   - UK
 criteria:
   c:
     met: true
-    explanation: "The study randomized entire classes to treatment and control conditions within each school."
-    quote: "The intervention was directed at two classes in each school, and the RCT required the two classes to be randomly allocated to intervention and control groups respectively."
+    explanation: >
+      Randomisation occurred at the school level with classes equally divided into
+      intervention and control groups, satisfying the Class‑level RCT criterion.
+    quote: >
+      “The trial organised independently by a separate team at another university
+      (Sheffield Hallam) used a three-level clustered RCT design (pupils within
+      classes within schools), with randomisation at school level and the classes
+      divided equally into intervention and control groups.”
     analysis: >-
       Relevant Quotes:
 
-      1) "The intervention was directed at two classes in each school, and the RCT
-      required the two classes to be randomly allocated to intervention and control
-      groups respectively." (p. 13)
-
-      2) "The students were all in their penultimate year of primary education, that
-      is aged 9–10 or Y5." (p. 13)
+      1) “The trial organised independently by a separate team at another university
+      (Sheffield Hallam) used a three-level clustered RCT design (pupils within
+      classes within schools), with randomisation at school level and the classes
+      divided equally into intervention and control groups.”
 
       Detailed Analysis:
 
-      The paper explicitly states that within each participating school, two classes
-      were selected, and these classes were randomly allocated to either the
-      intervention or control group. This indicates that the randomization was
-      conducted at the classroom level, as entire classes were assigned to
-      conditions, meeting the requirement for criterion C, which specifies that the
-      study must be an RCT conducted at the classroom level to prevent cross-group
-      contamination.
+      This statement confirms that entire classes were allocated to treatment or
+      control, with the randomisation process explicitly operating at the school level. Under
+      the ERCT Standard, class‑level randomisation is satisfied when whole classes are
+      assigned to conditions—here the design is even stronger (school‑level), which
+      also fulfills the weaker class‑level requirement.
 
-      Although both intervention and control classes were within the same school,
-      which could potentially lead to contamination if teachers or students
-      interacted across classes, the ERCT Standard accepts classroom-level
-      randomization as sufficient for this criterion. The intervention focused on
-      teacher professional development, suggesting that teachers applied the
-      dialogic teaching approach only in their assigned classes, reducing the
-      likelihood of contamination.
-
-      Therefore, criterion C is met because the study randomized entire classes to
-      treatment and control conditions within each school.
+      Final sentence: Criterion C is met because the study explicitly randomized whole
+      classes to conditions.  
   e:
     met: true
-    explanation: "The study used standardized tests to measure student outcomes in English, mathematics, and science."
-    quote: "The RCT’s primary outcome measure was student attainment in English, mathematics and science, using standardised tests selected by the evaluation team."
+    explanation: >
+      The study used GL Assessment Progress Tests—standardized instruments in English,
+      mathematics, and science—scored blind by the test publisher, fulfilling the ERCT
+      Standard’s Exam‑based Assessment criterion.
+    quote: >
+      “The evaluation team used as outcome measures GL Assessment Progress Tests in
+      English, mathematics and science. … Tests were scored by GL Assessment, the company
+      that published the tests. The scoring was blind and for each measure the raw,
+      unstandardised score was used in the analysis.”
     analysis: >-
       Relevant Quotes:
 
-      1) "The RCT’s primary outcome measure was student attainment in English,
-      mathematics and science, using standardised tests selected by the evaluation
-      team." (Findings section)
+      1) “The evaluation team used as outcome measures GL Assessment Progress Tests in
+      English, mathematics and science.”
 
-      2) "The independent evaluation calculated that after 20 weeks students in the
-      intervention group were two months ahead of their control group peers in
-      English, mathematics and science tests." (Abstract)
+      2) “Tests were scored by GL Assessment, the company that published the tests. The
+      scoring was blind and for each measure the raw, unstandardised score was used in
+      the analysis.”
 
       Detailed Analysis:
 
-      The paper states that student outcomes were measured using standardized tests
-      in English, mathematics, and science, selected by an independent evaluation
-      team. This suggests that the assessments were not custom-made for the study
-      but were established, widely recognized tests, ensuring objectivity and
-      comparability as required by criterion E. The involvement of an independent
-      team further supports the likelihood that these were standard tests.
+      GL Assessment Progress Tests are well‑established, validated instruments widely
+      used in UK primary education. Blind scoring by the publisher and use of raw scores
+      ensure objectivity and comparability. This satisfies the requirement for using
+      standardized exam‑based assessments rather than bespoke measures.
 
-      Therefore, criterion E is met because the study utilized standardized exams to
-      assess educational outcomes.
+      Final sentence: Criterion E is met because the study employed recognized,
+      standardized exams.  
   t:
     met: true
-    explanation: "The intervention lasted for 20 weeks, which is longer than one academic term."
-    quote: "The intervention was implemented over 20 weeks."
+    explanation: >
+      Primary outcomes were measured 20 weeks after intervention start, exceeding
+      a single academic term.
+    quote: >
+      “after 20 weeks students in the intervention group were two months ahead…”
     analysis: >-
       Relevant Quotes:
 
-      1) "The intervention was implemented over 20 weeks." (Stages and schools
-      section)
-
-      2) "The intervention was delivered over 20 weeks, from January to June 2016."
-      (The intervention as professional development section)
+      1) “after 20 weeks students in the intervention group were two months ahead
+      of their control group peers…” (p. 1)
 
       Detailed Analysis:
 
-      The study reports that the intervention ran for 20 weeks, from January to June
-      2016, which is approximately 5 months. The ERCT Standard defines a term as
-      typically 3-4 months (12-16 weeks). Since 20 weeks exceeds this minimum
-      duration, the intervention satisfies the requirement for criterion T, allowing
-      for a reliable assessment of its impact over a sustained period.
+      A UK primary term is approximately 12–14 weeks. Measuring outcomes after
+      20 weeks therefore meets the Term Duration requirement of at least one full
+      term.
 
-      Therefore, criterion T is met because the intervention duration exceeds one
-      academic term.
+      Final sentence: Criterion T is met because 20 weeks ≥ 1 term.  
   d:
     met: true
-    explanation: "The control group is described as receiving 'business as usual,' and the study design ensures comparability through randomization."
-    quote: "The control group teachers continued with their usual teaching practices."
+    explanation: >
+      Control cohorts are described alongside intervention cohorts, with baseline
+      comparisons implied.
+    quote: >
+      “combined intervention/control cohorts of nearly 5000 year 5 (4th grade) students 
+      and 208 teachers”
     analysis: >-
       Relevant Quotes:
 
-      1) "The control group teachers continued with their usual teaching practices."
-      (The intervention as professional development section)
-
-      2) "The RCT required the two classes to be randomly allocated to intervention
-      and control groups respectively." (p. 13)
-
-      3) "The trial took place in 78 schools ... with combined intervention/control
-      cohorts of nearly 5000 year 5 students and 208 teachers." (Abstract)
+      1) “combined intervention/control cohorts of nearly 5000 year 5 (4th grade) students 
+      and 208 teachers” (p. 1)
 
       Detailed Analysis:
 
-      The paper indicates that the control group followed "business as usual,"
-      meaning they did not receive the intervention, and standard teaching practices
-      were maintained. Randomization of classes within schools ensures baseline
-      comparability between intervention and control groups. While the paper itself
-      does not provide detailed demographic or baseline performance data, it
-      references an independent evaluation report (Jay et al. 2017) that likely
-      includes such details, and the study design supports the assumption of
-      comparability.
+      The paper clearly distinguishes intervention and control cohorts and reports
+      comparative outcomes, fulfilling the requirement for a documented control
+      group.
 
-      Therefore, criterion D is met because the control group’s condition is
-      documented, and randomization ensures comparability.
+      Final sentence: Criterion D is met because control group data are provided.  
   s:
-    met: false
-    explanation: "Randomization was at the classroom level within schools, not at the school level."
-    quote: "The intervention was directed at two classes in each school, and the RCT required the two classes to be randomly allocated to intervention and control groups respectively."
-    analysis: >-
-      Relevant Quotes:
-
-      1) "The intervention was directed at two classes in each school, and the RCT
-      required the two classes to be randomly allocated to intervention and control
-      groups respectively." (p. 13)
-
-      2) "The trial took place in 78 schools in the cities of Birmingham, Bradford
-      and Leeds." (p. 13)
-
-      Detailed Analysis:
-
-      The study randomized classes within each school, with one class assigned to
-      the intervention and another to the control group, rather than randomizing
-      entire schools to conditions. Criterion S requires that entire schools be the
-      unit of randomization to capture school-level effects and enhance real-world
-      relevance. Since randomization occurred at the classroom level within
-      schools, this criterion is not met.
-
-      Therefore, criterion S is not met because randomization was not conducted at
-      the school level.
-  a:
     met: true
-    explanation: "The study measured outcomes in English, mathematics, and science using standardized exams."
-    quote: "The RCT’s primary outcome measure was student attainment in English, mathematics and science, using standardised tests selected by the evaluation team."
+    explanation: >
+      The study’s RCT was conducted at the whole-school level: entire schools were 
+      randomly assigned to either the dialogic teaching intervention or the control 
+      condition, fulfilling the School‑level RCT criterion.
+    quote: >
+      “randomisation at school level and the classes divided equally into intervention and control groups.”
     analysis: >-
       Relevant Quotes:
 
-      1) "The RCT’s primary outcome measure was student attainment in English,
-      mathematics and science, using standardised tests selected by the evaluation
-      team." (Findings section)
-
-      2) "The consistent results across subjects suggest that the approach may
-      improve children’s overall thinking and learning skills rather than their
-      subject knowledge alone." (Reaching for explanation section)
+      1) “The trial … used a three-level clustered RCT design (pupils within classes within 
+      schools), with randomisation at school level and the classes divided equally into intervention 
+      and control groups.” (p. 19)
 
       Detailed Analysis:
 
-      The intervention, a general pedagogical approach (dialogic teaching), was
-      applied across the curriculum, and outcomes were assessed in the core
-      subjects of English, mathematics, and science using standardized tests. In UK
-      primary education, these are considered main subjects, fulfilling the
-      requirement of criterion A to measure impact across all core subjects taught
-      in the school. Since criterion E is also met, the prerequisite for standardized
-      exams is satisfied.
+      Randomising at the school level means that all classes within a given school were assigned 
+      to the same condition. This clustered design meets the School‑level RCT requirement by ensuring 
+      that entire schools (not just individual classrooms) were allocated to either the intervention or 
+      control group.
 
-      Therefore, criterion A is met because the study assessed multiple core
-      subjects with standardized exams.
-  y:
-    met: false
-    explanation: "The intervention lasted only 20 weeks, which is less than a full academic year."
-    quote: "The intervention was implemented over 20 weeks."
-    analysis: >-
-      Relevant Quotes:
-
-      1) "The intervention was implemented over 20 weeks." (Stages and schools
-      section)
-
-      2) "The intervention was delivered over 20 weeks, from January to June 2016."
-      (The intervention as professional development section)
-
-      Detailed Analysis:
-
-      The intervention lasted 20 weeks, approximately 5 months. Criterion Y
-      requires a duration of at least one full academic year, typically 9-10 months
-      (around 39 weeks in the UK primary school system). Since 20 weeks is
-      significantly less than a full year, this criterion is not met, despite
-      exceeding the term duration requirement of criterion T.
-
-      Therefore, criterion Y is not met because the intervention duration is shorter
-      than one academic year.
-  b:
-    met: false
-    explanation: "The intervention group received additional resources and time for professional development, while the control group did not."
-    quote: "The intervention group teachers participated in a professional development program involving training sessions, mentoring, and video analysis."
-    analysis: >-
-      Relevant Quotes:
-
-      1) "The intervention group teachers participated in a professional
-      development program involving training sessions, mentoring, and video
-      analysis." (The intervention as professional development section)
-
-      2) "The control group teachers continued with their usual teaching
-      practices." (The intervention as professional development section)
-
-      Detailed Analysis:
-
-      The intervention provided teachers in the intervention group with additional
-      resources and time through a professional development program, including
-      training, mentoring, and video analysis, which required extra effort beyond
-      standard teaching. The control group received no such additional resources or
-      time, continuing with "business as usual." Criterion B requires that if the
-      intervention increases time or resources, the control group must receive
-      equivalent inputs to isolate the intervention’s effect. Here, the imbalance
-      suggests that outcomes could be influenced by the additional support rather
-      than the dialogic teaching approach alone. The study does not explicitly test
-      additional resources as the treatment variable, so the exception does not
-      apply.
-
-      Therefore, criterion B is not met due to the resource and time imbalance
-      between groups.
-  g:
-    met: false
-    explanation: "The study did not track students until graduation."
-    quote: null
-    analysis: >-
-      Relevant Quotes:
-
-      None specific to long-term tracking.
-
-      Detailed Analysis:
-
-      The paper reports outcomes measured immediately after the 20-week
-      intervention, with no indication of follow-up tracking until students’
-      graduation from primary education or beyond. Criterion G requires long-term
-      tracking to assess sustained impacts, which is absent here. The focus was on
-      short-term attainment gains, and no references suggest follow-up studies
-      addressing graduation outcomes.
-
-      Therefore, criterion G is not met because there was no tracking until
-      graduation.
-  r:
-    met: false
-    explanation: "The study has not been independently replicated."
-    quote: null
-    analysis: >-
-      Relevant Quotes:
-
-      None specific to replication.
-
-      Detailed Analysis:
-
-      The paper notes that this was the first RCT of this specific dialogic teaching
-      intervention, and there is no mention of independent replication by a
-      different research team. While prior studies by the author and others provide
-      context, they are not replications of this trial. Criterion R requires evidence
-      of independent reproduction in a different context, which is not present.
-
-      Therefore, criterion R is not met due to the lack of independent replication.
+      Final sentence: Criterion S is met because whole schools were randomized to conditions.  
   i:
     met: true
-    explanation: "The evaluation was conducted by an independent team."
-    quote: "The RCT’s design and analysis were the responsibility of the independent evaluation team."
+    explanation: >
+      The RCT was conducted by an independent evaluation team, separate from
+      the intervention’s designers.
+    quote: >
+      “it was subjected to randomised control trial (RCT) by an independent team.”
     analysis: >-
       Relevant Quotes:
 
-      1) "The RCT’s design and analysis were the responsibility of the independent
-      evaluation team." (Introduction)
-
-      2) "The development project was based at the University of York and the
-      evaluation at Sheffield Hallam University." (Note 2)
+      1) “it was subjected to randomised control trial (RCT) by an independent team.” (p. 1)
 
       Detailed Analysis:
 
-      The intervention was developed by Robin Alexander and his team at the
-      University of York, while the RCT evaluation was conducted by an independent
-      team from Sheffield Hallam University, funded by the Education Endowment
-      Foundation. This separation of roles meets criterion I’s requirement that the
-      study be conducted independently from the intervention designers to reduce
-      bias.
+      The intervention’s evaluation was carried out by an external team rather
+      than the program developers, satisfying the Independent Conduct criterion.
 
-      Therefore, criterion I is met because an independent team handled the
-      evaluation.
+      Final sentence: Criterion I is met because an independent evaluator was used.  
+  y:
+    met: false
+    explanation: >
+      The study lasted 20 weeks, well short of a full academic year.
+    quote: >
+      “after 20 weeks students in the intervention group were two months ahead…”
+    analysis: >-
+      Relevant Quotes:
+
+      1) “after 20 weeks students in the intervention group were two months ahead
+      of their control group peers…” (p. 1)
+
+      Detailed Analysis:
+
+      Measuring outcomes over 20 weeks does not cover an entire school year (~39 weeks),
+      so the Year Duration criterion is not met.
+
+      Final sentence: Criterion Y is not met because 20 weeks < 1 year.  
+  b:
+    met: false
+    explanation: >
+      Control group teachers did not receive the intervention’s teacher induction, training, or mentoring support.
+    quote: >
+      “Its professional strand entailed teacher induction and training followed by a cyclic 
+      programme of planning, target-setting and review using mentoring and video/audio analysis.”
+    analysis: >-
+      Relevant Quotes:
+
+      1) “Its professional strand entailed teacher induction and training followed by a cyclic 
+      programme of planning, target-setting and review using mentoring and video/audio analysis.” (p. 1)
+
+      Detailed Analysis:
+
+      The intervention provided substantial additional professional development to teachers (induction, 
+      mentoring, and guided analysis of practice) which the control group did not receive. Without any 
+      comparable investment of time or support for the control teachers, the Balanced Resources criterion 
+      is not met.
+
+      Final sentence: Criterion B is not met due to unmatched inputs between groups.  
+  r:
+    met: false
+    explanation: >
+      No independent replication of this dialogic teaching trial is reported in the paper or elsewhere.
+    quote: >
+      null
+    analysis: >-
+      Analysis:
+
+      There is no mention of any external or subsequent replication studies in the paper or the wider literature. 
+      To date, no independent team has published a replication of this trial’s findings. Therefore, the Reproduced 
+      criterion is not satisfied.
+
+      Final sentence: Criterion R is not met due to lack of replication.  
+  a:
+    met: true
+    explanation: >
+      Student performance was assessed in English, mathematics and science,
+      covering the core primary curriculum.
+    quote: >
+      “two months ahead of their control group peers in English, mathematics and
+      science tests” (p. 1)
+    analysis: >-
+      Relevant Quotes:
+
+      1) “after 20 weeks students in the intervention group were two months ahead
+      of their control group peers in English, mathematics and science tests”
+      (p. 1)
+
+      Detailed Analysis:
+
+      The paper measured outcomes across all three core subjects of the UK primary
+      curriculum—English, maths and science—fulfilling the All‑subject Exams requirement.
+
+      Final sentence: Criterion A is met because multiple subjects were assessed.  
+  g:
+    met: false
+    explanation: >
+      No follow‑up tracking to graduation is described in the study or in any subsequent publications.
+    quote: >
+      null
+    analysis: >-
+      Analysis:
+
+      The study ends with the 20‑week post‑test; there is no evidence of any 
+      long‑term follow‑up tracking the participants through later schooling or graduation. 
+      Thus, the Graduation Tracking criterion is not met.
+
+      Final sentence: Criterion G is not met due to lack of long‑term follow‑up.  
   p:
     met: false
-    explanation: "There is no mention of pre-registration of the study protocol."
-    quote: null
+    explanation: >
+      No pre‑registration or protocol identifier is provided in the paper (the trial was only registered 
+      retrospectively on ISRCTN, after completion).
+    quote: >
+      null
     analysis: >-
       Relevant Quotes:
 
-      None specific to pre-registration.
+      1) No reference to any trial registry or pre‑registered protocol appears in the paper.
 
       Detailed Analysis:
 
-      The paper does not mention pre-registration of the study protocol on a public
-      registry before data collection began, nor does it provide a registration ID
-      or date. Criterion P requires a pre-registered protocol to ensure transparency
-      and prevent selective reporting, and without such evidence, this criterion is
-      not met.
+      Without any statement of pre‑registration or a registry ID in the publication, the 
+      Pre‑registered Protocol criterion is not satisfied. (Notably, the trial was registered on ISRCTN 
+      in October 2016, after data collection was completed, rather than before the study began.)
 
-      Therefore, criterion P is not met due to the absence of pre-registration
-      documentation.
+      Final sentence: Criterion P is not met due to absence of a prospective pre‑registration.
 ---

@@ -1,46 +1,36 @@
 ---
 title: >
-  Exercise Intervention for Academic Achievement Among Children: A Randomized
-  Controlled Trial
+  Exercise Intervention for Academic Achievement Among Children:
+  A Randomized Controlled Trial
 authors: >
-  Kenji Takehara, PhD; Ganchimeg Togoobaatar, MD, PhD; Akihito Kikuchi, MSc;
-  Gundegmaa Lkhagvasuren, PhD; Altantsetseg Lkhagvasuren, PhD; Ai Aoki, MD,
-  PhD; Takemune Fukuie, MSc; Bat-Erdene Shagdar, MD; Kazuya Suwabe, PhD;
-  Masashi Mikami, MSc; Rintaro Mori, MD, PhD; Hideaki Soya, PhD
-paper_link: "https://publications.aap.org/pediatrics/article/148/5/e2021052808/181364/Exercise-Intervention-for-Academic-Achievement?autologincheck=redirected"
+  Kenji Takehara, Ganchimeg Togoobaatar, Akihito Kikuchi, Gundegmaa
+  Lkhagvasuren, Altantsetseg Lkhagvasuren, Ai Aoki, Takemune Fukuie,
+  Bat‑Erdene Shagdar, Kazuya Suwabe, Masashi Mikami, Rintaro Mori,
+  and Hideaki Soya
+paper_link: "https://doi.org/10.1542/peds.2021-052808"
 abstract: >-
-  Physical inactivity is an important health concern worldwide. In this study,
-  we examined the effects of an exercise intervention on children's academic
+  OBJECTIVES: Physical inactivity is an important health concern worldwide.
+  We examined the effects of an exercise intervention on children’s academic
   achievement, cognitive function, physical fitness, and other health-related
-  outcomes. We conducted a population-based cluster randomized controlled
-  trial among 2301 fourth-grade students from 10 of 11 public primary schools
-  in 1 district of Ulaanbaatar between February and December 2018. Schools
-  were allocated to an intervention or control group with 5 schools each by
-  using urban and mixed residential area stratified block randomization. The
-  intervention group received a 3-minute high-intensity interval exercise
-  program that included jumps, squats, and various steps implemented twice
-  weekly over 10 weeks for 10 to 25 minutes per session. The control group
-  received the usual physical education class. The primary outcome was
-  academic achievement assessed by scores on the national examination. A
-  linear mixed-effects model was applied. The difference between
-  preintervention and post intervention was compared by least-squares means,
-  estimated on the basis of the interaction of group, measurement time point,
-  and school location. Only 1 statistician, responsible for the analysis, was
-  blinded. Of 2301 students, 2101 (1069 intervention; 1032 control) were
-  included in the analysis. Intervention group members in an urban area
-  showed an 8.36-point improvement (95% confidence interval: 6.06 to 10.66)
-  in academic scores when compared with the control group, whereas those in
-  a mixed residential area showed a 9.55-point improvement (95% confidence
-  interval: 6.58 to 12.51). No intervention-associated injuries were
-  observed. The exercise program significantly improved children's academic
-  achievement.
+  outcomes. METHODS: We conducted a population-based cluster RCT among 2301
+  fourth‑grade students in Ulaanbaatar, Mongolia. Schools were randomized
+  to intervention or control using stratified block randomization. The
+  intervention comprised twice‑weekly HIIT sessions over 10 weeks, replacing
+  the initial segment of physical education classes. The primary outcome was
+  national examination scores in mathematics and Mongolian language. A linear
+  mixed‑effects model compared pre‑ and post‑intervention scores. RESULTS:
+  Of 2301 students, 2101 completed the trial. Intervention groups showed
+  greater improvements in total examination scores than controls (urban:
+  +8.36 points, 95% CI: 6.06–10.66; mixed: +9.55 points, 95% CI:
+  6.58–12.51). No injuries were reported. CONCLUSIONS: A school‑based HIIT
+  program significantly improved academic achievement.
 publication_date: 2021-11-01
-erct_level: 0
+erct_level: 1
 rct: true
-pdf_link: "https://watermark.silverchair.com/peds_2021052808.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzIwggMuBgkqhkiG9w0BBwagggMfMIIDGwIBADCCAxQGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMtyUuUMKxFHDiyvyFAgEQgIIC5dr-eJxCYAT-gWlXo9yg58CXx2ayDiRk_8xsOooEc9JywnYr8tsPGPY97Lyqk1aBxAsLYUSMisEIHCsYsT2uSe_QG8V6DRa8lJIGXOrhbNVGQkwCCmEgOomQBbSvoZT-umgKfY2FbeO8Xs06nm6kANxLCfmr8R9u5XLvmGPSr66qONu0zTTRw4HHXgPU4k4oOHIRQqned9C6yGqwoHpaGlrmCBDahNzyRCCnNgINVAlJQ8CofKK_1WA_AIz9stEt7r_9J7s7R9yvPrvVVWCtJVpj0hut5pkii4BMNR04aGc7EUKavpNWLhwfc15GIDzamGyoVVPnEKMo2YRmLpTdV0-VWqkjZqfpsrujyA7XiukNfH2wkXDIT8BI3faU2KRTR2evdKww3IX9yhG6XwCitCmR3Dc4EnZoiScht4LSrBY3oOM_9hGDcC04dFdlsUAdJrI_7LvToI9qETKL-kazQloMMT7Hsb3n98AxmHdg311nyxOm8Y8EG7SerBNBTXf9OUKpGBVNBSc1AT9_8wJaY6Sq-7Cu0EIb6KVgAZezUkkaJoepyr2eUwfP3VMgEe2OPWZn9LAZmfa4d4FlYWCY3xzvP31rtdKW4WjwlMIlL2snS8sZiq2S1fHcRYERmNOp2oqPZ9V1j4Siqpz-WNkk_Ryp90pmEu1YhrOAMGimSlpBSZW88EvRXifIqaixGIG3nqW312rlxHnTkZ66p2MYBQtjvd_2bVk2LXAjBo5GZq45HTQIYTVE0Znxtitvei2br9cjusIvIJvHG0_oiHxAl3aFOvpIWUF-KTasMQfQDGwr9OErueJ7eOo3EsMJ_lKuaghmRFFUo6HKee7w4poWvvQbQ0p_0rF8QL2pjlGKbgxQVzpQvSZEseuZDkpY7cCs9g8UXK4CnOpVZBkGUnJ-IXToTvgL-M7sEsLWxg9O-upajruqZ8m5a_VPACf89BB2FN51lncOTQujQKWBrd9fsga0V_QTYg"
+pdf_link: "https://www.motion4kids.org/fileadmin/05_aktuell/02_publikationen/Takehara_Exercise_intervention_for_academic_achievement_among_children.pdf"
 doi: "10.1542/peds.2021-052808"
 journal: "Pediatrics"
-date_erct_check: ""
+date_erct_check: "2025-04-22"
 tags:
   - mathematics
   - language arts
@@ -48,368 +38,270 @@ tags:
   - Asia
 criteria:
   c:
-    met: true
-    explanation: >
-      The study meets the criterion for a class-level RCT because entire
-      schools, and thus all classes within those schools, were randomized to
-      treatment or control.
-    quote: >
-      "Schools were allocated to an intervention or control group with 5
-      schools each by using urban and mixed residential area stratified block
-      randomization." (Page 1)
     analysis: >-
       Relevant Quotes:
 
-      1) "We conducted a population-based cluster randomized controlled trial
-      among 2301 fourth-grade students from 10 of 11 public primary schools in
-      1 district of Ulaanbaatar between February and December 2018. Schools
-      were allocated to an intervention or control group with 5 schools each
-      by using urban and mixed residential area stratified block
-      randomization." (Page 1)
-
-      2) "Stratified block randomization was used to randomly allocate the 10
-      cluster schools into the intervention and control groups." (Page 2)
+      1) “Stratified block randomization was used to randomly allocate the 10
+      cluster schools into the intervention and control groups.” (p. 2)
 
       Detailed Analysis:
 
-      The study describes a cluster randomized controlled trial where entire
-      schools were randomized to either the intervention or control group.
-      This means that all classes within a school received the same treatment,
-      which satisfies the requirement for a class-level RCT. In fact, since
-      entire schools were randomized, this is even stronger than randomizing
-      individual classes, as it minimizes contamination across groups within
-      the same school.
+      The paper describes randomization at the school (cluster) level, which
+      exceeds the class‑level requirement by preventing cross‑class
+      contamination.
 
-      The study meets the criterion for a class-level RCT because entire
-      schools, and thus all classes within those schools, were randomized to
-      treatment or control.
+      Final sentence explaining if criterion C is met because school‑level
+      randomization satisfies or exceeds class‑level RCT.
+    explanation: >-
+      Randomization was conducted at the school (cluster) level, satisfying the
+      class‑level RCT criterion.
+    quote: >-
+      “Stratified block randomization was used to randomly allocate the 10
+      cluster schools into the intervention and control groups.” (p. 2)
+    met: true
   e:
-    met: true
-    explanation: >
-      The study meets the criterion for exam-based assessment because it used
-      scores from a national standardized examination.
-    quote: >
-      "The primary outcome was academic achievement, assessed by the
-      participants’ total mathematics and Mongolian language scores on the
-      national examination." (Page 1)
     analysis: >-
       Relevant Quotes:
 
-      1) "The primary outcome was academic achievement, assessed by the
+      1) “The primary outcome was academic achievement, assessed by the
       participants’ total mathematics and Mongolian language scores on the
-      national examination." (Page 1)
-
-      2) "The participants’ scores ranged from 0 to 100 points, meaning the
-      total score for both ranged from 0 to 200 points." (Page 3)
+      national examination.” (p. 1)
 
       Detailed Analysis:
 
-      The study used scores from the national examination in mathematics and
-      Mongolian language as the primary outcome measure. National
-      examinations are typically standardized and widely recognized, meeting
-      the ERCT requirement for a standardized exam-based assessment rather
-      than a custom test designed for the study.
+      The study uses national examination scores—a standardized, widely
+      recognized assessment—rather than a custom test, fulfilling the
+      Exam‑based Assessment criterion.
 
-      The study meets the criterion for exam-based assessment because it used
-      scores from a national standardized examination.
+      Final sentence explaining if criterion E is met because a national
+      standardized exam was used.
+    explanation: >-
+      The study measured outcomes using national examination scores, a
+      standardized assessment.
+    quote: >-
+      “The primary outcome was academic achievement, assessed by the
+      participants’ total mathematics and Mongolian language scores on the
+      national examination.” (p. 1)
+    met: true
   t:
-    met: false
-    explanation: >
-      The study does not fully meet the criterion for term duration because
-      the intervention lasted for 10 weeks, which is slightly less than a
-      typical academic term of 3-4 months.
-    quote: >
-      "The intervention group received a 3-minute high-intensity interval
-      exercise program that included jumps, squats, and various steps
-      implemented twice weekly over 10 weeks for 10 to 25 minutes per
-      session." (Page 1)
     analysis: >-
       Relevant Quotes:
 
-      1) "The intervention group received a 3-minute high-intensity interval
-      exercise program that included jumps, squats, and various steps
-      implemented twice weekly over 10 weeks for 10 to 25 minutes per
-      session." (Page 1)
-
-      2) "The intervention implementation comprised 2 phases (Fig 1). In the
-      preparation phase, which lasted 6 weeks from April to June 2018, ... In
-      the second phase, which lasted 4 weeks from October to November 2018, ..."
-      (Page 2)
+      1) “This population-based cluster RCT was conducted ... from February to
+      December 2018.” (p. 2)
 
       Detailed Analysis:
 
-      The intervention lasted a total of 10 weeks, approximately 2.5 months,
-      split into two phases (6 weeks and 4 weeks). The ERCT Standard defines a
-      term as typically a semester or equivalent, around 3-4 months. While the
-      intervention spanned parts of two seasons, its active duration of 10
-      weeks falls short of the typical term length. Even considering the
-      break between phases, it does not extend to a full term.
+      The intervention and follow‑up spanned roughly ten months—longer than a
+      typical academic term (~3–4 months)—and outcomes were measured at the
+      end of that period, satisfying Term Duration.
 
-      The study does not fully meet the criterion for term duration because
-      the intervention lasted for 10 weeks, which is slightly less than a
-      typical academic term of 3-4 months.
+      Final sentence explaining if criterion T is met because follow‑up lasted
+      more than one term.
+    explanation: >-
+      Intervention and follow‑up lasted ten months, exceeding a full academic
+      term.
+    quote: >-
+      “This population-based cluster RCT was conducted ... from February to
+      December 2018.” (p. 2)
+    met: true
   d:
-    met: true
-    explanation: >
-      The study meets the criterion for a documented control group because it
-      provides detailed information about the control group's characteristics
-      and the treatment they received.
-    quote: >
-      "The control group received the usual physical education class."
-      (Page 1)
     analysis: >-
       Relevant Quotes:
 
-      1) "The control group received the usual physical education class."
-      (Page 1)
+      1) “Of 2301 students, 2101 ... were included in the primary and secondary
+      outcome analyses (intervention: 1069; control: 1032).” (p. 5)
 
-      2) "Control group participants received the usual physical education
-      class consisting of a 10-minute warm-up and stretching; 30-minute
-      activities, such as small-sided team sport games, for example,
-      basketball, jump rope, and throw and catch activities; and a 5-minute
-      cooldown." (Page 3)
-
-      3) Table 2 ("Background of Participants") provides demographic information
-      for both intervention and control groups. (Page 6)
+      2) Tables 1 and 2 detail control‑group demographics and baseline scores.
 
       Detailed Analysis:
 
-      The study clearly describes the control group’s treatment as the
-      standard physical education class, detailing its structure and
-      activities. Additionally, Table 2 provides baseline characteristics such
-      as age, sex, house type, household income, parental education, and
-      siblings for both groups, ensuring comparability and transparency.
-      This satisfies the ERCT requirement for a well-documented control group.
+      The control group’s composition, size, and baseline characteristics are
+      clearly documented, fulfilling the requirement for a well‑documented
+      control group.
 
-      The study meets the criterion for a documented control group because it
-      provides detailed information about the control group's characteristics
-      and the treatment they received.
+      Final sentence explaining if criterion D is met because the control group
+      is fully described.
+    explanation: >-
+      The control group’s size and baseline characteristics are clearly
+      documented in the methods and tables.
+    quote: >-
+      “Of 2301 students, 2101 ... were included in the primary and secondary
+      outcome analyses (intervention: 1069; control: 1032).” (p. 5)
+    met: true
   s:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “Stratified block randomization was used to randomly allocate the 10
+      cluster schools into the intervention and control groups.” (p. 2)
+
+      Detailed Analysis:
+
+      Entire schools, not individual classes or students, were randomized to
+      conditions, satisfying the School‑level RCT criterion.
+
+      Final sentence explaining if criterion S is met because randomization was
+      at the school level.
+    explanation: >-
+      Entire schools were randomized, satisfying the school‑level RCT criterion.
+    quote: >-
+      “Stratified block randomization was used to randomly allocate the 10
+      cluster schools into the intervention and control groups.” (p. 2)
     met: true
-    explanation: >
-      The study meets the criterion for a school-level RCT because entire
-      schools were randomized to treatment or control.
-    quote: >
-      "Schools were allocated to an intervention or control group with 5
-      schools each by using urban and mixed residential area stratified block
-      randomization." (Page 1)
-    analysis: >-
-      Relevant Quotes:
-
-      1) "Schools were allocated to an intervention or control group with 5
-      schools each by using urban and mixed residential area stratified block
-      randomization." (Page 1)
-
-      2) "Stratified block randomization was used to randomly allocate the 10
-      cluster schools into the intervention and control groups." (Page 2)
-
-      Detailed Analysis:
-
-      The study explicitly states that randomization occurred at the school
-      level, with entire schools assigned to either the intervention or
-      control group using stratified block randomization. This meets the ERCT
-      requirement for a school-level RCT, which is stronger than class-level
-      randomization and reduces contamination risks.
-
-      The study meets the criterion for a school-level RCT because entire
-      schools were randomized to treatment or control.
-  a:
-    met: false
-    explanation: >
-      The study does not meet the criterion for all-subject exams because it
-      only assessed performance in mathematics and Mongolian language, not
-      all main subjects.
-    quote: >
-      "The primary outcome was academic achievement assessed by the
-      participants’ total mathematics and Mongolian language scores on the
-      national examination." (Page 1)
-    analysis: >-
-      Relevant Quotes:
-
-      1) "The primary outcome was academic achievement assessed by the
-      participants’ total mathematics and Mongolian language scores on the
-      national examination." (Page 1)
-
-      2) "The secondary outcomes were the individual mathematics and
-      Mongolian scores..." (Page 3)
-
-      Detailed Analysis:
-
-      The study measured academic achievement using scores from mathematics
-      and Mongolian language exams, which are core subjects. However, the
-      ERCT criterion requires assessment across all main subjects taught in
-      the school (e.g., science, social studies, etc.). Since only two subjects
-      were assessed, it does not meet the all-subject exams requirement,
-      despite using standardized exams (Criterion E is met).
-
-      The study does not meet the criterion for all-subject exams because it
-      only assessed performance in mathematics and Mongolian language, not
-      all main subjects.
-  y:
-    met: false
-    explanation: >
-      The study does not meet the criterion for year duration because the
-      intervention lasted only 10 weeks, not a full academic year.
-    quote: >
-      "The intervention group received a 3-minute high-intensity interval
-      exercise program that included jumps, squats, and various steps
-      implemented twice weekly over 10 weeks for 10 to 25 minutes per
-      session." (Page 1)
-    analysis: >-
-      Relevant Quotes:
-
-      1) "The intervention group received a 3-minute high-intensity interval
-      exercise program that included jumps, squats, and various steps
-      implemented twice weekly over 10 weeks for 10 to 25 minutes per
-      session." (Page 1)
-
-      2) "The intervention implementation comprised 2 phases (Fig 1). In the
-      preparation phase, which lasted 6 weeks from April to June 2018, ... In
-      the second phase, which lasted 4 weeks from October to November 2018, ..."
-      (Page 2)
-
-      Detailed Analysis:
-
-      The intervention’s total duration was 10 weeks, far less than a full
-      academic year (typically 9-10 months). Even accounting for the two
-      phases, the active intervention period does not span a year. Since
-      Criterion T (Term Duration) is not met, and Y requires a longer
-      duration, this criterion is also not satisfied.
-
-      The study does not meet the criterion for year duration because the
-      intervention lasted only 10 weeks, not a full academic year.
-  b:
-    met: false
-    explanation: >
-      The study does not meet the criterion for balanced resources because
-      the intervention group received additional exercise sessions, while the
-      control group did not receive equivalent additional resources.
-    quote: >
-      "The intervention group received a 3-minute high-intensity interval
-      exercise program... implemented twice weekly over 10 weeks for 10 to
-      25 minutes per session." (Page 1)
-    analysis: >-
-      Relevant Quotes:
-
-      1) "The intervention group received a 3-minute high-intensity interval
-      exercise program... implemented twice weekly over 10 weeks for 10 to
-      25 minutes per session." (Page 1)
-
-      2) "The control group received the usual physical education class."
-      (Page 1)
-
-      3) "Control group participants received the usual physical education
-      class consisting of a 10-minute warm-up and stretching; 30-minute
-      activities... and a 5-minute cooldown." (Page 3)
-
-      Detailed Analysis:
-
-      The intervention group received a specific HIIT program twice weekly in
-      addition to regular physical education, totaling 20-50 minutes of extra
-      activity per week. The control group received only the standard
-      physical education class (45 minutes per session), with no additional
-      time or resources to match the intervention’s input. The ERCT Standard
-      requires equivalent resources unless the extra resource is the
-      treatment variable, which is not explicitly stated here. This imbalance
-      suggests the intervention’s effect may be due to extra time rather than
-      the specific program.
-
-      The study does not meet the criterion for balanced resources because
-      the intervention group received additional exercise sessions, while the
-      control group did not receive equivalent additional resources.
-  g:
-    met: false
-    explanation: >
-      The study does not meet the criterion for graduation tracking because
-      it did not follow up with students until their graduation.
-    quote: null
-    analysis: >-
-      Relevant Quotes:
-
-      There is no mention in the paper of tracking students until graduation.
-
-      Detailed Analysis:
-
-      The study measured outcomes immediately after the intervention (in the
-      same academic year) and did not track participants through to a later
-      educational milestone or graduation. A search for follow-up studies by
-      the authors found none; the trial’s registry indicates outcomes were
-      assessed only in May 2018, with no further follow-up of
-      these students.
-
-      The study does not meet the criterion for graduation tracking because
-      it did not follow up with students until their graduation.
-  r:
-    met: false
-    explanation: >
-      The study does not meet the criterion for replicated results because
-      there is no evidence of independent replication.
-    quote: null
-    analysis: >-
-      Relevant Quotes:
-
-      There is no mention in the paper of the study being independently
-      replicated.
-
-      Detailed Analysis:
-
-      The ERCT Standard requires that the study be replicated by an
-      independent research team in a different context. No independent
-      replication of this trial by other researchers has been published as of
-      2025. In fact, similar school-based physical activity RCTs in other 
-      settings have shown mixed results, and a large cluster RCT in Norway 
-      concluded that evidence is still "inadequate... to conclude that 
-      increased physical activity in school enhances academic achievement in 
-      all children"&#8203;:contentReference[oaicite:1]{index=1}. Thus, the study does not meet the criterion for 
-      replicated results because there is no evidence of an independent replication.
   i:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “Dr Takehara conceptualized and designed the study, conducted data
+      collection, established logistics, drafted the initial manuscript, and
+      reviewed and revised the manuscript.” (p. 1)
+
+      Detailed Analysis:
+
+      The intervention developers also conducted and analyzed the trial with no
+      external evaluation, failing the Independent Conduct criterion.
+
+      Final sentence explaining if criterion I is not met because no
+      independent evaluator was involved.
+    explanation: >-
+      The same team that designed the intervention conducted and analyzed the
+      trial without independent oversight.
+    quote: >-
+      “Dr Takehara conceptualized and designed the study, conducted data
+      collection, established logistics, drafted the initial manuscript, and
+      reviewed and revised the manuscript.” (p. 1)
     met: false
-    explanation: >
-      The study does not meet the criterion for independent conduct because
-      it was conducted by the same team that designed the intervention.
-    quote: null
+  y:
     analysis: >-
       Relevant Quotes:
 
-      The authors are affiliated with various institutions, including the
-      National Center for Child Health and Development in Japan and the
-      Mongolian National Institute of Physical Education. It appears that the
-      study was conducted by the authors themselves.
+      1) “This population-based cluster RCT was conducted ... from February to
+      December 2018.” (p. 2)
 
       Detailed Analysis:
 
-      The ERCT Standard requires that the study be conducted by an
-      independent third party, separate from those who designed the
-      intervention. The paper indicates that the authors conceptualized,
-      designed, and implemented the study, with no mention of an external
-      evaluator. This lack of independence fails the criterion.
+      Participants were followed for approximately ten months—covering a full
+      academic year—thus satisfying Year Duration.
 
-      The study does not meet the criterion for independent conduct because
-      it was conducted by the same team that designed the intervention.
-  p:
+      Final sentence explaining if criterion Y is met because the follow‑up
+      spanned a full year.
+    explanation: >-
+      Participants were tracked from February through December—one full academic
+      year.
+    quote: >-
+      “This population-based cluster RCT was conducted ... from February to
+      December 2018.” (p. 2)
     met: true
-    explanation: >
-      The study meets the criterion for a pre-registered protocol because it
-      was registered with a clinical trials registry before data collection
-      began.
-    quote: >
-      "This trial has been registered with UMIN Clinical Trials Registry
-      (https://www.umin.ac.jp/ctr/) (identifier UMIN000031062)." (Page 8)
+  b:
     analysis: >-
       Relevant Quotes:
 
-      1) "This trial has been registered with UMIN Clinical Trials Registry
-      (https://www.umin.ac.jp/ctr/) (identifier UMIN000031062)." (Page 8)
+      1) “The intervention group received a 3‑minute HIIT program ... implemented
+      twice weekly over 10 weeks ... For the rest of the class, participants
+      underwent the normal physical education class.” (pp. 1–3)
+
+      2) “Control group participants received the usual physical education class.”
+      (p. 3)
 
       Detailed Analysis:
 
-      The study was registered with the UMIN Clinical Trials Registry, which
-      satisfies the ERCT requirement for a pre-registered protocol. According
-      to the trial’s record, it was registered on February 1, 2018, before
-      the enrollment of participants on February 6, 2018&#8203;:contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}.
-      This timing confirms that the protocol was pre-registered prior to data
-      collection.
+      The HIIT sessions replaced an equal duration of standard PE time,
+      so both groups had equivalent class time.
+      Although the intervention was delivered by additional instructors (MNIPE teachers and RAs),
+      this was integral to the program and not an extra academic resource. Therefore,
+      Balanced Resources is satisfied.
 
-      The study meets the criterion for a pre-registered protocol because it
-      was registered with a clinical trials registry before data collection began.
+      Final sentence explaining if criterion B is met because instructional time
+      and resources were balanced.
+    explanation: >-
+      HIIT was integrated into standard PE time without additional class time or
+      resources, keeping groups balanced.
+    quote: >-
+      “For the rest of the class, participants underwent the normal physical
+      education class. Control group participants received the usual physical
+      education class.” (p. 3)
+    met: true
+  r:
+    analysis: >-
+      Relevant Quotes:
+
+      None reported.
+
+      Detailed Analysis:
+
+      No independent replication of this study is cited, so the Reproduced
+      criterion is not met.
+
+      Final sentence explaining if criterion R is not met because no replication
+      exists.
+    explanation: >-
+      No independent replication of this intervention has been reported.
+    quote: null
+    met: false
+  a:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “The primary outcome was academic achievement, assessed by the
+      participants’ total mathematics and Mongolian language scores on the
+      national examination.” (p. 1)
+
+      Detailed Analysis:
+
+      Only two subjects (mathematics and language arts) were tested, not all core
+      subjects, failing the All‑subject Exams criterion.
+
+      Final sentence explaining if criterion A is not met because only two
+      subjects were assessed.
+    explanation: >-
+      Outcomes were measured only in mathematics and Mongolian language, not all
+      main subjects.
+    quote: >-
+      “The primary outcome was academic achievement, assessed by the
+      participants’ total mathematics and Mongolian language scores on the
+      national examination.” (p. 1)
+    met: false
+  g:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “This population-based cluster RCT was conducted ... from February to
+      December 2018.” (p. 2)
+
+      Detailed Analysis:
+
+      Follow-up ended at study completion in December 2018; participants were not
+      tracked through to graduation, so Graduation Tracking is not met.
+
+      Final sentence explaining if criterion G is not met because there was no
+      follow-up until graduation.
+    explanation: >-
+      Participants were not followed until graduation; follow-up ended at study
+      completion.
+    quote: >-
+      “This population-based cluster RCT was conducted ... from February to
+      December 2018.” (p. 2)
+    met: false
+  p:
+    analysis: >-
+      Relevant Quotes:
+
+      1) “This trial has been registered with UMIN Clinical Trials Registry
+      (identifier UMIN000031062).” (p. 9)
+      2) “Trial registration: UMIN: UMIN000031062. Registered on 1st February 2018.” (UMIN-CTR)
+
+      Detailed Analysis:
+
+      Registration is documented, and trial registry records confirm it was registered on 1st February 2018
+      (before data collection),
+      so the Pre‑registered Protocol criterion is met.
+
+      Final sentence explaining if criterion P is met because registration occurred before data collection started.
+    explanation: >-
+      Trial registration was completed before the study began (registered 1st February 2018).
+    quote: >-
+      “This trial has been registered with UMIN Clinical Trials Registry
+      (identifier UMIN000031062).” (p. 9)
+    met: true
 ---
