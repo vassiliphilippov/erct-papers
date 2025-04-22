@@ -5,7 +5,7 @@ title: >
 authors: >
   Louis Deslauriers, Logan S. McCarty, Kelly Miller,
   Kristina Callaghan, Greg Kestin
-paper_link: "https://doi.org/10.1073/pnas.1821936116"
+paper_link: "https://www.pnas.org/doi/10.1073/pnas.1821936116"
 abstract: >-
   We compared students’ self-reported perception of learning
   with their actual learning under controlled conditions in

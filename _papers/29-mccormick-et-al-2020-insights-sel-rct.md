@@ -6,7 +6,7 @@ authors: >
   Meghan P. McCormick, Robin Neuhaus, Erin E. O’Connor,
   Hope I. White, E. Parham Horn, Samantha Harding,
   Elise Cappella, and Sandee McClowry
-paper_link: ""
+paper_link: "https://www.tandfonline.com/doi/abs/10.1080/19345747.2020.1831117"
 abstract: >-
   Social‑Emotional Learning (SEL) programs are school‑based preventive
   interventions that aim to improve children’s social‑emotional skills and
@@ -29,7 +29,7 @@ abstract: >-
 publication_date: 2020-11-03
 erct_level: 1
 rct: true
-pdf_link: 
+pdf_link: "https://files.eric.ed.gov/fulltext/ED609940.pdf"
 doi: 10.1080/19345747.2020.1831117 
 journal: Journal of Research on Educational Effectiveness 
 date_erct_check: 
