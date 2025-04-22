@@ -38,7 +38,7 @@ abstract: >-
 publication_date: 2019-10-21
 erct_level: 0
 rct: true
-pdf_link: "https://pubs.acs.org/doi/pdf/10.1021/acs.jchemed.9b00767"
+pdf_link: ""
 doi: 10.1021/acs.jchemed.9b00767
 journal: Journal of Chemical Education
 date_erct_check: 2025-04-21
