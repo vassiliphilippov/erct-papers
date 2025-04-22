@@ -4,7 +4,7 @@ title: >
   Student Performance
 authors: >
   Sarojini R. Hirshleifer
-paper_link: "https://doi.org/10.5072/FK23J3JR55"
+paper_link: "https://escholarship.org/uc/item/9hz5b8g9"
 abstract: >-
   This randomized experiment implemented with school children in India
   directly tests an input incentive designed to increase effort on learning
