@@ -1,5 +1,4 @@
 ---
-
 title: >
   Technology and Child Development: Evidence from the One Laptop per
   Child Program
