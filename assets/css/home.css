@@ -563,7 +563,7 @@
     margin-inline: -1rem; /* 16/16 */
   }
   .block-level {
-    padding-block: 1.5rem; /* 24/16 */
+    padding-block: 1rem; /* 24/16 */
     row-gap: 3.5rem; /* 56/16 */
   }
   .block-level__level {
