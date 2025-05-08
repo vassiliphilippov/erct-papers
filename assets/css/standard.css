@@ -449,6 +449,9 @@
     font-size: 1.125rem;
     line-height: 1.6;
 }
+  .section-header__content {
+    font-size: 1.125rem;
+  }
   .approach__text {
     font-size: 1.125rem;
     line-height: 1.6;
