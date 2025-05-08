@@ -371,6 +371,14 @@
   .introduction__container {
     max-width: 87.25rem; /* 1396/16 */
     padding-inline: 3rem; /* 48/16 */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .framework__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
   .list-cards {
     grid-template-columns: repeat(4, minmax(10rem, 1fr));
