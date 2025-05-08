@@ -564,7 +564,7 @@
   .block-studies__text,
   .studies__top,
   .studies__block {
-    margin-block-end: 1.5rem; /* 24/16 */
+    margin-block-end: 1rem; /* 24/16 */
   }
   .suggest__container {
     row-gap: 2rem; /* 32/16 */
