@@ -449,7 +449,7 @@
     font-size: 1.125rem;
     line-height: 1.6;
 }
-  .section-header__content {
+  .section-header__content li {
     font-size: 1.125rem;
   }
   .approach__text {
