@@ -501,6 +501,7 @@
   }
   .hero__inner {
     padding-block: 3.5rem; /* 56/16 */
+    text-align: left;
   }
   .hero__title {
     font-size: 2.5rem; /* 40/16 */
@@ -515,6 +516,10 @@
   .studies__title {
     font-size: 2rem; /* 32/16 */
     line-height: 1.188; /* 118.75% */
+    text-align: left;
+  }
+  .framework__text {
+    text-align: left;
   }
   .studies__title {
     margin-block-end: 1.5rem; /* 24/16 */
@@ -537,6 +542,7 @@
 @media (max-width: 47.9988em) {
   .hero__container {
     padding-inline: 0;
+    
   }
   .hero__inner {
     padding-inline: 1rem; /* 16/16 */
@@ -566,9 +572,11 @@
 }
 @media (max-width: 29.9988em) {
   .hero__title {
-    font-size: 1.75rem; /* 28/16 */
-    line-height: 1.426; /* 142.857% */
+    font-size: 1.8rem; /* 28/16 */
+    line-height: 1.5; /* 142.857% */
     margin-block-end: 2rem; /* 32/16 */
+    text-align: left;
+    }
   }
   .framework__title,
   .block-level__title,
