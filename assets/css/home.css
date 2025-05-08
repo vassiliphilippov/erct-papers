@@ -535,6 +535,10 @@
   .list-cards {
     gap: 1rem; /* 16/16 */
   }
+  .list-cards__text {
+    font-size: 1.125rem;
+    line-height: 1.6;
+}
   .suggest__container {
     max-inline-size: 50rem; /* 800/16 */
     column-gap: 2rem; /* 32/16 */
