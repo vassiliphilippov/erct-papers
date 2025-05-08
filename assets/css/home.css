@@ -460,6 +460,7 @@
   .suggest__container {
     grid-template-columns: 528fr 462fr;
   }
+
 }
 @media (min-width: 47.9988em) {
   .list-cards {
@@ -554,6 +555,9 @@
   }
   .hero__inner {
     padding-inline: 1rem; /* 16/16 */
+  }
+  .framework__links {
+    text-align: left;
   }
   .framework__block-level {
     margin-inline: -1rem; /* 16/16 */
