@@ -363,7 +363,7 @@
   justify-content: center;
   inline-size: fit-content;
   column-gap: 0.5rem; /* 8/16 */
-  padding-block: 0.4375rem; /* 7/16 */
+  /*padding-block: 0.4375rem; /* 7/16 */
   padding-inline: 1.4375rem 0.9375rem; /* 15/16 */
 }
 .link--icon-right {
@@ -564,7 +564,7 @@
   }
   .request__links {
     max-inline-size: 20rem; /* 320/16 */
-    margin-inline: auto;
+    /*margin-inline: auto;*/
   }
   .request__link {
     inline-size: 100%;
