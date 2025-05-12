@@ -498,15 +498,28 @@
   .request__link {
     min-inline-size: auto;
   }
+  .abstract__text {
+    font-size: 1.125rem;
+    line-height: 1.6;
+  }
+  
   .level-criteria__title {
     margin-block-end: 1.5rem; /* 24/16 */
   }
   .stage {
     row-gap: 2.5rem; /* 40/16 */
   }
+  .stage li {
+    font-size: 1.125rem;
+    line-height: 1.6;
+  }
   .suggest__container {
     max-inline-size: 50rem; /* 800/16 */
     column-gap: 2rem; /* 32/16 */
+  }
+  .suggest_text {
+    font-size: 1.125rem;
+    line-height: 1.6;
   }
   .study-actions__links {
     text-align: center;
