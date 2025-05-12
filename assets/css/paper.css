@@ -522,7 +522,7 @@
     line-height: 1.6;
   }
   .study-actions__links {
-    text-align: center;
+    text-align: left;
   }
 }
 @media (max-width: 47.9988em) {
