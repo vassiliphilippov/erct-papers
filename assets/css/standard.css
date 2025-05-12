@@ -451,6 +451,7 @@
 }
   .section-header__content li {
     font-size: 1.125rem;
+    line-height: 1.6;
   }
   .approach__text {
     font-size: 1.125rem;
