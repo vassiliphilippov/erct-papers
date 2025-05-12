@@ -457,6 +457,12 @@
     font-size: 1.125rem;
     line-height: 1.6;
 }
+   .approach__subtitle {
+    font-size: 1.125rem;
+}
+  .approach__list li::before {
+    line-height: 1.4;
+  }
   .suggest {
     padding-block: 2.5rem 5.5rem; /* 88/16 */
   }
@@ -498,6 +504,8 @@
   .details {
     padding-block: 1.5rem; /* 24/16 */
     margin-inline: -1rem; /* 16/16 */
+    padding-right: 1rem;
+    padding-left: 1rem;
   }
   .details__title {
     font-size: 2.5rem; /* 40/16 */
