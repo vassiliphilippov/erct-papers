@@ -9,7 +9,11 @@
 						{% assign met_count = met_count | plus: 1 %}
 					{% endif %}
 				{% endfor %}
-				{% assign percentage = met_count | times: 100 | divided_by: criteria_count %}
+				{% if criteria_count > 0 %}
+					{% assign percentage = met_count | times: 100 | divided_by: criteria_count %}
+				{% else %}
+					{% assign percentage = 0 %}
+				{% endif %}
 				{% assign angle = 314 | times: percentage | divided_by: 100 %}
 				{% assign dash_offset = 314 | minus: angle | plus: 20 %}
 				<svg viewBox="0 0 100 100">
@@ -29,17 +33,19 @@
 				</svg>
 			</div>
 			<ul class="progress__lessons lessons">
-				{% for criterion in page.criteria %}
-				{% assign letter = criterion[0] | upcase %}
-				{% assign details = criterion[1] %}
-				<li class="lessons__{% if details.met %}active{% else %}inactive{% endif %}">{{ letter }}
-					<div class="lessons__info">
-						<h2 class="lessons__title">{{ details.explanation }}</h2>
-						<p class="lessons__text">
-							{{ details.quote }}
-						</p>
-					</div>
-				</li>
+				{% assign criteria_order = "c,e,t,d,s,i,y,b,r,a,g,p" | split: ',' %}
+				{% for letter in criteria_order %}
+					{% assign criterion = page.criteria[letter] %}
+					{% if criterion %}
+						<li class="lessons__{% if criterion.met %}active{% else %}inactive{% endif %}">{{ letter | upcase }}
+							<div class="lessons__info">
+								<h2 class="lessons__title">{{ criterion.explanation }}</h2>
+								<p class="lessons__text">
+									{{ criterion.quote }}
+								</p>
+							</div>
+						</li>
+					{% endif %}
 				{% endfor %}
 			</ul>
 		</div>

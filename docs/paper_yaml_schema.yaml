@@ -4,7 +4,7 @@
 # Top level structure
 title: str(required=True)
 authors: str(required=True) 
-paper_link: regex(r'^https?://.+', required=True)
+paper_link: regex(r'^$|^https?://.+', required=True)
 abstract: str(required=False)
 publication_date: date(required=False)
 erct_level: int(min=0, max=3, required=True)
@@ -19,7 +19,7 @@ tags: list(enum('mathematics', 'reading', 'L2 languages', 'pay-to-learn', 'homew
               'EU', 'Canada', 'Latam', 'Australia', 'gamification', 'flipped classroom', 
               'parent involvement', 'project-based learning', 'blended learning', 
               'EdTech website', 'EdTech app', 'EdTech platform', 'online homework', 
-              'digital assessment', 'mobile learning'), required=False)
+              'digital assessment', 'mobile learning', 'formative assessment'), required=False)
 
 # Criteria substructure
 criteria: include('criteria')

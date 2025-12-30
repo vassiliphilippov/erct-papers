@@ -86,7 +86,7 @@ title: "ERCT - Educational RCT Standard"
           <li class="list-cards__item">
             <article class="list-cards__article">
               <h4 class="list-cards__title">Year Duration</h4>
-              <p class="list-cards__text">Ensures studies last at least one academic term to measure
+              <p class="list-cards__text">Ensures studies last at least one academic year to measure
                 meaningful impacts</p>
             </article>
           </li>
@@ -107,7 +107,7 @@ title: "ERCT - Educational RCT Standard"
           <li class="list-cards__item">
             <article class="list-cards__article">
               <h4 class="list-cards__title">Reproduced</h4>
-              <p class="list-cards__text">Uses standardized exams for objective and comparable results
+              <p class="list-cards__text">Independently replicated study
               </p>
             </article>
           </li>
@@ -202,7 +202,11 @@ title: "ERCT - Educational RCT Standard"
                       {% assign met_count = met_count | plus: 1 %}
                     {% endif %}
                   {% endfor %}
-                  {% assign percentage = met_count | times: 1000 | divided_by: criteria_count %}
+                  {% if criteria_count > 0 %}
+                    {% assign percentage = met_count | times: 1000 | divided_by: criteria_count %}
+                  {% else %}
+                    {% assign percentage = 0 %}
+                  {% endif %}
                   {% assign angle = 314 | times: percentage | divided_by: 1000 %}
                   {% assign stroke_offset = 314 | minus: angle | plus: 20 %}
                   <svg viewBox="0 0 100 100">
@@ -227,7 +231,7 @@ title: "ERCT - Educational RCT Standard"
                               {% when 't' %}Term Duration
                               {% when 'd' %}Documented Control Group
                               {% when 's' %}School-level RCT
-                              {% when 'a' %}All Exams
+                              {% when 'a' %}All-subject Exams
                               {% when 'y' %}Year Duration
                               {% when 'b' %}Balanced Resources
                               {% when 'g' %}Graduation Tracking

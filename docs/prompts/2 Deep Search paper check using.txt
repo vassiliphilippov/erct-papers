@@ -32,7 +32,7 @@ The following text provides the detailed instructions how to do that.
 
 # 1. Background
 
-I have developed the ERCT Standard; see attached. The ERCT Standard is designed to valuate educational RCT research papers
+I have developed the ERCT Standard; see attached. The ERCT Standard is designed to evaluate educational RCT research papers
 against additional criteria.
 
 I have already reviewed one paper (see attached) and created a YAML file with the report. I need this YAML file to follows
@@ -87,7 +87,7 @@ paper but in subsequent papers by the same authors.
 I want you to look for such papers in all available sources. If you find such papers, 
 provide paper id (title, authors, year) and provide relevant quotes and analysis 
 of them. Please pay special attention to provide exact verbatim quotes from the 
-papers. Please write if you cannot fine them , but don't try to make up quotes.
+papers. Please write if you cannot find them , but don't try to make up quotes.
 
 Then update the G section in the YAML report with the correct information.
 
@@ -97,7 +97,7 @@ This criteriod "Reproduced" is about other studies by other authors reproducing
 this study. I want you to carefully search for other relevant papers if all
 available sources are checked. If you find such papers, provide paper id (title,
 authors, year) and relevant quotes and analysis of them. Please pay special attention to 
-provide exact verbatim quotes from the papers. Please write if you cannot fine
+provide exact verbatim quotes from the papers. Please write if you cannot find
 them , but don't try to make up quotes.
 
 Then update the R section in the YAML report with the correct information.
@@ -144,7 +144,7 @@ or any similar tags) are present in the final YAML output.
 Your output should be a markdown file for GitHub pages with valid YAML inside.
 
 ## 3.2 Maximum Line Length
-Ensure each line does not exceed 70 symbols, use line breaks to make the text more readable.
+Ensure each line does not exceed 80 symbols, use line breaks to make the text more readable.
 
 ## 3.3 YAML Schema
 Your YAML should follow the following schema:
@@ -155,7 +155,7 @@ Your YAML should follow the following schema:
 # Top level structure
 title: str(required=True)
 authors: str(required=True) 
-paper_link: regex(r'^https?://.+', required=True)
+paper_link: regex(r'^$|^https?://.+', required=True)
 abstract: str(required=False)
 publication_date: date(required=False)
 erct_level: int(min=0, max=3, required=True)
@@ -170,7 +170,7 @@ tags: list(enum('mathematics', 'reading', 'L2 languages', 'pay-to-learn', 'homew
               'EU', 'Canada', 'Latam', 'Australia', 'gamification', 'flipped classroom', 
               'parent involvement', 'project-based learning', 'blended learning', 
               'EdTech website', 'EdTech app', 'EdTech platform', 'online homework', 
-              'digital assessment', 'mobile learning'), required=False)
+              'digital assessment', 'mobile learning', 'formative assessment'), required=False)
 
 # Criteria substructure
 criteria: include('criteria')
@@ -234,7 +234,7 @@ If some analysis fields are structured differently please rewrite them.
 
 Note empty lines between quotes and all paragraphs in this field.
 
-Note that lines should not be more than 80 symbos and next line should be right after the beginning of the previous like in the example below.
+Note that lines should not be more than 80 symbols and next line should be right after the beginning of the previous like in the example below.
 Formatting example:
 ```
     analysis: >-
@@ -277,68 +277,15 @@ comparable educational inputs.
 
 After you identify additional resources in the intervention group 
 (like additional teacher professional development, additional time, etc),
-you need to check if this additional resource was an integram part of the tested
+you need to check if this additional resource was an integral part of the tested
 intervention or it was an additional optional resource not an integral 
 part of the intervention how it was defined in the paper. 
 
 If this additional resource is an integral part of the intervention then 
 if doesn't automatically violate this criterion B. However make sure that 
-this additional resouce is clearly mentioned in your analysis and the summary.
+this additional resource is clearly mentioned in your analysis and the summary.
 
-#### Criterion A:
-If criterion E (Exam-based Assessment) is not met, then this criterion is not met either.
-
-#### Criterion Y:
-If criterion T (Term Duration) is not met, then this criterion is not met.
-
-#### Criterion Y:
-If criterion Y (Year Duration) is not met, then this criterion is not met.
-
-#### Criterion G:
-The results about tracking until graduation can be described not in this 
-paper but in subsequent papers by the same authors 
-I want you to look for such papers in available sources. If you find such papers, 
-provide paper id (title, authors, year) and provide relevant quotes and analysis 
-of them. Please pay special attention to provide exact verbatim quotes from the 
-papers. Please write if you cannot fine them , but don't try to make up quotes.
-
-#### Criterion R:
-This criteriod "Reproduced" is about other studies by other authors reproducing 
-this study. I want you to carefully search for other relevant papers if all
-available sources are checked. If you find such papers, provide paper id (title,
-authors, year) and relevant quotes and analysis of them. Please pay special attention to 
-provide exact verbatim quotes from the papers. Please write if you cannot fine
-them , but don't try to make up quotes.
-
-#### Criterion B:
-In your analysis, compare the nature, quantity, and quality of resources 
-(e.g., time, budget, materials) provided to both intervention and control 
-conditions, including within-subjects baseline periods. Describe whether 
-the control condition offers a comparable substitute for the intervention’s 
-inputs (e.g., equivalent educational time or alternative activities). 
-If not, explain how this imbalance affects the study’s ability to isolate 
-the intervention’s effect, unless the study explicitly tests additional 
-resources as the treatment variable (quote evidence of this intent).
-
-Please note, than when an intervention explicitly tests the impact of 
-additional resources (e.g., extra tutoring time or materials) as the primary
-treatment variable, the control group may receive the standard 
-'business as usual' level without additional resources, provided this is clearly 
-stated as the study’s intent. Otherwise, any increase in time or budget in 
-the intervention group must be matched in the control group with 
-comparable educational inputs.
-
-After you identify additional resources in the intervention group 
-(like additional teacher professional development, additional time, etc),
-you need to check if this additional resource was an integram part of the tested
-intervention or it was an additional optional resource not an integral 
-part of the intervention how it was defined in the paper. 
-
-If this additional resource is an integral part of the intervention then 
-if doesn't automatically violate this criterion B. However make sure that 
-this additional resouce is clearly mentioned in your analysis and the summary.
-
-BE VERY CAREFUL WITH THIS CRITERION. MANY PEOPLE FAIL MARKINGTHIS CRITERION.
+BE VERY CAREFUL WITH THIS CRITERION. MANY PEOPLE FAIL MARKING THIS CRITERION.
 Use the following pseudo code decision tree to make your decision regarding 
 criterion B:
 
@@ -395,6 +342,31 @@ function evaluateCriterionB(paper) {
   return notMet();
 }
 ```
+
+#### Criterion A:
+If criterion E (Exam-based Assessment) is not met, then this criterion is not met either.
+
+#### Criterion Y:
+If criterion T (Term Duration) is not met, then this criterion is not met.
+
+#### Criterion G:
+If criterion Y (Year Duration) is not met, then this criterion is not met.
+
+The results about tracking until graduation can be described not in this 
+paper but in subsequent papers by the same authors. 
+I want you to look for such papers in available sources. If you find such papers, 
+provide paper id (title, authors, year) and provide relevant quotes and analysis 
+of them. Please pay special attention to provide exact verbatim quotes from the 
+papers. Please write if you cannot find them, but don't try to make up quotes.
+
+#### Criterion R:
+This criteriod "Reproduced" is about other studies by other authors reproducing 
+this study. I want you to carefully search for other relevant papers if all
+available sources are checked. If you find such papers, provide paper id (title,
+authors, year) and relevant quotes and analysis of them. Please pay special attention to 
+provide exact verbatim quotes from the papers. Please write if you cannot find
+them , but don't try to make up quotes.
+
 
 ## 3.5 Text Format
 

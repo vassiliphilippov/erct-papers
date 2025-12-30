@@ -28,10 +28,10 @@ The following text provides the detailed instructions how to do that.
 
 # 1. Background
 
-I have developed the ERCT Standard; see attached. The ERCT Standard is designed to valuate educational RCT research papers
+I have developed the ERCT Standard; see attached. The ERCT Standard is designed to evaluate educational RCT research papers
 against additional criteria.
 
-Please check the attached paper (I have provided both PDF and text versions). 
+Please check the attached paper (I have provided PDF versions). 
 
 I want you to check this paper against the ERCT standard following the provided step by step instructions 
 and produce the results report in the specified YAML file format.
@@ -46,10 +46,6 @@ Find and write in the format of my YAML file the following general information a
 * publication_date
 * doi
 * journal
-* paper_link - file the link to the original paper
-* pdf_link - a link to the PDF version of the paper if it is available, otherwise leave blank
-* date_erct_check - today's date
-
 
 ## 2.2 Is this an RCT?
 Determine whether this paper reports an original RCT in education that measures educational outcomes 
@@ -105,7 +101,7 @@ Technology:
 * digital assessment
 * mobile learning
 * formative assessment
- 
+
 The tags section should be just a list of tags like this example:
 ```
 tags:
@@ -117,7 +113,7 @@ tags:
   - online homework
 ```
 
-Each tag should be one of the list above. 
+Each tag should be one of the list above.  
 
 ## 2.4 Analyze 12 Criteria
 For each of 12 criteria perform a comprehensive analysis including:
@@ -125,7 +121,7 @@ For each of 12 criteria perform a comprehensive analysis including:
 paper (with page numbers if available) and include all of them in the analysis field.
 * output detailed analysis based on the criterion description from the standard and the relevant quotes and general paper content if this criterion is met or not and why
 * output final one sentence explanation whether this criterion is met or not and why
-* output the most relevant quote that illustrates in the best way why this criterion is met or not
+* output the most relevant quote
 * output the final verdict
 * output a complete criterion section in YAML format following my specification
 
@@ -137,7 +133,11 @@ If in additional to all level 1 criteria also all level 2 criteria are met (S, I
 If in additional to all level 1 and 2 criteria also all level 3 criteria are met (R, A, G, P), set erct_level to 3.
 
 ## 2.6 Output the final YAML
-Output the final YAML following my output specification. 
+Output the final YAML following my output specification. Keep the following three links blank so far:
+* paper_link
+* pdf_link
+* date_erct_check
+
 
 # 3. Output Specification
 
@@ -158,7 +158,7 @@ Your YAML should follow the following schema:
 # Top level structure
 title: str(required=True)
 authors: str(required=True) 
-paper_link: regex(r'^https?://.+', required=True)
+paper_link: regex(r'^$|^https?://.+', required=True)
 abstract: str(required=False)
 publication_date: date(required=False)
 erct_level: int(min=0, max=3, required=True)
@@ -173,7 +173,7 @@ tags: list(enum('mathematics', 'reading', 'L2 languages', 'pay-to-learn', 'homew
               'EU', 'Canada', 'Latam', 'Australia', 'gamification', 'flipped classroom', 
               'parent involvement', 'project-based learning', 'blended learning', 
               'EdTech website', 'EdTech app', 'EdTech platform', 'online homework', 
-              'digital assessment', 'mobile learning'), required=False)
+              'digital assessment', 'mobile learning', 'formative assessment'), required=False)
 
 # Criteria substructure
 criteria: include('criteria')
@@ -201,6 +201,7 @@ criterion:
   explanation: str(required=True)
   quote: any(required=False)
   analysis: str(required=True)
+
 ```
 
 ## 3.4 Criteria Field Description
@@ -268,15 +269,15 @@ comparable educational inputs.
 
 After you identify additional resources in the intervention group 
 (like additional teacher professional development, additional time, etc),
-you need to check if this additional resource was an integram part of the tested
+you need to check if this additional resource was an integral part of the tested
 intervention or it was an additional optional resource not an integral 
 part of the intervention how it was defined in the paper. 
 
 If this additional resource is an integral part of the intervention then 
 if doesn't automatically violate this criterion B. However make sure that 
-this additional resouce is clearly mentioned in your analysis and the summary.
+this additional resource is clearly mentioned in your analysis and the summary.
 
-BE VERY CAREFUL WITH THIS CRITERION. MANY PEOPLE FAIL MARKINGTHIS CRITERION.
+BE VERY CAREFUL WITH THIS CRITERION. MANY PEOPLE FAIL MARKING THIS CRITERION.
 Use the following pseudo code decision tree to make your decision regarding 
 criterion B:
 
@@ -343,26 +344,6 @@ If criterion T (Term Duration) is not met, then this criterion is not met.
 #### Criterion G:
 If criterion Y (Year Duration) is not met, then this criterion is not met.
 
-#### Criterion G:
-The results about tracking until graduation can be described not in this 
-paper but in subsequent papers by the same authors 
-I want you to look for such papers in available sources. If you find such papers, 
-provide paper id (title, authors, year) and provide relevant quotes and analysis 
-of them. Please pay special attention to provide exact verbatim quotes from the 
-papers. Please write if you cannot fine them , but don't try to make up quotes.
-
-#### Criterion R:
-This criteriod "Reproduced" is about other studies by other authors reproducing 
-this study. I want you to carefully search for other relevant papers if all
-available sources are checked. If you find such papers, provide paper id (title,
-authors, year) and relevant quotes and analysis of them. Please pay special attention to 
-provide exact verbatim quotes from the papers. Please write if you cannot fine
-them , but don't try to make up quotes.
-
-## 3.5 Text Format
-
-VERY IMPORTANT: Don't include references like ":contentReference[oaicite:1]{index=1}" 
-in the output text!
 
 # 4. Output Examples
 
@@ -375,7 +356,7 @@ title: >
 authors: >
   Matthew D. Casselman, Kinnari Atit, Grace Henbest, Cybill Guregyan,
   Kiana Mortezaei, and Jack F. Eichler
-paper_link: "https://doi.org/10.1021/acs.jchemed.9b00767"
+paper_link: ""
 abstract: >-
   In order to compare the impact of the preclass online learning environment to
   the in-class collaborative activities typically done in a flipped classroom,
@@ -390,10 +371,10 @@ abstract: >-
 publication_date: 2019-11-01
 erct_level: 0
 rct: true
-pdf_link: ""
-doi: "10.1021/acs.jchemed.9b00767"
-journal: "Journal of Chemical Education"
-date_erct_check: "2025-03-09"
+pdf_link: 
+doi: 10.1021/acs.jchemed.9b00767
+journal: Journal of Chemical Education
+date_erct_check: 
 tags:
   - science
   - higher education
@@ -648,7 +629,7 @@ criteria:
 title: The effects of computer-assisted adaptive instruction and elaborated feedback on
   learning outcomes. A randomized control trial
 authors: Kaat Iterbeke, Kristof De Witte, Wouter Schelfhout
-paper_link: "https://doi.org/10.1016/j.chb.2020.106666"
+paper_link: ""
 abstract: >-
   Using a computer-based learning environment, the present paper studied the effects
   of adaptive instruction and elaborated feedback on the learning outcomes of secondary
@@ -673,7 +654,7 @@ rct: true
 pdf_link: ""
 doi: "10.1016/j.chb.2020.106666"
 journal: "Computers in Human Behavior"
-date_erct_check: "2025-03-09"
+date_erct_check: 
 tags:
   - K12
   - EU

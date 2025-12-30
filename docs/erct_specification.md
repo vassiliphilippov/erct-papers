@@ -47,7 +47,7 @@ Removes bias by using third-party evaluators
 #### Year Duration (Y)
 Ensures studies last at least one academic year to measure meaningful impacts
 
-#### Balanced Resources (B)
+#### Balanced Control Group (B)
 Ensures equal time and resources for both groups to isolate the intervention's impact
 
 ### Level 3: Top
