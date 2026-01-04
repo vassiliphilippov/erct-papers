@@ -3,7 +3,7 @@ title: >-
   Integrating learning platforms within regular school time: experimental evidence
   from Chilean primary schools
 authors: Roberto Araya, Elena Arias Ortiz, Nicolas Bottan, Julian Cristia
-paper_link: ""
+paper_link: "https://www.sciencedirect.com/science/article/abs/pii/S0272775725000275"
 abstract: >-
   This paper presents results from a randomized evaluation of a bundled program
   employing an external coordinator to aid 4th grade teachers with the
