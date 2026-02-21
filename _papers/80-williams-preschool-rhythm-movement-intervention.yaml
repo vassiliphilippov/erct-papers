@@ -1,0 +1,530 @@
+---
+title: >-
+  A Preschool Rhythm and Movement Intervention: RCT Evidence for
+  Improved Social and Behavioral Development
+authors: >-
+  Kate E. Williams and Laura Bentley
+paper_link: "https://doi.org/10.3390/bs16010100"
+abstract: >-
+  Active music and movement engagement has been widely integrated in
+  human socialization across history and cultures, and is particularly
+  prevalent in early childhood play and learning. For clinical
+  populations, music therapy is known to support social skills and
+  wellbeing for young children. However, there is less evidence for the
+  value of active music engagement for non-clinical populations in terms
+  of supporting social and behavioral wellbeing in the early years. This
+  study reports results from the Rhythm and Movement for Self-Regulation
+  (RAMSR) program delivered by generalist kindergarten teachers in low
+  socioeconomic communities. This randomized control trial involved 213
+  children across eight preschools in disadvantaged communities in
+  Queensland, Australia. The intervention group received 16 to 20
+  sessions of RAMSR over eight weeks, while the control group undertook
+  usual preschool programs. Data was collected through teacher report at
+  pre and post intervention, and again six months later once children
+  had transitioned into their first year of school. Robust mixed models
+  accounting for repeated measures and clustering of children within
+  kindergartens (random effects), evidenced significant intervention
+  effects across the three time points for improved prosocial skills
+  (p = 0.04, np2 = 0.02), and reduced externalizing (p < 0.01,
+  np2 = 0.03) and internalizing behavior problems (p = 0.04;
+  np2 = 0.02), with small to moderate effect sizes. These findings
+  highlight the valuable role that intentional active music engagement
+  in universal settings such as preschool can play in terms of social
+  and behavioral wellbeing.
+publication_date: 2026-01-12
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12838153/pdf/
+  behavsci-16-00100.pdf
+doi: 10.3390/bs16010100
+journal: Behavioral Sciences
+date_erct_check: 2026-02-21
+tags:
+  - kindergarten
+  - Australia
+criteria:
+  c:
+    met: true
+    explanation: >-
+      Randomization occurred at the kindergarten-center (cluster) level,
+      which meets or exceeds the class-level randomization requirement.
+    quote: >-
+      "This research employed a clustered randomized control trial..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This research employed a clustered randomized control trial
+      with approval from the Queensland University of Technology Human
+      Research Ethics Committee (approval number 1900000566), and is
+      registered with the Australian New Zealand Clinical Trials
+      Registry, ACTRN12619001342101."
+
+      2) "In brief, this study involved eight kindergarten centers in
+      Queensland, Australia (the year before formal schooling in this
+      jurisdiction). Eight centers were randomized to achieve adequate
+      statistical power at the cluster level while preserving a
+      balanced and feasible design."
+
+      Detailed Analysis:
+
+      Criterion C requires random assignment at the class level (or a
+      stronger unit, such as school/center) to reduce contamination
+      between treatment and control students sharing the same classroom
+      context.
+
+      The paper explicitly describes a "clustered randomized control
+      trial" and states that "eight kindergarten centers were
+      randomized," indicating the unit of randomization is the center
+      (a level above individual classrooms and students).
+
+      This meets (and exceeds) class-level randomization because entire
+      centers were assigned to conditions rather than mixing treatment
+      and control children within the same class.
+
+      Final Summary: Criterion C is met because the study randomized at
+      the kindergarten-center (cluster) level.
+  e:
+    met: false
+    explanation: >-
+      Outcomes were measured via teacher-report questionnaires rather
+      than standardized exam-based assessments.
+    quote: >-
+      "Data was collected through teacher report at pre and post
+      intervention..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Data was collected through teacher report at pre and post
+      intervention, and again six months later once children had
+      transitioned into their first year of school."
+
+      2) "We used four subscales from the Child Self-Regulation and
+      Behavior Questionnaire (CSBQ) (Howard & Melhuish, 2017) which is
+      an educator report requiring the respondent to evaluate the
+      general frequency of target behaviors on a scale of 1 (not true)
+      to 5 (certainly true)."
+
+      Detailed Analysis:
+
+      Criterion E requires standardized exam-based assessments (i.e.,
+      widely recognized standardized academic tests) as the primary
+      outcome measurement approach.
+
+      The study reports that data were collected via teacher report,
+      and the Measures section specifies educator-report questionnaire
+      subscales (CSBQ). These are not standardized academic exams.
+
+      Final Summary: Criterion E is not met because outcomes are based
+      on teacher-report rating scales rather than standardized exams.
+  t:
+    met: true
+    explanation: >-
+      Outcomes were measured at least six months after baseline, which
+      exceeds one academic term from intervention commencement to the
+      latest follow-up measurement.
+    quote: >-
+      "A further six-month follow-up (T3) occurred after children
+      transitioned to their first year of school, known locally as
+      Prep."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The intervention group received 16 to 20 sessions of RAMSR
+      over eight weeks, while the control group undertook usual
+      preschool programs."
+
+      2) "Baseline assessments (T1) were conducted, followed by
+      reassessment six months later, immediately after participation in
+      the intervention (n = 4 centers) or the control condition
+      (n = 4 centers). A further six-month follow-up (T3) occurred
+      after children transitioned to their first year of school, known
+      locally as Prep."
+
+      Detailed Analysis:
+
+      Criterion T requires that outcomes are measured at least one full
+      academic term (typically about 3 to 4 months) after the
+      intervention begins, to avoid relying only on immediate
+      post-intervention outcomes.
+
+      The paper reports measurement at baseline (T1), then again six
+      months later (T2), and then a further six-month follow-up (T3).
+      Regardless of the intervention's eight-week delivery window, the
+      existence of a follow-up timepoint six months after the prior
+      assessment implies at least term-length tracking beyond the start
+      of the intervention program and its initial delivery period.
+
+      Final Summary: Criterion T is met because the study includes
+      follow-up outcome measurement well beyond one academic term.
+  d:
+    met: true
+    explanation: >-
+      The paper documents the control condition and provides control
+      group sample size and demographics.
+    quote: >-
+      "The intervention group received 16 to 20 sessions of RAMSR over
+      eight weeks, while the control group undertook usual preschool
+      programs."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The intervention group received 16 to 20 sessions of RAMSR
+      over eight weeks, while the control group undertook usual
+      preschool programs."
+
+      2) "Table 1. Demographic data for intervention and control groups.
+      Whole Sample N = 213 Intervention (n = 112, 53%) Control
+      (n = 101, 47%)."
+
+      3) "Teachers in the control condition were provided with a one-off
+      webinar recording of professional learning related to children’s
+      self-regulation development, and were provided with the full
+      RAMSR training following completion of the study."
+
+      Detailed Analysis:
+
+      Criterion D requires a clearly described control group, including
+      what the control group did (or did not) receive and enough
+      information to understand comparability (e.g., sizes and
+      characteristics).
+
+      The paper states the control group undertook "usual preschool
+      programs" and further specifies an active element for control
+      teachers (a one-off webinar). It also provides group sizes and
+      demographic data in Table 1.
+
+      Final Summary: Criterion D is met because the control condition is
+      clearly described and baseline group information is reported.
+  s:
+    met: true
+    explanation: >-
+      Entire kindergarten centers (sites) were randomized, satisfying
+      the school-level RCT requirement.
+    quote: >-
+      "In brief, this study involved eight kindergarten centers in
+      Queensland, Australia... Eight centers were randomized..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "In brief, this study involved eight kindergarten centers in
+      Queensland, Australia (the year before formal schooling in this
+      jurisdiction). Eight centers were randomized to achieve adequate
+      statistical power at the cluster level while preserving a
+      balanced and feasible design."
+
+      Detailed Analysis:
+
+      Criterion S requires randomization at the school/site/center
+      level (the institutional unit implementing the intervention).
+
+      The paper explicitly states that eight kindergarten centers were
+      randomized, which is randomization at the site/center level.
+
+      Final Summary: Criterion S is met because randomization occurred
+      at the kindergarten-center level.
+  i:
+    met: false
+    explanation: >-
+      The paper does not clearly document that the evaluation was
+      conducted independently from the intervention's designers.
+    quote: >-
+      "Author Contributions: Conceptualization, K.E.W.; methodology,
+      K.E.W.; formal analysis, L.B.; ..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "RAMSR is a result of the collaboration between music
+      therapists, music specialists and early childhood educators who
+      aimed to draw together evidence and practice from music
+      psychology, formal music education, and clinical music therapy to
+      design an intervention that can be implemented by any adult
+      working with children aged 3 to 8 years (Williams, 2018)."
+
+      2) "Author Contributions: Conceptualization, K.E.W.; methodology,
+      K.E.W.; formal analysis, L.B.; resources, K.E.W.; data curation,
+      L.B.; writing—original draft preparation, K.E.W. and L.B.; writing—
+      review and editing, K.E.W. and L.B.; supervision, K.E.W.; project
+      administration, L.B.; funding acquisition, K.E.W."
+
+      Detailed Analysis:
+
+      Criterion I requires evidence that study conduct and evaluation
+      are independent from the intervention designers/providers to
+      reduce risk of bias.
+
+      The paper describes RAMSR as a designed intervention and the
+      author-contributions statement shows the authors led core study
+      functions (conceptualization, methodology, resources, supervision,
+      and analysis). The paper does not include a clear statement that
+      an external/independent evaluation team led data collection or
+      analysis independent of the intervention designers.
+
+      Final Summary: Criterion I is not met because independent conduct
+      of the evaluation is not clearly documented.
+  y:
+    met: true
+    explanation: >-
+      The study includes measurements spanning baseline and two later
+      timepoints totaling about 12 months, meeting the year-duration
+      requirement.
+    quote: >-
+      "Baseline assessments (T1) were conducted, followed by
+      reassessment six months later... A further six-month follow-up
+      (T3) occurred..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Baseline assessments (T1) were conducted, followed by
+      reassessment six months later, immediately after participation in
+      the intervention (n = 4 centers) or the control condition
+      (n = 4 centers). A further six-month follow-up (T3) occurred
+      after children transitioned to their first year of school, known
+      locally as Prep."
+
+      2) "Children typically begin their kindergarten year at
+      approximately 3.5–4.5 attending for 12 months prior to formal
+      schooling, with sessions scheduled for four to five days per
+      fortnight."
+
+      Detailed Analysis:
+
+      Criterion Y requires outcome measurement for at least 75% of an
+      academic year after the intervention begins (commonly about 9 to
+      10 months, depending on context).
+
+      The paper describes baseline (T1), a six-month later assessment
+      (T2), and a further six-month follow-up (T3), implying about 12
+      months from baseline to the final follow-up. This exceeds 75% of
+      a typical academic year and is consistent with tracking across
+      the transition-to-school period.
+
+      Final Summary: Criterion Y is met because the study reports
+      approximately 12 months of tracking across T1 to T3.
+  b:
+    met: true
+    explanation: >-
+      Although the intervention required additional teacher training and
+      materials, these appear integral to the intervention package and
+      child sessions were embedded in the regular schedule.
+    quote: >-
+      "The intervention was integrated into the regular kindergarten
+      schedule, typically during circle time at the start of the day."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Training consisted of a one-day workshop followed by
+      fortnightly on-site coaching. Teachers were provided with all
+      session plans, audio tracks, and instructional videos
+      demonstrating the activities."
+
+      2) "The intervention was integrated into the regular kindergarten
+      schedule, typically during circle time at the start of the day."
+
+      3) "Teachers in the control condition were provided with a one-off
+      webinar recording of professional learning related to children’s
+      self-regulation development, and were provided with the full
+      RAMSR training following completion of the study."
+
+      4) "The intervention group received 16 to 20 sessions of RAMSR
+      over eight weeks, while the control group undertook usual
+      preschool programs."
+
+      Detailed Analysis:
+
+      Criterion B compares the nature, quantity, and quality of
+      resources (time, materials, adult support, training) provided to
+      intervention and control groups, and asks whether any resource
+      differences confound the treatment effect, unless the added
+      resources are integral to what is being tested.
+
+      Extra resources are clearly present for intervention teachers
+      (workshop, ongoing coaching, and provision of materials). The
+      control teachers received a smaller professional learning input
+      (a one-off webinar) and were offered full training after study
+      completion.
+
+      Critically, the child-facing RAMSR sessions were "integrated into
+      the regular kindergarten schedule," which indicates the program
+      likely substituted for regular circle-time activities rather than
+      adding additional instructional time beyond the normal day. The
+      teacher training/materials appear to be integral components of
+      the RAMSR delivery model, not an incidental add-on separable from
+      the intervention definition.
+
+      Final Summary: Criterion B is met because added supports are
+      integral to the intervention package and the child-facing time is
+      embedded within regular schedule time.
+  r:
+    met: false
+    explanation: >-
+      No peer-reviewed independent replication of this specific trial's
+      findings was found or documented.
+    quote: >-
+      "Finally, the extent to which the findings presented here might
+      be replicated outside of the local Australian context in which
+      the program was developed and tested is yet to be determined."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Finally, the extent to which the findings presented here
+      might be replicated outside of the local Australian context in
+      which the program was developed and tested is yet to be
+      determined."
+
+      2) "A trial of an adapted version of the program has been
+      completed in Hong Kong with results not yet published."
+
+      Detailed Analysis:
+
+      Criterion R requires an independent replication by a different
+      research team in a different context, published in a peer-
+      reviewed outlet.
+
+      The paper itself states replication outside the local context is
+      "yet to be determined" and notes the Hong Kong trial results are
+      "not yet published," which is consistent with the absence of an
+      available peer-reviewed replication at the time of this paper.
+
+      Additional internet searching for peer-reviewed RCT publications
+      by independent teams reporting replication of these outcomes did
+      not identify a published independent replication paper.
+
+      Final Summary: Criterion R is not met because an independent,
+      peer-reviewed replication of this study was not found.
+  a:
+    met: false
+    explanation: >-
+      Because Criterion E is not met, the all-subject standardized exam
+      requirement cannot be met.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Data was collected through teacher report at pre and post
+      intervention, and again six months later once children had
+      transitioned into their first year of school."
+
+      2) "We used four subscales from the Child Self-Regulation and
+      Behavior Questionnaire (CSBQ) (Howard & Melhuish, 2017) which is
+      an educator report..."
+
+      Detailed Analysis:
+
+      Criterion A requires standardized exam-based assessment across all
+      main subjects and depends on Criterion E being satisfied.
+
+      This study uses teacher-report behavioral/social-emotional scales
+      rather than standardized academic exams, so it cannot satisfy
+      Criterion E and therefore cannot satisfy Criterion A.
+
+      Final Summary: Criterion A is not met because standardized exams
+      are not used (Criterion E is not met).
+  g:
+    met: false
+    explanation: >-
+      The study follows children only through the transition into the
+      first year of school and does not track participants until
+      graduation.
+    quote: >-
+      "Data was collected through teacher report at pre and post
+      intervention, and again six months later once children had
+      transitioned into their first year of school."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Data was collected through teacher report at pre and post
+      intervention, and again six months later once children had
+      transitioned into their first year of school."
+
+      2) "A further six-month follow-up (T3) occurred after children
+      transitioned to their first year of school, known locally as
+      Prep."
+
+      Detailed Analysis:
+
+      Criterion G requires that participants are followed until
+      graduation (from the relevant educational stage) to assess
+      long-term impacts.
+
+      The paper reports follow-up into the first year of formal school
+      ("Prep") with a six-month follow-up, which is meaningful but far
+      short of tracking until graduation (e.g., end of primary school or
+      later). Internet searching for later follow-up publications by
+      the same authors tracking this cohort through graduation did not
+      identify such a publication.
+
+      Final Summary: Criterion G is not met because graduation outcomes
+      are not tracked and no graduation follow-up paper was found.
+  p:
+    met: true
+    explanation: >-
+      The trial was prospectively registered on ANZCTR on 30/09/2019,
+      before child recruitment at the start of 2020.
+    quote: >-
+      "Date registered 30/09/2019"
+    analysis: >-
+      Relevant Quotes:
+
+      From the paper:
+
+      1) "This research employed a clustered randomized control trial
+      with approval from the Queensland University of Technology Human
+      Research Ethics Committee (approval number 1900000566), and is
+      registered with the Australian New Zealand Clinical Trials
+      Registry, ACTRN12619001342101."
+
+      2) "At the start of 2020, 213 children commencing kindergarten at
+      the eight centers were recruited."
+
+      From the ANZCTR registry record for ACTRN12619001342101:
+
+      3) "Date registered 30/09/2019"
+
+      4) "Type of registration Prospectively registered"
+
+      Detailed Analysis:
+
+      Criterion P requires that the study protocol is pre-registered
+      before data collection begins, with verifiable timing (registration
+      date earlier than recruitment/data collection start).
+
+      The paper provides the registry identifier (ACTRN12619001342101)
+      and indicates child recruitment occurred "at the start of 2020."
+      The ANZCTR record states the trial was "Prospectively registered"
+      with "Date registered 30/09/2019," which is before the stated
+      recruitment timing.
+
+      Final Summary: Criterion P is met because the trial was
+      prospectively registered on 30/09/2019 before recruitment began in
+      early 2020.
+---
+```
+
+## Change summary (what was updated)
+
+1) Added missing metadata:
+   - Set `paper_link` to the DOI landing page.
+   - Set `pdf_link` to a direct, downloadable PDF link.
+   - Set `date_erct_check` to **2026-02-21**.
+
+2) Quote verification and formatting:
+   - Removed incorrect line-break hyphenations (e.g., "coach- ing",
+     "participa- tion") so quotes match the paper text.
+   - Rewrote every criterion `analysis` field to the required structure:
+     **Relevant Quotes → Detailed Analysis → Final Summary**.
+
+3) Criteria re-checks requiring internet access:
+   - **P (Pre-registered)** updated from **not met** to **met** based on
+     the ANZCTR record showing **prospective registration on 30/09/2019**
+     and recruitment starting at the beginning of 2020.
+   - **R (Reproduced)** remained **not met** after searching for an
+     independent peer-reviewed replication; none was found.
+   - **G (Graduation tracking)** remained **not met** after searching for
+     later follow-up papers tracking the cohort through graduation; none
+     was found.
+
+4) ERCT level:
+   - Confirmed `erct_level` remains **0** because Criterion **E** is not
+     met (teacher-report measures rather than standardized exams), so
+     Level 1 requirements are not fully satisfied.
