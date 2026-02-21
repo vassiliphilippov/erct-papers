@@ -1,0 +1,530 @@
+---
+
+title: >
+  The Jigsaw teaching method compared to traditional teaching on
+  anatomy and physiology knowledge in higher education – a
+  randomised controlled trial
+authors: >
+  Janette Moland Stokstad, Eirik Solberg Nedrehagen, and
+  Karl Ove Hufthammer
+paper_link: ""
+abstract: >-
+  Traditional teaching (TT) is lecturer-centred, while
+  student-centred teaching, including Jigsaw (JS), fosters
+  student interaction. However, the results of research on the
+  effectiveness of JS on learning outcomes is inconsistent.
+  This randomised controlled trial compared the effect of JS
+  and TT on higher-education students’ knowledge of the anatomy
+  and physiology of the sensory apparatus and on their
+  perceptions of the two teaching methods.
+
+  Forty-eight undergraduate social nursing students were
+  randomised to either a TT or JS-based learning activity. One
+  JS student dropped out before completing the activity and was
+  excluded, resulting in 47 participants (23 TT, 24 JS).
+  Improvement in knowledge was assessed by recording the number
+  of correct answers (points) on a 25-question multiple-choice
+  test at three time points: before the activity (baseline),
+  immediately after the activity (post-intervention) and at a
+  three-month follow-up. Additionally, the students’
+  perceptions were surveyed post-intervention using a
+  questionnaire. Improvement in knowledge was analysed using a
+  longitudinal model, and group differences in perceptions were
+  analysed using Wilcoxon–Mann–Whitney tests.
+
+  Both groups significantly improved knowledge from baseline to
+  post-intervention (TT: 5.2 points; JS: 4.6 points; p < 0.001
+  both groups) and from baseline to the three-month follow-up
+  (TT: 3.8 points; JS: 3.3 points; p < 0.001 for both groups).
+  No statistically significant differences in knowledge were
+  observed between the groups (post-intervention difference:
+  −0.5 points, 95% CI: −2.3 to 1.2, p = 0.54; three-month
+  difference: −0.6 points, 95% CI: −2.4 to 1.2, p = 0.52).
+  Overall, 91% improved from baseline to post-intervention, and
+  83% from baseline to three months. A higher proportion of TT
+  students than JS students preferred their assigned teaching
+  activity over others (78% vs. 38%, p = 0.002) or believed it
+  would improve their grades (87% vs. 42%, p = 0.004). On the
+  other hand, a lower proportion thought that it provided
+  useful practice in oral presentation / communication (61% vs.
+  88%, p = 0.02).
+publication_date: 2026-01-17
+erct_level: 0
+rct: true
+pdf_link: ""
+doi: 10.1186/s12909-026-08608-x
+journal: BMC Medical Education
+date_erct_check:
+tags:
+  - science
+  - higher education
+  - EU
+
+criteria:
+  c:
+    met: false
+    explanation: >
+      Randomisation was conducted at the individual student
+      level (not by intact classes or schools) and no tutoring
+      exception applies.
+    quote: >-
+      "Following the pre-test, participants were randomly
+      assigned into two groups using Microsoft Excel for
+      Microsoft 365." (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "To answer these research questions, we conducted a
+      randomised controlled trial. Students were randomly
+      allocated to either teaching using JS or TT." (p. 3)
+
+      2) "Following the pre-test, participants were randomly
+      assigned into two groups using Microsoft Excel for
+      Microsoft 365. The randomisation procedure was carried
+      out on site by one of the authors." (p. 4)
+
+      3) "Participants were assigned a random number using the
+      = RAND( ) function, and the participant list was
+      subsequently sorted from lowest to highest based on this
+      random number." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion C requires random assignment at the class
+      level (or stronger), to reduce contamination from mixing
+      treatment and control students within the same classroom
+      context; student-level randomisation is only acceptable
+      under the tutoring / personal-teaching exception.
+
+      The paper clearly reports that "participants" / "students"
+      were randomly assigned to the two groups using Excel on
+      site, which indicates individual-level allocation rather
+      than randomising intact classes. The intervention is a
+      group-based teaching session (traditional lecture vs.
+      Jigsaw), not a one-to-one tutoring program, so the
+      criterion's exception does not apply.
+
+      Criterion C is not met because allocation was at the
+      individual student level rather than by class (or school).
+  e:
+    met: false
+    explanation: >
+      Learning was measured with a curriculum-based multiple-
+      choice test developed by the authors, not a widely
+      recognised standardized exam.
+    quote: >-
+      "A curriculum-based MCT was systematically developed by
+      two of the authors in line with Kanzow et al. [22],
+      Krathwohl [23] and Considine et al. [24]." (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "A curriculum-based MCT was systematically developed
+      by two of the authors in line with Kanzow et al. [22],
+      Krathwohl [23] and Considine et al. [24]." (p. 3)
+
+      2) "The test consisted of 25 questions of medium
+      difficulty, organised into five categories reflecting the
+      curriculum sub-topics." (p. 3)
+
+      3) "To ensure face and content validity as described by
+      Brenner et al. [25], the MCT was reviewed and evaluated
+      independently by five anatomy and physiology lecturers at
+      the Western Norway University of applied sciences." (p. 4)
+
+      Detailed Analysis:
+
+      ERCT Criterion E requires use of standardized exam-based
+      assessments that are widely recognised (e.g., national /
+      state exams or established standardized tests), rather
+      than researcher-created instruments aligned to the
+      intervention content.
+
+      Here, the outcome measure is explicitly a "curriculum-
+      based" multiple-choice test "developed by two of the
+      authors." While the authors describe content review and
+      face/content validity checks by lecturers, these steps do
+      not transform the instrument into an external, widely
+      recognized standardized exam.
+
+      Criterion E is not met because the assessment was
+      developed for this study rather than being a standardized
+      external exam.
+  t:
+    met: true
+    explanation: >
+      Outcomes were measured again at a three-month follow-up,
+      which is approximately one academic term after the
+      intervention began.
+    quote: >-
+      "We assessed the students’ knowledge immediately before
+      and after the teaching intervention and at a three-month
+      follow-up." (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "We assessed the students’ knowledge immediately
+      before and after the teaching intervention and at a
+      three-month follow-up." (p. 3)
+
+      2) "Three months later, the same MCT was repeated during
+      a compulsory lecture at campus, within the normal
+      teaching hours." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion T requires that educational outcomes be
+      measured at least one academic term after the
+      intervention begins (commonly about 3–4 months). The
+      paper states the intervention occurred on the day of the
+      teaching activity (with immediate post-testing), and the
+      follow-up measurement occurred "Three months later."
+
+      A three-month follow-up is consistent with an
+      approximately term-length interval from intervention
+      start to the longer-term measurement, satisfying the
+      minimum term-duration follow-up requirement.
+
+      Criterion T is met because the study includes a follow-up
+      assessment three months after the intervention started.
+  d:
+    met: true
+    explanation: >
+      The paper clearly defines the comparison groups (TT vs.
+      JS), reports group sizes, and reports baseline and follow-
+      up outcome data by group.
+    quote: >-
+      "After excluding the student who dropped out before
+      completing the learning activity, a total of 47
+      participants were included, 23 in the TT group and 24 in
+      the JS group." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Forty-eight undergraduate social nursing students
+      were randomised to either a TT or JS-based learning
+      activity. One JS student dropped out before completing
+      the activity and was excluded, resulting in 47
+      participants (23 TT, 24 JS)." (p. 2)
+
+      2) "After excluding the student who dropped out before
+      completing the learning activity, a total of 47
+      participants were included, 23 in the TT group and 24 in
+      the JS group." (p. 7)
+
+      3) "Table 2 Mean scores* for each teaching method at the
+      three time points, and comparison of mean score between
+      the two teaching methods (n = 47 students** and 135
+      scores)" (p. 8)
+
+      Detailed Analysis:
+
+      ERCT Criterion D requires that the control condition be
+      well-documented, including who is in it, what they
+      received, and baseline/outcome information enabling
+      comparison.
+
+      The study clearly identifies the two conditions (TT and
+      JS), provides the final analysed sample sizes for each,
+      and reports outcome data (including baseline and later
+      timepoints) by group in a dedicated table summarising
+      mean scores across timepoints. This provides sufficient
+      documentation to understand the control group (TT) and
+      compare it with the intervention group (JS).
+
+      Criterion D is met because the control group is clearly
+      described with group size and outcome data over time.
+  s:
+    met: false
+    explanation: >
+      The randomisation occurred among individual students, not
+      among schools (or equivalent institutions/sites).
+    quote: >-
+      "Following the pre-test, participants were randomly
+      assigned into two groups using Microsoft Excel for
+      Microsoft 365." (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Following the pre-test, participants were randomly
+      assigned into two groups using Microsoft Excel for
+      Microsoft 365." (p. 4)
+
+      2) "A total of 95 ... undergraduate students in social
+      nursing at the University of Western Norway were invited
+      to participate in the study." (p. 3)
+
+      Detailed Analysis:
+
+      ERCT Criterion S requires school-level (or equivalent
+      institution/site-level) randomisation, such as randomly
+      assigning schools or campuses to intervention vs control.
+
+      The paper describes a single-institution study at the
+      University of Western Norway with individual participants
+      randomised into TT vs JS. There is no indication that
+      multiple schools/sites were randomised.
+
+      Criterion S is not met because randomisation was not at
+      the school (or site) level.
+  i:
+    met: false
+    explanation: >
+      The authors developed key study materials and conducted
+      the randomisation on site, with no quoted evidence of an
+      independent external evaluation team.
+    quote: >-
+      "The randomisation procedure was carried out on site by
+      one of the authors." (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "A curriculum-based MCT was systematically developed
+      by two of the authors in line with Kanzow et al. [22],
+      Krathwohl [23] and Considine et al. [24]." (p. 3)
+
+      2) "Following the pre-test, participants were randomly
+      assigned into two groups using Microsoft Excel for
+      Microsoft 365. The randomisation procedure was carried
+      out on site by one of the authors." (p. 4)
+
+      3) "The test administration was overseen by one of the
+      authors and standardised across the full-time and part
+      time tracks." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion I requires that the conduct of the study
+      (implementation and/or evaluation) be independent from
+      the intervention designers to reduce bias, typically via
+      an external/third-party evaluation team.
+
+      The paper explicitly states that two authors developed
+      the primary knowledge test, that an author conducted the
+      randomisation on site, and that an author oversaw test
+      administration at follow-up. While some lecturers
+      reviewed materials for validity, this is not the same as
+      independent trial conduct or independent evaluation.
+
+      Criterion I is not met because the study was conducted
+      and evaluated by the author team without clear external
+      independent oversight.
+  y:
+    met: false
+    explanation: >
+      The study’s follow-up lasted three months, which is far
+      short of 75% of an academic year.
+    quote: >-
+      "We assessed the students’ knowledge immediately before
+      and after the teaching intervention and at a three-month
+      follow-up." (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "We assessed the students’ knowledge immediately
+      before and after the teaching intervention and at a
+      three-month follow-up." (p. 3)
+
+      2) "Three months later, the same MCT was repeated during
+      a compulsory lecture at campus, within the normal
+      teaching hours." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion Y requires outcomes to be measured at
+      least 75% of an academic year after the intervention
+      begins. The longest stated follow-up in this study is
+      "three months later," which corresponds to roughly one
+      academic term, not most of a year.
+
+      Criterion Y is not met because the tracking duration is
+      three months rather than approximately a full academic
+      year.
+  b:
+    met: false
+    explanation: >
+      The JS condition received substantially more total time
+      and broader learning resources than TT, and this resource
+      difference was not framed as the treatment variable nor
+      matched in the control condition.
+    quote: >-
+      "Limitations include ... the JS group was allocated more
+      total time (165 min) for the teaching procedure than the
+      TT group (105 min), possibly influencing the
+      comparability of the two approaches." (p. 11)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The lecture lasted for 105 min, including a
+      15-minute break between two 45-minute sessions
+      (Table 1)." (p. 6)
+
+      2) "The students had unrestricted access to learning
+      resources in both digital and print formats, including
+      the course textbook and printed materials, a
+      subscription-based online anatomy learning platform and
+      all other publicly accessible online content." (p. 6)
+
+      3) "Limitations include ... the JS group was allocated
+      more total time (165 min) for the teaching procedure
+      than the TT group (105 min), possibly influencing the
+      comparability of the two approaches." (p. 11)
+
+      Detailed Analysis:
+
+      ERCT Criterion B requires balancing time and resources
+      between intervention and control unless (a) differences
+      are negligible, (b) the extra resources are explicitly
+      the treatment variable being tested, or (c) the control
+      is otherwise matched with comparable educational inputs.
+
+      Here, the paper explicitly acknowledges a non-negligible
+      time imbalance: 165 minutes allocated for JS procedures
+      versus 105 minutes for TT. In addition, the JS group is
+      described as having "unrestricted access" to extensive
+      digital and print resources, including a subscription-
+      based online learning platform; the TT description does
+      not indicate an equivalent resource provision.
+
+      Importantly, the study’s stated comparison is between
+      teaching methods (JS vs TT), not an explicit test of
+      "more time/resources" as the intended treatment
+      variable. The authors treat the time difference as a
+      limitation affecting comparability, which supports the
+      interpretation that the added time is a confound rather
+      than the target of evaluation. The control condition is
+      not described as receiving matched time or alternative
+      activities of equivalent duration/resource intensity.
+
+      Criterion B is not met because the intervention group
+      received additional time/resources without a matched
+      control and without framing extra resources as the
+      treatment variable.
+  r:
+    met: false
+    explanation: >
+      No evidence is provided that an independent research team
+      has replicated this specific RCT in another context.
+    quote: >-
+      "As with all pedagogical research, challenges remain with
+      reproducibility of real-world teaching environments."
+      (p. 11)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "As with all pedagogical research, challenges remain
+      with reproducibility of real-world teaching environments."
+      (p. 11)
+
+      Detailed Analysis:
+
+      ERCT Criterion R requires independent replication of the
+      same study (or a clearly equivalent replication) by a
+      different research team in a different context, published
+      in a peer-reviewed journal.
+
+      The paper does not report that it is itself a replication
+      of a prior identical RCT, nor does it cite an external
+      study that independently replicated this specific trial’s
+      design and findings. Given the paper’s very recent 2026
+      publication, no independent replication of this specific
+      RCT could be identified during this ERCT check.
+
+      Criterion R is not met because there is no quoted or
+      otherwise identifiable evidence of an independent
+      replication of this specific RCT.
+  a:
+    met: false
+    explanation: >
+      Criterion E is not met (the outcome test is not a
+      standardized exam), therefore All-subject Exams cannot be
+      met.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "A curriculum-based MCT was systematically developed
+      by two of the authors in line with Kanzow et al. [22],
+      Krathwohl [23] and Considine et al. [24]." (p. 3)
+
+      Detailed Analysis:
+
+      ERCT Criterion A requires standardized exam-based
+      assessment across all main subjects, and it explicitly
+      depends on Criterion E being satisfied (standardized
+      exams).
+
+      This study uses a researcher-developed curriculum-based
+      multiple-choice test focused on a specific anatomy and
+      physiology topic, rather than standardized all-subject
+      exams. Since Criterion E is not met, Criterion A is not
+      met by definition.
+
+      Criterion A is not met because the study does not use
+      standardized exam-based assessments (Criterion E fails).
+  g:
+    met: false
+    explanation: >
+      The study only follows students for three months and does
+      not track outcomes through graduation; additionally,
+      Criterion Y is not met, so G cannot be met.
+    quote: >-
+      "We assessed the students’ knowledge immediately before
+      and after the teaching intervention and at a three-month
+      follow-up." (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "We assessed the students’ knowledge immediately
+      before and after the teaching intervention and at a
+      three-month follow-up." (p. 3)
+
+      2) "Three months later, the same MCT was repeated during
+      a compulsory lecture at campus, within the normal
+      teaching hours." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion G requires tracking participants until
+      graduation at the relevant educational stage. This study
+      includes only an immediate post-test and a three-month
+      follow-up, with no indication of longer tracking.
+
+      Additionally, ERCT rules specify that if Criterion Y
+      (Year Duration) is not met, Criterion G cannot be met.
+      Since the study lasts only three months (and Y is not
+      met), G necessarily fails as well.
+
+      Criterion G is not met because the study does not track
+      students through graduation and has only a three-month
+      follow-up.
+  p:
+    met: false
+    explanation: >
+      The paper explicitly states that trial registration is
+      not applicable, providing no pre-registered protocol or
+      registry identifier.
+    quote: >-
+      "Trial registration Clinical trial number not applicable."
+      (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Trial registration Clinical trial number not
+      applicable." (p. 3)
+
+      Detailed Analysis:
+
+      ERCT Criterion P requires a publicly accessible
+      pre-registered protocol (with registry/link and evidence
+      that registration occurred before data collection).
+
+      The paper explicitly states that trial registration is
+      "not applicable" and provides no registration platform,
+      identifier, or date. This indicates there was no
+      pre-registration consistent with the ERCT requirement.
+
+      Criterion P is not met because no pre-registered protocol
+      is provided and trial registration is stated as not
+      applicable.
+---

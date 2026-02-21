@@ -1,0 +1,658 @@
+---
+title: >-
+  Evaluating a phonics-based reading intervention for children
+  with developmental language disorder – A single-blinded
+  randomized controlled trial
+
+authors: >-
+  Karin Nilsson; Marika Habbe; Kristiina Tammimies;
+  Nelli Kalnak
+
+paper_link: "https://doi.org/10.1177/02656590251411097"
+
+abstract: >-
+  Individuals with developmental language disorder (DLD)
+  often struggle with reading, both with reading comprehension
+  and decoding. Although decoding difficulties are common in
+  the population with DLD, studies investigating phonics-based
+  interventions for these individuals are sparse. This study
+  investigated the effect of a phonics-based computer game,
+  GraphoLearn (GL). To our knowledge, this is the first
+  randomized controlled trial investigating the impact of a
+  phonics-based intervention method in children with DLD.
+  Sixty-seven children enrolled in Grades 0–4 were randomized
+  into three groups: one intervention group playing GL, one
+  active control group playing a math game, and one control
+  group that received teaching as usual. The duration of the
+  intervention was 5 weeks. Decoding ability was measured at
+  baseline, post-intervention, and at follow-up 10–12 weeks
+  after the intervention. The effect of the intervention was
+  analysed using mixed linear models. The analysis showed no
+  significant differences between the groups in terms of
+  improvement. Instead, all groups improved their decoding
+  scores from baseline to follow-up. For children with DLD
+  enrolled in Grades 0–4, it seems like playing the GL game
+  does not improve decoding ability to a greater extent than
+  teaching as usual. However, all groups did improve their
+  decoding scores during study participation, indicating a
+  potential to improve reading ability in a relatively short
+  time despite having a diagnosis of DLD.
+
+publication_date: 2026-01-06
+
+erct_level: 0
+
+rct: true
+
+pdf_link: >-
+  https://journals.sagepub.com/doi/pdf/10.1177/02656590251411097
+
+doi: 10.1177/02656590251411097
+
+journal: Child Language Teaching and Therapy
+
+date_erct_check: 2026-02-13
+
+tags:
+  - reading
+  - K12
+  - EU
+  - gamification
+  - EdTech app
+
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Participants were randomized at the individual child
+      level rather than by class (and the intervention is not
+      described as one-to-one tutoring), so the class-level RCT
+      requirement is not satisfied.
+    quote: >-
+      "When entering the study, the children with DLD were
+      randomized, based on school-grade and sex, into three
+      subgroups (strata), the GL-intervention group or one out
+      of two control groups: one active control group playing a
+      math computer game (Math group), and one passive control
+      group undertaking teaching as usual (TAU group, see
+      Figure 1)." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Sixty-seven children enrolled in Grades 0–4 were
+      randomized into three groups: one intervention group
+      playing GL, one active control group playing a math game,
+      and one control group that received teaching as usual."
+      (Abstract)
+
+      2) "The participants with DLD were recruited from nine
+      school language units in Sweden, where, in total, 209
+      children with DLD were enrolled." (p. 4)
+
+      3) "These schools have small classes for a maximum of 8–
+      10 children with DLD." (p. 4)
+
+      4) "When entering the study, the children with DLD were
+      randomized, based on school-grade and sex, into three
+      subgroups (strata), the GL-intervention group or one out
+      of two control groups: one active control group playing a
+      math computer game (Math group), and one passive control
+      group undertaking teaching as usual (TAU group, see
+      Figure 1)." (p. 5)
+
+      5) "Participants were then randomized within each stratum
+      to ensure equal representation (block size randomization)
+      in all intervention groups." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion C requires randomization at the class
+      level (or stronger, such as school-level) to reduce
+      cross-condition contamination within classrooms and
+      teacher practices. In this paper, the allocation is
+      explicitly described as randomizing "the children" and
+      then randomizing "within each stratum," which indicates
+      an individual-level RCT rather than class-level
+      assignment.
+
+      The study context (nine language units with small classes)
+      increases the plausibility that children and staff could
+      interact across study arms within the same unit, which is
+      precisely what Criterion C is meant to reduce.
+
+      The exception for one-to-one tutoring/personal teaching
+      does not clearly apply here because the intervention is a
+      computer game played in school with a teacher "available
+      in the room," not described as individualized tutoring as
+      the intervention design itself.
+
+      Criterion C is not met because randomization is at the
+      individual child level, not at the class (or school)
+      level, and no tutoring exception is clearly applicable.
+
+  e:
+    met: true
+    explanation: >-
+      The study includes a widely recognized standardized test
+      of decoding (TOWRE), satisfying the exam-based assessment
+      requirement.
+    quote: >-
+      "Word decoding and nonsense word decoding were measured
+      with the Swedish version of the Test of Word Reading
+      Efficiency, TOWRE (Lyxell et al., 2009)." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Word decoding and nonsense word decoding were measured
+      with the Swedish version of the Test of Word Reading
+      Efficiency, TOWRE (Lyxell et al., 2009)." (p. 7)
+
+      2) "TOWRE consists of two subtests that assess word
+      decoding and nonsense word decoding." (p. 7)
+
+      3) "Raw scores, but also standardized scores based on new
+      Swedish reference data (see below for details), were
+      reported." (p. 7)
+
+      Detailed Analysis:
+
+      ERCT Criterion E requires using standardized, widely
+      recognized exam-based (standardized) assessments rather
+      than relying only on bespoke or intervention-aligned
+      measures.
+
+      While the paper also uses a GraphoLearn-based decoding
+      task as its primary outcome, it clearly includes TOWRE,
+      a widely used standardized decoding assessment, as a
+      secondary outcome. This constitutes a standardized
+      assessment instrument that is independent of the specific
+      game content and is not newly created for this study.
+
+      Therefore, the study satisfies Criterion E by including a
+      recognized standardized assessment (TOWRE), even though
+      not all outcomes are standardized exams.
+
+      Criterion E is met because the study uses TOWRE, a widely
+      recognized standardized reading test, as an outcome
+      measure.
+
+  t:
+    met: true
+    explanation: >-
+      The study measures outcomes through follow-up over about
+      16 weeks from baseline, which is approximately one full
+      academic term.
+    quote: >-
+      "The study adopted a longitudinal design ranging over
+      16 weeks (see Figure 1)." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The duration of the intervention was 5 weeks."
+      (Abstract)
+
+      2) "Decoding ability was measured at baseline,
+      post-intervention, and at follow-up 10–12 weeks after the
+      intervention." (Abstract)
+
+      3) "The study adopted a longitudinal design ranging over
+      16 weeks (see Figure 1)." (p. 5)
+
+      4) "After the first baseline assessment (T1), an
+      intervention period of 5 weeks was initiated." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion T requires outcomes to be measured at least
+      one full academic term after the intervention begins
+      (typically about 3–4 months).
+
+      The paper describes a 5-week intervention and a follow-up
+      occurring 10–12 weeks after the intervention, and it
+      summarizes the total longitudinal design as spanning 16
+      weeks from baseline (T1) to follow-up (T3). Sixteen weeks
+      is approximately 3.5–4 months, which aligns with a typical
+      term-length tracking window.
+
+      Criterion T is met because outcome measurement extends to
+      an approximately 16-week follow-up window from baseline,
+      meeting the minimum term-duration requirement.
+
+  d:
+    met: true
+    explanation: >-
+      The paper clearly defines both control conditions and
+      reports baseline comparability across groups, satisfying
+      the documented control group requirement.
+    quote: >-
+      "Sixty-seven children enrolled in Grades 0–4 were
+      randomized into three groups: one intervention group
+      playing GL, one active control group playing a math game,
+      and one control group that received teaching as usual."
+      (Abstract)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Sixty-seven children enrolled in Grades 0–4 were
+      randomized into three groups: one intervention group
+      playing GL, one active control group playing a math game,
+      and one control group that received teaching as usual."
+      (Abstract)
+
+      2) "When entering the study, the children with DLD were
+      randomized... into three subgroups (strata), the
+      GL-intervention group or one out of two control groups:
+      one active control group playing a math computer game
+      (Math group), and one passive control group undertaking
+      teaching as usual (TAU group, see Figure 1)." (p. 5)
+
+      3) "The TAU group undertook teaching as usual, that is,
+      classroom-based teaching in small groups that followed
+      the structure of the Swedish national curriculum." (p. 6)
+
+      4) "There were no differences between the three groups at
+      T1 on age, general language ability, non-verbal IQ,
+      non-word repetition, or any of the reading measures."
+      (p. 8)
+
+      Detailed Analysis:
+
+      ERCT Criterion D requires sufficiently detailed
+      documentation of the control group(s), including what
+      they received and evidence that baseline characteristics
+      are reported to support comparability checks.
+
+      The paper describes two control groups (active math-game
+      control and passive teaching-as-usual control) and
+      provides a concrete description of TAU. It also reports
+      that there were no baseline differences among groups at
+      T1 across key demographic, language, and reading measures,
+      with descriptive statistics provided in the paper.
+
+      Criterion D is met because control conditions are clearly
+      defined and baseline group characteristics/comparability
+      are documented.
+
+  s:
+    met: false
+    explanation: >-
+      Schools/language units were recruitment sites, but
+      randomization was conducted at the child level rather
+      than by school, so the school-level RCT criterion is not
+      satisfied.
+    quote: >-
+      "When entering the study, the children with DLD were
+      randomized, based on school-grade and sex, into three
+      subgroups (strata)..." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The participants with DLD were recruited from nine
+      school language units in Sweden..." (p. 4)
+
+      2) "When entering the study, the children with DLD were
+      randomized, based on school-grade and sex, into three
+      subgroups (strata)..." (p. 5)
+
+      3) "Participants were then randomized within each stratum
+      to ensure equal representation (block size randomization)
+      in all intervention groups." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion S requires that the unit of randomization
+      is the school/site (i.e., schools are randomized to
+      conditions), which better reflects real-world rollouts
+      and avoids within-school spillovers.
+
+      Although the sample is recruited from nine language units,
+      the paper repeatedly describes randomizing the children
+      (and then randomizing within strata). There is no
+      statement that entire schools/language units were assigned
+      to study conditions.
+
+      Criterion S is not met because allocation is not at the
+      school level.
+
+  i:
+    met: true
+    explanation: >-
+      GraphoLearn is described as an externally developed
+      program rather than one designed by the study authors,
+      supporting independent conduct relative to the
+      intervention’s designers.
+    quote: >-
+      "The GL game is a computer-based reading intervention,
+      originally from Finland (Lyytinen et al., 2007, 2009)..."
+      (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The GL game is a computer-based reading intervention,
+      originally from Finland (Lyytinen et al., 2007, 2009),
+      translated from Finnish Swedish into standard Swedish
+      (Nakeva von Mentzer, 2014)." (p. 4)
+
+      2) "In each school, a special needs teacher or a
+      speech-language pathologist was responsible for
+      implementing the intervention." (p. 6)
+
+      3) "The intervention fidelity was closely monitored by
+      the research team using in-game data from the GL server
+      to ensure that the participants were playing GL according
+      to the study design, and feedback was given to the school
+      when needed." (p. 6)
+
+      Detailed Analysis:
+
+      ERCT Criterion I requires that the evaluation is conducted
+      independently of the people who designed the intervention,
+      to reduce bias from testing one's own product.
+
+      The paper explicitly describes GraphoLearn as "originally
+      from Finland" and cites external publications for its
+      development and adaptation, suggesting the intervention
+      itself is not authored/designed by this paper's author
+      team. The delivery is carried out by school staff, not by
+      the authors, even though the research team monitors
+      fidelity.
+
+      The paper does not present evidence that the authors are
+      the GraphoLearn designers; rather, it frames the
+      intervention as externally developed and implemented by
+      practitioners in schools.
+
+      Criterion I is met because the intervention is described
+      as externally developed (not designed by the authors) and
+      implemented by school personnel, supporting independent
+      conduct relative to the intervention’s designers.
+
+  y:
+    met: false
+    explanation: >-
+      The study spans about 16 weeks from baseline to follow-up,
+      which is far shorter than 75% of an academic year.
+    quote: >-
+      "The study adopted a longitudinal design ranging over
+      16 weeks (see Figure 1)." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study adopted a longitudinal design ranging over
+      16 weeks (see Figure 1)." (p. 5)
+
+      2) "After the first baseline assessment (T1), an
+      intervention period of 5 weeks was initiated." (p. 5)
+
+      3) "Decoding ability was measured at baseline,
+      post-intervention, and at follow-up 10–12 weeks after the
+      intervention." (Abstract)
+
+      Detailed Analysis:
+
+      ERCT Criterion Y requires outcomes to be measured at least
+      75% of an academic year after the intervention begins.
+
+      The paper explicitly states the design spans 16 weeks from
+      baseline through follow-up. This is substantially less
+      than 75% of a typical 9–10 month school year, and there is
+      no claim of year-long outcome measurement for this cohort.
+
+      Criterion Y is not met because the tracking period is only
+      about 16 weeks rather than most of an academic year.
+
+  b:
+    met: false
+    explanation: >-
+      The active control matches the game dosage, but the TAU
+      condition is not described as receiving comparable time
+      and resources, and the paper does not clearly state that
+      added resources/time are the treatment variable.
+    quote: >-
+      "The intervention group was instructed to play a minimum
+      of 20 sessions of the GL game, for a minimum of 20 min and
+      a maximum of 30 min per session..." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The intervention group was instructed to play a
+      minimum of 20 sessions of the GL game, for a minimum of
+      20 min and a maximum of 30 min per session, using
+      headphones." (p. 5)
+
+      2) "The Math group followed the same procedure as the GL
+      group, namely 20 sessions during the same period." (p. 5)
+
+      3) "The TAU group undertook teaching as usual, that is,
+      classroom-based teaching in small groups that followed
+      the structure of the Swedish national curriculum." (p. 6)
+
+      4) "This study aimed to investigate the effect of a
+      phonics-based computer game, GraphoLearn (GL)..." (p. 3)
+
+      Detailed Analysis:
+
+      ERCT Criterion B requires that time and resources are
+      balanced between intervention and control conditions,
+      unless the study explicitly frames added time/resources
+      as the treatment variable being tested.
+
+      The paper clearly specifies a structured "dosage" for the
+      GraphoLearn group (20 sessions, 20–30 minutes, headphones)
+      and states that the active control (Math game) follows the
+      same procedure, which supports balance for that
+      comparison.
+
+      However, the paper includes a TAU group described only as
+      normal classroom-based teaching. It does not clearly state
+      whether the game sessions replaced existing instructional
+      time (resource-neutral) or were added on top of usual
+      instruction (extra time/resource). It also does not
+      explicitly frame "adding extra instructional time or extra
+      resources" as the treatment variable; instead, it frames
+      the intervention as the specific GraphoLearn program.
+
+      Because the TAU condition is not documented as receiving
+      comparable time-on-task, device access, supervision, or
+      an equivalent substitute activity during the same minutes,
+      the balance of educational inputs across all conditions
+      cannot be confirmed.
+
+      Criterion B is not met because equivalence of time and
+      resources is not clearly documented for the TAU group, and
+      added resources are not explicitly framed as the treatment
+      variable.
+
+  r:
+    met: false
+    explanation: >-
+      No independent replication of this specific RCT could be
+      identified, and the paper itself frames the trial as the
+      first RCT of this kind in this population.
+    quote: >-
+      "To our knowledge, this is the first randomized controlled
+      trial investigating the impact of a phonics-based
+      intervention method in children with DLD." (Abstract)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "To our knowledge, this is the first randomized
+      controlled trial investigating the impact of a
+      phonics-based intervention method in children with DLD."
+      (Abstract)
+
+      Detailed Analysis:
+
+      ERCT Criterion R requires evidence that an independent
+      research team has replicated the study in a different
+      context and published it in a peer-reviewed venue.
+
+      The paper explicitly positions itself as the first RCT of
+      this type in children with DLD, which suggests that a
+      replication of this specific trial is not established
+      within the paper.
+
+      In addition, an external search (as of 2026-02-13) did not
+      identify a peer-reviewed, independent replication that
+      explicitly reproduces this exact trial design with
+      GraphoLearn versus math-game and TAU controls in Swedish
+      language units.
+
+      Criterion R is not met because there is no evidence of an
+      independent peer-reviewed replication of this specific RCT.
+
+  a:
+    met: false
+    explanation: >-
+      The study assesses reading/decoding outcomes rather than
+      standardized exam outcomes across all main school
+      subjects, so the all-subject exams criterion is not met.
+    quote: >-
+      "Three measures of reading were used." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Three measures of reading were used." (p. 7)
+
+      2) "The primary outcome was measured using the GL decoding
+      task..." (p. 7)
+
+      3) "Word decoding and nonsense word decoding were measured
+      with the Swedish version of the Test of Word Reading
+      Efficiency, TOWRE (Lyxell et al., 2009)." (p. 7)
+
+      Detailed Analysis:
+
+      ERCT Criterion A requires standardized exam-based
+      assessment across all main subjects taught at the relevant
+      educational level (not only the intervention’s focal
+      subject), to detect possible trade-offs.
+
+      This study focuses on reading/decoding outcomes and
+      describes only reading-related measures. It does not
+      measure outcomes in other main subjects (for example,
+      mathematics, science, or broader language-arts outcomes
+      beyond decoding), and it is not presented as a specialized
+      upper-secondary/vocational intervention where a narrow
+      subject set would be justified.
+
+      Criterion A is not met because outcome measurement is
+      limited to reading/decoding and does not cover all main
+      school subjects using standardized exams.
+
+  g:
+    met: false
+    explanation: >-
+      The study ends after a short follow-up (weeks) and does
+      not track students until graduation; additionally, ERCT
+      specifies that failing year-duration (Y) implies failing
+      graduation tracking (G).
+    quote: >-
+      "Decoding ability was measured at baseline,
+      post-intervention, and at follow-up 10–12 weeks after the
+      intervention." (Abstract)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Decoding ability was measured at baseline,
+      post-intervention, and at follow-up 10–12 weeks after the
+      intervention." (Abstract)
+
+      2) "The study adopted a longitudinal design ranging over
+      16 weeks (see Figure 1)." (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Criterion G requires tracking participants until
+      graduation from the relevant educational stage. ERCT also
+      specifies that if Criterion Y (year duration) is not met,
+      Criterion G cannot be met.
+
+      The paper’s design spans 16 weeks and ends at a follow-up
+      10–12 weeks after the intervention. There is no mention of
+      tracking participants through completion of Grade 4 or any
+      later graduation milestone, and the duration is far short
+      of a school-year, let alone until graduation.
+
+      An external search (as of 2026-02-13) did not identify a
+      follow-up publication by the same author team that tracks
+      this cohort to graduation.
+
+      Criterion G is not met because the study does not track to
+      graduation and the prerequisite year-duration criterion is
+      not met.
+
+  p:
+    met: false
+    explanation: >-
+      The trial is registered (NCT05295472), but registry dates
+      indicate it was first posted after the study start and
+      after data collection had begun, so it is not
+      pre-registered.
+    quote: >-
+      "First Posted (Actual) March 25, 2022" (ClinicalTrials.gov
+      record for NCT05295472)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The trial was also registered at
+      https://clinicaltrials.gov/ with registration number
+      NCT05295472." (p. 3)
+
+      2) "Data was collected during 18 months, from September
+      2021 to February 2023." (p. 5)
+
+      3) "Study Start (Actual) August 1, 2021" (ClinicalTrials.gov
+      record for NCT05295472)
+
+      4) "First Posted (Actual) March 25, 2022" (ClinicalTrials.gov
+      record for NCT05295472)
+
+      Detailed Analysis:
+
+      ERCT Criterion P requires that the study protocol is
+      pre-registered before the study begins (i.e., registration
+      date must precede the start of data collection).
+
+      The paper reports that the trial was registered on
+      ClinicalTrials.gov under NCT05295472, and it reports that
+      data collection ran from September 2021 to February 2023.
+
+      Checking the trial registry record for NCT05295472 shows a
+      study start date of August 1, 2021 and a first posted date
+      of March 25, 2022. This indicates that registration was
+      posted after the study started and after data collection
+      had already begun (given the paper’s September 2021 start
+      of data collection).
+
+      Criterion P is not met because the registry posting date
+      occurs after the study start and after data collection
+      began, so the protocol was not pre-registered.
+---
+```
+
+## Change summary
+
+1) Added missing metadata fields:
+   - `paper_link` set to the DOI landing page.
+   - `pdf_link` set to a direct SAGE PDF URL.
+   - `date_erct_check` set to **2026-02-13**.
+   - Also filled `publication_date` (set to **2026-01-06**).
+
+2) Re-checked and updated criterion **E**:
+   - Changed **E** from *not met* to *met* because the study uses the
+     standardized **TOWRE** assessment.
+
+3) Re-checked and updated criterion **P** using registry information:
+   - Kept **P** as *not met*, but replaced the reasoning with explicit
+     registry timing (first posted after study start / after data
+     collection began).
+
+4) Re-checked criteria **G** and **R** using internet searches:
+   - Kept both as *not met* and explicitly noted that no follow-up paper
+     tracking to graduation (G) and no independent replication (R) were
+     identifiable as of **2026-02-13**.
+
+5) Reformatted/rewrote analysis blocks to match the required structure:
+   - "Relevant Quotes" + "Detailed Analysis" + a final one-sentence
+     conclusion, with spacing and line wrapping to stay within 80 chars.

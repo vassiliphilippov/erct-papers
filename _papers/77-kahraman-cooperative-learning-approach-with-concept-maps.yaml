@@ -1,0 +1,512 @@
+---
+
+title: >-
+  The effect of cooperative learning approach with concept maps on
+  nursing students’ knowledge acquisition on symptom management in
+  cancer patients: a randomized controlled trial
+authors: >-
+  Burcu Bayrak Kahraman, Aysun Acun, and Semanur Bilgiç
+paper_link: >-
+  https://doi.org/10.1186/s12909-026-08666-1
+abstract: >-
+  Background: Cancer cases are increasing every day, which makes
+  oncology nursing education very important. Nursing students need
+  to learn how to manage the many symptoms caused by cancer and its
+  treatments. This study aimed to examine the effect of a cooperative
+  learning approach with concept maps on nursing students' knowledge
+  acquisition on symptom management in cancer patients. Methods: This
+  study was a pre-test post-test open-label, randomized controlled
+  design. The study sample consisted of 90 second-year nursing
+  students randomized into experimental (n=45) and control (n=45)
+  groups. Symptom management training was implemented with the
+  experimental group students using a cooperative learning approach
+  with concept maps. Standard training was maintained with the
+  control group students. The study data were collected using the
+  "Personal Information Form", "Knowledge Test on Symptom Management
+  in Cancer Patients", and "Self-Directed Learning Scale". Results:
+  According to repeated-measures ANCOVA analyses adjusted for
+  baseline scores, a significant time effect was observed in the
+  intervention group (F = 13.24, p = 0.001). After adjustment, the
+  intervention group achieved higher adjusted post-test and follow-up
+  knowledge scores compared with the control group. In addition,
+  ANCOVA results for self-directed learning ability demonstrated a
+  strong group effect on post-test scores (F(1,87) = 97.75,
+  p < 0.001, partial η² = 0.529), with higher adjusted mean scores in
+  the intervention group. Conclusions: This study concluded that the
+  cooperative learning approach using concept mapping for symptom
+  management in cancer patients is effective in increasing nursing
+  students' knowledge levels and knowledge retention, as well as in
+  developing self-directed learning.
+publication_date: 2026-01-28
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://link.springer.com/content/pdf/10.1186/s12909-026-08666-1_reference.pdf
+doi: 10.1186/s12909-026-08666-1
+journal: BMC Medical Education
+date_erct_check: 2026-02-15
+tags:
+  - science
+  - higher education
+  - Asia
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Students (not whole classes or schools) were randomized, so the unit of
+      randomization was below the class level and risks contamination.
+    quote: >-
+      "Students who met the inclusion criteria were randomly assigned to the
+      intervention and control groups using simple randomization based on
+      computer-generated random numbers." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This randomized controlled trial with a pretest-posttest design was
+      planned to examine the effect of the cooperative learning approach using
+      concept maps on nursing students' knowledge acquisition and self-directed
+      learning regarding symptom management in cancer patients." (p. 4)
+
+      2) "Students who met the inclusion criteria were randomly assigned to the
+      intervention and control groups using simple randomization based on
+      computer-generated random numbers." (p. 5)
+
+      3) "To further ensure the integrity of the intervention and comparability
+      between groups, the intervention and control sessions were conducted
+      separately and at different times." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion C requires randomization at the class level (or stronger), unless
+      the intervention is explicitly one-to-one tutoring/personal teaching. The
+      paper states that individual students were randomly assigned to
+      intervention and control groups using computer-generated random numbers.
+      It does not state that intact classes (or schools/sites) were randomized.
+
+      The authors note scheduling and anti-contamination measures, but these do
+      not change the unit of randomization. Because student-level randomization
+      is below the class level and the intervention is not described as
+      one-to-one tutoring, the ERCT class-level RCT requirement is not met.
+
+      This criterion is not met because randomization was at the student level,
+      not at the class (or school) level.
+  e:
+    met: false
+    explanation: >-
+      The primary educational outcome used a researcher-developed knowledge test
+      rather than a widely recognized standardized exam.
+    quote: >-
+      "This test developed by the researchers according to the literature was
+      created in two stages (16,17)." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study data were collected using the "Personal Information Form",
+      the "Knowledge Test on Symptom Management in Cancer Patients", and the
+      "Self-Directed Learning Scale"." (p. 5)
+
+      2) "This test developed by the researchers according to the literature was
+      created in two stages (16,17)." (p. 5)
+
+      3) "In the first stage, 20 questions were created by the researchers based
+      on the expected course outcomes related to the oncological symptoms
+      covered in the internal medicine nursing course and the resources used in
+      the course." (p. 5)
+
+      Detailed Analysis:
+
+      Criterion E requires a standardized exam-based assessment (i.e., a widely
+      recognized external exam, not created for this particular study). The
+      paper’s primary knowledge outcome is measured by a "Knowledge Test on
+      Symptom Management in Cancer Patients" that was created by the
+      researchers, based on course outcomes, and then evaluated for content
+      validity and reliability.
+
+      While these psychometric steps support internal quality, the instrument is
+      still a researcher-developed test rather than a standardized, externally
+      administered exam used broadly beyond this study context. The
+      Self-Directed Learning Scale is not an exam-based achievement measure and
+      does not satisfy the exam-based requirement for academic outcomes.
+
+      This criterion is not met because the study uses a researcher-developed
+      knowledge test rather than a standardized exam.
+  t:
+    met: false
+    explanation: >-
+      Outcomes were assessed after a short intervention with only a 4-week
+      follow-up, and the stated study period spans far less than an academic
+      term.
+    quote: >-
+      "To measure the retention of knowledge, the same test was administered
+      again 4 weeks after the post-test." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The research was carried out between 11.25.2024 and 01.03.2025 in the
+      nursing department of the faculty of health sciences of a university."
+      (p. 4)
+
+      2) "A three-session plan was implemented with the experimental group
+      students." (p. 6)
+
+      3) "To measure the retention of knowledge, the same test was administered
+      again 4 weeks after the post-test." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion T requires that outcomes be measured at least one full academic
+      term (typically about 3–4 months) after the intervention begins. The paper
+      describes a three-session intervention and a follow-up assessment "4 weeks
+      after the post-test."
+
+      The reported overall study window is "between 11.25.2024 and 01.03.2025".
+      Interpreting these as month.day.year dates (as written), this spans from
+      November 25, 2024 to January 3, 2025 (about 5–6 weeks), which is shorter
+      than a full academic term. The last described follow-up point is only four
+      weeks after post-test, reinforcing the short time horizon.
+
+      This criterion is not met because the study’s follow-up period is far
+      shorter than a full academic term.
+  d:
+    met: true
+    explanation: >-
+      The control condition is clearly described (standard instruction), and
+      baseline demographic comparability between groups is documented.
+    quote: >-
+      "The control group students received standard instruction (four hours of
+      theoretical training on symptom management in cancer patients)." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The control group students received standard instruction (four hours
+      of theoretical training on symptom management in cancer patients)."
+      (p. 7)
+
+      2) "Students were not given any additional resources for preparation or
+      practice." (p. 7)
+
+      3) "There was no statistically significant relationship between the
+      experimental and control groups when the distribution of age (p=0.341),
+      gender (p=0.063), marital status (p=0.240), history of chronic disease
+      (p=1.000), and family history of oncological disease (p=0.667) was compared
+      (Table 1)." (p. 8)
+
+      Detailed Analysis:
+
+      Criterion D requires a well-documented control group, including what the
+      control group received and baseline information enabling comparison. The
+      paper specifies the control condition as standard instruction with four
+      hours of theoretical training and explicitly notes that control students
+      were not given additional preparation/practice resources during the study.
+
+      The paper also provides baseline demographic comparisons (Table 1 and its
+      narrative) indicating no statistically significant differences between
+      groups on several listed characteristics. This is sufficient to understand
+      the control condition and baseline comparability.
+
+      This criterion is met because the control condition and baseline group
+      characteristics are clearly documented.
+  s:
+    met: false
+    explanation: >-
+      Randomization occurred at the student level within one university program,
+      not by random assignment of schools or sites.
+    quote: >-
+      "Students who met the inclusion criteria were randomly assigned to the
+      intervention and control groups using simple randomization based on
+      computer-generated random numbers." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The research was carried out between 11.25.2024 and 01.03.2025 in the
+      nursing department of the faculty of health sciences of a university."
+      (p. 4)
+
+      2) "Students who met the inclusion criteria were randomly assigned to the
+      intervention and control groups using simple randomization based on
+      computer-generated random numbers." (p. 5)
+
+      Detailed Analysis:
+
+      Criterion S requires school-level (institution/site-level) randomization.
+      The study was conducted within a single university department and
+      explicitly states that students were randomized. There is no indication
+      that multiple schools, sites, or equivalent institutions were randomized.
+
+      This criterion is not met because randomization was not performed at the
+      school (site) level.
+  i:
+    met: false
+    explanation: >-
+      The study does not report an independent third-party evaluation; key study
+      elements were developed and analyzed by the author team.
+    quote: >-
+      "Author’s contributions Conceptualization: B.B.K., Methodology: B.B.K,
+      A.A., Validation: A.A. B.B.K., Formal analysis: A.A. B.B.K, Investigation:
+      A.A., S.B., ..." (p. 14)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This test developed by the researchers according to the literature was
+      created in two stages (16,17)." (p. 5)
+
+      2) "Researchers created six concept maps based on the literature and
+      course outcomes (16,17)." (p. 6)
+
+      3) "Author’s contributions Conceptualization: B.B.K., Methodology: B.B.K,
+      A.A., Validation: A.A. B.B.K., Formal analysis: A.A. B.B.K, Investigation:
+      A.A., S.B., Resources: A.A., S.B., Software: S.B., Data Curation: A.A.
+      S.B, Writing - original draft: A.A., B.B.K, Writing - review & editing:
+      A.A. B.B.K." (p. 14)
+
+      Detailed Analysis:
+
+      Criterion I requires evidence that the study was conducted independently
+      from the intervention designers/authors (e.g., external evaluators,
+      independent data collection/analysis teams). The paper describes that the
+      researchers developed key study materials (the knowledge test and concept
+      maps). The author contribution statement indicates the author team
+      performed core study functions, including methodology, formal analysis,
+      and investigation.
+
+      The paper does not include a statement indicating that an independent
+      third party conducted implementation, data collection, or analysis.
+
+      This criterion is not met because independent conduct by a third party is
+      not demonstrated.
+  y:
+    met: false
+    explanation: >-
+      The study duration and follow-up are far shorter than 75% of an academic
+      year, and ERCT rules also imply Y is not met when T is not met.
+    quote: >-
+      "The research was carried out between 11.25.2024 and 01.03.2025 ..." (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The research was carried out between 11.25.2024 and 01.03.2025 in the
+      nursing department of the faculty of health sciences of a university."
+      (p. 4)
+
+      2) "To measure the retention of knowledge, the same test was administered
+      again 4 weeks after the post-test." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion Y requires outcomes measured at least 75% of an academic year
+      after the intervention begins. The reported study period is only several
+      weeks (late November 2024 to early January 2025), and the final outcome
+      assessment described is a four-week follow-up after post-test. This is
+      substantially shorter than an academic year.
+
+      Additionally, ERCT rules specify that if criterion T is not met, then
+      criterion Y is not met. Since T is not met for this paper, Y is also not
+      met.
+
+      This criterion is not met because the study does not track outcomes for a
+      year-like duration (and T is not met).
+  b:
+    met: true
+    explanation: >-
+      The paper reports equal instructional session duration across groups, and
+      the main resource difference (concept maps/cooperative structure) is the
+      intervention being tested rather than an unmatched time or budget boost.
+    quote: >-
+      "The duration allocated for the educational sessions was equal across
+      groups." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "A three-session plan was implemented with the experimental group
+      students." (p. 6)
+
+      2) "Each group was given a concept map prepared under the relevant
+      heading." (p. 7)
+
+      3) "In the first session, each group member was asked to make individual
+      preparations within the topics and concept map." (p. 7)
+
+      4) "The control group students received standard instruction (four hours
+      of theoretical training on symptom management in cancer patients)." (p. 7)
+
+      5) "Students were not given any additional resources for preparation or
+      practice." (p. 7)
+
+      6) "The training content was standardized using a structured presentation,
+      and the same topic content was provided to both the experimental and
+      control groups." (p. 7)
+
+      7) "The duration allocated for the educational sessions was equal across
+      groups." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion B evaluates whether the intervention group received additional
+      time/budget/resources not matched in the control group, unless those
+      additional resources are explicitly integral to what is being tested.
+
+      The paper explicitly states that "The duration allocated for the
+      educational sessions was equal across groups" and that content was
+      standardized, which supports time balance during scheduled sessions.
+
+      The experimental group used concept maps and cooperative learning. The
+      control group received standard instruction and was not given additional
+      preparation/practice resources. The experimental group was asked to make
+      individual preparations in the first session; this likely implies
+      additional student effort outside the cooperative sessions. However, that
+      preparation appears to be a core component of the cooperative learning
+      approach as implemented (i.e., integral to the treatment definition),
+      rather than an optional add-on like extra tutoring hours or extra
+      funded support. The paper does not describe additional paid staffing,
+      extra class hours, or additional budget exclusive to the intervention.
+
+      This criterion is met because scheduled instructional time is explicitly
+      equal across groups and the primary resource difference is integral to
+      the pedagogical intervention being tested.
+  r:
+    met: false
+    explanation: >-
+      No independent replication by a different research team was found for this
+      specific study/intervention as of the ERCT check date.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      (No relevant quotes about independent replication were found in the paper.)
+
+      Detailed Analysis:
+
+      Criterion R requires evidence that a different research team independently
+      replicated this specific study (or a clearly equivalent intervention and
+      evaluation) in a different context, published in a peer-reviewed journal.
+
+      The paper itself does not describe being a replication, and it does not
+      cite any external replication of this exact study. An internet search was
+      conducted (including queries by DOI, title, and NCT ID) to identify
+      independent replication studies by other authors, and no such peer-
+      reviewed replication publications were found.
+
+      This criterion is not met because independent replication evidence for
+      this specific study was not identified.
+  a:
+    met: false
+    explanation: >-
+      The study does not use standardized exams across all core subjects, and
+      because E is not met, A is not met as well.
+    quote: >-
+      "The study data were collected using the "Personal Information Form", the
+      "Knowledge Test on Symptom Management in Cancer Patients", and the
+      "Self-Directed Learning Scale"." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study data were collected using the "Personal Information Form",
+      the "Knowledge Test on Symptom Management in Cancer Patients", and the
+      "Self-Directed Learning Scale"." (p. 5)
+
+      2) "This test developed by the researchers according to the literature was
+      created in two stages (16,17)." (p. 5)
+
+      Detailed Analysis:
+
+      Criterion A requires standardized exam-based assessment across all main
+      subjects, and ERCT rules specify that if criterion E is not met then
+      criterion A is not met. The study’s assessments include a researcher-
+      developed knowledge test focused on symptom management and a self-directed
+      learning scale; these are not standardized exams across a broad set of
+      core subjects.
+
+      This criterion is not met because standardized all-subject exams are not
+      used and criterion E is not met.
+  g:
+    met: false
+    explanation: >-
+      The study does not track participants until graduation, and because Y is
+      not met, G is not met as well.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "To measure the retention of knowledge, the same test was administered
+      again 4 weeks after the post-test." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion G requires tracking participants until graduation from the
+      relevant educational stage. The paper reports only post-test assessment
+      and a single follow-up "4 weeks after the post-test," with no mention of
+      graduation outcomes or long-term follow-up.
+
+      Per ERCT rules, if criterion Y is not met then criterion G is not met. Y
+      is not met for this study, so G cannot be met.
+
+      An internet search was also conducted for follow-up publications by the
+      same authors on this cohort (using the paper title, DOI, author names,
+      and the NCT identifier), and no graduation-tracking follow-up papers were
+      identified.
+
+      This criterion is not met because there is no graduation tracking (and Y
+      is not met).
+  p:
+    met: true
+    explanation: >-
+      Trial registration information indicates the study was registered on
+      ClinicalTrials.gov before the study start date.
+    quote: >-
+      "Study Start (Actual) November 15, 2024" (ClinicalTrials.gov record as
+      mirrored by ICHGCP) and "First Submitted November 14, 2024"
+      (ClinicalTrials.gov record as mirrored by ICHGCP)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Clinical trial number: NCT06695702, date of the registration:
+      November 11, 2024" (p. 2)
+
+      2) "Trial Registration The study was prospectively registered at
+      ClinicalTrials.gov prior to participant recruitment. The registration
+      number is NCT06695702." (p. 13)
+
+      3) "Study Start (Actual) November 15, 2024" (ClinicalTrials.gov record as
+      mirrored by ICHGCP)
+
+      4) "First Submitted November 14, 2024" (ClinicalTrials.gov record as
+      mirrored by ICHGCP)
+
+      5) "First Posted (Actual) November 19, 2024" (ClinicalTrials.gov record as
+      mirrored by ICHGCP)
+
+      Detailed Analysis:
+
+      Criterion P requires that the protocol be pre-registered before the study
+      begins (before data collection/participant recruitment). The paper
+      provides a ClinicalTrials.gov identifier (NCT06695702) and explicitly
+      states that registration was prospective and occurred prior to recruitment.
+      It also provides a registration date (November 11, 2024).
+
+      The ClinicalTrials.gov record (accessed via the ICHGCP mirror, which
+      states it retrieves information from ClinicalTrials.gov) lists "First
+      Submitted November 14, 2024" and "Study Start (Actual) November 15, 2024",
+      indicating the record was submitted before the study start date.
+
+      This criterion is met because registry dates indicate registration
+      occurred before the recorded study start date.
+---
+
+## Change Summary
+
+- Added metadata:
+  - Set `paper_link` to the DOI landing page.
+  - Set `pdf_link` to the direct Springer Nature PDF.
+  - Set `date_erct_check` to 2026-02-15.
+- Corrected `publication_date` to the online publication date (2026-01-28).
+- Verified and updated quotes for all criteria to match the paper PDF verbatim
+  and added page numbers.
+- Re-checked criteria requiring internet access:
+  - **P**: confirmed registration timing using the NCT record as mirrored by
+    ICHGCP; kept **met: true** and updated analysis/quotes accordingly.
+  - **R**: searched by DOI/title/NCT and found no independent replication;
+    kept **met: false** with updated analysis.
+  - **G**: searched for follow-up graduation-tracking papers and found none;
+    kept **met: false** with updated analysis.
+- Recalculated ERCT level under the current criteria ordering; it remains
+  `erct_level: 0` because not all Level 1 criteria (C, E, T, D) are met.
