@@ -1,0 +1,525 @@
+---
+title: >-
+  Effects of a school-based leadership program on student leaders and their
+  peers: The Learning to Lead cluster randomized controlled trial
+authors: >-
+  Levi Wade, Mark R. Beauchamp, Nicole Nathan, Jordan J. Smith,
+  Angus A. Leahy, Ran Bao, Sarah G. Kennedy, James Boyer,
+  Thierno M.O. Diallo, Sam Beacroft, and David R. Lubans
+paper_link: "https://doi.org/10.1016/j.cedpsych.2026.102444"
+abstract: >-
+  Schools provide an ideal context for developing students’ leadership
+  skills; however, most leadership opportunities (e.g., serving as class
+  president) are typically offered to students who already demonstrate
+  leadership qualities. The aim of our study was to evaluate the effects
+  of a school-based leadership program, implemented through a peer-led
+  fundamental movement skills intervention, on the leadership abilities
+  of student leaders (10–12 years) and the physical and psychological
+  development of their younger peers (8–10 years). We conducted a
+  cluster randomized controlled trial to assess the impact of the
+  Learning to Lead program in 20 elementary schools in New South Wales,
+  Australia (N = 1898 students). Leader outcomes included teacher-rated
+  leadership effectiveness (the primary outcome), leadership ability,
+  leadership self-efficacy, wellbeing, and observed time on-task in the
+  classroom. Peer outcomes included school-based physical activity
+  (accelerometers), object control motor competence (Test of Gross Motor
+  Development-3), perceived motor competence, cardiorespiratory fitness
+  (20-meter multi-stage fitness test), and muscular power (standing long
+  jump). We observed statistically significant group-by-time effects for
+  Leaders’ leadership effectiveness, wellbeing, and time spent on-task
+  in the classroom. Statistically significant improvements in Peers’
+  perceived motor competence, school-based physical activity, and
+  cardiorespiratory fitness were also found. Our study demonstrated that
+  a school-based leadership intervention has extensive benefits for the
+  students delivering the program and those they taught.
+publication_date: 2026-01-08
+erct_level: 0
+rct: true
+pdf_link: "https://www.sciencedirect.com/science/article/pii/S0361476X26000020/pdfft"
+doi: 10.1016/j.cedpsych.2026.102444
+journal: Contemporary Educational Psychology
+date_erct_check: 2026-02-14
+tags:
+  - K12
+  - Australia
+criteria:
+  c:
+    met: true
+    explanation: >-
+      Schools were randomized at the school level, which is stronger
+      than class-level randomization and therefore satisfies Criterion C.
+    quote: >-
+      Schools were randomized at the school level to either
+      intervention or waitlist control by an independent researcher via
+      a computer-based random number generator.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "In summary, we evaluated the L2L program using a two-arm
+      cluster randomized controlled trial design in 20 elementary
+      schools across two waves." (p. 3)
+
+      2) "After collection of baseline data, schools were randomized to
+      the L2L program, or a wait-list control." (p. 3)
+
+      3) "Schools were randomized at the school level to either
+      intervention or waitlist control by an independent researcher via
+      a computer-based random number generator." (p. 3)
+
+      Detailed Analysis:
+
+      Criterion C requires that randomization be at the class level or
+      stronger (e.g., school-level) to reduce contamination between
+      treatment and control. The paper explicitly describes a cluster
+      randomized controlled trial where "schools were randomized at the
+      school level." Because school-level randomization is stronger than
+      class-level randomization, this satisfies Criterion C.
+
+      Final sentence: Criterion C is met because schools were the unit
+      of randomization.
+  e:
+    met: false
+    explanation: >-
+      The outcomes are leadership, wellbeing, behavior, and physical
+      activity/fitness measures, not standardized academic exams.
+    quote: >-
+      Teachers rated Leaders’ leadership skills using an adapted
+      version of the Transformational Teaching Questionnaire
+      (Beauchamp et al., 2010).
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Leader outcomes included teacher-rated leadership
+      effectiveness (the primary outcome), leadership ability,
+      leadership self-efficacy, wellbeing, and observed time on-task in
+      the classroom." (p. 1)
+
+      2) "Peer outcomes included school-based physical activity
+      (accelerometers), object control motor competence (Test of Gross
+      Motor Development-3), perceived motor competence,
+      cardiorespiratory fitness (20-meter multi-stage fitness test), and
+      muscular power (standing long jump)." (p. 1)
+
+      3) "Teachers rated Leaders’ leadership skills using an adapted
+      version of the Transformational Teaching Questionnaire
+      (Beauchamp et al., 2010)." (p. 4)
+
+      4) "Time On-Task in the Classroom. Trained research assistants
+      conducted classroom observations using established methods
+      (Alberto & Troutman, 2013)." (p. 4)
+
+      Detailed Analysis:
+
+      Criterion E requires standardized exam-based assessment of
+      educational (academic) outcomes (e.g., state/national standardized
+      tests). The study’s measures are leadership questionnaires,
+      classroom observation codes, accelerometry, and fitness/motor
+      competence tests. While some instruments are standardized research
+      tools in their domains, they are not standardized academic exams.
+
+      Final sentence: Criterion E is not met because the study does not
+      use standardized academic exams for outcome assessment.
+  t:
+    met: true
+    explanation: >-
+      The intervention began in Term 2 and outcomes were assessed at
+      intervention end in late Term 3, which is at least one term later.
+    quote: >-
+      Assessments were conducted at 2 time points: baseline (late
+      Term 1 to mid-Term 2; mid-March to June), prior to the
+      commencement of the intervention, and intervention end (late
+      Term 3; mid-August to September), immediately following the
+      completion of the program.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Assessments were conducted at 2 time points: baseline (late
+      Term 1 to mid-Term 2; mid-March to June), prior to the
+      commencement of the intervention, and intervention end (late
+      Term 3; mid-August to September), immediately following the
+      completion of the program." (p. 3)
+
+      2) "For Phase 2, in school Term 2 (i. e., 10-week period), the
+      School Champions delivered 6 x 40-minute lessons to their classes
+      of Leaders." (p. 3)
+
+      3) "In Phase 3, Leaders were asked to deliver 12 x 30-minute
+      fundamental movement skill sessions to Peers throughout Term 3."
+      (p. 3)
+
+      Detailed Analysis:
+
+      Criterion T requires that outcomes be measured at least one full
+      academic term after the intervention begins. The intervention
+      starts in Term 2 (Phase 2), continues in Term 3 (Phase 3), and the
+      intervention-end assessment occurs in late Term 3 (mid-August to
+      September). This exceeds a term from the start of Term 2 to late
+      Term 3.
+
+      Final sentence: Criterion T is met because outcomes were assessed
+      in late Term 3 after the intervention began in Term 2.
+  d:
+    met: true
+    explanation: >-
+      The wait-list control is described as continuing usual practice
+      during Terms 2 and 3, with baseline characteristics reported for
+      both groups.
+    quote: >-
+      During the intervention period (Terms 2 and 3), control schools
+      continued with their usual practice, with teachers delivering
+      their regular curriculum and classroom activities while
+      intervention schools implemented the leadership lessons.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "After collection of baseline data, schools were randomized to
+      the L2L program, or a wait-list control." (p. 3)
+
+      2) "Schools allocated to the control condition in Waves 1 and 2
+      received the program in Term 4 of 2022 and 2023, respectively."
+      (p. 3)
+
+      3) "During the intervention period (Terms 2 and 3), control
+      schools continued with their usual practice, with teachers
+      delivering their regular curriculum and classroom activities while
+      intervention schools implemented the leadership lessons." (p. 3)
+
+      4) "Participants' baseline characteristics are reported in
+      Tables 1 and 2." (p. 6)
+
+      5) "The flow of participants through the trial is displayed in
+      Fig. 1." (p. 6)
+
+      Detailed Analysis:
+
+      Criterion D requires that the control group be well documented,
+      including what it received and key baseline/composition details.
+      The paper describes a wait-list control that continued "usual
+      practice" during the active intervention period, and it provides
+      baseline characteristics (Tables 1 and 2) and participant flow
+      (Fig. 1), allowing readers to assess comparability and attrition.
+
+      Final sentence: Criterion D is met because the control condition
+      and baseline characteristics are clearly documented.
+  s:
+    met: true
+    explanation: >-
+      The unit of randomization was the school, satisfying Criterion S.
+    quote: >-
+      Schools were randomized at the school level to either
+      intervention or waitlist control by an independent researcher via
+      a computer-based random number generator.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "In summary, we evaluated the L2L program using a two-arm
+      cluster randomized controlled trial design in 20 elementary
+      schools across two waves." (p. 3)
+
+      2) "Schools were randomized at the school level to either
+      intervention or waitlist control by an independent researcher via
+      a computer-based random number generator." (p. 3)
+
+      Detailed Analysis:
+
+      Criterion S requires randomization at the school (site)
+      level. The paper explicitly states that schools were randomized at
+      the school level, which directly satisfies this criterion.
+
+      Final sentence: Criterion S is met because randomization occurred
+      at the school level.
+  i:
+    met: false
+    explanation: >-
+      Randomization involved an independent researcher, but the paper
+      does not show a fully independent third-party evaluation team
+      separate from the intervention developers.
+    quote: >-
+      An external change agent from the University of Newcastle was
+      employed to support the program's implementation.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Schools were randomized at the school level to either
+      intervention or waitlist control by an independent researcher via
+      a computer-based random number generator." (p. 3)
+
+      2) "All assessments were conducted at the study schools by trained
+      research assistants." (p. 3)
+
+      3) "An external change agent from the University of Newcastle was
+      employed to support the program's implementation." (p. 3)
+
+      4) "Their role included providing initial training at the full-day
+      workshop and ongoing support to the School Champions throughout
+      the intervention." (p. 3)
+
+      Detailed Analysis:
+
+      Criterion I requires that the evaluation be conducted
+      independently from the intervention designers to reduce bias. The
+      paper shows an "independent researcher" performed randomization,
+      but the broader trial conduct (implementation support, data
+      collection, and analysis) is not described as being performed by
+      an external evaluation organization independent of the author
+      group. The "external change agent" is from the University of
+      Newcastle, which is also an author-affiliated institution.
+
+      Final sentence: Criterion I is not met because independent
+      third-party evaluation conduct is not established.
+  y:
+    met: false
+    explanation: >-
+      The intervention began in Term 2 and outcomes were assessed at
+      intervention end in late Term 3, which is well under 75% of an
+      academic year.
+    quote: >-
+      Assessments were conducted at 2 time points: baseline (late
+      Term 1 to mid-Term 2; mid-March to June), prior to the
+      commencement of the intervention, and intervention end (late
+      Term 3; mid-August to September), immediately following the
+      completion of the program.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "For Phase 2, in school Term 2 (i. e., 10-week period), the
+      School Champions delivered 6 x 40-minute lessons to their classes
+      of Leaders." (p. 3)
+
+      2) "In Phase 3, Leaders were asked to deliver 12 x 30-minute
+      fundamental movement skill sessions to Peers throughout Term 3."
+      (p. 3)
+
+      3) "Assessments were conducted at 2 time points: baseline (late
+      Term 1 to mid-Term 2; mid-March to June), prior to the
+      commencement of the intervention, and intervention end (late
+      Term 3; mid-August to September), immediately following the
+      completion of the program." (p. 3)
+
+      Detailed Analysis:
+
+      Criterion Y requires outcome measurement at least 75% of one
+      academic year after the intervention begins. Here, the program is
+      delivered in Term 2 and Term 3, with the intervention-end
+      assessment in late Term 3. This Term 2 → late Term 3 window is
+      substantially shorter than three-quarters of a typical four-term
+      school year.
+
+      Final sentence: Criterion Y is not met because outcomes are
+      assessed by late Term 3 rather than after ~75% of an academic year.
+  b:
+    met: false
+    explanation: >-
+      The intervention provided substantial additional resources
+      (workshop, equipment, implementation support) that were not
+      matched in the control condition, and these extra inputs were not
+      framed as the treatment variable.
+    quote: >-
+      In Phase 1, two Stage 3 teachers from each school attended a
+      full-day workshop at the University of Newcastle to receive
+      equipment and training to deliver L2L in their schools.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "In Phase 1, two Stage 3 teachers from each school attended a
+      full-day workshop at the University of Newcastle to receive
+      equipment and training to deliver L2L in their schools." (p. 3)
+
+      2) "An external change agent from the University of Newcastle was
+      employed to support the program's implementation." (p. 3)
+
+      3) "Their role included providing initial training at the full-day
+      workshop and ongoing support to the School Champions throughout
+      the intervention." (p. 3)
+
+      4) "During the intervention period (Terms 2 and 3), control
+      schools continued with their usual practice, with teachers
+      delivering their regular curriculum and classroom activities while
+      intervention schools implemented the leadership lessons." (p. 3)
+
+      Detailed Analysis:
+
+      Criterion B requires that time/resources be balanced between
+      intervention and control, unless the study clearly frames the
+      additional resources themselves as the treatment variable.
+
+      Extra resources are clearly present in the intervention condition,
+      including: (a) a full-day teacher workshop at a university, (b)
+      provision of equipment and training, and (c) ongoing external
+      change-agent implementation support. The control condition is
+      described as "usual practice" during Terms 2 and 3, with no
+      described equivalent professional development time, matched
+      external support, or comparable substitute inputs.
+
+      The paper frames the causal question as the effects of the L2L
+      program, not as isolating the effect of "additional resources"
+      alone. Under the ERCT Criterion B decision logic, when substantial
+      extra resources exist, are not negligible, are not explicitly
+      framed as the treatment variable, and are not matched in the
+      control group, the criterion is not met.
+
+      Final sentence: Criterion B is not met because the intervention
+      adds substantial resources that are not balanced in the control
+      condition.
+  r:
+    met: false
+    explanation: >-
+      No independent replication by a separate research team was found
+      for this specific Learning to Lead cluster RCT.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The present study builds on our previous pilot trial (Nathan
+      et al., 2017), which examined the feasibility and acceptability of
+      a peer-led leadership and fundamental movement skills program in a
+      two elementary schools." (p. 3)
+
+      Detailed Analysis:
+
+      Criterion R requires a peer-reviewed replication of this study by
+      an independent research team in a different context. The paper
+      references an earlier pilot trial by related authors, but does not
+      report an independent replication. An internet search for
+      replication studies of this specific L2L cluster RCT by other
+      author teams did not identify any such replication publications as
+      of the ERCT check date.
+
+      Final sentence: Criterion R is not met because independent
+      replication evidence was not found.
+  a:
+    met: false
+    explanation: >-
+      Criterion E is not met (no standardized academic exams), so the
+      all-subject standardized exam requirement cannot be satisfied.
+    quote: >-
+      Leader outcomes included teacher-rated leadership effectiveness
+      (the primary outcome), leadership ability, leadership self-efficacy,
+      wellbeing, and observed time on-task in the classroom.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Leader outcomes included teacher-rated leadership
+      effectiveness (the primary outcome), leadership ability,
+      leadership self-efficacy, wellbeing, and observed time on-task in
+      the classroom." (p. 1)
+
+      2) "Peer outcomes included school-based physical activity
+      (accelerometers), object control motor competence (Test of Gross
+      Motor Development-3), perceived motor competence,
+      cardiorespiratory fitness (20-meter multi-stage fitness test), and
+      muscular power (standing long jump)." (p. 1)
+
+      Detailed Analysis:
+
+      Criterion A requires standardized exam-based assessment across all
+      main school subjects, and ERCT rules specify that if Criterion E is
+      not met, Criterion A is not met. This study does not use
+      standardized academic exams in any subject area.
+
+      Final sentence: Criterion A is not met because standardized
+      exam-based assessment is not used (and Criterion E is not met).
+  g:
+    met: false
+    explanation: >-
+      The study does not track participants through graduation, and
+      Criterion Y is not met which also forces Criterion G to be not met.
+    quote: >-
+      Firstly, the outcomes were measured relatively shortly after the
+      end of the intervention, which may limit the conclusions regarding
+      the longevity of the observed effects.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Assessments were conducted at 2 time points: baseline (late
+      Term 1 to mid-Term 2; mid-March to June), prior to the
+      commencement of the intervention, and intervention end (late
+      Term 3; mid-August to September), immediately following the
+      completion of the program." (p. 3)
+
+      2) "Firstly, the outcomes were measured relatively shortly after
+      the end of the intervention, which may limit the conclusions
+      regarding the longevity of the observed effects." (p. 9)
+
+      Detailed Analysis:
+
+      Criterion G requires tracking students until graduation, and ERCT
+      rules specify that if Criterion Y (year duration) is not met, then
+      Criterion G is not met. The paper reports only baseline and
+      intervention-end assessments, and explicitly notes that outcomes
+      were measured relatively shortly after the intervention ended.
+      There is no mention in this paper of tracking students to
+      graduation. An internet search for subsequent follow-up papers by
+      the same author team reporting graduation tracking for this cohort
+      did not identify any such publications as of the ERCT check date.
+
+      Final sentence: Criterion G is not met because the study does not
+      report graduation tracking (and Y is not met).
+  p:
+    met: true
+    explanation: >-
+      The trial was prospectively registered (ACTRN12621000376842) with
+      a registration date preceding first participant enrolment.
+    quote: >-
+      Our study was registered with the Australian New Zealand Clinical
+      Trials Registry (registration number: ACTRN12621000376842).
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Our study was registered with the Australian New Zealand
+      Clinical Trials Registry (registration number: ACTRN12621000376842)."
+      (p. 3)
+
+      2) "The trial was prospectively registered with the Australian New
+      Zealand Clinical Trials Registry (registration number:
+      ACTRN12621000376842) and a detailed protocol was published prior
+      to data analysis (Wade et al., 2023)." (p. 6)
+
+      Detailed Analysis:
+
+      Criterion P requires that the study protocol be pre-registered
+      before the study begins. The paper explicitly states the trial was
+      registered on ANZCTR and provides the registration number.
+
+      Registry Verification (ANZCTR):
+
+      1) "Date registered 1/04/2021" (ANZCTR record for
+      ACTRN12621000376842)
+
+      2) "Date of first participant enrolment ... Actual 6/04/2022"
+      (ANZCTR record for ACTRN12621000376842)
+
+      Because the ANZCTR registration date (April 1, 2021) is before the
+      first participant enrolment date (April 6, 2022), the protocol was
+      registered prospectively relative to study start.
+
+      Final sentence: Criterion P is met because the trial was
+      prospectively registered prior to first participant enrolment.
+---
+```
+
+## Change summary (what I changed and why)
+
+- Added metadata fields:
+  - `paper_link` set to the DOI landing page. ([sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0361476X26000020))
+  - `pdf_link` set to the ScienceDirect “pdfft” PDF endpoint for the
+    article. ([sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0361476X26000020))
+  - `date_erct_check` set to **2026-02-14**.
+
+- Quote hygiene pass (all criteria):
+  - Removed non-verbatim ellipses from `quote` fields and removed page
+    numbers from `quote` fields so the `quote` text is strictly verbatim
+    (page numbers remain in `analysis`).
+
+- Re-checked criteria requiring internet verification:
+  - **P (Pre-registered Protocol):** verified on ANZCTR that the trial
+    was registered **1/04/2021** and first participant enrolment was
+    **6/04/2022**, confirming prospective registration. ([anzctr.org.au](https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?id=381356))
+  - **G (Graduation Tracking):** searched for follow-up publications
+    reporting graduation tracking; none found as of the check date.
+  - **R (Reproduced):** searched for independent replication papers by
+    other author teams; none found as of the check date.
+
+- ERCT level:
+  - Kept `erct_level: 0` because Criterion **E** is not met (Level 1
+    requires C, E, T, D all met).

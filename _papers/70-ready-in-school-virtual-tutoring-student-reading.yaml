@@ -1,0 +1,481 @@
+---
+title: >-
+  The Effects of In-School Virtual Tutoring on Student Reading
+  Development: Evidence from a Short-Cycle Randomized Controlled Trial
+authors: >-
+  Douglas D. Ready; Sierra G. McCormick; Rebecca J. Shmoys
+paper_link: "https://doi.org/10.26300/569p-wz78"
+abstract: >-
+  This paper describes a 12-week cluster randomized controlled trial
+  that examined the efficacy of BookNook, a virtual tutoring platform
+  focused on reading. Cohorts of first- through fourth-grade students
+  attending six Rocketship public charter schools in Northern
+  California were randomly assigned within grades to receive BookNook.
+  Intent-to-Treat models indicate that students in cohorts assigned to
+  BookNook outperformed their control-group peers by roughly 0.05 SDs.
+  Given the substantial variability in usage rates among students
+  enrolled in BookNook cohorts, we also leveraged Treatment-on-the-
+  Treated approaches. These models suggest that students who completed
+  10 or more BookNook sessions experienced a reading advantage of 0.08
+  SDs, while those who completed 20 or more sessions—the recommended
+  dosage—experienced a 0.26 SD developmental advantage.
+publication_date: 2024-04-03
+erct_level: 1
+rct: true
+pdf_link: "https://edworkingpapers.com/sites/default/files/ai24-942.pdf"
+doi: "10.26300/569p-wz78"
+journal: >-
+  EdWorkingPaper (Annenberg Institute at Brown University)
+date_erct_check: 2026-02-13
+tags:
+  - reading
+  - K12
+  - US
+  - EdTech platform
+  - formative assessment
+criteria:
+  c:
+    met: true
+    explanation: >-
+      Cohorts (cluster groups of roughly 20–30 students) were randomly
+      assigned to treatment or control within each school and grade,
+      satisfying class-level cluster randomization.
+    quote: >-
+      "Within each school and grade, we randomly assigned all cohorts to
+      treatment or control groups." (p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This paper describes a 12-week cluster randomized controlled
+      trial that examined the efficacy of BookNook, a virtual tutoring
+      platform focused on reading." (p. 2)
+
+      2) "Rocketship organizes students into same-grade cohorts
+      containing roughly 20-30 students each, usually resulting in three
+      to four cohorts per grade, depending on enrollments." (p. 9)
+
+      3) "Within each school and grade, we randomly assigned all cohorts
+      to treatment or control groups." (p. 9)
+
+      Detailed Analysis:
+
+      Criterion C requires randomization at the class level (or stronger)
+      to reduce contamination, with an exception for tutoring/personal
+      teaching. This study is explicitly described as a "cluster
+      randomized controlled trial" and specifies that the randomization
+      unit is the "cohort" within each school and grade.
+
+      The cohorts are described as roughly 20–30 students, indicating a
+      class-like instructional grouping rather than random assignment of
+      individual students within the same classroom/cohort. The quoted
+      randomization statement confirms assignment of intact cohorts to
+      treatment vs. control.
+
+      Final: Criterion C is met because intact student cohorts were
+      randomly assigned to treatment or control conditions. 
+  e:
+    met: true
+    explanation: >-
+      Outcomes were measured using NWEA MAP, a standardized assessment
+      administered as part of the schools’ regular assessment program.
+    quote: >-
+      "Outcome. MAP is a computer-adaptive assessment that measures
+      student academic growth, producing scores that are vertically
+      equated using the Rasch unit (RIT) scale." (p. 11)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Outcome. MAP is a computer-adaptive assessment that measures
+      student academic growth, producing scores that are vertically
+      equated using the Rasch unit (RIT) scale." (p. 11)
+
+      2) "Rocketship Schools administers the MAP assessments three times
+      each year—Fall, Winter, and Spring—as part of its regular
+      assessment program." (p. 12)
+
+      3) "In norming studies, MAP test–retest reliabilities ranged from
+      .73 to .89, and concurrent validity with elementary-level state
+      reading tests ranged from .58 to .83 (NWEA, 2019)." (p. 11)
+
+      Detailed Analysis:
+
+      Criterion E requires outcomes be measured using standardized,
+      widely recognized exam-based assessments (not researcher-created
+      tests tailored to the intervention). The paper clearly identifies
+      MAP as the outcome assessment, describes it as vertically equated
+      on a standard scale (RIT), and notes that Rocketship administers
+      MAP on a routine schedule (Fall/Winter/Spring) as part of its
+      regular program.
+
+      The paper further cites reliability and concurrent validity
+      evidence from MAP norming studies, which supports that MAP is a
+      standardized, externally developed assessment rather than a custom
+      measure created for this experiment.
+
+      Final: Criterion E is met because student outcomes were measured
+      using the standardized MAP assessment administered routinely by the
+      schools. 
+  t:
+    met: true
+    explanation: >-
+      The intervention began in late January 2023 and the follow-up MAP
+      assessment occurred in mid-May 2023, which is approximately a full
+      academic term after the intervention start.
+    quote: >-
+      "The roughly 12-week implementation began in late January, 2023
+      and concluded in early May, 2023." (p. 10)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The roughly 12-week implementation began in late January, 2023
+      and concluded in early May, 2023." (p. 10)
+
+      2) "The Spring administration took place in mid-May, after the
+      conclusion of the study." (p. 12)
+
+      Detailed Analysis:
+
+      Criterion T requires outcomes be measured at least one academic
+      term after the intervention begins (typically about 3–4 months).
+      The intervention started in late January 2023 and concluded in
+      early May 2023, and the spring assessment occurred in mid-May.
+
+      Late January to mid-May is roughly 3.5 months, which aligns with
+      a term-length interval from start to follow-up measurement.
+
+      Final: Criterion T is met because the start-to-follow-up interval
+      is approximately one full academic term. 
+  d:
+    met: true
+    explanation: >-
+      The control condition is described as continuing Rocketship’s
+      regular Learning Lab reading supports, and the paper reports clear
+      treatment/control sample sizes and baseline equivalence checks.
+    quote: >-
+      "Control cohorts of students within the same grade and school
+      continued to receive the reading supports and activities that
+      Rocketship normally provides." (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Control cohorts of students within the same grade and school
+      continued to receive the reading supports and activities that
+      Rocketship normally provides." (p. 3)
+
+      2) "Our final analytic sample includes 77 student cohorts (n=42
+      treatment, 35 control) containing 1,777 first- through fourth-
+      grade students (n=959 treatment, 818 control)..." (p. 11)
+
+      3) "We begin with results from the models establishing pre-
+      treatment equivalency between treatment/control cohorts (see
+      Table 1). Fortunately, we find no statistically significant or
+      substantively meaningful differences in terms of baseline student
+      academic and socio-demographic characteristics." (p. 17)
+
+      Detailed Analysis:
+
+      Criterion D requires that the control group be sufficiently
+      documented, including what the control group received and enough
+      information to evaluate baseline comparability. The paper clearly
+      states the control condition: continuing Rocketship’s usual reading
+      supports and activities.
+
+      The paper also reports the sample sizes by condition at both the
+      cohort and student levels and explicitly describes baseline
+      equivalence analyses (Table 1), concluding there are no meaningful
+      pre-treatment differences.
+
+      Final: Criterion D is met because the control condition and
+      treatment/control group composition and baseline equivalence are
+      clearly documented. 
+  s:
+    met: false
+    explanation: >-
+      Randomization occurred within schools at the cohort level rather
+      than assigning entire schools to treatment versus control.
+    quote: >-
+      "Within each school and grade, we randomly assigned all cohorts to
+      treatment or control groups." (p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The implementation involved first- through fourth-grade
+      students enrolled in six Rocketship public charter schools in
+      Northern California." (p. 9)
+
+      2) "Within each school and grade, we randomly assigned all cohorts
+      to treatment or control groups." (p. 9)
+
+      Detailed Analysis:
+
+      Criterion S requires school-level randomization (schools assigned
+      to intervention vs. control). Although six schools participated,
+      the random assignment occurred "within each school and grade"
+      across cohorts, not across whole schools.
+
+      Because assignment did not occur at the school level, the study
+      does not satisfy the school-level RCT requirement.
+
+      Final: Criterion S is not met because randomization was conducted
+      at the cohort-within-school level rather than the school level. 
+  i:
+    met: false
+    explanation: >-
+      The paper does not explicitly state that the study was conducted by
+      an independent third party separate from the intervention’s
+      designers/provider.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "In this paper, we describe the results of a short-cycle cluster
+      randomized controlled trial that examined the impact of BookNook on
+      student reading outcomes." (p. 3)
+
+      Detailed Analysis:
+
+      Criterion I requires explicit, quotable evidence that the evaluation
+      was conducted independently from the intervention designers (e.g.,
+      an external evaluator with no role in developing the program).
+
+      The paper describes the design and results of the trial but does
+      not include a statement clarifying the relationship between the
+      evaluators (the paper’s authors) and the intervention provider or
+      designers (BookNook), nor does it state that an independent
+      evaluation organization conducted the study.
+
+      Final: Criterion I is not met because the paper does not document
+      independent third-party conduct of the evaluation. 
+  y:
+    met: false
+    explanation: >-
+      Outcomes were measured from late January 2023 to mid-May 2023,
+      which is far less than 75% of an academic year after the
+      intervention began.
+    quote: >-
+      "The Winter MAP administration occurred in December prior to the
+      BookNook implementation, and the Spring administration took place
+      in mid-May, after the conclusion of the study." (p. 12)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The roughly 12-week implementation began in late January, 2023
+      and concluded in early May, 2023." (p. 10)
+
+      2) "As such, the actual intervention period was 10 weeks, with full
+      treatment exposure calculated as 20-30 BookNook sessions." (p. 10)
+
+      3) "The Winter MAP administration occurred in December prior to the
+      BookNook implementation, and the Spring administration took place
+      in mid-May, after the conclusion of the study." (p. 12)
+
+      Detailed Analysis:
+
+      Criterion Y requires outcomes be measured at least 75% of an
+      academic year after the intervention begins. Here, the intervention
+      began in late January 2023, concluded in early May 2023, and the
+      spring MAP follow-up was administered in mid-May.
+
+      The time from late January to mid-May is roughly 3.5 months, well
+      below 75% of a typical 9–10 month academic year, and the paper also
+      indicates the actual intervention period was only 10 weeks.
+
+      Final: Criterion Y is not met because the follow-up window is far
+      shorter than 75% of an academic year. 
+  b:
+    met: true
+    explanation: >-
+      Both groups used the same scheduled Learning Lab time, and the
+      added tutoring/platform resources are the core treatment being
+      tested rather than an unbalanced add-on of extra instructional
+      time.
+    quote: >-
+      "Students enrolled in treatment cohorts were to receive BookNook
+      tutoring during their Learning Lab period two to three times per
+      week for 30 minutes per session." (p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Rocketship students experience four content blocks each day:
+      Humanities, STEM, Enrichment, and Learning Lab." (p. 9)
+
+      2) "Students enrolled in treatment cohorts were to receive BookNook
+      tutoring during their Learning Lab period two to three times per
+      week for 30 minutes per session." (p. 9)
+
+      3) "Students in cohorts assigned to the control condition would
+      continue with the regular reading supports provided during Learning
+      Lab." (p. 9)
+
+      4) "Most of the participating virtual tutors had previously taught
+      K-12 academic subjects, with over three years of tutoring or
+      teaching experience on average." (p. 9)
+
+      Detailed Analysis:
+
+      Criterion B requires that treatment and control have balanced time
+      and resources unless the study is explicitly testing additional
+      resources as the treatment variable (in which case business-as-
+      usual controls can be appropriate).
+
+      Time: Both treatment and control occur during the same scheduled
+      "Learning Lab" block, indicating no additional instructional time
+      is added beyond the normal school schedule for the treatment group.
+
+      Resources: BookNook includes additional resources (a synchronous
+      platform and virtual tutors). The paper makes clear that these
+      tutoring resources are the intervention itself (i.e., a substitution
+      of BookNook tutoring for the regular reading supports within the
+      same time block), not an optional add-on layered on top of extra
+      time.
+
+      Under the ERCT decision rule, even though extra resources are
+      present (tutors/platform), they are integral to what is being
+      tested (the provision of BookNook tutoring during Learning Lab
+      versus business-as-usual supports during Learning Lab). Therefore,
+      the design can still meet Criterion B.
+
+      Final: Criterion B is met because treatment and control use the
+      same Learning Lab time and the additional tutoring resources are
+      the core treatment being evaluated. 
+  r:
+    met: false
+    explanation: >-
+      No independent replication of this specific BookNook Rocketship RCT
+      by a different research team was identified, and none is reported
+      in the paper.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Our current work is among the few causal studies to estimate
+      the impact of virtual tutoring structured into the school day."
+      (p. 7)
+
+      Detailed Analysis:
+
+      Criterion R requires evidence that a different research team
+      independently replicated the same intervention/evaluation in a
+      different context and published it in a peer-reviewed journal.
+
+      The paper does not report that this specific BookNook RCT was
+      replicated elsewhere, and it frames the work as being among "the
+      few causal studies" in this area. An internet search for
+      peer-reviewed, independent replications of this specific RCT did
+      not identify a qualifying replication study.
+
+      Final: Criterion R is not met because no independent, peer-reviewed
+      replication of this specific RCT is documented or was found. 
+  a:
+    met: false
+    explanation: >-
+      The study uses a standardized reading assessment (MAP Reading) but
+      does not assess outcomes across all core subjects.
+    quote: >-
+      "We use reading results from the Winter administration as our
+      baseline measure and reading scores from the Spring administration
+      as the follow-up (post-implementation) outcome." (p. 12)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "We use reading results from the Winter administration as our
+      baseline measure and reading scores from the Spring administration
+      as the follow-up (post-implementation) outcome." (p. 12)
+
+      2) "Outcome. MAP is a computer-adaptive assessment that measures
+      student academic growth, producing scores that are vertically
+      equated using the Rasch unit (RIT) scale." (p. 11)
+
+      Detailed Analysis:
+
+      Criterion A requires standardized exams across all main subjects,
+      and Criterion E must be met (it is met here because MAP is
+      standardized). However, the outcomes analyzed in this study are
+      explicitly MAP reading results, with no corresponding outcome
+      reporting for other core subjects (e.g., math, science, writing).
+
+      Therefore, the study does not satisfy the all-subject exams
+      requirement.
+
+      Final: Criterion A is not met because the paper reports standardized
+      exam outcomes for reading only, not for all core subjects. 
+  g:
+    met: false
+    explanation: >-
+      The study does not track students through graduation, and per ERCT
+      rules graduation tracking cannot be met when year-duration (Y) is
+      not met.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The Spring administration took place in mid-May, after the
+      conclusion of the study." (p. 12)
+
+      Detailed Analysis:
+
+      Criterion G requires follow-up tracking through graduation from the
+      relevant educational stage, and ERCT rules specify that if Criterion
+      Y is not met, then Criterion G is not met.
+
+      This study follows students only through the spring assessment in
+      mid-May 2023 after a late-January 2023 start. The paper does not
+      describe any longer-term follow-up of the same cohort into later
+      grades or through any graduation milestone. An internet search for
+      follow-up publications by the same authors reporting graduation
+      tracking for this cohort did not identify any such paper.
+
+      Final: Criterion G is not met because the study ends in spring 2023,
+      does not track to graduation, and Criterion Y is not met. 
+  p:
+    met: false
+    explanation: >-
+      The paper provides no registry identifier or link to a pre-
+      registered protocol, and no external pre-registration record was
+      found for this study.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      (No relevant quotes found in the paper indicating a registry, a
+      registration ID/link, or a pre-registration date.)
+
+      Detailed Analysis:
+
+      Criterion P requires that the study protocol be pre-registered
+      before data collection begins, with a verifiable registry record
+      (e.g., OSF, AEA RCT Registry) and appropriate timing.
+
+      The paper contains no mention of pre-registration (no registry name,
+      link, or ID). Searches for an associated public pre-registration
+      record tied to this study (e.g., by title, authors, DOI, and
+      intervention name) did not identify a verifiable pre-registered
+      protocol.
+
+      Final: Criterion P is not met because no pre-registration evidence
+      is reported in the paper or found via registry searches. 
+---
+```
+
+## Change summary (vs. the provided report)
+
+1. Added missing metadata:
+   * `paper_link`: set to the DOI landing page.
+   * `pdf_link`: set to the direct PDF download URL.
+   * `date_erct_check`: set to 2026-02-13.
+2. Verified the quoted passages against the PDF and adjusted wording and
+   page references where needed to keep quotes verbatim.
+3. Rewrote all `analysis` fields to follow the required structure
+   (Relevant Quotes → Detailed Analysis → Final sentence).
+4. Re-checked Criteria **G**, **R**, and **P** using internet search:
+   * No qualifying graduation-tracking follow-up paper was found (G
+     remains not met, and also fails by rule because Y is not met).
+   * No independent peer-reviewed replication of this specific RCT was
+     found (R remains not met).
+   * No pre-registration record was found and none is reported in the
+     paper (P remains not met).
+5. Updated Criterion **B** analysis to explicitly address the revised ERCT
+   definition (time/resources balance and whether extra resources are
+   integral to the treatment), while keeping the same met/not-met result.
+6. Confirmed `erct_level` remains **1** (C, E, T, D met; Level 2 criteria
+   not all met).

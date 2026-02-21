@@ -1,0 +1,577 @@
+---
+title: >-
+  Replication of Strategic and Interactive Writing Instruction in a
+  Nationwide Randomized Controlled Trial
+authors: >-
+  Kimberly Wolbers, Hannah M. Dostal, Lee Branum-Martin, Steve Graham,
+  Jennifer Renée Kilpatrick, Thomas Allen, Rachel Saulsburry,
+  Leala Holcomb, and Kelsey Spurgin
+paper_link: https://doi.org/10.3390/bs16010086
+abstract: >-
+  This study reports findings from a nationwide replication and the
+  second randomized controlled trial (RCT) of Strategic and Interactive
+  Writing Instruction (SIWI), a linguistically responsive framework for
+  teaching writing to deaf students. A total of 50 teachers and their
+  294 students in grades 3–6 were randomly assigned to either SIWI or
+  business-as-usual (BAU) instruction. Writing outcomes were assessed
+  with trait-based rubrics and the Structured Analysis of Written
+  Language (SAWL) in two genres (recount and information report), along
+  with the Woodcock–Johnson IV broad written language composite and
+  genre-specific motivation surveys administered at the beginning and
+  end of the school year. Students receiving SIWI outperformed peers in
+  the BAU group on writing traits across both genres, with effect sizes
+  ranging from moderately large (d = 0.70) for informational reports to
+  very large (d = 1.11) for recounts. On the SAWL, SIWI students
+  demonstrated significantly greater gains in grammatical clarity on
+  recount writing, as measured by the word efficiency ratio, with a
+  moderate effect size (d = 0.64), although this effect was not observed
+  for information reports. Students in the treatment group also reported
+  significantly higher motivation for both genres. Unlike the prior RCT,
+  no statistically significant differences emerged on the broad written
+  language measure (d = 0.27). This may reflect spurious findings in the
+  previous study or limitations in this study caused by the COVID-19
+  pandemic. Nonetheless, the effect size observed suggests some
+  practical importance that warrants further investigation. Findings
+  provide robust evidence that SIWI positively impacts deaf elementary
+  students’ writing development and motivation, particularly for recount
+  genres, while underscoring the importance of replication for
+  understanding the generalizability of intervention effects.
+publication_date: 2026-01-07
+erct_level: 1
+rct: true
+pdf_link: https://www.mdpi.com/2076-328X/16/1/86/pdf
+doi: 10.3390/bs16010086
+journal: Behavioral Sciences
+date_erct_check: 2026-02-13
+tags:
+  - language arts
+  - K12
+  - US
+criteria:
+  c:
+    met: true
+    explanation: >-
+      Randomization occurred at the teacher/classroom level (not within a
+      single classroom by student), meeting the class-level RCT
+      requirement.
+    quote: >-
+      "There were a total of 294 students who were randomly assigned at
+      the teacher level to BAU or treatment groups." (p. 8 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "There were a total of 294 students who were randomly assigned at
+      the teacher level to BAU or treatment groups." (p. 8 of 33)
+
+      2) "Teachers and their students were randomly assigned to BAU and
+      treatment groups through a computer-generated randomization
+      process." (p. 8 of 33)
+
+      3) "Participants were recruited from schools for the deaf, public
+      schools, and mainstream programs across the United States and were
+      randomly assigned at the class level to either the SIWI intervention
+      group (n = 166) or a BAU control group (n = 128)." (p. 12 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion C requires that randomization be at the class level
+      (or stronger) to reduce contamination that can occur when students
+      in the same classroom are split across conditions.
+
+      The paper repeatedly describes random assignment at the "teacher
+      level" and also states random assignment at the "class level." In
+      this context, "teacher level" functions as classroom-level cluster
+      randomization.
+
+      The paper does not indicate that students within a single classroom
+      were split into SIWI vs BAU at the same time.
+
+      Final summary sentence: Criterion C is met because teachers/classes
+      (not individual students within the same classroom) were randomly
+      assigned to SIWI vs BAU.
+  e:
+    met: true
+    explanation: >-
+      The study used the standardized Woodcock–Johnson IV Tests of
+      Achievement (WJ-IV) as an outcome measure.
+    quote: >-
+      "Students’ writing performance was also assessed using the broad
+      written language cluster from the Woodcock–Johnson IV Tests of
+      Achievement (WJ-IV; Schrank et al., 2014)." (p. 16 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Writing outcomes were assessed with trait-based rubrics and the
+      Structured Analysis of Written Language (SAWL) in two genres
+      (recount and information report), along with the Woodcock–Johnson IV
+      broad written language composite..." (p. 1 of 33)
+
+      2) "Students’ writing performance was also assessed using the broad
+      written language cluster from the Woodcock–Johnson IV Tests of
+      Achievement (WJ-IV; Schrank et al., 2014)." (p. 16 of 33)
+
+      3) "The broad written language cluster was administered at the
+      beginning and end of the school year by trained data collectors or
+      teachers (when necessary due to COVID-19 limiting access),
+      following standardized administration protocols." (p. 16 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion E requires standardized exam-based assessment(s),
+      rather than only researcher-created instruments aligned to the
+      intervention.
+
+      While several measures in this paper are rubrics or analytic
+      frameworks (trait rubrics, SAWL), the study also includes the WJ-IV,
+      a widely used standardized assessment with standardized
+      administration protocols.
+
+      Final summary sentence: Criterion E is met because the study used a
+      standardized achievement assessment (WJ-IV).
+  t:
+    met: true
+    explanation: >-
+      Outcomes were measured at the beginning and end of the school year,
+      exceeding a one-term minimum.
+    quote: >-
+      "Writing instruction for both groups was implemented for one
+      academic year; measures were collected at the beginning and end of
+      the school year." (p. 8 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Writing instruction for both groups was implemented for one
+      academic year; measures were collected at the beginning and end of
+      the school year." (p. 8 of 33)
+
+      2) "Data were collected from student participants at the beginning
+      and end of the academic year." (p. 14 of 33)
+
+      3) "All assessments at the beginning of the year were collected
+      before teachers began writing instruction." (p. 14 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion T requires that outcomes be measured at least one
+      academic term after the intervention begins.
+
+      The paper specifies baseline (beginning-of-year) data collection
+      before instruction began, and outcome measurement at the end of the
+      school year, which necessarily exceeds one term.
+
+      Final summary sentence: Criterion T is met because outcomes were
+      collected at the end of the school year after beginning-of-year
+      baseline assessment.
+  d:
+    met: true
+    explanation: >-
+      The BAU control condition and its participants are documented with
+      group sizes, demographics, and descriptions of BAU instruction.
+    quote: >-
+      "A total of 50 teachers and their 294 students in grades 3–6 were
+      randomly assigned to either SIWI or business-as-usual (BAU)
+      instruction." (p. 1 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "A total of 50 teachers and their 294 students in grades 3–6 were
+      randomly assigned to either SIWI or business-as-usual (BAU)
+      instruction." (p. 1 of 33)
+
+      2) "The treatment group included 26 teachers, and the BAU group
+      included 24 teachers." (p. 9 of 33)
+
+      3) "Table 1 presents demographic information for teachers in the
+      SIWI and BAU treatment conditions." (p. 9 of 33)
+
+      4) "Table 2 presents demographic information for students in the
+      SIWI and BAU treatment conditions." (p. 12 of 33)
+
+      5) "Teachers in the BAU group video-recorded a unit of their typical
+      writing instruction, which was submitted to the research team."
+      (p. 9 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion D requires that the control group be well-documented,
+      including who is in the control group, what they receive, and
+      baseline characteristics.
+
+      The paper defines the control condition as BAU writing instruction,
+      gives control-group sizes, provides teacher and student demographics
+      (Tables 1 and 2), and describes how BAU instruction was documented
+      (including a video-recorded BAU unit).
+
+      Final summary sentence: Criterion D is met because the BAU control
+      group is clearly described and baseline characteristics are
+      documented.
+  s:
+    met: false
+    explanation: >-
+      Randomization occurred at the teacher/classroom level rather than
+      assigning entire schools to SIWI vs BAU.
+    quote: >-
+      "There were a total of 294 students who were randomly assigned at
+      the teacher level to BAU or treatment groups." (p. 8 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "There were a total of 294 students who were randomly assigned at
+      the teacher level to BAU or treatment groups." (p. 8 of 33)
+
+      2) "There were a total of 50 teachers and 20 different schools,
+      providing an average of 5–6 students per teacher and 14–15 students
+      per school." (p. 8 of 33)
+
+      3) "At locations where there was more than one participating
+      teacher, an equal number of teachers were assigned to BAU and SIWI
+      conditions." (p. 8 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion S requires randomization at the school level (schools
+      assigned to intervention vs control).
+
+      The paper states there were 20 schools, but it explicitly describes
+      randomization at the teacher level and balancing assignments among
+      teachers within the same location, which implies that teachers
+      within a school/site could be split across conditions.
+
+      Final summary sentence: Criterion S is not met because schools were
+      not randomized to SIWI vs BAU.
+  i:
+    met: false
+    explanation: >-
+      The intervention developers/authors appear to have led SIWI delivery
+      supports (PD and coaching), so the study was not independently
+      conducted, despite limited external oversight.
+    quote: >-
+      "An external evaluator was hired to confirm the data collection and
+      processing procedures and ensure objectivity measures were in
+      place." (p. 14 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "SIWI participants attended a week-long professional development
+      program in Tennessee prior to the start of the school year and
+      attended online coaching with a SIWI team member eight times during
+      the academic year." (p. 9 of 33)
+
+      2) "They videotaped all writing instruction using a tablet provided
+      to them, which allowed for automatic upload via the SWIVL platform
+      to a secure area that could be accessed by the researchers."
+      (p. 9 of 33)
+
+      3) "An external evaluator was hired to confirm the data collection
+      and processing procedures and ensure objectivity measures were in
+      place." (p. 14 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion I requires the study to be conducted independently of
+      the intervention designers to reduce bias risk.
+
+      The paper describes SIWI implementation supports delivered via a
+      "SIWI team member" (coaching) and researcher access to classroom
+      implementation videos, which indicates the SIWI team (aligned with
+      the intervention and authorship) was heavily involved in execution.
+
+      While an external evaluator provided some oversight, the paper does
+      not describe an independent third party leading the overall
+      implementation and evaluation.
+
+      Final summary sentence: Criterion I is not met because the SIWI team
+      (aligned with the intervention) delivered key supports and the study
+      is not described as independently conducted.
+  y:
+    met: true
+    explanation: >-
+      Outcomes were collected at the beginning and end of the academic
+      year, which meets the year-duration requirement, even though
+      COVID-19 reduced instructional exposure for some participants.
+    quote: >-
+      "Writing instruction for both groups was implemented for one
+      academic year; measures were collected at the beginning and end of
+      the school year." (p. 8 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Writing instruction for both groups was implemented for one
+      academic year; measures were collected at the beginning and end of
+      the school year." (p. 8 of 33)
+
+      2) "Data were collected from student participants at the beginning
+      and end of the academic year." (p. 14 of 33)
+
+      3) "In the second year (when treatment group numbers were highest),
+      the study was impacted by school closures in late February and early
+      March due to COVID-19." (p. 9 of 33)
+
+      4) "Instruction was shortened by 3–4 months, and post-data
+      collection administration was changed (described under data
+      collection)." (p. 9 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion Y requires that outcomes be measured at least 75% of
+      an academic year after the intervention begins.
+
+      The paper explicitly states that measures were collected at the
+      beginning and end of the school year, implying a full academic-year
+      tracking window from pre to post.
+
+      The paper also reports COVID-19 disruptions and reduced instructional
+      exposure for some participants. However, Criterion Y is about the
+      time interval from intervention start to outcome measurement, and
+      the stated beginning-of-year to end-of-year measurement schedule
+      meets the duration threshold.
+
+      Final summary sentence: Criterion Y is met because outcomes were
+      collected at the beginning and end of the academic year.
+  b:
+    met: false
+    explanation: >-
+      SIWI teachers received substantial additional resources (paid PD,
+      ongoing coaching, on-site visits, and provided technology) that were
+      not matched for BAU, and these extra inputs were not framed as the
+      treatment variable.
+    quote: >-
+      "SIWI participants attended a week-long professional development
+      program in Tennessee prior to the start of the school year and
+      attended online coaching with a SIWI team member eight times during
+      the academic year." (p. 9 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Compensation was offered to participants for one year of
+      involvement in the amount of $1000 to BAU teachers and $1500 to SIWI
+      teachers." (p. 9 of 33)
+
+      2) "Both BAU and SIWI teachers committed to at least 2–2.5 h a week
+      in writing instruction during their participation." (p. 9 of 33)
+
+      3) "SIWI participants attended a week-long professional development
+      program in Tennessee prior to the start of the school year and
+      attended online coaching with a SIWI team member eight times during
+      the academic year." (p. 9 of 33)
+
+      4) "In addition, SIWI coaches conducted two on-site visits to each
+      classroom, except during spring 2020, when the onset of COVID-19
+      disrupted in-person school operations." (p. 10 of 33)
+
+      5) "They videotaped all writing instruction using a tablet provided
+      to them, which allowed for automatic upload via the SWIVL platform
+      to a secure area that could be accessed by the researchers."
+      (p. 9 of 33)
+
+      6) "Teachers in the BAU group video-recorded a unit of their typical
+      writing instruction, which was submitted to the research team."
+      (p. 9 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion B requires balanced time/resources between treatment
+      and control unless added resources are explicitly the treatment
+      variable being tested.
+
+      Student-facing instructional time is described as similar
+      (2–2.5 h/week). However, SIWI teachers received substantial
+      additional resources that BAU did not: a week-long institute, eight
+      coaching sessions, on-site visits, and provided technology for
+      recording/uploading instruction, plus higher compensation.
+
+      The paper frames the comparison as SIWI vs BAU, not as an explicit
+      test of "extra PD/coaching/resources" as the causal variable. The
+      paper also does not describe a matched placebo PD/coaching package
+      for BAU.
+
+      Final summary sentence: Criterion B is not met because SIWI included
+      major extra resources that were not matched in BAU and were not
+      framed as the treatment variable.
+  r:
+    met: false
+    explanation: >-
+      No independent (different-team) replication of this specific RCT was
+      found; the paper is itself a replication of earlier SIWI work but
+      conducted by the SIWI research team.
+    quote: >-
+      "This study reports findings from a nationwide replication and the
+      second randomized controlled trial (RCT) of Strategic and
+      Interactive Writing Instruction (SIWI)..." (p. 1 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This study reports findings from a nationwide replication and
+      the second randomized controlled trial (RCT) of Strategic and
+      Interactive Writing Instruction (SIWI)..." (p. 1 of 33)
+
+      2) "Funded by the Institute of Education Sciences (IES), this project
+      represents the second RCT of SIWI and the first nationwide
+      replication conducted in upper elementary grades." (p. 8 of 33)
+
+      3) "A number of studies conducted outside the development team
+      demonstrate the global relevance of SIWI as an effective writing
+      program for deaf students." (p. 7 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion R requires independent replication by a different
+      research team in a different context, published in a peer-reviewed
+      journal.
+
+      This paper describes itself as a replication and the second RCT of
+      SIWI, but the authorship and described implementation supports
+      (e.g., coaching by a "SIWI team member") indicate it was conducted
+      by the SIWI research/development team rather than an independent
+      external team.
+
+      Internet search (performed for this ERCT check) did not identify a
+      peer-reviewed, different-team replication of this specific 2026 RCT
+      (and, given the publication date, such replications may not yet
+      exist).
+
+      Final summary sentence: Criterion R is not met because there is no
+      evidence of an independent replication by a different research team.
+  a:
+    met: false
+    explanation: >-
+      The study used a standardized writing/language assessment (WJ-IV),
+      but did not assess impacts across all core school subjects.
+    quote: >-
+      "Writing outcomes were assessed with trait-based rubrics and the
+      Structured Analysis of Written Language (SAWL) in two genres
+      (recount and information report), along with the Woodcock–Johnson IV
+      broad written language composite..." (p. 1 of 33)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Writing outcomes were assessed with trait-based rubrics and the
+      Structured Analysis of Written Language (SAWL) in two genres
+      (recount and information report), along with the Woodcock–Johnson IV
+      broad written language composite..." (p. 1 of 33)
+
+      2) "The primary objective was to evaluate whether the significant
+      improvements in writing quality and language clarity observed in
+      prior research could be replicated..." (p. 8 of 33)
+
+      3) "Students’ writing performance was also assessed using the broad
+      written language cluster from the Woodcock–Johnson IV Tests of
+      Achievement (WJ-IV; Schrank et al., 2014)." (p. 16 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion A requires standardized exam-based assessment across
+      all main subjects taught at the relevant educational level (and it
+      depends on Criterion E being met).
+
+      Criterion E is met (WJ-IV is standardized). However, the outcomes
+      in this study focus on writing traits, written language, writing
+      motivation, and a broad written language composite. The paper does
+      not report standardized outcomes for other core subjects (e.g.,
+      mathematics, science).
+
+      Final summary sentence: Criterion A is not met because outcomes do
+      not cover all core school subjects using standardized exams.
+  g:
+    met: false
+    explanation: >-
+      The study reports outcomes only within an academic year and does not
+      report tracking students until graduation.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Data were collected from student participants at the beginning
+      and end of the academic year." (p. 14 of 33)
+
+      2) "Writing instruction for both groups was implemented for one
+      academic year; measures were collected at the beginning and end of
+      the school year." (p. 8 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion G requires tracking participants until graduation
+      from the relevant educational stage.
+
+      This paper describes pre/post data collection within a single
+      academic year and provides no description of longer-term follow-up
+      through grade completion or graduation.
+
+      Internet search (performed for this ERCT check) did not identify a
+      follow-up publication by the same author team reporting graduation
+      outcomes for this RCT cohort.
+
+      Final summary sentence: Criterion G is not met because the study
+      reports only within-year outcomes and provides no graduation
+      tracking evidence.
+  p:
+    met: false
+    explanation: >-
+      The paper provides IRB information and a data availability DOI but
+      does not provide a pre-registration registry/ID and pre-data-
+      collection registration date.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This study was conducted in accordance with the Declaration of
+      Helsinki and approved by the Institutional Review Board of the
+      University of Tennessee (UTK IRB-17-03771-XP, first approved 6 June
+      2017)." (p. 28 of 33)
+
+      2) "The data will be publicly available at this DOI
+      (https://doi.org/10.5281/zenodo.16420315 accessible on 24 December
+      2025) following completion of the project’s final analyses."
+      (p. 28 of 33)
+
+      Detailed Analysis:
+
+      ERCT Criterion P requires that the study protocol be pre-registered
+      before data collection begins, with evidence of the registry and
+      timing.
+
+      The paper provides an IRB identifier and a data-sharing DOI, but it
+      does not report a pre-registration platform (e.g., OSF Registries,
+      AEA RCT Registry), a registration ID, or a registration date.
+
+      Internet search (performed for this ERCT check) did not identify a
+      public pre-registration record explicitly linked to this paper that
+      can be verified as registered prior to study start.
+
+      Final summary sentence: Criterion P is not met because no protocol
+      pre-registration registry/ID and date are provided or verifiable.
+---
+```
+
+## Change summary (what I changed and why)
+
+1) **Filled missing metadata**
+   * Set `paper_link` to the official DOI landing page and `pdf_link` to
+     MDPI’s direct PDF endpoint. ([mdpi.com](https://www.mdpi.com/2076-328X/16/1/86))  
+   * Set `date_erct_check` to **2026-02-13** (today).
+
+2) **Re-checked G / R / P using internet search**
+   * **G (Graduation Tracking):** kept **not met**; no graduation follow-up
+     was found in the paper or via web search. ([mdpi.com](https://www.mdpi.com/2076-328X/16/1/86))  
+   * **R (Reproduced):** kept **not met**; no independent (different-team)
+     replication of this specific 2026 RCT was found. ([mdpi.com](https://www.mdpi.com/2076-328X/16/1/86))  
+   * **P (Pre-registered):** kept **not met**; no registry/ID/date for
+     pre-registration was found in the paper or via web search. ([mdpi.com](https://www.mdpi.com/2076-328X/16/1/86))  
+
+3) **Criterion Y updated**
+   * Changed **Y** from **not met** to **met** because the paper explicitly
+     states outcomes were measured at the beginning and end of the academic
+     year (meeting the duration requirement), while noting COVID reduced
+     instructional exposure for some participants. ([mdpi.com](https://www.mdpi.com/2076-328X/16/1/86))  
+
+4) **Quotes and formatting cleanup**
+   * Adjusted some criterion quotes to be more directly supportive (e.g.,
+     Criterion D now quotes the paper’s overall BAU assignment statement).
+   * Rewrapped all long lines in YAML to stay within the requested **80
+     characters per line**, and ensured every `analysis` follows the
+     required structure (Relevant Quotes → Detailed Analysis → Final
+     summary sentence).
+
+5) **ERCT level recomputed**
+   * `erct_level` remains **1** because all Level 1 criteria (C, E, T, D)
+     are met, but Level 2 is not (S, I, B are not met). ([mdpi.com](https://www.mdpi.com/2076-328X/16/1/86))
