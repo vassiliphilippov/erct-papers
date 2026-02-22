@@ -1,0 +1,507 @@
+---
+title: >-
+  Integration of the Pirogov interactive anatomy table into anatomy teaching: A
+  comparative study with cadaveric dissection
+authors: >-
+  Nguyen Thien Duc, Nguyen An Ninh, Nguyen Phi Trinh, Le Quang Tuyen, Nguyen Van
+  Hung, Dinh Hoang Khanh, Nguyen Van Luat, Nguyen Huu Phuc Dai, Tran Duc Huy, Chu
+  Duc Hoa, Tran Vuong The Vinh
+paper_link: "https://doi.org/10.1371/journal.pone.0341597"
+abstract: >-
+  Purposes Anatomy is fundamental in medical education, yet cadaveric dissection
+  faces challenges including limited specimens, high costs, and chemical hazards.
+  Interactive anatomy tables such as the Pirogov system offer innovative
+  alternatives, but evidence from Southeast Asia is limited. Methods In a
+  prospective cohort, 188 medical students (139 in Y1 and 49 in Y2) were randomly
+  assigned to the Pirogov table group (Group A, n = 99) or the cadaveric
+  dissection group (Group B, n = 89). Knowledge acquisition was measured using a
+  validated 20-item multiple-choice test before and after the intervention.
+  Student perceptions were evaluated with a 10-item Likert-scale questionnaire
+  covering four domains: knowledge and understanding, spatial visualization and
+  relationships, learning experience and engagement, and effectiveness and
+  practical value. Data were analyzed using paired and independent t-tests and
+  Welch’s t-test. Results Both groups showed significant knowledge gains (Group
+  A: 4.3 ± 1.65 to 5.2 ± 1.75, p < 0.001; Group B: 4.2 ± 1.92 to 5.1 ± 1.64,
+  p < 0.001), with no difference between them (p = 0.656). Likert ratings were
+  consistently high across domains, with means from 4.43 to 4.48. Y1 students
+  reported higher ratings than Y2 in learning experience (p = 0.023). Conclusion
+  The Pirogov table and cadaveric dissection were associated with similar
+  short-term improvements in anatomy knowledge. Students valued the Pirogov table
+  for visualization and engagement. These findings support integrating digital
+  tools with cadaveric dissection to enhance anatomy education, particularly in
+  resource-limited contexts.
+publication_date: 2026-01-28
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0341597
+  &type=printable
+doi: 10.1371/journal.pone.0341597
+journal: PLOS One
+date_erct_check: 2026-02-15
+tags:
+  - science
+  - higher education
+  - Asia
+  - EdTech platform
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Students (not whole classes) were randomized, so the design is not
+      class-level (or stronger) randomization as required by ERCT C.
+    quote: >-
+      In a prospective cohort, 188 medical students (139 in Y1 and 49 in Y2) were
+      randomly assigned to the Pirogov table group (Group A, n = 99) or the
+      cadaveric dissection group (Group B, n = 89).
+    analysis: >-
+      Relevant Quotes:
+
+      1) "In a prospective cohort, 188 medical students (139 in Y1 and 49 in Y2)
+      were randomly assigned to the Pirogov table group (Group A, n = 99) or the
+      cadaveric dissection group (Group B, n = 89)." (p. 2/11)
+
+      2) "Randomization generated in Microsoft Excel using a fixed random seed
+      and permuted blocks of four." (p. 3/11)
+
+      Detailed Analysis:
+
+      ERCT criterion C requires randomization at the class level (or a stronger
+      unit, such as schools) to reduce contamination that can happen when
+      individuals within the same classroom/setting receive different
+      conditions. Here, the unit randomized is explicitly "medical students"
+      (individual participants), not intact classes or schools.
+
+      Although the paper includes contamination-reduction procedures (simultaneous
+      sessions in separate rooms and instructions not to discuss content), those
+      procedural controls do not change the unit of randomization itself. The
+      intervention is also not described as a one-to-one tutoring/personal
+      teaching exception.
+
+      Final sentence: Criterion C is not met because randomization was at the
+      individual student level rather than at the class (or school) level.
+  e:
+    met: false
+    explanation: >-
+      Outcomes were measured using a faculty-designed 20-item MCQ rather than a
+      widely recognized standardized exam.
+    quote: >-
+      Eligible students were enrolled and completed a validated 20-item
+      multiple-choice pre-test designed by the anatomy faculty (S1 File).
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Eligible students were enrolled and completed a validated 20-item
+      multiple-choice pre-test designed by the anatomy faculty (S1 File)."
+      (p. 4/11)
+
+      2) "Knowledge acquisition: Assessed using a standardized multiple-choice
+      questionnaire (20 items covering musculoskeletal anatomy)." (p. 5/11)
+
+      3) "The questionnaire was designed and validated by anatomy faculty, with
+      good internal consistency (Cronbach’s alpha = 0.82)." (p. 5/11)
+
+      Detailed Analysis:
+
+      ERCT criterion E requires a standardized, widely recognized exam (for
+      example, a national/state standardized test or a broadly established
+      external exam). While the paper describes the MCQ as "validated" and
+      reports psychometrics (Cronbach’s alpha, difficulty and discrimination
+      indices), it is still an internally created instrument: it was "designed
+      by the anatomy faculty" for this study/context.
+
+      The word "standardized" here refers to consistent administration and
+      format, not an external standardized exam with broad adoption and
+      comparability across institutions.
+
+      Final sentence: Criterion E is not met because the assessment was created
+      by the local anatomy faculty rather than being a widely recognized
+      standardized exam.
+  t:
+    met: false
+    explanation: >-
+      The post-test was administered immediately after the sessions, which is far
+      less than one academic term after intervention start.
+    quote: >-
+      The post-test was administered immediately after the session and before the
+      cross-exposure phase, ensuring no contamination of primary outcome
+      measures.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Both groups attended two teaching sessions on the musculoskeletal
+      system (1.5 h each)." (p. 4/11)
+
+      2) "Students then completed a post-test of identical format." (p. 4/11)
+
+      3) "The post-test was administered immediately after the session and before
+      the cross-exposure phase, ensuring no contamination of primary outcome
+      measures." (p. 4/11)
+
+      Detailed Analysis:
+
+      ERCT criterion T requires that outcomes be measured at least one full
+      academic term (typically ~3-4 months) after the intervention begins,
+      allowing time for effects to stabilize and persist beyond very short-term
+      gains.
+
+      The quoted procedure shows two short sessions (total 3 hours) and a
+      post-test administered "immediately after the session." This is an
+      immediate post-intervention measurement with no term-length delay from
+      intervention start to outcome measurement.
+
+      Final sentence: Criterion T is not met because outcomes were measured
+      immediately after instruction rather than at least one academic term later.
+  d:
+    met: true
+    explanation: >-
+      The comparison (cadaveric dissection) group and baseline characteristics
+      are described with group sizes and baseline balance checks, meeting the
+      control documentation requirement.
+    quote: >-
+      In total, 188 students were enrolled and assigned into two groups: • Group
+      A (n = 99): Pirogov table • Group B (n = 89): Cadaveric dissection
+    analysis: >-
+      Relevant Quotes:
+
+      1) "In total, 188 students were enrolled and assigned into two groups:
+      • Group A (n = 99): Pirogov table • Group B (n = 89): Cadaveric dissection"
+      (p. 3/11)
+
+      2) "Baseline comparability between randomized groups was assessed through
+      independent t-tests (continuous variables) and chi-square tests
+      (categorical variables)." (p. 6/11)
+
+      3) "No statistically significant differences were observed in age, gender
+      distribution, or pre-test scores, suggesting acceptable balance at the
+      start of the study." (p. 6/11)
+
+      4) "The demographic characteristics of the two study groups were
+      comparable." (p. 6/11)
+
+      Detailed Analysis:
+
+      ERCT criterion D requires that the control group be clearly documented,
+      including who they are, what they received, and baseline/demographic
+      information enabling comparison.
+
+      The paper clearly specifies the two conditions, including the "Cadaveric
+      dissection" comparison group (Group B) and the "Pirogov table" group
+      (Group A), with exact sample sizes. It also reports baseline balance checks
+      and explicitly states that age, gender, and pre-test scores were not
+      significantly different across groups. This provides meaningful
+      documentation that the control/comparison group existed and was comparable
+      at baseline.
+
+      Final sentence: Criterion D is met because the control/comparison group is
+      clearly defined with group sizes and baseline demographic and performance
+      comparability information.
+  s:
+    met: false
+    explanation: >-
+      Randomization occurred among individual students, not among schools (or
+      equivalent institutions/sites).
+    quote: >-
+      In a prospective cohort, 188 medical students (139 in Y1 and 49 in Y2) were
+      randomly assigned to the Pirogov table group (Group A, n = 99) or the
+      cadaveric dissection group (Group B, n = 89).
+    analysis: >-
+      Relevant Quotes:
+
+      1) "In a prospective cohort, 188 medical students (139 in Y1 and 49 in Y2)
+      were randomly assigned to the Pirogov table group (Group A, n = 99) or the
+      cadaveric dissection group (Group B, n = 89)." (p. 2/11)
+
+      2) "This was a prospective study, conducted at the Faculty of Medicine,
+      Vietnam National University Ho Chi Minh City (April 2024–April 2025)."
+      (p. 3/11)
+
+      Detailed Analysis:
+
+      ERCT criterion S requires school-level (or equivalent institution/site-
+      level) randomization, meaning whole schools (or analogous sites) are
+      assigned to conditions.
+
+      The study took place at a single faculty and describes random assignment of
+      "medical students" to conditions. There is no indication that multiple
+      schools (or multiple independent sites) were randomized. Therefore, the
+      design does not meet the school-level randomization requirement.
+
+      Final sentence: Criterion S is not met because the unit of randomization
+      was students within one institution, not schools or sites.
+  i:
+    met: false
+    explanation: >-
+      The paper describes blinding and an independent administrator for
+      allocation, but it does not provide evidence of a truly independent
+      external evaluation team separate from those designing/teaching and
+      building the study instruments.
+    quote: >-
+      Allocation was concealed in sequentially numbered, opaque, sealed envelopes
+      by an independent administrator.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Allocation was concealed in sequentially numbered, opaque, sealed
+      envelopes by an independent administrator." (p. 3/11)
+
+      2) "Test scoring and data analysis were performed by assessors blinded to
+      group assignment." (p. 3/11)
+
+      3) "Eligible students were enrolled and completed a validated 20-item
+      multiple-choice pre-test designed by the anatomy faculty (S1 File)."
+      (p. 4/11)
+
+      4) "Specifically, both groups were taught by the same pair of anatomy
+      instructors..." (p. 4/11)
+
+      Detailed Analysis:
+
+      ERCT criterion I expects the study to be conducted independently from the
+      group that designed the intervention, to reduce risks of bias in
+      implementation and analysis. This paper includes some bias-reducing
+      features (allocation concealment, and assessors blinded to group
+      assignment).
+
+      However, the paper also states the assessment instrument was "designed by
+      the anatomy faculty" and that instruction was delivered by an instructor
+      team within the same program. The paper does not clearly state that an
+      external third-party evaluation organization (separate from the teaching
+      faculty and study authors) designed the evaluation, managed data
+      collection, and controlled analysis end-to-end.
+
+      Final sentence: Criterion I is not met because, despite blinding and
+      allocation concealment, the study does not demonstrate third-party
+      independent conduct separate from those creating the study instruments and
+      delivering instruction.
+  y:
+    met: false
+    explanation: >-
+      Outcomes were measured immediately after teaching sessions, far short of
+      75% of an academic year after intervention start.
+    quote: >-
+      The post-test was administered immediately after the session and before the
+      cross-exposure phase, ensuring no contamination of primary outcome
+      measures.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Both groups attended two teaching sessions on the musculoskeletal
+      system (1.5 h each)." (p. 4/11)
+
+      2) "The post-test was administered immediately after the session and before
+      the cross-exposure phase, ensuring no contamination of primary outcome
+      measures." (p. 4/11)
+
+      3) "This was a prospective study, conducted at the Faculty of Medicine,
+      Vietnam National University Ho Chi Minh City (April 2024–April 2025)."
+      (p. 3/11)
+
+      Detailed Analysis:
+
+      ERCT criterion Y requires outcome measurement at least 75% of an academic
+      year after the intervention begins. The timing relevant for Y is the
+      interval from intervention start (for a participant) to outcome measurement
+      (for that participant), not simply the overall calendar window during
+      which the study ran.
+
+      The study’s primary knowledge outcome is measured via a post-test given
+      "immediately after the session." Even though the project ran during
+      April 2024–April 2025, each participant’s treatment-to-measurement interval
+      is essentially same-day, not year-long.
+
+      Also, per ERCT instructions, if criterion T is not met then Y is not met;
+      this study clearly fails T due to immediate post-testing.
+
+      Final sentence: Criterion Y is not met because outcome measurement occurred
+      immediately after instruction rather than after most of an academic year.
+  b:
+    met: true
+    explanation: >-
+      Instructional time and core teaching inputs were standardized across
+      groups, and the control group received a comparable active alternative
+      (cadaveric dissection) rather than a lower-resource condition.
+    quote: >-
+      Teaching duration, content, and instructors were standardized across groups
+      to ensure comparability.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Both groups attended two teaching sessions on the musculoskeletal
+      system (1.5 h each)." (p. 4/11)
+
+      2) "Regarding practice sessions, Group A received instruction using the
+      Pirogov interactive anatomy table (Figs 1 and 2), whereas Group B
+      participated in cadaveric dissection." (p. 4/11)
+
+      3) "Teaching duration, content, and instructors were standardized across
+      groups to ensure comparability." (p. 4/11)
+
+      4) "Specifically, both groups were taught by the same pair of anatomy
+      instructors..." (p. 4/11)
+
+      Detailed Analysis:
+
+      ERCT criterion B asks whether time and resources are balanced between
+      intervention and control, unless extra resources are explicitly the
+      treatment variable being tested.
+
+      Here, instructional time is the same in both arms (two sessions of equal
+      duration), and the paper states that content, instructors, and lesson plan
+      were standardized across groups. The control condition is not "no
+      treatment"; it is an active, resource-intensive alternative modality
+      (cadaveric dissection). The primary comparison is therefore between two
+      teaching modalities delivered under the same schedule and instructional
+      structure, rather than between unequal exposure/time/budget conditions.
+
+      The paper does not indicate that one group received additional optional
+      instructional time, extra tutoring, or extra materials beyond the modality
+      itself during the primary pre-test to immediate post-test comparison.
+      Therefore, under the ERCT decision logic, extra time/budget is not the
+      driver of differences, and the groups appear balanced.
+
+      Final sentence: Criterion B is met because both groups received comparable
+      instructional time and standardized teaching inputs, with an active control
+      rather than a lower-resource condition.
+  r:
+    met: false
+    explanation: >-
+      No independent replication of this specific study was identified in the
+      paper, and a web search did not locate an external replication as of the
+      ERCT check date.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "To our knowledge, no controlled study has compared the Pirogov
+      interactive table with cadaveric dissection in this region." (p. 3/11)
+
+      Detailed Analysis:
+
+      ERCT criterion R requires evidence that the study has been independently
+      replicated by a different team in a different context and published in a
+      peer-reviewed journal.
+
+      In the paper itself, the authors position the work as filling a gap ("no
+      controlled study") rather than stating that this specific trial has been
+      replicated. In addition, a web search performed on 2026-02-15 using the
+      DOI, article title, and key author names did not identify any peer-reviewed
+      independent replication of this exact study.
+
+      Final sentence: Criterion R is not met because no independent replication
+      of this specific study could be identified as of 2026-02-15.
+  a:
+    met: false
+    explanation: >-
+      Because criterion E is not met (no standardized external exam), the
+      all-subject standardized exam requirement is automatically not met.
+    quote: >-
+      Eligible students were enrolled and completed a validated 20-item
+      multiple-choice pre-test designed by the anatomy faculty (S1 File).
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Eligible students were enrolled and completed a validated 20-item
+      multiple-choice pre-test designed by the anatomy faculty (S1 File)."
+      (p. 4/11)
+
+      2) "Knowledge acquisition: Assessed using a standardized multiple-choice
+      questionnaire (20 items covering musculoskeletal anatomy)." (p. 5/11)
+
+      Detailed Analysis:
+
+      ERCT criterion A requires standardized exam-based assessments across all
+      main subjects, and ERCT instructions state that if criterion E is not met
+      then criterion A is not met.
+
+      This study uses a faculty-designed MCQ focused on musculoskeletal anatomy,
+      not a widely recognized standardized exam, and it does not assess all core
+      subjects. Therefore A fails both because E fails and because the outcome is
+      not an all-subject standardized assessment.
+
+      Final sentence: Criterion A is not met because standardized exam-based
+      assessment (E) is not satisfied and the study does not assess all main
+      subjects using standardized exams.
+  g:
+    met: false
+    explanation: >-
+      The study does not track participants until graduation, and it also fails
+      the year-duration prerequisite (Y).
+    quote: >-
+      Second, outcomes were measured immediately after instruction without
+      delayed follow-up; therefore, long-term retention cannot be determined.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Second, outcomes were measured immediately after instruction without
+      delayed follow-up; therefore, long-term retention cannot be determined."
+      (p. 9/11)
+
+      Detailed Analysis:
+
+      ERCT criterion G requires tracking participants until graduation, and ERCT
+      instructions state that if criterion Y is not met then G is not met.
+
+      The authors explicitly acknowledge there was no delayed follow-up beyond
+      the immediate post-test. There is no description of tracking students
+      through the end of medical school (or any graduation milestone). In
+      addition, a web search performed on 2026-02-15 for follow-up publications
+      by the same author team and for the same cohort did not identify any
+      published graduation-tracking follow-up for this study.
+
+      Final sentence: Criterion G is not met because the study includes only
+      immediate post-testing with no graduation tracking (and Y is not met).
+  p:
+    met: false
+    explanation: >-
+      The paper provides IRB approval information but does not provide a public
+      pre-registration record (registry/ID) and date demonstrating registration
+      before data collection.
+    quote: >-
+      The research protocol was reviewed and approved by the Institutional Review
+      Board of the Faculty of Medicine, Vietnam National University Ho Chi Minh
+      City (Approval No. 05/QD-IRB-VN01.017, dated March 29, 2024).
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This was a prospective study, conducted at the Faculty of Medicine,
+      Vietnam National University Ho Chi Minh City (April 2024–April 2025)."
+      (p. 3/11)
+
+      2) "The research protocol was reviewed and approved by the Institutional
+      Review Board of the Faculty of Medicine, Vietnam National University Ho Chi
+      Minh City (Approval No. 05/QD-IRB-VN01.017, dated March 29, 2024)."
+      (p. 3/11)
+
+      Detailed Analysis:
+
+      ERCT criterion P requires a publicly accessible pre-registered protocol
+      (for example on OSF, ClinicalTrials.gov, ISRCTN, or another registry), and
+      evidence that registration occurred before data collection began.
+
+      The paper provides ethics/IRB approval and dates, but it does not provide a
+      trial registration or pre-registration identifier/link. A web search
+      performed on 2026-02-15 using the study title, DOI, and IRB approval number
+      did not identify a public pre-registration record tied to this study.
+
+      Final sentence: Criterion P is not met because no public pre-registration
+      record (with an ID and pre-data-collection date) is provided or could be
+      located as of 2026-02-15.
+---
+```
+
+## Change Summary
+
+- Added missing metadata:
+  - `paper_link` set to the official DOI landing page.
+  - `pdf_link` set to the PLOS direct PDF endpoint (printable PDF).
+  - `date_erct_check` set to **2026-02-15**.
+- Checked and normalized quotes to match the paper text (removed report-only
+  line breaks while keeping wording verbatim).
+- Updated criteria **R**, **G**, and **P** to reflect an internet check:
+  - No independent replication found for **R** as of 2026-02-15.
+  - No graduation-tracking follow-up publication found for **G** as of
+    2026-02-15 (and **Y** is not met, so **G** cannot be met).
+  - No public pre-registration record found for **P** as of 2026-02-15.
+- Recomputed ERCT level under the current criterion order; it remains
+  `erct_level: 0` because Level 1 criteria are not all met.

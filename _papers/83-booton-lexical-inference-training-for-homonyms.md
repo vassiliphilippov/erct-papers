@@ -1,0 +1,542 @@
+---
+title: >-
+  Lexical inference training for homonyms: Two randomized controlled trials for
+  children with English as a first and an additional language
+authors: >-
+  Sophie A. Booton; Julia M. H. Birchenough; Katie Gilligan-Lee; Fiona Jelley;
+  Victoria A. Murphy
+paper_link: "https://doi.org/10.1111/bjep.70056"
+abstract: >-
+  Background: Many words have multiple meanings, which present challenges to
+  learning, yet research has yet to identify effective interventions for
+  homonyms. Lexical inference may be a promising strategy. Aim: To evaluate a
+  brief, novel lexical inference intervention for homonyms. Samples: Children
+  aged 7–8 years (Study 1: N = 180, Study 2: N = 76). Study 2 included children
+  with English as an Additional Language (EAL, n = 37). Methods: In two
+  randomized controlled trials, participants were assigned to either inference
+  training or control (Study 1: spatial training; Study 2: implicit exposure
+  through reading). Their receptive knowledge of taught and untaught homonyms
+  was measured before and after the intervention, and in Study 2, metacognitive
+  and inference skills too. Results: Those in the inference interventions showed
+  greater gains in receptive knowledge than control groups. In Study 2, children
+  also showed improvement in the inference test with homonyms, and while
+  children with EAL had a specific challenge with receptive knowledge of
+  homonyms compared to their EL1 peers, the intervention was equally effective
+  for both groups. Receptive knowledge and inference with homonyms predicted
+  unique variance in reading comprehension. The intervention showed limited
+  transfer to untaught words, although patterns of errors provided some
+  indication of improved understanding. Conclusions: A brief inference training
+  is effective for gaining knowledge of homonyms, with limited transfer to
+  untaught words, and the intervention is equally effective for children with
+  EAL and EL1.
+publication_date: 2026-01-05
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://ora.ox.ac.uk/objects/uuid%3A5075c932-6193-48f4-948b-83f5e692d500/files/r9p290c626
+doi: 10.1111/bjep.70056
+journal: British Journal of Educational Psychology
+date_erct_check: 2026-02-21
+tags:
+  - reading
+  - language arts
+  - L2 languages
+  - K12
+  - UK
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Randomization was at the individual child level (not class- or
+      school-level), and the paper does not frame the intervention as a
+      tutoring-style exception.
+    quote: >-
+      "Participants were randomly assigned by the primary investigator to one of
+      two types of training: inference training (n=60) or spatial (control)
+      training (n=120)." (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Participants were randomly assigned by the primary investigator to one
+      of two types of training: inference training (n=60) or spatial (control)
+      training (n=120)." (p. 4)
+
+      2) "Participants with EAL (n=37) or EL1 (n=39) were assigned by stratified
+      randomization into one of two interventions: inference (n=40) or reading
+      (n=36)." (p. 9)
+
+      3) "...an equal number within each of these groups were assigned to
+      conditions via the random number generator formula in Excel by the
+      researchers delivering the interventions." (p. 9)
+
+      Detailed Analysis:
+
+      Criterion C requires randomization at the class level (or stronger, such
+      as school-level) to reduce contamination, unless the study is explicitly a
+      personal-tutoring style intervention where student-level randomization is
+      acceptable.
+
+      In Study 1, the paper explicitly states that "Participants were randomly
+      assigned" to conditions, indicating individual-level randomization rather
+      than randomizing intact classes or schools. In Study 2, the paper again
+      reports individual-level assignment via stratified randomization, with
+      assignment implemented by the researchers delivering the interventions.
+
+      Although the intervention is delivered by an experimenter (small groups,
+      and in Study 2 sometimes individually), the paper does not describe the
+      intervention as a tutoring program where student-level randomization is an
+      intended and justified design exception. Therefore, the ERCT class-level
+      randomization requirement is not satisfied.
+
+      Criterion C is not met because the unit of randomization is the child, not
+      the class or school, and no tutoring-style exception is clearly stated.
+  e:
+    met: false
+    explanation: >-
+      The main pre/post outcomes are researcher-created homonym measures rather
+      than standardized exam-based assessments.
+    quote: >-
+      "The Homonyms: receptive test was created to assess children's
+      recognition of the meanings of the selected homonyms..." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The Homonyms: receptive test was created to assess children's
+      recognition of the meanings of the selected homonyms based on a previous
+      assessment (Booton, Hodgkiss et al., 2022)." (p. 5)
+
+      2) "Children's ability to infer the intended meaning (primary or
+      secondary) of homonyms in context was assessed as a further aspect of word
+      knowledge which could be affected by the intervention." (p. 11)
+
+      3) "To examine how homonym knowledge relates to reading comprehension, the
+      York Assessment of Reading for Comprehension (YARC; Snowling et al., 2009)
+      passage reading subtest form A was used." (p. 11)
+
+      Detailed Analysis:
+
+      Criterion E requires that the study's outcome evaluation relies on
+      standardized, widely recognized exam-based assessments (rather than
+      bespoke, researcher-created instruments aligned to the intervention).
+
+      The paper states that the "Homonyms: receptive test was created," which
+      indicates a custom measure. The intervention effects throughout the paper
+      are evaluated primarily using these homonym-focused receptive and
+      inference measures.
+
+      While a standardized reading comprehension instrument (YARC) is included,
+      it is used to examine relationships with reading comprehension rather than
+      serving as the primary standardized exam outcome for the RCT treatment
+      effect.
+
+      Criterion E is not met because the main pre/post outcomes are measured
+      using researcher-created homonym assessments rather than standardized
+      exams.
+  t:
+    met: false
+    explanation: >-
+      Post-testing occurred about one week after a short (~2-week) intervention,
+      far shorter than one academic term from intervention start.
+    quote: >-
+      "Interventions were then conducted in groups of four; each group then
+      completed four 30-min intervention sessions across a two-week period...
+      Then, one week later, children completed a posttest battery including the
+      same tests." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Interventions were then conducted in groups of four; each group then
+      completed four 30-min intervention sessions across a two-week period."
+      (p. 7)
+
+      2) "Then, one week later, children completed a posttest battery including
+      the same tests." (p. 7)
+
+      3) "Three sessions of 15–25min were completed over approximately 2weeks."
+      (p. 13)
+
+      4) "Then, one week later, children completed the post-test measures in a
+      fixed order in one session." (p. 13)
+
+      Detailed Analysis:
+
+      Criterion T requires outcomes to be measured at least one full academic
+      term (typically ~3–4 months) after the intervention begins.
+
+      Study 1 reports intervention delivery "across a two-week period" with
+      post-testing "one week later." Study 2 similarly reports intervention
+      sessions "over approximately 2weeks" with post-testing "one week later."
+
+      These timelines are measured in weeks from intervention start to outcome
+      measurement and therefore do not reach the minimum duration of one
+      academic term required by Criterion T.
+
+      Criterion T is not met because outcome measurement occurs within weeks,
+      not at least a term after intervention start.
+  d:
+    met: true
+    explanation: >-
+      The paper clearly describes what the control groups received and reports
+      baseline comparability checks between conditions.
+    quote: >-
+      "Two spatial training conditions served as a control: Children completed
+      four training sessions of spatial visualization training with or without
+      physical manipulatives." (p. 6)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Two spatial training conditions served as a control: Children
+      completed four training sessions of spatial visualization training with or
+      without physical manipulatives." (p. 6)
+
+      2) "There was no explicit vocabulary teaching." (p. 6)
+
+      3) "There was no difference in age (t (177)=1.69, p=.092), mother's
+      education (t (177)=1.34, p=.182), gender (χ2 (178)=0.003, p=.959) or
+      bilingual status (χ2 (145)=0.02, p=.897) between the two conditions."
+      (p. 8)
+
+      4) "The reading intervention was designed as an active control group with
+      implicit instruction..." (p. 13)
+
+      Detailed Analysis:
+
+      Criterion D requires a well-documented control group, including a clear
+      description of what the control group did/received and sufficient
+      information to judge comparability.
+
+      In Study 1, the control condition is explicitly described as spatial
+      visualization training (with/without manipulatives) and the authors state
+      that there was "no explicit vocabulary teaching." The paper also reports
+      baseline demographic comparability checks between conditions.
+
+      In Study 2, the control is explicitly described as an "active control
+      group with implicit instruction" (reading-based exposure and activities).
+
+      Criterion D is met because the control conditions are described in
+      sufficient operational detail and baseline comparability is documented.
+  s:
+    met: false
+    explanation: >-
+      Participants were drawn from multiple schools, but randomization was not
+      conducted at the school level.
+    quote: >-
+      "Participants were randomly assigned by the primary investigator to one of
+      two types of training..." (p. 4)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Participants were Year 3 children (aged 7 to 8 years) from six
+      medium-to-large English state primary schools..." (p. 4)
+
+      2) "Participants were randomly assigned by the primary investigator to one
+      of two types of training: inference training (n=60) or spatial (control)
+      training (n=120)." (p. 4)
+
+      Detailed Analysis:
+
+      Criterion S requires randomization at the school level (i.e., schools are
+      assigned to intervention/control), which strengthens real-world relevance
+      and reduces school-level confounding.
+
+      The paper reports sampling across multiple schools, but it describes
+      random assignment of "Participants" to conditions, rather than
+      randomization of schools to conditions.
+
+      Criterion S is not met because the unit of randomization is not the
+      school.
+  i:
+    met: false
+    explanation: >-
+      The intervention delivery and assignment were carried out by the research
+      team, and no independent evaluation team is documented.
+    quote: >-
+      "...assigned to conditions via the random number generator formula in
+      Excel by the researchers delivering the interventions." (p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Participants were randomly assigned by the primary investigator to one
+      of two types of training..." (p. 4)
+
+      2) "Data collection was completed in a quiet area of children's schools by
+      trained psychology research assistants." (p. 6)
+
+      3) "...assigned to conditions via the random number generator formula in
+      Excel by the researchers delivering the interventions." (p. 9)
+
+      Detailed Analysis:
+
+      Criterion I requires clear documentation that the trial was conducted
+      independently of the intervention designers/providers (e.g., external
+      evaluators running implementation and/or analysis).
+
+      The paper indicates researcher-led assignment (by the primary
+      investigator; and, in Study 2, via Excel randomization by "the researchers
+      delivering the interventions"). Data collection is described as performed
+      by trained research assistants and by researchers, but the paper does not
+      document that these individuals are independent of the intervention design
+      team.
+
+      Without an explicit statement of independent conduct (e.g., a third-party
+      evaluation team with separation from intervention development), the ERCT
+      independence requirement is not met.
+
+      Criterion I is not met because independent conduct is not clearly
+      documented and key trial functions were performed by the research team.
+  y:
+    met: false
+    explanation: >-
+      The intervention and follow-up span only weeks, far below 75% of an
+      academic year, and Criterion Y is not met when Criterion T is not met.
+    quote: >-
+      "Three sessions of 15–25min were completed over approximately 2weeks."
+      (p. 13)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Interventions were then conducted in groups of four; each group then
+      completed four 30-min intervention sessions across a two-week period."
+      (p. 7)
+
+      2) "Then, one week later, children completed a posttest battery including
+      the same tests." (p. 7)
+
+      3) "Three sessions of 15–25min were completed over approximately 2weeks."
+      (p. 13)
+
+      4) "Then, one week later, children completed the post-test measures in a
+      fixed order in one session." (p. 13)
+
+      Detailed Analysis:
+
+      Criterion Y requires outcome measurement at least 75% of an academic year
+      after the intervention begins.
+
+      Both studies report very short intervention periods (about two weeks) and
+      outcome measurement one week later. This is far shorter than an academic
+      year.
+
+      Additionally, under the ERCT dependency rule provided, if Criterion T is
+      not met then Criterion Y is not met; here T is not met.
+
+      Criterion Y is not met because outcomes are measured within weeks rather
+      than most of an academic year.
+  b:
+    met: false
+    explanation: >-
+      Study 2 likely provides more experimenter time per child in the inference
+      condition (individual) than in the control (pairs), and this resource
+      imbalance is not framed as the treatment variable.
+    quote: >-
+      "During the intervention, children worked individually (inference
+      condition) or in pairs (reading condition) with the experimenter." (p. 13)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "There were 4 sessions of 30min." (p. 6)
+
+      2) "Two spatial training conditions served as a control: Children
+      completed four training sessions of spatial visualization training..."
+      (p. 6)
+
+      3) "They completed interactive activities and received feedback during
+      training, as in the intervention condition..." (p. 6)
+
+      4) "The reading intervention was designed as an active control group with
+      implicit instruction..." (p. 13)
+
+      5) "During the intervention, children worked individually (inference
+      condition) or in pairs (reading condition) with the experimenter." (p. 13)
+
+      Detailed Analysis:
+
+      Criterion B compares the nature, quantity, and quality of resources (time,
+      adult attention, materials) provided to intervention and control
+      conditions, unless extra resources are explicitly the treatment variable.
+
+      In Study 1, the intervention and control are both active programs with
+      comparable structure: both involve four sessions, and the control is
+      described as involving interactive activities and feedback "as in the
+      intervention condition." This suggests reasonable balance in Study 1.
+
+      In Study 2, however, the delivery format differs in a way that changes
+      adult attention per child: inference is delivered individually whereas the
+      reading control is delivered in pairs. This likely implies materially more
+      experimenter time/attention per child in the inference condition.
+
+      The paper frames Study 2 as comparing inference training to implicit
+      exposure through reading, not as a test of increased adult attention as
+      the treatment variable. The control is not described as matching this
+      per-child adult support.
+
+      Criterion B is not met because Study 2 plausibly introduces a non-trivial
+      resource imbalance (adult attention per child) not clearly framed as the
+      intended treatment variable.
+  r:
+    met: false
+    explanation: >-
+      No independent replication by a different author team was found or
+      documented; the paper reports two trials conducted by the same research
+      team.
+    quote: >-
+      "The efficacy of a novel inference intervention for teaching homonyms was
+      demonstrated across two pre-post randomized controlled trials..." (p. 18)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Methods: In two randomized controlled trials, participants were
+      assigned to either inference training or control (Study 1: spatial
+      training; Study 2: implicit exposure through reading)." (p. 1)
+
+      2) "The efficacy of a novel inference intervention for teaching homonyms
+      was demonstrated across two pre-post randomized controlled trials, when
+      compared to a spatial training (Study 1) and implicit exposure to the same
+      words through shared reading (Study 2)." (p. 18)
+
+      Detailed Analysis:
+
+      Criterion R requires independent reproduction of the study/intervention by
+      a different research team (ideally in a different context) in a
+      peer-reviewed publication.
+
+      This article reports two RCTs (Study 1 and Study 2), but both are within
+      the same paper and appear to be conducted by the same author team. The
+      paper does not provide evidence that an independent, external research
+      team replicated the "Word Detectives" inference intervention.
+
+      An internet search (using the paper title, author names, intervention
+      name, and DOI) did not identify a peer-reviewed independent replication by
+      another author team as of the ERCT check date.
+
+      Criterion R is not met because no independent external replication of this
+      study/intervention was found.
+  a:
+    met: false
+    explanation: >-
+      Standardized exams across all core subjects are not used, and per the ERCT
+      dependency rule, Criterion A is not met because Criterion E is not met.
+    quote: >-
+      "To examine how homonym knowledge relates to reading comprehension, the
+      York Assessment of Reading for Comprehension (YARC; Snowling et al., 2009)
+      passage reading subtest form A was used." (p. 11)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The Homonyms: receptive test was created to assess children's
+      recognition of the meanings of the selected homonyms..." (p. 5)
+
+      2) "To examine how homonym knowledge relates to reading comprehension, the
+      York Assessment of Reading for Comprehension (YARC; Snowling et al., 2009)
+      passage reading subtest form A was used." (p. 11)
+
+      Detailed Analysis:
+
+      Criterion A requires standardized exam-based assessment across all main
+      subjects. The ERCT rules provided also state that if Criterion E is not
+      met, then Criterion A is not met.
+
+      Here, the primary intervention outcomes are based on researcher-created
+      homonym measures (so E is not met). Additionally, even the standardized
+      assessment noted (YARC) addresses reading comprehension rather than "all
+      main subjects" via standardized exams.
+
+      Criterion A is not met because standardized exam-based assessment across
+      all main subjects is not present, and E is not met.
+  g:
+    met: false
+    explanation: >-
+      The study does not track participants to graduation, and under ERCT rules
+      Criterion G is not met because Criterion Y is not met.
+    quote: >-
+      "Then, one week later, children completed the post-test measures in a
+      fixed order in one session." (p. 13)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Then, one week later, children completed a posttest battery including
+      the same tests." (p. 7)
+
+      2) "Then, one week later, children completed the post-test measures in a
+      fixed order in one session." (p. 13)
+
+      Detailed Analysis:
+
+      Criterion G requires tracking participants until graduation from the
+      relevant educational stage.
+
+      This paper reports only short-term post-testing (one week after the end of
+      short interventions), and it does not describe any longer-term follow-up,
+      end-of-year tracking, or tracking to graduation.
+
+      Per the ERCT dependency rule provided, if Criterion Y (Year Duration) is
+      not met then Criterion G is not met; here Y is not met.
+
+      Internet searching for follow-up publications by the same authors that
+      tracked this cohort to graduation did not identify any such graduation
+      tracking study as of the ERCT check date.
+
+      Criterion G is not met because the paper has no graduation tracking and Y
+      is not met.
+  p:
+    met: false
+    explanation: >-
+      Although Study 2 is stated to be pre-registered on OSF, the registration
+      record/date could not be verified and the paper does not provide dates to
+      confirm pre-registration occurred before data collection.
+    quote: >-
+      "This study's method and analyses were pre-registered on the Open Science
+      Framework..." (p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This study's method and analyses were pre-registered on the Open
+      Science Framework (https://osf.io/qdnjh/?view_only=622934f24b0f45349326f483cbe584cf)
+      and any exploratory deviations from this are noted." (p. 9)
+
+      Detailed Analysis:
+
+      Criterion P requires that the full study protocol be pre-registered before
+      the study begins, with verifiable registration timing (registration date
+      earlier than data collection start).
+
+      The paper explicitly states that Study 2 was "pre-registered" on OSF and
+      provides a view-only OSF link, which is strong evidence of intent to
+      preregister.
+
+      However, the paper does not provide (in the article text) a registration
+      date nor explicit calendar dates for data collection start. During this
+      ERCT check, attempts to verify the OSF record and its timestamp via public
+      sources were not successful (the view-only OSF link did not provide
+      accessible registration metadata in the available browsing environment).
+      Therefore, the timing requirement cannot be confirmed.
+
+      Criterion P is not met because the pre-registration timing (date before
+      data collection) could not be verified from accessible records and is not
+      documented with dates in the paper text.
+---
+```
+
+## Change Summary (vs. provided YAML)
+
+- Filled in missing metadata:
+  - Set `paper_link` to the DOI landing page.
+  - Set `pdf_link` to a direct open PDF (Oxford ORA “version of record”).
+  - Set `date_erct_check` to **2026-02-21**.
+- Updated `publication_date` to **2026-01-05** (publisher/ORA date).
+- Checked and corrected multiple quotes to match the PDF verbatim (notably
+  spacing such as `n=60` vs `n = 60`, and exact phrasing).
+- Rewrote all `analysis` fields to follow the required structure:
+  “Relevant Quotes” → “Detailed Analysis” → one-sentence verdict.
+- Re-checked Criterion B using the updated ERCT Criterion B definition and kept
+  it **not met**, focusing on the adult-attention imbalance in Study 2
+  (individual vs pairs) without an explicit “resources are the treatment”
+  framing.
+- Re-checked Criteria G, R, and P with internet searching:
+  - **G**: no graduation-tracking follow-up located; also blocked by Y not met.
+  - **R**: no independent replication located.
+  - **P**: OSF preregistration is stated, but the timestamp could not be
+    verified and the paper lacks dates to confirm preregistration preceded data
+    collection.
+- Confirmed `erct_level` remains **0** because Level 1 criteria (C, E, T, D) are
+  not all met (only D is met).

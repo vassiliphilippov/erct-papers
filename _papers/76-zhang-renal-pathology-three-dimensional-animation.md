@@ -1,0 +1,526 @@
+---
+title: >-
+  Application of renal pathology three-dimensional animation in clinical
+  clerkship teaching for medical students: a randomized-controlled trial
+authors: >-
+  Qi Zhang, Yingxin Xie, Feng Ding, Shuai Ma, and Wenji Wang
+paper_link: "https://doi.org/10.1186/s12909-026-08663-4"
+abstract: >-
+  Objectives Teaching renal pathology, characterized by complex spatial
+  relationships and dynamic pathological processes, poses significant
+  challenges. Traditional methods such as static slides often fail to
+  convey these concepts effectively. This study evaluated the efficacy of
+  custom-developed renal pathology three-dimensional (3D) animations in
+  enhancing learning outcomes and satisfaction during students' internal
+  medicine clerkships in nephrology. Methods A randomized controlled
+  trial was conducted. 93 students undertaking nephrology clerkships were
+  randomly assigned 1:1 to either a conventional teaching group or a 3D
+  animation group (intervention group). The intervention group utilized
+  specifically developed 3D animations depicting renal microstructure and
+  the dynamic progression of common pathologies. Teaching effectiveness
+  was assessed via pre- and post-teaching written examinations. Student
+  and faculty satisfaction with the 3D animations was evaluated using
+  5-point scale questionnaires. Results Baseline knowledge scores were
+  comparable between groups. Post-teaching scores were significantly
+  higher in the 3D animation group, representing a greater score
+  improvement (34.5±34.8 vs 19.1±32.4, p=0.03). Over 95% of students in 3D
+  animation group rated the 3D animations superior to traditional slides
+  for vividness and conceptual understanding, 89% reported increased
+  learning initiative and outcomes. Faculty unanimously agreed animations
+  improved structural explanation clarity and student attentiveness.
+  Conclusions Incorporating 3D renal pathology animations significantly
+  improved knowledge acquisition and achieved exceptionally high
+  satisfaction among students and faculty during internal medicine
+  clerkships.
+publication_date: 2026-01-24
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://bmcmededuc.biomedcentral.com/counter/pdf/10.1186/s12909-026-08663-4.pdf
+doi: 10.1186/s12909-026-08663-4
+journal: BMC Medical Education
+date_erct_check: 2026-02-15
+tags:
+  - higher education
+  - China
+  - blended learning
+  - EdTech website
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Randomization was at the individual student level (not class or
+      school), so class-level randomization to reduce contamination is
+      not demonstrated.
+    quote: >-
+      "students were first randomly assigned using a random number table
+      to either the conventional teaching group or the 3D animation group
+      in a 1:1 ratio" (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "93 students undertaking nephrology clerkships were randomly
+      assigned 1:1 to either a conventional teaching group or a 3D
+      animation group (intervention group)." (p. 2)
+
+      2) "students were first randomly assigned using a random number
+      table to either the conventional teaching group or the 3D animation
+      group in a 1:1 ratio" (p. 7)
+
+      3) "Within each program, both the traditional teaching group and
+      the 3D animation group received instruction from the same instructor
+      on the same day, with sessions held consecutively and separated by a
+      few minutes." (p. 6)
+
+      Detailed Analysis:
+
+      Criterion C requires randomization at the class level (or stronger)
+      to reduce contamination across students who share the same learning
+      environment. In this study, the unit of randomization is explicitly
+      "students" (individual-level assignment), not intact classes,
+      clerkship groups, or sites.
+
+      The consecutive same-day delivery by the same instructor to both
+      groups further highlights a plausible contamination pathway (students
+      in the same rotation environment can share information), which is
+      exactly what class-level (or site-level) randomization is meant to
+      mitigate.
+
+      Final sentence: Criterion C is not met because randomization was
+      conducted at the individual student level rather than at the class
+      (or school/site) level.
+
+  e:
+    met: false
+    explanation: >-
+      Outcomes were measured using locally developed Test A/Test B
+      examinations rather than a widely recognized standardized exam.
+    quote: >-
+      "Two examination sets (Test A and Test B) of comparable difficulty,
+      developed by senior nephrology faculty and renal pathologists..."
+      (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Teaching effectiveness was assessed via pre- and post-teaching
+      written examinations." (p. 2)
+
+      2) "Two examination sets (Test A and Test B) of comparable
+      difficulty, developed by senior nephrology faculty and renal
+      pathologists, were uniformly administered as pre- and
+      post-intervention assessments to all participants across teaching
+      groups and academic programs." (p. 7)
+
+      3) "Each examination was administered in a multiple-choice format
+      consisting of 20 items, with a maximum attainable score of 100
+      points." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion E requires a standardized, widely recognized exam-based
+      assessment (e.g., national/state standardized tests), not an
+      instrument created for the study.
+
+      The paper states that Test A/Test B were "developed by senior
+      nephrology faculty and renal pathologists" and provides formatting
+      details, but does not identify the exams as externally standardized
+      or widely used beyond this study.
+
+      Final sentence: Criterion E is not met because the outcome measures
+      were locally developed examinations rather than standardized exams.
+
+  t:
+    met: false
+    explanation: >-
+      The intervention and measurement occurred within a 2-week rotation
+      with immediate post-teaching testing, which is shorter than a full
+      academic term.
+    quote: >-
+      "Both groups underwent a teaching effectiveness evaluation
+      immediately following the session." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "the renal pathology 3D animations were directly integrated into
+      targeted explanations of relevant topics throughout the standardized
+      2-week clerkship rotation period." (p. 6)
+
+      2) "Both groups underwent a teaching effectiveness evaluation
+      immediately following the session." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion T requires outcomes to be measured at least one academic
+      term after the intervention begins (or at least term-long follow-up
+      after a short intervention).
+
+      Here, the instructional period is a "standardized 2-week clerkship
+      rotation period," and the evaluation was conducted "immediately
+      following the session." The paper does not describe any delayed
+      (term-later) follow-up measurement.
+
+      Final sentence: Criterion T is not met because outcomes were assessed
+      immediately after teaching within a 2-week rotation rather than at
+      least one term after intervention start.
+
+  d:
+    met: true
+    explanation: >-
+      The control condition and baseline characteristics (including group
+      sizes and demographics) are described with pre-test scores.
+    quote: >-
+      "These students were allocated to the conventional teaching group
+      (n=47) ... and the 3D animation group (n=46)..." (p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Conventional teaching group received instruction using
+      traditional PowerPoint slides, including schematic diagrams and
+      histopathological images, to explain renal microstructure and various
+      pathological features." (p. 7)
+
+      2) "These students were allocated to the conventional teaching group
+      (n=47), consisting of 28 clinical medicine and 19 stomatology
+      students, and the 3D animation group (n=46), with 27 clinical medicine
+      and 19 stomatology students." (p. 9)
+
+      3) "The group comprised 51 males and 42 females, with no significant
+      difference in gender distribution between groups (59% male vs. 51%
+      male, p=0.46)." (p. 9)
+
+      4) "pre-teaching assessment revealed comparable baseline performance
+      between the two student groups (48.3±35.8 vs 50.1±35.3, p=0.08)."
+      (p. 9)
+
+      Detailed Analysis:
+
+      Criterion D requires that the control group be clearly documented,
+      including what it received and baseline characteristics to support
+      comparability.
+
+      The paper specifies the control instruction method (traditional
+      PowerPoint slides), reports group sizes (including program breakdown),
+      provides demographics (gender, age comparison), and reports baseline
+      pre-test performance.
+
+      Final sentence: Criterion D is met because the control condition and
+      baseline comparability information are clearly documented.
+
+  s:
+    met: false
+    explanation: >-
+      Schools (or clerkship sites) were not randomized; students were
+      individually assigned, so school-level randomization is absent.
+    quote: >-
+      "students were first randomly assigned ... to either the conventional
+      teaching group or the 3D animation group" (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "93 students undertaking nephrology clerkships were randomly
+      assigned 1:1 to either a conventional teaching group or a 3D
+      animation group (intervention group)." (p. 2)
+
+      2) "students were first randomly assigned using a random number table
+      to either the conventional teaching group or the 3D animation group
+      in a 1:1 ratio" (p. 7)
+
+      Detailed Analysis:
+
+      Criterion S requires randomization at the school (or equivalent
+      implementation unit, such as clerkship sites/centers) level.
+
+      The paper describes individual student assignment and does not
+      describe randomization of sites, departments, or schools.
+
+      Final sentence: Criterion S is not met because randomization was not
+      conducted at the school/site level.
+
+  i:
+    met: false
+    explanation: >-
+      The research team developed the animations and also collected and
+      analyzed the data, with no clearly independent evaluator.
+    quote: >-
+      "Faculty members on the research team first referred to the syllabus
+      and teaching objectives." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Faculty members on the research team first referred to the
+      syllabus and teaching objectives." (p. 5)
+
+      2) "The questionnaires were designed by the researchers based on a
+      review of relevant literature." (p. 7)
+
+      3) "QZ, YXX, SM and WJW completed the informed consent procedures,
+      conducted the questionnaires, and collected the data. QZ and WJW
+      analyzed the data." (p. 14)
+
+      4) "The realism and accuracy of the 3D animations were independently
+      reviewed and validated by a multidisciplinary panel comprising the
+      teaching director, teaching supervisors, course instructors, and
+      renal pathology specialists." (p. 6)
+
+      Detailed Analysis:
+
+      Criterion I requires that the evaluation be conducted independently
+      from the intervention designers.
+
+      The paper indicates the research team developed the 3D animations and
+      that members of the author team designed the questionnaires, collected
+      data, and analyzed the data. The "independently reviewed" panel is
+      described as validating the realism/accuracy of animations, not as an
+      independent trial evaluation or analysis team.
+
+      Final sentence: Criterion I is not met because the intervention
+      developers/authors also conducted key evaluation steps without a
+      clearly independent evaluator.
+
+  y:
+    met: false
+    explanation: >-
+      The intervention and outcome measurement occurred over a 2-week
+      rotation with immediate post-testing, far below 75% of an academic
+      year.
+    quote: >-
+      "the standardized 2-week clerkship rotation period." (p. 6)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Undergraduate students completing clerkships in the nephrology
+      department between August 2025 and October 2025 were enrolled."
+      (p. 4)
+
+      2) "the renal pathology 3D animations were directly integrated into
+      targeted explanations of relevant topics throughout the standardized
+      2-week clerkship rotation period." (p. 6)
+
+      3) "Both groups underwent a teaching effectiveness evaluation
+      immediately following the session." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion Y requires outcome measurement at least 75% of an academic
+      year after the intervention begins.
+
+      While enrollment occurred across multiple months (August 2025 to
+      October 2025) across cohorts, each participant experienced a 2-week
+      rotation and was tested immediately after the session, which is far
+      shorter than the required year-duration tracking.
+
+      Final sentence: Criterion Y is not met because outcomes were measured
+      immediately after a 2-week rotation, not over most of an academic year.
+
+  b:
+    met: true
+    explanation: >-
+      Instructional objectives and in-session teaching time appear matched
+      across groups; the only extra resource (post-session online access)
+      occurred after the immediate post-test, making any resource
+      imbalance negligible for the main outcome.
+    quote: >-
+      "This plan ensured that the core learning objectives and key knowledge
+      points were identical across both instructional methods." (p. 6)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This plan ensured that the core learning objectives and key
+      knowledge points were identical across both instructional methods."
+      (p. 6)
+
+      2) "Within each program, both the traditional teaching group and the
+      3D animation group received instruction from the same instructor on
+      the same day, with sessions held consecutively and separated by a few
+      minutes." (p. 6)
+
+      3) "Both groups underwent a teaching effectiveness evaluation
+      immediately following the session." (p. 7)
+
+      4) "Students in the 3D animation group were subsequently provided with
+      an online link to access the animations for self-directed review."
+      (p. 7)
+
+      Detailed Analysis:
+
+      Criterion B requires that time/resources be balanced between groups,
+      unless the extra resources are explicitly the treatment variable.
+
+      The paper indicates a standardized plan with identical objectives and
+      key points across both methods, and the same instructor taught both
+      groups on the same day. The only clear additional resource is that
+      the 3D animation group received an online link for review.
+
+      However, the primary learning outcome (post-teaching written exam) was
+      administered "immediately following the session," before students
+      could plausibly benefit from later self-directed review access.
+      Therefore, for the main measured outcome, the resource difference is
+      negligible.
+
+      Final sentence: Criterion B is met because in-session instruction was
+      standardized across groups and the only additional resource was
+      provided after the immediate post-test.
+
+  r:
+    met: false
+    explanation: >-
+      No independent replication study is reported or identifiable as a
+      direct replication of this specific RCT.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      (No quotes in the paper indicate an independent replication of this
+      specific RCT.)
+
+      External Search (replication by other authors):
+
+      No peer-reviewed replication publications explicitly replicating this
+      specific study were identified in publicly accessible sources at the
+      time of this ERCT check.
+
+      Detailed Analysis:
+
+      Criterion R requires an independent replication by a different team,
+      in a different context, published in a peer-reviewed venue.
+
+      The paper presents a single-site RCT and does not mention any prior or
+      subsequent independent replication. Given the paper's very recent
+      publication timing, and the lack of identified replication reports,
+      this criterion cannot be marked as met.
+
+      Final sentence: Criterion R is not met because there is no quoted or
+      independently verifiable evidence of replication by another research
+      team.
+
+  a:
+    met: false
+    explanation: >-
+      Because standardized exams are not used (criterion E not met), the
+      all-subject standardized exam requirement cannot be met.
+    quote: >-
+      "Exam content, based on the syllabus and clinical diagnostic or
+      therapeutic needs, covered renal pathology and related nephrology
+      knowledge." (p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Two examination sets (Test A and Test B) of comparable difficulty,
+      developed by senior nephrology faculty and renal pathologists..."
+      (p. 7)
+
+      2) "Exam content, based on the syllabus and clinical diagnostic or
+      therapeutic needs, covered renal pathology and related nephrology
+      knowledge." (p. 7)
+
+      Detailed Analysis:
+
+      Criterion A requires all-subject outcomes measured with standardized
+      exam-based assessments, and ERCT rules state that if criterion E is not
+      met, criterion A is not met.
+
+      Here, the assessments are faculty-developed Test A/Test B (so E is not
+      met). In addition, the described content is renal pathology/nephrology,
+      not all core subjects for the relevant educational program.
+
+      Final sentence: Criterion A is not met because criterion E is not met
+      and the assessments are not standardized all-subject exams.
+
+  g:
+    met: false
+    explanation: >-
+      The study does not track participants to graduation and explicitly
+      notes the lack of long-term follow-up; additionally, ERCT rules
+      require criterion Y to be met for criterion G to be met.
+    quote: >-
+      "The lack of long-term follow-up to evaluate knowledge retention and
+      the enduring impact of the animations represents a significant
+      limitation." (p. 12)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Both groups underwent a teaching effectiveness evaluation
+      immediately following the session." (p. 7)
+
+      2) "The lack of long-term follow-up to evaluate knowledge retention
+      and the enduring impact of the animations represents a significant
+      limitation." (p. 12)
+
+      External Search (follow-up papers by the same authors):
+
+      No subsequent peer-reviewed follow-up publication by the same author
+      team was identified that tracks this cohort to a graduation milestone.
+
+      Detailed Analysis:
+
+      Criterion G requires tracking participants until graduation from the
+      relevant educational stage. The paper documents only immediate
+      post-session testing and explicitly identifies the lack of long-term
+      follow-up as a limitation.
+
+      Additionally, ERCT rules state that if criterion Y (year duration) is
+      not met, then criterion G cannot be met. Since this study does not
+      meet criterion Y, criterion G must remain not met even before
+      considering graduation endpoints.
+
+      Final sentence: Criterion G is not met because the study did not
+      include long-term follow-up through graduation and criterion Y is not
+      met.
+
+  p:
+    met: false
+    explanation: >-
+      The trial registration is explicitly described as retrospective and
+      dated after enrollment, so it was not pre-registered before data
+      collection began.
+    quote: >-
+      "Trial Registration Chinese Clinical Trial Registry ChiCTR2500112643,
+      2025-11-18, retrospective registration." (p. 2)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Trial Registration Chinese Clinical Trial Registry ChiCTR2500112643,
+      2025-11-18, retrospective registration." (p. 2)
+
+      2) "students were first randomly assigned using a random number table
+      to either the conventional teaching group or the 3D animation group in
+      a 1:1 ratio (clinical trail registration number: ChiCTR2500112643,
+      2025-11-18, retrospective registration)." (p. 7)
+
+      3) "Undergraduate students completing clerkships in the nephrology
+      department between August 2025 and October 2025 were enrolled."
+      (p. 4)
+
+      Detailed Analysis:
+
+      Criterion P requires a publicly available pre-registered protocol
+      dated before data collection begins.
+
+      The paper explicitly labels the registration as "retrospective
+      registration" with a date of 2025-11-18. The enrollment period is
+      August 2025 to October 2025, which is earlier than 2025-11-18.
+
+      Final sentence: Criterion P is not met because the study was registered
+      retrospectively after enrollment/data collection had already occurred.
+---
+```
+
+## Change summary (vs. the provided YAML)
+
+- Added missing metadata:
+  - `paper_link` set to the DOI landing page. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41580681/?utm_source=openai))
+  - `date_erct_check` set to **2026-02-15**.
+  - `pdf_link` filled with a direct PDF-pattern link (BMC “counter/pdf”).
+- Re-checked and reformatted all 12 criteria `analysis` fields to match the
+  required ERCT structure (Relevant Quotes → Detailed Analysis → Final
+  sentence), while keeping the original determinations where supported by the
+  provided paper text.
+- Updated criteria with internet-dependent checks:
+  - **G**: added the explicit ERCT dependency (Y not met ⇒ G not met) and
+    documented that no follow-up graduation-tracking publication was found in
+    accessible sources at check time. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41580681/?utm_source=openai))
+  - **R**: documented that no independent replication of this specific RCT was
+    found in accessible sources at check time. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41580681/?utm_source=openai))
+  - **P**: kept “not met” and clarified timing using the paper’s stated
+    retrospective registration date vs. enrollment window. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41580681/?utm_source=openai))
+- `erct_level` remains **0**, because level-1 criteria C, E, and T are not met.

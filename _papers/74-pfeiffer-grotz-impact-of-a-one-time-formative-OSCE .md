@@ -1,0 +1,573 @@
+---
+title: >-
+  Impact of a one-time formative OSCE on learning behavior and
+  self-assessment in dental undergraduate education
+authors: >-
+  Thekla J. Pfeiffer-Grötz, Friederike Basten, Anke Hollinderbäumer,
+  Lisa Zöll, and James Deschner
+paper_link: "https://doi.org/10.1186/s12909-025-08533-5"
+abstract: >-
+  Background With the introduction of the new dental licensing
+  regulations (ZApprO) in Germany, preclinical teaching time was
+  substantially reduced, particularly affecting practical training. To
+  support students’ learning under these conditions, a formative
+  Objective Structured Clinical Examination (OSCE) was implemented
+  early in the preclinical curriculum. This study aimed to evaluate
+  the impact of an early formative OSCE on undergraduate dental
+  students’ learning behavior, self-assessment, and exam preparation.
+
+  Methods A total of 71 undergraduate dental students (mean age 22
+  years) participated voluntarily in a formative OSCE in preventive
+  dentistry during the summer semester 2022 and winter semester 2022/23.
+  Students were randomly assigned to an intervention group (OSCE
+  halfway through the semester) or a control group (OSCE shortly before
+  the final exam). The OSCE included five stations developed according
+  to the National Competence-Based Learning Objectives Catalog for
+  Dentistry. Students completed pseudonymized questionnaires at two
+  time points (T0: after OSCE; T1: after the final exam). The
+  questionnaire assessed learning behavior (including strategies for
+  dealing with difficult material and use of additional resources),
+  self-assessment (perceived learning status and exam readiness),
+  motivation, and exam preparation. Statistical analyses were performed
+  using Mann–Whitney U and Wilcoxon tests.
+
+  Results Participation in the formative OSCE enabled students to
+  better evaluate their learning status and identify individual
+  learning needs for the final exam. Although both groups started exam
+  preparation at similar times (T0: p=0.422; T1: p=0.674), the
+  intervention group reported higher initial motivation and greater
+  awareness of knowledge gaps after the OSCE. Differences were also
+  observed in how students dealt with difficult material and in their
+  use of supplementary learning resources.
+
+  Conclusions An early formative OSCE fosters undergraduate dental
+  students’ self-assessment, reflection on learning behavior, and
+  awareness of learning needs, thereby supporting more targeted exam
+  preparation. However, it does not necessarily lead to an earlier
+  start of study activities. Implementing formative OSCEs in the middle
+  of the semester, accompanied by structured feedback, may further
+  enhance their educational impact.
+publication_date: 2026-01-09
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://link.springer.com/content/pdf/10.1186/s12909-025-08533-5.pdf
+doi: 10.1186/s12909-025-08533-5
+journal: BMC Medical Education
+date_erct_check: 2026-02-15
+tags:
+  - science
+  - higher education
+  - EU
+
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Randomization was at the individual student level (within one
+      course cohort), not at the class or school level, and no tutoring
+      exception applies.
+    quote: >-
+      "Students were randomly assigned to two groups." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Students were randomly assigned to an intervention group (OSCE
+      halfway through the semester) or a control group (OSCE shortly
+      before the final exam)." (p. 1 of 8)
+
+      2) "Students were randomly assigned to two groups." (p. 2 of 8)
+
+      3) "The preventive dentistry lecture series in the second
+      preclinical semester at Johannes Gutenberg University Mainz served
+      as the study setting." (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion C requires randomization at the class level (or
+      stronger, e.g., school-level) to reduce contamination across
+      students who share instruction and social learning environments.
+
+      The paper describes a single course setting (one lecture series at
+      one university) and states that students were randomized to two
+      timing conditions. There is no indication that intact classes,
+      course sections, or schools were randomized.
+
+      The tutoring/personal-teaching exception does not apply because
+      the intervention is not one-to-one tutoring; it is a change in the
+      timing of a formative OSCE within a cohort.
+
+      Final: Criterion C is not met because randomization occurred at
+      the individual student level, not the class (or school) level.
+
+  e:
+    met: false
+    explanation: >-
+      Outcomes were measured via self-report questionnaires (and the
+      OSCE was ungraded with no recorded scores), not via standardized
+      exam-based assessment outcomes.
+    quote: >-
+      "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Students completed pseudonymized questionnaires at two time
+      points (T0: after OSCE; T1: after the final exam)." (p. 1 of 8)
+
+      2) "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+
+      3) "Items on learning strategies were based on the validated LIST
+      questionnaire [6], while items on exam preparation, motivation,
+      and perceived learning status were developed specifically for this
+      study and pretested for clarity." (p. 2 of 8)
+
+      4) "As the OSCE was implemented as a formative, ungraded
+      assessment, no performance scores were recorded for analytical
+      purposes, and students did not receive individual results.
+      Therefore, no correlation with final exam grades was possible."
+      (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion E requires that the study uses standardized,
+      exam-based assessments as outcome measures (i.e., objective exam
+      outcomes, not bespoke/self-report instruments).
+
+      Here, the outcomes are collected using questionnaires (including
+      study-specific items), and the OSCE is explicitly ungraded with no
+      recorded performance scores used in analysis. The paper does not
+      report standardized exam score outcomes as the study endpoints.
+
+      Final: Criterion E is not met because the measured outcomes are
+      questionnaire-based and OSCE performance outcomes were not
+      recorded/analyzed as standardized exam results.
+
+  t:
+    met: false
+    explanation: >-
+      The intervention-to-outcome interval is within the same semester
+      (week 7 OSCE vs week 12 final exam), which is shorter than a full
+      academic term follow-up from intervention onset.
+    quote: >-
+      "The intervention group (IG) completed a formative OSCE halfway
+      through the semester (week 7), while the control group (CG)
+      completed the OSCE in week 11, shortly before the final exam in
+      preventive dentistry (week 12)." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The intervention group (IG) completed a formative OSCE halfway
+      through the semester (week 7), while the control group (CG)
+      completed the OSCE in week 11, shortly before the final exam in
+      preventive dentistry (week 12)." (p. 2 of 8)
+
+      2) "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion T requires that outcomes are measured at least one
+      full academic term after the intervention begins (typically about
+      3-4 months).
+
+      In this study, the experimental manipulation is the timing of the
+      OSCE. For the intervention group, the OSCE occurs in week 7 and
+      the later measurement point is after the final exam in week 12.
+      This implies roughly five weeks between the intervention (early
+      OSCE) and the later outcome measurement.
+
+      The paper does not document a term-length follow-up window from
+      the intervention timing to outcome measurement; rather, all
+      measurements occur within the same semester shortly after the
+      OSCE.
+
+      Final: Criterion T is not met because the documented follow-up
+      after the intervention is shorter than one academic term.
+
+  d:
+    met: false
+    explanation: >-
+      The control condition is described, but the paper does not provide
+      clearly reported control-group baseline characteristics and/or
+      baseline performance separately by group.
+    quote: >-
+      "A total of 71 dental students participated voluntarily: 32 in
+      summer semester 2022 and 39 in winter semester 2022/23. The
+      average age was 22 years (range 19-28); 18 were male and 53
+      female." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Students were randomly assigned to two groups." (p. 2 of 8)
+
+      2) "The intervention group (IG) completed a formative OSCE halfway
+      through the semester (week 7), while the control group (CG)
+      completed the OSCE in week 11, shortly before the final exam in
+      preventive dentistry (week 12)." (p. 2 of 8)
+
+      3) "A total of 71 dental students participated voluntarily: 32 in
+      summer semester 2022 and 39 in winter semester 2022/23. The
+      average age was 22 years (range 19-28); 18 were male and 53
+      female." (p. 2 of 8)
+
+      4) "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion D requires a well-documented control group, which
+      includes (at minimum) clear group-specific characteristics and
+      baseline performance/baseline outcome measures that allow readers
+      to assess comparability of control vs intervention.
+
+      The paper defines the control condition (OSCE in week 11) and
+      provides overall sample demographics. However, it does not provide
+      clearly stated baseline characteristics separately for control vs
+      intervention.
+
+      Additionally, the first measurement point is "directly after the
+      OSCE" (T0), which is not a pre-intervention baseline for either
+      group, because each group completes the OSCE at a different time.
+
+      Final: Criterion D is not met because the control group is not
+      documented with clearly reported group-specific baseline data.
+
+  s:
+    met: false
+    explanation: >-
+      The study randomized individual students within one university
+      course, not multiple schools (or equivalent institutions/sites).
+    quote: >-
+      "The preventive dentistry lecture series in the second preclinical
+      semester at Johannes Gutenberg University Mainz served as the
+      study setting." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The preventive dentistry lecture series in the second
+      preclinical semester at Johannes Gutenberg University Mainz served
+      as the study setting." (p. 2 of 8)
+
+      2) "Students were randomly assigned to two groups." (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion S requires randomization at the school/site level
+      (i.e., among multiple institutions or implementation sites).
+
+      The paper reports a single setting (one lecture series at one
+      university) and student-level random assignment to two groups.
+      There is no evidence of multiple schools/sites being randomized.
+
+      Final: Criterion S is not met because randomization was not at the
+      school (site) level.
+
+  i:
+    met: false
+    explanation: >-
+      The paper does not report an independent external evaluation team;
+      core study roles were performed by the author group.
+    quote: >-
+      "Conceptualization, A.H., T.J.P.-G. and F.B.; Methodology, A.H. and
+      L.Z.; Validation, A.H; Resources, A.H.; Data curation, A.H.;
+      Writing-original draft, T.J.P.-G.; Supervision, J.D.; Project
+      administration, J.D." (p. 8 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The stations were developed according to the National
+      Competence-Based Learning Objectives Catalog for Dentistry (NKLZ)
+      and a standardized blueprint provided by the Rudolf Frey Learning
+      Clinic." (p. 2 of 8)
+
+      2) "We would also like to thank Irene Schmidtmann and her
+      colleagues at the Institute for Medical Biometry, Epidemiology,
+      and Informatics for their advice and support in the statistical
+      analysis." (p. 8 of 8)
+
+      3) "Conceptualization, A.H., T.J.P.-G. and F.B.; Methodology, A.H.
+      and L.Z.; Validation, A.H; Resources, A.H.; Data curation, A.H.;
+      Writing-original draft, T.J.P.-G.; Supervision, J.D.; Project
+      administration, J.D." (p. 8 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion I requires independent conduct, meaning the study is
+      conducted/evaluated by a team independent from the intervention
+      designers, reducing bias.
+
+      The paper indicates core roles (conceptualization, methodology,
+      resources, data curation, supervision, project administration, and
+      writing) were performed by the author team. While the authors
+      acknowledge advice/support in statistical analysis, this is not
+      described as an independent external evaluation team conducting
+      the trial or its evaluation.
+
+      Final: Criterion I is not met because independent conduct is not
+      evidenced by the study descriptions and author contributions.
+
+  y:
+    met: false
+    explanation: >-
+      Outcomes were measured within a single semester (week 7 OSCE to
+      week 12 exam), far short of 75% of an academic year.
+    quote: >-
+      "The intervention group (IG) completed a formative OSCE halfway
+      through the semester (week 7), while the control group (CG)
+      completed the OSCE in week 11, shortly before the final exam in
+      preventive dentistry (week 12)." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The intervention group (IG) completed a formative OSCE halfway
+      through the semester (week 7), while the control group (CG)
+      completed the OSCE in week 11, shortly before the final exam in
+      preventive dentistry (week 12)." (p. 2 of 8)
+
+      2) "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion Y requires outcome measurement at least 75% of an
+      academic year after the intervention begins.
+
+      The described timeline for the intervention and measurement is
+      within one semester, with the key difference between groups
+      occurring between week 7 and week 11 and final measurement after a
+      week 12 exam. This is substantially less than 75% of an academic
+      year.
+
+      Final: Criterion Y is not met because outcomes were measured
+      within only part of a single semester.
+
+  b:
+    met: true
+    explanation: >-
+      Both groups received the same OSCE resources (same format/stations
+      and duration), and the only difference (timing) is the intended
+      treatment variable, so resource imbalance does not confound the
+      intervention effect.
+    quote: >-
+      "The aim of the study was to compare different timings of a single
+      formative OSCE, not to compare OSCE versus no OSCE. Therefore, no
+      group without OSCE participation was included." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "All students participated in the OSCE." (p. 2 of 8)
+
+      2) "The aim of the study was to compare different timings of a
+      single formative OSCE, not to compare OSCE versus no OSCE.
+      Therefore, no group without OSCE participation was included."
+      (p. 2 of 8)
+
+      3) "The formative OSCE consisted of five stations (morphology of
+      teeth, oral hygiene, instruments, anatomy of the oral cavity,
+      dental hard tissue defects and caries diagnosis). Each station
+      lasted eight minutes, with a two-minute changeover period."
+      (p. 2 of 8)
+
+      4) "The intervention group (IG) completed a formative OSCE halfway
+      through the semester (week 7), while the control group (CG)
+      completed the OSCE in week 11, shortly before the final exam in
+      preventive dentistry (week 12)." (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion B checks whether the control group receives
+      comparable educational time/resources, unless any difference in
+      resources is explicitly the treatment variable being tested.
+
+      Here, both groups received the same OSCE (same five stations and
+      station duration). The experimental manipulation is the timing of
+      the OSCE (week 7 vs week 11), which inherently changes how much
+      time students have to use the formative experience before the week
+      12 exam. That timing difference is the study's intended treatment
+      variable ("different timings"), not an unintended resource
+      imbalance.
+
+      Under the criterion B decision logic: there is no extra budget/
+      instructional input given only to the intervention group beyond
+      the OSCE itself, and any timing-related "extra time to react" is
+      integral to what is being tested.
+
+      Final: Criterion B is met because both groups receive equivalent
+      OSCE resources, with timing intentionally varied as the treatment
+      variable.
+
+  r:
+    met: false
+    explanation: >-
+      As of the ERCT check date, no independent peer-reviewed replication
+      of this specific randomized timing study was found.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The aim of this study was therefore to analyze the effect of a
+      one-time formative OSCE in the second preclinical semester on
+      students’ learning behavior, self-assessment, and exam preparation
+      in preventive dentistry." (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion R requires an independent replication by a
+      different research team in a different context, published in a
+      peer-reviewed journal.
+
+      The paper does not describe itself as a replication study, and it
+      does not cite an independent replication of this specific RCT
+      design (randomized timing of a one-time formative OSCE with
+      questionnaire-based outcomes).
+
+      Internet searches performed for replications included: queries by
+      DOI (10.1186/s12909-025-08533-5), exact title phrase, and author
+      names (Pfeiffer-Grötz; Basten; Hollinderbäumer; Zöll; Deschner).
+      No clearly independent peer-reviewed replication of this specific
+      study was identified as of 2026-02-15.
+
+      Final: Criterion R is not met because no independent replication
+      evidence was found.
+
+  a:
+    met: false
+    explanation: >-
+      Criterion E is not met (no standardized exam-based outcomes),
+      therefore criterion A cannot be met under the ERCT rules.
+    quote: >-
+      "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+
+      2) "As the OSCE was implemented as a formative, ungraded
+      assessment, no performance scores were recorded for analytical
+      purposes, and students did not receive individual results.
+      Therefore, no correlation with final exam grades was possible."
+      (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion A requires all-subject standardized exam-based
+      assessment, and the ERCT rules state that if criterion E is not
+      met, criterion A is not met.
+
+      This study's measured outcomes are questionnaire-based and the
+      OSCE was ungraded with no recorded performance scores analyzed, so
+      criterion E fails. Therefore, criterion A must also fail.
+
+      Final: Criterion A is not met because criterion E is not met and
+      the study does not use standardized all-subject exam outcomes.
+
+  g:
+    met: false
+    explanation: >-
+      The study measured outcomes only through the final exam within the
+      same semester and (since criterion Y is not met) cannot satisfy
+      graduation tracking; no follow-up-to-graduation papers were found.
+    quote: >-
+      "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Data were collected using two structured, pseudonymized
+      questionnaires administered at two time points (T0: directly after
+      the OSCE; T1: after the final exam)." (p. 2 of 8)
+
+      2) "The intervention group (IG) completed a formative OSCE halfway
+      through the semester (week 7), while the control group (CG)
+      completed the OSCE in week 11, shortly before the final exam in
+      preventive dentistry (week 12)." (p. 2 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion G requires tracking participants through graduation
+      at the relevant educational stage. Additionally, ERCT rules state:
+      if criterion Y (Year Duration) is not met, then criterion G is not
+      met.
+
+      In this paper, the latest reported measurement time is "after the
+      final exam" in the same semester. No outcomes are reported beyond
+      that exam window, and there is no description of follow-up to any
+      graduation milestone.
+
+      Internet searches for follow-up publications by the same author
+      team (queries by DOI and exact title, plus author-name searches)
+      did not identify any subsequent peer-reviewed papers reporting
+      graduation tracking for this cohort as of 2026-02-15.
+
+      Final: Criterion G is not met because the study does not track to
+      graduation, and criterion Y is not met.
+
+  p:
+    met: false
+    explanation: >-
+      No pre-registration statement, registry/platform ID, or timing
+      evidence is provided, and no external preregistration record was
+      found by DOI/title searches.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study was previously presented to the Ethics Committee
+      Rhineland-Palatinate, which waived the requirement for a formal
+      procedure number as the project was classified as educational
+      quality assurance." (p. 2 of 8)
+
+      2) "For this reason, there is no procedure number for this study."
+      (p. 8 of 8)
+
+      Detailed Analysis:
+
+      ERCT criterion P requires an explicit pre-registration reference
+      (registry/platform and ID) and evidence that registration occurred
+      before data collection began.
+
+      The paper provides an ethics/quality-assurance description and
+      explicitly notes there is no procedure number, but it does not
+      provide any preregistration registry name (e.g., OSF, ISRCTN,
+      ClinicalTrials.gov/DRKS), any registration identifier, or any
+      preregistration date.
+
+      Additional internet searches by DOI and exact title (including
+      searches for OSF/preregistration pages) did not locate a clear
+      preregistered protocol record for this study as of 2026-02-15.
+
+      Final: Criterion P is not met because no preregistration ID/date
+      evidence is reported or found.
+
+---
+
+## Change Summary
+
+- Filled missing metadata:
+  - `paper_link` set to the DOI landing page.
+  - `pdf_link` set to the publisher-hosted direct PDF.
+  - `date_erct_check` set to **2026-02-15**.
+- Verified and corrected quotes to match the paper text more strictly,
+  including fixing page references and removing non-verbatim ellipses.
+- Re-checked criteria **G**, **R**, and **P** using internet searches:
+  - No follow-up paper reporting graduation tracking was found.
+  - No independent replication study was found.
+  - No preregistration record (and no in-paper preregistration ID/date)
+    was found.
+- Updated criterion **B** analysis to reflect the newer ERCT definition,
+  explicitly treating timing as the intended treatment variable rather
+  than an unintended resource imbalance.
+- `erct_level` remains **0** because Level 1 criteria (C, E, T, D) are
+  not all met.

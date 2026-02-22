@@ -1,0 +1,527 @@
+---
+title: >-
+  Writing the Past, Present, and Future: The Impact of Positive Psychology
+  Expressive Writing on Adolescents’ Time Attitudes
+authors: >-
+  Xiangling Tu, Bo Wu, Xiaobin Ding, Qixuan Huo, and Min Chen
+paper_link: https://doi.org/10.3390/bs16010119
+abstract: >-
+  This study aimed to examine the interventional effects of positive
+  psychology expressive writing (PPEW) on adolescents’ time attitudes and
+  mental health. A total of 285 adolescents from Northwest China (M =
+  14.13, SD = 1.075; 53.3% female) were randomly assigned to either a
+  PPEW group (n = 148) or a control group (n = 137). The PPEW group
+  completed a six-week positive psychology expressive writing
+  intervention, while the control group engaged in neutral writing
+  tasks. All participants were assessed on time attitudes, positive
+  affect, and depressive symptoms before and after the intervention.
+  The results showed that, compared to the control group, the PPEW
+  group scored significantly higher on Past Positive, Present Positive,
+  and Future Positive, and significantly lower on Present Negative at
+  post-test; however, a significant improvement in Past Negative was
+  observed only within the PPEW group itself. Regarding mental health,
+  depressive symptoms were significantly reduced in the PPEW group
+  relative to the control group at post-test, but no significant change
+  was observed in positive affect. In conclusion, positive psychology
+  expressive writing can effectively foster the positive development of
+  time attitudes in adolescents and may serve as a feasible approach to
+  alleviating depressive symptoms.
+publication_date: 2026-01-14
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://pmc.ncbi.nlm.nih.gov/articles/PMC12837934/pdf/behavsci-16-00119.pdf
+doi: 10.3390/bs16010119
+journal: Behavioral Sciences
+date_erct_check: 2026-02-16
+tags:
+  - K12
+  - China
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Randomization was at the individual participant level rather than
+      at the class (or stronger) level, so class-level isolation is not
+      ensured.
+    quote: >-
+      Randomization was conducted by an independent research assistant
+      not involved in subsequent data collection or intervention
+      delivery, using a computer-generated random number sequence to
+      assign participants to either the PPEW intervention group or the
+      control group.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "A total of 285 adolescents from Northwest China (M = 14.13,
+      SD = 1.075; 53.3% female) were randomly assigned to either a PPEW
+      group (n = 148) or a control group (n = 137)." (Abstract)
+
+      2) "Randomization was conducted by an independent research assistant
+      not involved in subsequent data collection or intervention delivery,
+      using a computer-generated random number sequence to assign
+      participants to either the PPEW intervention group or the control
+      group." (Section 2.3, Procedure)
+
+      3) "During evening self-study sessions, participants in the PPEW
+      group and the control group completed the writing tasks in their
+      respective assigned classrooms." (Section 2.3, Procedure)
+
+      Detailed Analysis:
+
+      Criterion C requires random assignment at the class level (or a
+      stronger cluster such as school), unless the intervention is
+      explicitly one-to-one tutoring/personal teaching.
+
+      The paper explicitly describes participant-level random assignment
+      ("assign participants"), not assignment of intact classes or schools.
+      The mention of completing tasks in "assigned classrooms" describes
+      where tasks occurred, not the unit of randomization.
+
+      Because the randomized unit is the individual adolescent, the study
+      does not meet the ERCT requirement designed to reduce within-class
+      contamination, and the tutoring exception does not apply.
+
+      Final sentence: Criterion C is not met because individuals, not
+      entire classes (or schools), were randomized.
+  e:
+    met: false
+    explanation: >-
+      Outcomes were measured using self-report psychological scales, not
+      widely recognized standardized exams.
+    quote: >-
+      Time attitude was assessed using the Chinese version of the
+      Adolescent Time Attitude Scale (Li et al., 2021).
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Time attitude was assessed using the Chinese version of the
+      Adolescent Time Attitude Scale (Li et al., 2021)." (Section 2.2.1)
+
+      2) "Positive affect was assessed using the positive affect subscale
+      of the Chinese version of the Positive and Negative Affect Scale for
+      Children (Pan et al., 2025)." (Section 2.2.2)
+
+      3) "Depressive symptoms were assessed using the depression symptoms
+      subscale of the Chinese version of the Depression-Anxiety-Stress
+      Scales-21 (DASS-21, Xie et al., 2022)." (Section 2.2.3)
+
+      Detailed Analysis:
+
+      Criterion E requires standardized exam-based assessments of
+      educational achievement (e.g., national/state achievement tests),
+      rather than self-report instruments measuring psychological
+      constructs.
+
+      This study’s outcomes are time attitudes, positive affect, and
+      depressive symptoms, assessed via questionnaire scales (ATAS,
+      PANAS-C, and DASS-21). These are not exam-based educational outcome
+      measures.
+
+      Final sentence: Criterion E is not met because the study used
+      self-report scales rather than standardized exam-based assessments.
+  t:
+    met: false
+    explanation: >-
+      The intervention lasted six weeks and outcomes were measured
+      immediately after it ended, which is shorter than one academic term.
+    quote: >-
+      Baseline assessments were completed before the intervention
+      commenced, and post-intervention evaluations were conducted
+      immediately after the program ended.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The PPEW group received a six-week positive psychology expressive
+      writing intervention, administered once per week with each session
+      lasting approximately 20 min (Nie et al., 2023)." (Section 2.4)
+
+      2) "Baseline assessments were completed before the intervention
+      commenced, and post-intervention evaluations were conducted
+      immediately after the program ended." (Section 2.3, Procedure)
+
+      Detailed Analysis:
+
+      Criterion T requires that outcomes be measured at least one full
+      academic term after the intervention begins (typically ~3 to 4
+      months), to assess persistence beyond a short immediate window.
+
+      The paper states a "six-week" intervention and states outcomes were
+      collected "immediately after the program ended." Six weeks is
+      shorter than a typical academic term, and no additional term-length
+      follow-up is described.
+
+      Final sentence: Criterion T is not met because the start-to-measure
+      interval was six weeks with immediate post-testing, not a full term.
+  d:
+    met: true
+    explanation: >-
+      The paper provides clear control-group description and baseline
+      comparability information (sample sizes, demographics, and baseline
+      equivalence tests).
+    quote: >-
+      Independent samples t-test and chi-square tests indicated no
+      statistically significant differences between the groups in age
+      (t = 0.91, p = 0.366), gender [χ2(1) = 0.93, p = 0.334], or grade
+      level [χ2(1) = 0.59, p = 0.443], confirming successful randomization
+      and baseline comparability.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Consequently, the final per-protocol analysis included 285
+      participants (PPEW group: n = 148; control group: n = 137)."
+      (Section 2.1, Participants)
+
+      2) "The PPEW group comprised 148 participants (M = 14.07,
+      SD = 1.063), including 65 males, 83 females, with 93 in Grade 7 and
+      55 in Grade 10. The control group included 137 participants
+      (M = 14.19, SD = 1.088), with 68 males, 69 females, 80 in Grade 7,
+      and 57 in Grade 10." (Section 2.1, Participants)
+
+      3) "Independent samples t-test and chi-square tests indicated no
+      statistically significant differences between the groups in age
+      (t = 0.91, p = 0.366), gender [χ2(1) = 0.93, p = 0.334], or grade
+      level [χ2(1) = 0.59, p = 0.443], confirming successful randomization
+      and baseline comparability." (Section 2.1, Participants)
+
+      4) "The control group, within the same timeframe, completed writing
+      tasks focused on describing neutral life details." (Section 2.4)
+
+      Detailed Analysis:
+
+      Criterion D requires that the control group be well documented,
+      including who they are, their characteristics at baseline, and what
+      they received as the control condition.
+
+      The paper reports control-group size, demographics (age, gender,
+      grade distribution), and includes statistical baseline equivalence
+      checks. It also describes the control activity (neutral writing) and
+      indicates it occurred in the same timeframe.
+
+      Final sentence: Criterion D is met because the control group’s
+      composition, baseline comparability, and activities are clearly
+      documented.
+  s:
+    met: false
+    explanation: >-
+      Randomization assigned individual participants, not whole schools,
+      so the study is not a school-level RCT.
+    quote: >-
+      Randomization was conducted by an independent research assistant not
+      involved in subsequent data collection or intervention delivery,
+      using a computer-generated random number sequence to assign
+      participants to either the PPEW intervention group or the control
+      group.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Randomization was conducted by an independent research assistant
+      not involved in subsequent data collection or intervention delivery,
+      using a computer-generated random number sequence to assign
+      participants to either the PPEW intervention group or the control
+      group." (Section 2.3, Procedure)
+
+      2) "This study recruited participants through school-wide
+      announcements, and both adolescent assent and parental written
+      informed consent were obtained." (Section 2.3, Procedure)
+
+      Detailed Analysis:
+
+      Criterion S requires randomization among schools (or equivalent
+      institutional sites). The paper clearly describes recruitment in a
+      school setting, but the randomization unit is explicitly the
+      individual participant.
+
+      There is no statement indicating that schools (or intact sites) were
+      randomly assigned to intervention vs control.
+
+      Final sentence: Criterion S is not met because randomization was not
+      conducted at the school level.
+  i:
+    met: false
+    explanation: >-
+      While randomization was done by an assistant and assessors were
+      blinded, the paper does not document an external independent
+      evaluation team separate from the intervention designers/authors.
+    quote: >-
+      Both assessment (questionnaire administration) and intervention
+      delivery were carried out by two uniformly trained master’s students
+      in psychology, with outcome assessors remaining blinded to
+      participants’ group assignments throughout the study.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Randomization was conducted by an independent research assistant
+      not involved in subsequent data collection or intervention delivery,
+      using a computer-generated random number sequence to assign
+      participants to either the PPEW intervention group or the control
+      group." (Section 2.3, Procedure)
+
+      2) "Both assessment (questionnaire administration) and intervention
+      delivery were carried out by two uniformly trained master’s students
+      in psychology, with outcome assessors remaining blinded to
+      participants’ group assignments throughout the study." (Section 2.3,
+      Procedure)
+
+      3) "Based on the analysis above, this study targets time attitude as
+      the intervention focus (Tejada-Gallardo et al., 2022) and integrates
+      positive psychology interventions with expressive writing to develop
+      an intervention program termed positive psychology expressive
+      writing (PPEW)." (Section 1.3)
+
+      Detailed Analysis:
+
+      Criterion I requires that the study be conducted independently from
+      the authors who designed the intervention, typically by an external
+      evaluation team or organization.
+
+      The paper includes safeguards (an "independent research assistant"
+      for randomization and blinded outcome assessors). However, it does
+      not clearly state that the evaluation was conducted by an
+      independent third-party team separate from the intervention
+      designers/authors; instead, delivery and assessment were performed
+      by trained students within the study team context.
+
+      Final sentence: Criterion I is not met because independence from the
+      intervention designers is not clearly established beyond limited
+      task-specific roles (randomization and blinding).
+  y:
+    met: false
+    explanation: >-
+      The study ran for six weeks with immediate post-testing, which is
+      far below 75% of an academic year, and it also fails Criterion T.
+    quote: >-
+      Baseline assessments were completed before the intervention
+      commenced, and post-intervention evaluations were conducted
+      immediately after the program ended.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The PPEW group received a six-week positive psychology expressive
+      writing intervention, administered once per week with each session
+      lasting approximately 20 min (Nie et al., 2023)." (Section 2.4)
+
+      2) "Baseline assessments were completed before the intervention
+      commenced, and post-intervention evaluations were conducted
+      immediately after the program ended." (Section 2.3, Procedure)
+
+      Detailed Analysis:
+
+      Criterion Y requires that outcomes be measured at least 75% of an
+      academic year after intervention start. This study’s intervention
+      and measurement window is six weeks with immediate post-testing,
+      which is far shorter than an academic year.
+
+      Additionally, per the ERCT dependency rule, if Criterion T is not
+      met, Criterion Y is not met. Since T is not met here, Y cannot be
+      met.
+
+      Final sentence: Criterion Y is not met because the study’s
+      start-to-measure interval is six weeks, not ~1 academic year.
+  b:
+    met: true
+    explanation: >-
+      Both groups completed writing tasks on the same schedule and in the
+      same setting with similar supervision, so time and implementation
+      resources appear balanced.
+    quote: >-
+      The control group, within the same timeframe, completed writing
+      tasks focused on describing neutral life details.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The PPEW group received a six-week positive psychology expressive
+      writing intervention, administered once per week with each session
+      lasting approximately 20 min (Nie et al., 2023)." (Section 2.4)
+
+      2) "The control group, within the same timeframe, completed writing
+      tasks focused on describing neutral life details." (Section 2.4)
+
+      3) "During evening self-study sessions, participants in the PPEW
+      group and the control group completed the writing tasks in their
+      respective assigned classrooms." (Section 2.3, Procedure)
+
+      4) "Each session began after a research assistant read out the
+      standardized instructions, and was conducted under full supervision
+      to ensure compliance, address any questions, and maintain the
+      independence of task execution." (Section 2.3, Procedure)
+
+      Detailed Analysis:
+
+      Criterion B asks whether the intervention group received additional
+      resources (time, budget, materials) that were not matched in the
+      control group, unless extra resources were explicitly the treatment
+      variable.
+
+      Here, both groups performed writing tasks over the same six-week
+      period, in classroom settings, with standardized instructions and
+      supervision. The primary difference is the writing content (positive
+      psychology themes vs neutral life details), not additional time or
+      staffing resources.
+
+      Under the Criterion B decision logic, the study does not show a
+      meaningful additional time/budget advantage for the PPEW group; the
+      implementation inputs appear comparable.
+
+      Final sentence: Criterion B is met because both groups received
+      comparable time and implementation resources, differing mainly in
+      writing content.
+  r:
+    met: false
+    explanation: >-
+      No independent published replication of this specific 2026 PPEW RCT
+      was identified, and the paper itself does not report a replication.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) (No statement about an independent replication of this PPEW trial
+      is provided in the paper.)
+
+      Detailed Analysis:
+
+      Criterion R requires evidence that the same intervention and core
+      design have been independently replicated by a different research
+      team and published in a peer-reviewed journal.
+
+      This article reports a single RCT and does not claim to be a
+      replication of a prior trial, nor does it cite an external study
+      that independently replicated this exact PPEW protocol.
+
+      An internet literature search (by title, DOI, and key terms) did not
+      identify an independent replication of this specific 2026 study as
+      of the ERCT check date.
+
+      Final sentence: Criterion R is not met because there is no quoted or
+      located evidence of an independent replication of this specific
+      study.
+  a:
+    met: false
+    explanation: >-
+      Because the study does not use standardized exam-based outcomes
+      (Criterion E not met), it cannot satisfy the all-subject exams
+      requirement.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Time attitude was assessed using the Chinese version of the
+      Adolescent Time Attitude Scale (Li et al., 2021)." (Section 2.2.1)
+
+      2) "Positive affect was assessed using the positive affect subscale
+      of the Chinese version of the Positive and Negative Affect Scale for
+      Children (Pan et al., 2025)." (Section 2.2.2)
+
+      3) "Depressive symptoms were assessed using the depression symptoms
+      subscale of the Chinese version of the Depression-Anxiety-Stress
+      Scales-21 (DASS-21, Xie et al., 2022)." (Section 2.2.3)
+
+      Detailed Analysis:
+
+      Criterion A requires standardized exam-based assessment across all
+      main school subjects. This study measures psychological constructs
+      via questionnaires and does not report standardized academic exams.
+
+      Per the ERCT dependency rule, if Criterion E is not met, Criterion A
+      is not met. Since E is not met here, A must also be not met.
+
+      Final sentence: Criterion A is not met because there are no
+      standardized exam-based measures, and therefore no all-subject exam
+      coverage.
+  g:
+    met: false
+    explanation: >-
+      The study explicitly reports no long-term follow-up, and because it
+      also fails the year-duration requirement, it cannot meet graduation
+      tracking.
+    quote: >-
+      Third, the study design did not include long-term follow-up or an
+      intervention fidelity check.
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Baseline assessments were completed before the intervention
+      commenced, and post-intervention evaluations were conducted
+      immediately after the program ended." (Section 2.3, Procedure)
+
+      2) "Third, the study design did not include long-term follow-up or
+      an intervention fidelity check." (Section 4, Discussion)
+
+      Detailed Analysis:
+
+      Criterion G requires tracking participants until graduation from the
+      relevant educational stage.
+
+      This paper describes only immediate post-intervention assessment and
+      explicitly notes that there was no "long-term follow-up." Therefore,
+      it does not report tracking through any graduation milestone.
+
+      Per ERCT dependency guidance, if Criterion Y is not met, Criterion G
+      is not met. Since Y is not met (six-week duration), graduation
+      tracking is necessarily not satisfied in this study.
+
+      Additionally, an internet search for follow-up publications by the
+      same author team tracking this cohort to graduation did not identify
+      any such follow-up paper as of the ERCT check date.
+
+      Final sentence: Criterion G is not met because there is no long-term
+      follow-up and no graduation tracking (and Y is not met).
+  p:
+    met: false
+    explanation: >-
+      The paper provides ethics approval details but no evidence of a
+      publicly pre-registered protocol (registry name/ID and timing).
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study was conducted in accordance with the Declaration of
+      Helsinki and approved by the Ethics Committee of the School of
+      Psychology at Northwest Normal University (Approval No: 2025012;
+      date of approval: 3 March 2025)." (Institutional Review Board
+      Statement)
+
+      2) (No pre-registration statement, registry ID, or registration date
+      is provided in the paper.)
+
+      Detailed Analysis:
+
+      Criterion P requires a publicly pre-registered protocol with
+      evidence that registration occurred before data collection began.
+
+      The paper reports ethics approval, but it does not report any
+      pre-registration registry entry (no registry name, no ID, and no
+      registration date). Without a registry record, the timing
+      requirement cannot be verified.
+
+      An internet search for a registry record associated with this study
+      (by title, authors, and key terms) did not identify a matching
+      public pre-registration entry as of the ERCT check date.
+
+      Final sentence: Criterion P is not met because the article does not
+      report a public pre-registration registry entry or timing evidence.
+---
+
+## Change Summary (vs. provided YAML)
+
+1) Added missing metadata fields:
+   * `paper_link` set to the official DOI landing page. ([pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/41595060/?utm_source=openai))  
+   * `pdf_link` set to a direct PDF download link (PubMed Central). ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12837934/pdf/behavsci-16-00119.pdf))  
+   * `date_erct_check` set to **2026-02-16**.
+
+2) Corrected `rct` from `false` to `true` because the article describes
+   itself as a "randomized controlled trial" (and reports random
+   assignment). ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12837934/))
+
+3) Re-checked criteria **G**, **R**, and **P** with an internet search:
+   * **G** remains **not met**: the paper states there was no long-term
+     follow-up, and no graduation-tracking follow-up paper by the same
+     authors was identified as of 2026-02-16. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12837934/))
+   * **R** remains **not met**: no independent replication of this
+     specific 2026 study was identified as of 2026-02-16.
+   * **P** remains **not met**: the paper reports ethics approval but
+     does not report any pre-registration registry entry. ([pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12837934/))
+
+4) Reformatted all criteria `analysis` fields to the required structure
+   ("Relevant Quotes", "Detailed Analysis", final sentence) and wrapped
+   lines to stay within the 80-character limit.

@@ -1,0 +1,502 @@
+---
+
+title: >-
+  Digital personalised learning to improve literacy and numeracy outcomes: a
+  randomised controlled trial in Kenyan pre-primary classrooms
+authors: >-
+  Louis Major, Rebecca Daltry, Mary Otieno, Kevin Otieno, Annette Zhao, Chen Sun,
+  Jessica Hinks, and Aidan Friedberg
+paper_link: >-
+  https://doi.org/10.1080/02671522.2025.2605645
+abstract: >-
+  Research on digital personalised learning (DPL) alongside classroom teaching is
+  limited in low- and middle-income countries. This study investigates, for the
+  first time, a DPL programme aligned with national curricula and teaching
+  practices. A randomised trial evaluated the impact of ‘classroom-integrated’
+  DPL on pre-primary literacy and numeracy in Kenya, involving 1955 learners aged
+  4 to 6 across 291 government schools. Learners engaged with DPL via a
+  smartphone. DPL personalised the sequence of digital learning units based on
+  learners’ device usage and teachers’ progression through digitised structured
+  pedagogy lesson plans, while teachers could use their judgement to align DPL
+  with teaching. Numeracy and literacy were assessed over 13 months. The
+  findings show an effect of 0.534 SD from baseline to endline, with similar
+  numeracy (0.450 SD) and literacy (0.449 SD) impacts. The intervention was
+  effective for boys and girls and across class sizes, and there was no clear
+  differential impact for low- or high-achieving learners. However, a reduction
+  in the extent of effectiveness after midline suggests potential exhaustion of
+  appropriate DPL content, indicating a need to consider the suitability of
+  content and the optimum duration for implementation. This research
+  significantly enhances the critical understanding of DPL when integrated with
+  a standardised curriculum and classroom practice.
+publication_date: 2026-01-07
+erct_level: 2
+rct: true
+pdf_link: >-
+  https://www.tandfonline.com/doi/pdf/10.1080/02671522.2025.2605645
+doi: 10.1080/02671522.2025.2605645
+journal: Research Papers in Education
+date_erct_check: 2026-02-21
+tags:
+  - mathematics
+  - reading
+  - pre-K
+  - kindergarten
+  - Africa
+  - blended learning
+  - EdTech app
+  - mobile learning
+  - digital assessment
+  - formative assessment
+criteria:
+  c:
+    met: true
+    explanation: >-
+      Randomisation was at the school (cluster) level, which meets or exceeds
+      the class-level requirement.
+    quote: >-
+      "The random allocation of all schools to treatment or control groups was
+      carried out in August 2022."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "During this research, a stratified, two-arm, cluster-RCT with one
+      treatment and one control group compared learning gains following the
+      implementation of DPL over four school terms." (Section 4, Methods)
+
+      2) "The random allocation of all schools to treatment or control groups
+      was carried out in August 2022." (Section 4.2.1)
+
+      3) "Schools (n = 316) in each sub-county were randomly assigned to
+      ‘treatment’ or ‘control’ in Microsoft Excel following methodological
+      guidance (J-PAL, no date)." (Section 4.2.1)
+
+      Detailed Analysis:
+
+      Criterion C requires random assignment at the class level (or stronger),
+      to reduce contamination that can arise from within-class student
+      randomisation. The paper describes a "cluster-RCT" and explicitly states
+      that "all schools" were randomly allocated to treatment or control. Since
+      the unit of randomisation is the school (a stronger unit than class),
+      this satisfies Criterion C.
+
+      Criterion C is met because entire schools (clusters) were randomly
+      assigned to treatment or control.
+  e:
+    met: true
+    explanation: >-
+      The study used IDELA, a widely used and validated standardized early
+      learning assessment tool.
+    quote: >-
+      "To evaluate the primary study outcomes, the free-to-access IDELA tool was
+      used to assess emergent numeracy and literacy skills."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "To evaluate the primary study outcomes, the free-to-access IDELA tool
+      was used to assess emergent numeracy and literacy skills." (Section 4.5.1)
+
+      2) "Developed by Save the Children, IDELA was rigorously piloted with 5300
+      learners across 11 countries over three years." (Section 4.5.1)
+
+      3) "Validated for children aged 3–6 years, internal consistency, construct
+      validity, and inter-rater and test–retest reliability are established
+      (Pisani, Borisova, and Dowd 2015, 2018; Wolf et al. 2017)." (Section 4.5.1)
+
+      Detailed Analysis:
+
+      Criterion E requires exam-based assessment using a standardized, widely
+      recognised instrument rather than a bespoke, researcher-created test
+      designed around the intervention. The paper identifies IDELA as the
+      assessment tool, describes it as developed by Save the Children, and notes
+      established validity and reliability evidence. This supports that the
+      assessment is standardized and externally developed, not created for this
+      RCT.
+
+      Criterion E is met because outcomes were assessed using the standardized
+      and validated IDELA tool.
+  t:
+    met: true
+    explanation: >-
+      Outcomes were tracked from October 2022 to October 2023, far exceeding a
+      one-term minimum.
+    quote: >-
+      "Assessment points were baseline (October 2022), midline (May 2023), and
+      endline (October 2023)."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Numeracy and literacy were assessed over 13 months." (Abstract)
+
+      2) "Assessment points were baseline (October 2022), midline (May 2023),
+      and endline (October 2023)." (Section 4, Methods)
+
+      3) "Using the EIDU DPL tool (Friedberg 2023), research took place during
+      the 2022 and 2023 school years." (Section 1.1)
+
+      Detailed Analysis:
+
+      Criterion T requires that outcomes be measured at least one full academic
+      term after the intervention begins (typically ~3–4 months). The paper
+      reports baseline in October 2022 and endline in October 2023, and also
+      states assessment occurred "over 13 months." This comfortably exceeds one
+      term, and the timing is explicitly documented.
+
+      Criterion T is met because the study measured outcomes over about 13
+      months from baseline to endline.
+  d:
+    met: true
+    explanation: >-
+      The control group is described as business-as-usual and baseline
+      characteristics and scores are reported for comparison.
+    quote: >-
+      "Control schools did not receive the DPL tool and continued to teach as
+      usual, following the Kenyan pre-primary national curriculum."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Control schools did not receive the DPL tool and continued to teach as
+      usual, following the Kenyan pre-primary national curriculum." (Section
+      4.4.2)
+
+      2) "Table 3. Comparison of learner characteristics and assessment scores in
+      treatment and control groups at baseline (post-attrition)." (Table 3
+      caption)
+
+      3) "Overall IDELA score (mean and SD) 0.284 (0.156 SD) 0.280 (0.151 SD)"
+      (Table 3)
+
+      Detailed Analysis:
+
+      Criterion D requires that the control group be well documented, including
+      what it received (or did not receive), plus clear reporting of baseline
+      characteristics/performance. The paper states that control schools did not
+      receive the DPL tool and continued usual instruction under the national
+      curriculum. It also provides a baseline comparison table (Table 3) that
+      includes sample sizes and baseline scores (overall IDELA, numeracy, and
+      literacy), supporting comparability documentation.
+
+      Criterion D is met because the control condition is explicitly described
+      and baseline scores and sample characteristics are reported.
+  s:
+    met: true
+    explanation: >-
+      Schools were randomly assigned to treatment or control, satisfying the
+      school-level RCT requirement.
+    quote: >-
+      "Schools (n = 316) in each sub-county were randomly assigned to ‘treatment’
+      or ‘control’ in Microsoft Excel following methodological guidance (J-PAL,
+      no date)."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "School-level randomisation" (Section heading 4.2.1)
+
+      2) "Schools (n = 316) in each sub-county were randomly assigned to
+      ‘treatment’ or ‘control’ in Microsoft Excel following methodological
+      guidance (J-PAL, no date)." (Section 4.2.1)
+
+      3) "A final randomised sample of 291 schools was assessed at baseline to
+      address discrepancies in school enrolment figures, resulting in fewer
+      learners being available for assessment in practice." (Section 4.1)
+
+      Detailed Analysis:
+
+      Criterion S requires randomisation among schools (or equivalent educational
+      sites). The paper explicitly labels "School-level randomisation" and
+      describes randomly assigning schools within each sub-county to treatment or
+      control. It also reports the final randomised school sample size.
+
+      Criterion S is met because the unit of randomisation was the school.
+  i:
+    met: true
+    explanation: >-
+      The paper states the DPL provider did not participate in data collection,
+      analysis, or conclusions, supporting independent conduct.
+    quote: >-
+      "It is important to note that the research team maintained full
+      independence in their collaboration with the DPL provider, who did not
+      participate in data collection, analysis, or the formulation of
+      conclusions."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "It is important to note that the research team maintained full
+      independence in their collaboration with the DPL provider, who did not
+      participate in data collection, analysis, or the formulation of
+      conclusions." (Section 4, Methods)
+
+      2) "While enumerators may potentially have been aware of the treatment
+      status due to the visibility of DPL technology in schools, they were
+      entirely independent of the treatment, ensuring no conflict of interest."
+      (Section 4.7)
+
+      3) "One author (AF) was contracted by the DPL tool provider during the
+      research period; however, they did not participate in undertaking data
+      collection, analysis, or the formulation of conclusions." (Disclosure
+      statement)
+
+      Detailed Analysis:
+
+      Criterion I requires credible separation between the intervention
+      provider/designer and those collecting/analyzing outcome data, to reduce
+      bias. The paper explicitly states the provider did not participate in data
+      collection, analysis, or conclusions. It also discloses a potential
+      relationship (one author contracted by the provider) and explicitly limits
+      that author’s role away from data collection, analysis, and conclusions.
+      Finally, the paper states enumerators were independent.
+
+      Criterion I is met because the paper explicitly documents independence from
+      the provider for data collection, analysis, and conclusions.
+  y:
+    met: true
+    explanation: >-
+      Outcomes were measured over about 13 months and four school terms, meeting
+      the year-duration threshold.
+    quote: >-
+      "Numeracy and literacy were assessed over 13 months."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Numeracy and literacy were assessed over 13 months." (Abstract)
+
+      2) "During this research, a stratified, two-arm, cluster-RCT with one
+      treatment and one control group compared learning gains following the
+      implementation of DPL over four school terms." (Section 4, Methods)
+
+      3) "Assessment points were baseline (October 2022), midline (May 2023),
+      and endline (October 2023)." (Section 4, Methods)
+
+      Detailed Analysis:
+
+      Criterion Y requires outcomes measured at least 75% of one academic year
+      after the intervention begins. The study spans baseline in October 2022
+      through endline in October 2023 and explicitly states assessment occurred
+      over 13 months. The methods also describe the intervention/tracking as
+      occurring over four school terms. This exceeds 75% of a typical academic
+      year.
+
+      Criterion Y is met because the study tracked outcomes from October 2022 to
+      October 2023 (about 13 months).
+  b:
+    met: true
+    explanation: >-
+      The intervention added devices and implementation support, but these
+      additional resources are integral to the DPL treatment being tested against
+      business-as-usual.
+    quote: >-
+      "Control schools did not receive the DPL tool and continued to teach as
+      usual, following the Kenyan pre-primary national curriculum."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Learners engaged with DPL via a smartphone." (Abstract)
+
+      2) "Two Android devices are provided per classroom in a phased rollout
+      (Section 4.4.1)." (Section 3.2.4)
+
+      3) "At this point, schools received a second Android device per classroom."
+      (Section 4.4.1)
+
+      4) "ECDOs overseeing treatment schools were trained by EIDU to deliver
+      ongoing support to teachers regarding the delivery of the Tayari lesson
+      plans and deployment of the DPL tool in classrooms." (Section 3.2.2)
+
+      5) "Control schools did not receive the DPL tool and continued to teach as
+      usual, following the Kenyan pre-primary national curriculum." (Section
+      4.4.2)
+
+      Detailed Analysis:
+
+      Criterion B compares the nature, quantity, and quality of resources (time,
+      budget, materials, support) provided to treatment vs control, and asks
+      whether the control condition provides a comparable substitute for the
+      intervention’s inputs, unless the additional resources are explicitly the
+      treatment variable (i.e., integral to what is being tested).
+
+      This intervention includes access to DPL via smartphones and provision of
+      Android devices, plus training/ongoing support via ECDOs trained to support
+      DPL/Tayari delivery. Control schools "did not receive the DPL tool" and
+      continued business-as-usual instruction. This is a material and support
+      difference.
+
+      Applying the Criterion B decision logic: extra resources are present
+      (devices/support). These resources are integral to the intervention being
+      evaluated (a classroom-integrated DPL programme), rather than a separable,
+      unintended add-on; the study’s intent is to test the effect of providing
+      this DPL package versus business-as-usual.
+
+      Criterion B is met because the added devices and support are integral to
+      the DPL intervention being tested against business-as-usual.
+  r:
+    met: false
+    explanation: >-
+      No independent replication of this specific trial by a different research
+      team could be identified from the paper or from web searching.
+    quote: >-
+      "This study investigates, for the first time, a DPL programme aligned with
+      national curricula and teaching practices."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This study investigates, for the first time, a DPL programme aligned
+      with national curricula and teaching practices." (Abstract)
+
+      Detailed Analysis:
+
+      Criterion R requires evidence that the study (or a substantially identical
+      evaluation of the same intervention) has been independently replicated by a
+      different team in a peer-reviewed outlet.
+
+      The paper frames the evaluation as being conducted "for the first time"
+      and does not cite an independent replication.
+
+      Internet search (performed 2026-02-21) for independent replications of
+      this specific Murang’a County (291 schools; baseline October 2022, endline
+      October 2023) cluster-RCT did not identify a peer-reviewed replication by
+      an independent author team. Results found included project pages, blog
+      posts, and related (non-replication) publications about DPL/EIDU, but not
+      an independent replication of this RCT.
+
+      Criterion R is not met because independent replication of this specific
+      trial was not found.
+  a:
+    met: false
+    explanation: >-
+      The study assessed standardized outcomes in literacy and numeracy only, not
+      all main subject areas for the educational setting.
+    quote: >-
+      "IDELA’s seven numeracy and seven literacy assessment items were utilised
+      during the study (Appendix C)."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "IDELA’s seven numeracy and seven literacy assessment items were
+      utilised during the study (Appendix C)." (Section 4.5.1)
+
+      2) "Primary study outcomes assessed the effectiveness of a curriculum-
+      aligned and classroom-integrated DPL programme in improving pre-primary
+      literacy and numeracy skills." (Section 1.1)
+
+      Detailed Analysis:
+
+      Criterion A requires exam-based assessment across all main subjects taught
+      at the relevant educational level (or a clearly justified specialised
+      exception). The paper states that the study used IDELA numeracy and
+      literacy items, and frames the primary outcomes specifically as literacy
+      and numeracy.
+
+      No evidence is provided in the paper text that all main subjects were
+      assessed using standardized exams, and no specialised-intervention
+      exception is argued that would justify limited subject coverage under the
+      ERCT standard.
+
+      Criterion A is not met because only literacy and numeracy were assessed,
+      rather than all main subjects.
+  g:
+    met: false
+    explanation: >-
+      No evidence was found that the study tracked learners until graduation, and
+      web searching did not identify follow-up publications tracking this cohort
+      through graduation.
+    quote: >-
+      "Assessment points were baseline (October 2022), midline (May 2023), and
+      endline (October 2023)."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Assessment points were baseline (October 2022), midline (May 2023), and
+      endline (October 2023)." (Section 4, Methods)
+
+      2) "Control schools only received DPL after the endline in January 2024,
+      meaning benefits will be available to future learners, but not the control
+      sample itself." (Section 4.7)
+
+      Detailed Analysis:
+
+      Criterion G requires follow-up tracking until participants graduate from
+      the relevant educational stage. The paper specifies that outcome assessment
+      ended at "endline (October 2023)" and discusses post-endline rollout to
+      control schools in January 2024, but it does not describe subsequent
+      outcome data collection through any graduation milestone.
+
+      Internet search (performed 2026-02-21) for follow-up papers by the same
+      author group tracking this RCT cohort through graduation did not identify
+      any such graduation-tracking publication.
+
+      Criterion G is not met because follow-up ended at October 2023 and no
+      graduation-tracking follow-up publication was found.
+  p:
+    met: false
+    explanation: >-
+      The protocol was registered/published after data collection began, so it
+      does not meet the ERCT requirement for pre-registration before the study
+      started.
+    quote: >-
+      "Published on  14 October 2023"
+    analysis: >-
+      Relevant Quotes (this paper):
+
+      1) "The random allocation of all schools to treatment or control groups was
+      carried out in August 2022." (Section 4.2.1)
+
+      2) "Assessment points were baseline (October 2022), midline (May 2023), and
+      endline (October 2023)." (Section 4, Methods)
+
+      3) "Details of the study’s design, methodology, and analysis plan were
+      documented in a comprehensive research protocol, independently reviewed
+      following peer-feedback, and registered on an open-access research
+      repository prior to analysis to promote transparency and safeguard trial
+      integrity (Major et al. 2023)." (Section 4, Methods)
+
+      Relevant Quotes (protocol repository record):
+
+      1) "Published on  14 October 2023" (EdTech Hub protocol page)
+
+      2) "The protocol is being disseminated prior to endline data analysis to
+      promote transparency and a comprehensive understanding of the RCT approach
+      and design." (EdTech Hub protocol page)
+
+      Detailed Analysis:
+
+      Criterion P requires that the full study protocol be pre-registered before
+      the study begins (i.e., before randomisation and/or baseline data
+      collection), with a registration date that predates study start.
+
+      The paper states the protocol was registered on an open-access repository
+      "prior to analysis," which does not itself establish pre-registration prior
+      to data collection.
+
+      The associated public protocol record is shown as "Published on  14 October
+      2023" and describes dissemination "prior to endline data analysis." The
+      trial’s random allocation occurred in August 2022 and baseline assessment
+      occurred in October 2022, so the protocol publication date is after data
+      collection had already begun.
+
+      Criterion P is not met because the protocol record is dated October 14,
+      2023, which is after randomisation and baseline data collection.
+---
+
+## Change Summary
+
+- Added metadata:
+  - `paper_link` set to the DOI landing page.
+  - `pdf_link` set to the publisher-style direct PDF URL.
+  - `date_erct_check` set to **2026-02-21**.
+- Quote corrections / cleanup:
+  - Replaced the Criterion C `quote` that previously contained an ellipsis with
+    a complete verbatim sentence from the paper.
+  - Standardised wording in multiple criteria to remove trailing ellipses and
+    ensure quotes are complete sentences as shown in the paper text provided.
+- Criteria re-checks requiring internet searching:
+  - **P (Pre-registered Protocol):** Found the public protocol record on EdTech
+    Hub dated **14 October 2023** (after baseline in **October 2022**), so P
+    remains **not met** and the analysis was updated with verbatim quotes from
+    that record.
+  - **R (Reproduced):** Web searching did not identify an independent peer-
+    reviewed replication of this specific RCT; R remains **not met**.
+  - **G (Graduation Tracking):** Web searching did not identify graduation-
+    tracking follow-ups for this cohort; G remains **not met**.
+- ERCT level:
+  - Confirmed **erct_level = 2** remains correct because all Level 1 (C, E, T,
+    D) and Level 2 (S, I, Y, B) criteria are met, while Level 3 criteria are
+    not all met.

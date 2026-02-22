@@ -1,0 +1,517 @@
+---
+title: >-
+  The effect of collaborative learning approach on nursing students’
+  knowledge and skill learning for enteral nutrition: a randomized
+  controlled study
+authors: >-
+  Aysun Acun and Rahime Aksoy Bulgurcu
+paper_link: https://doi.org/10.1186/s12909-026-08687-w
+abstract: >-
+  Background: Collaborative learning is one of the important interactive
+  teaching methods in teaching nursing practices. This study aimed to examine
+  the impact of the collaborative learning approach on nursing students’
+  knowledge levels and self-directed learning skills related to enteral
+  nutrition.
+
+  Method: This research employed an open-label, randomized controlled design
+  with pre-test and post-test measurements. The study sample comprised 90
+  first-year nursing students who were randomly assigned to the experimental
+  (n = 45) and control (n = 45) groups. In the study, data were collected
+  using the ‘Descriptive Characteristics Form for the Student Group,’
+  ‘Knowledge Test on Enteral Nutrition,’ and ‘Self-Directed Learning Skills
+  Scale.’ Students worked in five separate groups on topics related to enteral
+  nutrition, and afterward, group representatives shared information with all
+  groups. The study was registered in the ClinicalTrials.gov system on the
+  date the students began the study and was assigned the registration number
+  NCT06412835.
+
+  Results: It was determined that the final test and follow-up test knowledge
+  scores of the experimental group were statistically significantly higher
+  than those of the control group (p = 0.007; p<0.001). Additionally, a
+  statistically significant difference was found in all measurements of the
+  final test scores of the experimental group's self-directed learning skills
+  scale (p<0.001). When the subscales of the self-directed learning skills
+  scale were analyzed, statistically significant differences and a strong
+  effect were found between the pre-test and final test scores of the
+  experimental group in self-monitoring (p<0.001; d=4.502), motivation
+  (p<0.001; d=5.398), self-control (p<0.001; d=3.700), and confidence
+  (p<0.001; d=6.034).
+
+  Conclusion: The fact that the student’s self-directed learning skills scale
+  sub-dimensions (self-monitoring, motivation, self-control and confidence)
+  are significantly higher shows that instructors should integrate the
+  collaborative learning method into the education system to learn the right
+  knowledge and skills. The use of collaborative learning methods is
+  recommended for all newly acquired skills in nursing education, as is the
+  case with enteral nutrition.
+publication_date: 2026-01-29
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://link.springer.com/content/pdf/10.1186/s12909-026-08687-w_reference.pdf
+doi: 10.1186/s12909-026-08687-w
+journal: BMC Medical Education
+date_erct_check: 2026-02-14
+tags:
+  - science
+  - higher education
+  - Asia
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Randomization was at the individual student level rather than at the
+      class (or school) level, and the intervention was not one-to-one
+      tutoring.
+    quote: >-
+      "Participants were assigned to the experimental and control groups by
+      the researcher using an online randomization software
+      (https://www.randomizer.org/)." (PDF p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study population comprised 116 students enrolled in the
+      Fundamentals of Nursing Course II during the spring term of the 2023–
+      2024 academic year in the nursing department of a university’s Faculty
+      of Health Sciences." (PDF p. 6)
+
+      2) "A total of 90 students who agreed to participate in the study and
+      completed the “Student Group Characteristics Form,” “Enteral Nutrition
+      Knowledge Test,” and “Self-Directed Learning Skills Scale” were included
+      in the research." (PDF p. 7)
+
+      3) "Participants were assigned to the experimental and control groups by
+      the researcher using an online randomization software
+      (https://www.randomizer.org/)." (PDF p. 7)
+
+      Detailed Analysis:
+
+      ERCT criterion C requires randomization at the class level (or stronger,
+      e.g., school/site level) to reduce contamination, unless the intervention
+      is explicitly one-to-one tutoring/personal teaching.
+
+      The paper describes a single university course cohort and states that
+      participants (students) were assigned by the researcher using an online
+      randomizer. There is no indication that intact classes/sections or
+      schools/sites were randomized.
+
+      The intervention (collaborative learning / Jigsaw technique) is a group-
+      based classroom method rather than one-to-one tutoring, so the tutoring
+      exception does not apply.
+
+      Final: Criterion C is not met because the unit of randomization was
+      individual students rather than classes (or schools), with no tutoring
+      exception.
+  e:
+    met: false
+    explanation: >-
+      The main learning outcome was measured using a researcher-prepared
+      knowledge test rather than a widely recognized standardized exam.
+    quote: >-
+      "Knowledge Test on Enteral Nutrition: The relevant test was prepared by
+      the researchers by reviewing the literature [2,5,7]." (PDF p. 7)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Knowledge Test on Enteral Nutrition: The relevant test was prepared
+      by the researchers by reviewing the literature [2,5,7]." (PDF p. 7)
+
+      2) "In this study, the knowledge test and descriptive characteristics
+      form belonging to the students were used only in this study. They were
+      created by the researchers." (PDF p. 20)
+
+      Detailed Analysis:
+
+      ERCT criterion E requires exam-based assessment using standardized, widely
+      recognized tests (e.g., national/state exams or established standardized
+      achievement measures). The key question is whether the academic outcome
+      measure is a standardized external exam versus a bespoke instrument.
+
+      The paper explicitly states the enteral nutrition knowledge test was
+      prepared/created by the researchers and used only in this study, which
+      indicates a custom instrument rather than a standardized exam.
+
+      Although the study also uses a published "Self-Directed Learning Skills
+      Scale", that scale is not an external standardized exam of educational
+      achievement in the sense required by ERCT criterion E.
+
+      Final: Criterion E is not met because the primary knowledge outcome was
+      measured with a researcher-created test, not a standardized exam.
+  t:
+    met: false
+    explanation: >-
+      Outcomes were measured over roughly 6 weeks from the start of the study,
+      which is shorter than one academic term.
+    quote: >-
+      "This study was conducted in the spring semester of the 2023-2024
+      academic year between 15 May and 28 June 2024." (PDF p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This study was conducted in the spring semester of the 2023-2024
+      academic year between 15 May and 28 June 2024." (PDF p. 9)
+
+      2) "At the end of the application, the students were asked to complete
+      the ‘Knowledge Test for Enteral Nutrition’ as a post-test (31 May 2024)."
+      (PDF p. 10)
+
+      3) "To measure the retention of the knowledge level, the same test was
+      applied again 4 weeks after the post-test (28 June 2024)." (PDF p. 10)
+
+      Detailed Analysis:
+
+      ERCT criterion T requires outcome measurement at least one full academic
+      term (typically ~3–4 months) after the intervention begins.
+
+      The paper gives explicit dates showing the study ran from 15 May 2024 to
+      28 June 2024, with a post-test on 31 May 2024 and a follow-up test on
+      28 June 2024. Even using the final follow-up test, the elapsed time from
+      the study start is about 6 weeks, which is well below a term.
+
+      Final: Criterion T is not met because the longest reported follow-up is
+      only about 6 weeks after the start, not a full academic term.
+  d:
+    met: true
+    explanation: >-
+      The paper documents what the control group received and reports baseline
+      demographics and baseline scores for both groups.
+    quote: >-
+      "With the control group of students, standard course procedures were
+      followed. After the pre-test, students received 4 hours of theory, 2
+      hours of skill demonstration, and 16 hours of hands-on laboratory
+      training on nutritional needs related to enteral nutrition." (PDF p. 10)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "With the control group of students, standard course procedures were
+      followed. After the pre-test, students received 4 hours of theory, 2
+      hours of skill demonstration, and 16 hours of hands-on laboratory
+      training on nutritional needs related to enteral nutrition." (PDF p. 10)
+
+      2) "No statistically significant differences were observed between the
+      experimental and control groups with respect to the distribution of
+      participants’ demographic characteristics, and the groups were found to
+      be homogeneous in terms of gender (p > 0.05) (Table 1)." (PDF p. 12)
+
+      3) "Table 2 Pre-test, post-test and follow-up test knowledge scores of
+      students in the control and experimental groups" (PDF p. 13)
+
+      Detailed Analysis:
+
+      ERCT criterion D requires a well-documented control group, including (a)
+      what the control received and (b) baseline information enabling
+      comparisons (e.g., demographics and baseline performance).
+
+      The paper provides a concrete description of the control condition and
+      time components (theory, skill demonstration, and hands-on lab training).
+      It also reports baseline demographic comparability (Table 1 statement)
+      and presents baseline (pre-test) and subsequent knowledge outcomes for
+      both groups (Table 2).
+
+      Final: Criterion D is met because the control condition and baseline
+      characteristics/performance are described and reported in the paper.
+  s:
+    met: false
+    explanation: >-
+      The study randomized individual students within one university program
+      rather than randomizing schools or sites.
+    quote: >-
+      "The study population comprised 116 students enrolled in the
+      Fundamentals of Nursing Course II during the spring term of the 2023–
+      2024 academic year in the nursing department of a university’s Faculty
+      of Health Sciences." (PDF p. 6)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study population comprised 116 students enrolled in the
+      Fundamentals of Nursing Course II during the spring term of the 2023–
+      2024 academic year in the nursing department of a university’s Faculty
+      of Health Sciences." (PDF p. 6)
+
+      2) "Participants were assigned to the experimental and control groups by
+      the researcher using an online randomization software
+      (https://www.randomizer.org/)." (PDF p. 7)
+
+      Detailed Analysis:
+
+      ERCT criterion S requires school-level (site/institution-level)
+      randomization, meaning multiple schools/sites are randomized to
+      intervention vs control.
+
+      The paper describes a single university course cohort and indicates
+      allocation of participants (students) into two groups by the researcher.
+      There is no description of multiple schools/sites or school-level
+      assignment.
+
+      Final: Criterion S is not met because assignment occurred at the student
+      level within a single institution, not at the school/site level.
+  i:
+    met: false
+    explanation: >-
+      The authors appear to have implemented and evaluated the study
+      themselves, with no stated independent third-party conduct.
+    quote: >-
+      "Aysun ACUN and Rahime AKSOY BULGURCU conducted the survey, data
+      collection, and visualization." (PDF p. 20)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Participants were assigned to the experimental and control groups by
+      the researcher using an online randomization software
+      (https://www.randomizer.org/)." (PDF p. 7)
+
+      2) "Aysun ACUN and Rahime AKSOY BULGURCU made significant contributions
+      to writing the original manuscript and data analysis." (PDF p. 20)
+
+      3) "Aysun ACUN and Rahime AKSOY BULGURCU conducted the survey, data
+      collection, and visualization." (PDF p. 20)
+
+      Detailed Analysis:
+
+      ERCT criterion I requires independent conduct, meaning the evaluation is
+      performed by a third party independent of the intervention designers,
+      reducing risks of implementation and measurement bias.
+
+      The paper indicates the researcher performed allocation, and the author
+      contribution statement indicates the authors conducted data collection
+      and analysis. No external evaluation team, independent test
+      administrators, or independent oversight is described.
+
+      Final: Criterion I is not met because the study conduct and evaluation
+      are attributed to the author team rather than an independent evaluator.
+  y:
+    met: false
+    explanation: >-
+      The study duration is far shorter than 75% of an academic year, and
+      criterion T is not met.
+    quote: >-
+      "This study was conducted in the spring semester of the 2023-2024
+      academic year between 15 May and 28 June 2024." (PDF p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "This study was conducted in the spring semester of the 2023-2024
+      academic year between 15 May and 28 June 2024." (PDF p. 9)
+
+      2) "To measure the retention of the knowledge level, the same test was
+      applied again 4 weeks after the post-test (28 June 2024)." (PDF p. 10)
+
+      Detailed Analysis:
+
+      ERCT criterion Y requires outcome measurement at least 75% of one
+      academic year after the intervention begins. Per the ERCT rules provided
+      for this task, if criterion T is not met then criterion Y is not met.
+
+      The dates show the entire study window runs from mid-May to late June
+      2024 (about 6 weeks), with the longest stated follow-up being a 4-week
+      retention test.
+
+      Final: Criterion Y is not met because the study duration is only weeks
+      (and criterion T is not met).
+  b:
+    met: true
+    explanation: >-
+      The intervention changes the learning method, but the paper describes
+      substantial training for both groups and does not show a clear
+      unbalanced addition of time/budget to the intervention group.
+    quote: >-
+      "The control group also spent 14 hours practicing skills in the
+      laboratory." (PDF p. 10)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "With the experimental group of students, a three-session application
+      was planned." (PDF p. 9)
+
+      2) "After the pre-test was administered, the theoretical lectures were
+      given as three separate lectures within the scope of 45-minute lecture
+      periods in the classroom environment (15 May 2024)." (PDF p. 9)
+
+      3) "This session was conducted in laboratory conditions, lasting a total
+      of 14 hours over four consecutive days (first, second, and third days: 4
+      hours; fourth day: 2 hours), with each class lasting 45 minutes."
+      (PDF p. 10)
+
+      4) "With the control group of students, standard course procedures were
+      followed. After the pre-test, students received 4 hours of theory, 2
+      hours of skill demonstration, and 16 hours of hands-on laboratory
+      training on nutritional needs related to enteral nutrition. The control
+      group also spent 14 hours practicing skills in the laboratory." (PDF p. 10)
+
+      Detailed Analysis:
+
+      ERCT criterion B asks whether the intervention and control conditions are
+      balanced in time and resources, unless additional resources are the
+      explicit treatment variable.
+
+      Here, the intervention is a different pedagogy (collaborative learning /
+      Jigsaw technique) rather than an explicit "more time/more money" resource
+      intervention. The paper describes substantial time commitments for both
+      arms, including extensive lab practice for both groups (14 hours for the
+      experimental lab session and 14 hours of lab practice for the control
+      group), and additional structured teaching components in the control
+      arm.
+
+      The experimental arm includes additional elements (e.g., small-group
+      preparation and between-group sharing) but the paper does not quantify
+      these as extra instructional hours beyond the described sessions in a
+      way that clearly indicates an unbalanced addition of time/budget.
+
+      Final: Criterion B is met because the paper does not provide evidence
+      that the intervention group received a clear, non-integral increase in
+      time/budget/resources unmatched by the control condition.
+  r:
+    met: false
+    explanation: >-
+      No independent peer-reviewed replication of this specific study was
+      found or cited as of the ERCT check date.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) (No statement in the paper indicates this study has been independently
+      replicated by another research team.)
+
+      Detailed Analysis:
+
+      ERCT criterion R requires an independent replication by a different
+      research team in a different context, published in a peer-reviewed
+      journal.
+
+      The article presents a single RCT conducted in one university setting
+      and does not describe any replication. An internet search (performed
+      on 2026-02-14) for the DOI/title and for papers explicitly describing a
+      replication did not identify a distinct peer-reviewed replication study
+      by a different author team.
+
+      Final: Criterion R is not met because no independent replication was
+      identified or evidenced in the paper or in post-publication searches.
+  a:
+    met: false
+    explanation: >-
+      Criterion E is not met, so criterion A is not met; additionally, the
+      outcomes are not assessed across all core subjects via standardized
+      exams.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Knowledge Test on Enteral Nutrition: The relevant test was prepared
+      by the researchers by reviewing the literature [2,5,7]." (PDF p. 7)
+
+      Detailed Analysis:
+
+      ERCT criterion A requires standardized exam-based assessment across all
+      main subjects, and per the ERCT rules provided for this task, if
+      criterion E is not met then criterion A is not met.
+
+      This study uses a researcher-prepared enteral nutrition knowledge test
+      rather than standardized exams, and it does not assess broad multi-
+      subject academic outcomes.
+
+      Final: Criterion A is not met because criterion E is not met and the
+      study does not use standardized all-subject exams.
+  g:
+    met: false
+    explanation: >-
+      The study follow-up ends after a 4-week retention test, and no evidence
+      of tracking participants through graduation (or any graduation-linked
+      endpoint) was found.
+    quote: >-
+      "To measure the retention of the knowledge level, the same test was
+      applied again 4 weeks after the post-test (28 June 2024)." (PDF p. 10)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "To measure the retention of the knowledge level, the same test was
+      applied again 4 weeks after the post-test (28 June 2024)." (PDF p. 10)
+
+      2) "This study was conducted in the spring semester of the 2023-2024
+      academic year between 15 May and 28 June 2024." (PDF p. 9)
+
+      Detailed Analysis:
+
+      ERCT criterion G requires follow-up tracking until participants’
+      graduation from the relevant educational stage. Per the ERCT rules
+      provided for this task, if criterion Y is not met then criterion G is
+      not met.
+
+      The paper describes a short-term follow-up only (a 4-week retention
+      test) and provides no statement about longer-term tracking to end-of-
+      program completion or graduation. An internet search (performed on
+      2026-02-14) did not identify a follow-up publication by the same authors
+      reporting graduation tracking for this cohort.
+
+      Final: Criterion G is not met because follow-up ends within weeks and no
+      graduation tracking evidence was found.
+  p:
+    met: true
+    explanation: >-
+      The study reports a ClinicalTrials.gov registration (NCT06412835), and
+      registry dates show submission before the study start date.
+    quote: >-
+      "The study was registered in the ClinicalTrials.gov system on the date
+      the students began the study and was assigned the registration number
+      NCT06412835." (PDF p. 2)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study was registered in the ClinicalTrials.gov system on the
+      date the students began the study and was assigned the registration
+      number NCT06412835." (PDF p. 2)
+
+      2) "The study was registered in the ClinicalTrials.gov system on the
+      date the students began the study and was assigned the registration
+      number NCT06412835. The study's ClinicalTrials registration date is May
+      2024, and the study's start date is May 8, 2024." (PDF p. 7)
+
+      3) "Study Start (Actual)  May 8, 2024" (ICHGCP registry page, Study
+      record dates section)
+
+      4) "First Submitted  May 3, 2024" (ICHGCP registry page, Study record
+      dates section)
+
+      Detailed Analysis:
+
+      ERCT criterion P requires that the study protocol be registered before
+      the study begins (i.e., before data collection / first participant
+      enrollment as defined by the registry and the paper’s timeline).
+
+      The paper provides a ClinicalTrials.gov identifier (NCT06412835). The
+      registry record (as mirrored by ICHGCP) reports "First Submitted  May 3,
+      2024" and "Study Start (Actual)  May 8, 2024", indicating registration
+      submission occurred before the study start date. The paper’s own stated
+      study window begins later (15 May 2024), which is also after the
+      submission date.
+
+      Final: Criterion P is met because registry dates indicate registration
+      submission before the study start date.
+---
+
+## Change Summary
+
+- Filled in metadata:
+  - Set `paper_link` to the DOI landing page.
+  - Set `pdf_link` to the direct Springer Nature PDF.
+  - Set `date_erct_check` to 2026-02-14.
+  - Confirmed `publication_date` as 2026-01-29 (publisher page).
+
+- Cleaned and corrected quotes:
+  - Removed non-verbatim additions (e.g., embedded markdown links).
+  - Replaced/verified quotes to match the official PDF text and added PDF
+    page references.
+
+- Re-checked criteria requiring internet lookup:
+  - Updated criterion **P** using registry dates from the NCT06412835 trial
+    record (via ICHGCP mirror of ClinicalTrials.gov).
+  - Re-checked **R** and **G** with internet searches and documented that no
+    independent replication or graduation-tracking follow-up publication was
+    found as of 2026-02-14.
+
+- Reformatted all `analysis` fields to the required structure:
+  - "Relevant Quotes", "Detailed Analysis", and a final one-sentence
+    conclusion.
+
+- ERCT level:
+  - Left `erct_level` at 0 because level-1 criteria (C, E, T, D) are not all
+    met (C/E/T are not met).

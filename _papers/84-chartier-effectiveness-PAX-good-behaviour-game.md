@@ -1,0 +1,580 @@
+---
+title: >-
+  Examining the effectiveness of the PAX-GOOD BEHAVIOUR GAME
+  in improving the mental health and academic outcomes of
+  FIRST NATIONS children in Canada: a clustered randomized
+  controlled trial using administrative data
+authors: >-
+  Mariette J. Chartier; Frank Turner; Depeng Jiang;
+  Wendy Au; Scott McCulloch; Marni Brownell; Rob Santos;
+  Nora Murdock; Amanda Martinson; Leanne Boyd;
+  James Bolton; Jitender Sareen
+paper_link: "https://doi.org/10.1007/s00127-025-03028-6"
+abstract: >-
+  Purpose PAX Good Behaviour Game (PAX-GBG), a school-based
+  mental health promotion approach, has been shown to improve
+  children’s mental health and academic outcomes. Given that
+  these effects have yet to be shown in Indigenous
+  populations, a partnership with First Nations communities
+  was created to evaluate PAX-GBG’s effectiveness among First
+  Nations children living in Canada. Methods In this
+  clustered randomized controlled trial, we used
+  population-based administrative data that allowed
+  de-identified individual-level linkages. Our cohort from 20
+  First Nations schools was assigned to PAX-GBG (n = 468) or
+  wait-list control (n = 255). We used multi-level
+  regression modeling and propensity score weighting to
+  estimate group differences in mental health and academic
+  outcomes over time (2011–2020). Results PAX-GBG group
+  children had significantly greater decreases in conduct
+  problems, hyperactivity-inattention, and peer problems and
+  a greater increase in prosocial scores than control group
+  children. The percentage of PAX-GBG group children meeting
+  academic expectations was higher than control group
+  children. However, only third-grade numeracy and
+  eighth-grade reading and writing were statistically
+  significant. We found no evidence that PAX-GBG was
+  associated with less emotional problems, diagnosed mental
+  disorders, or greater student engagement or mathematics.
+  Conclusion These findings suggest that PAX-GBG is a
+  promising intervention in improving First Nations
+  children’s mental health and academic outcomes. What
+  remains unclear is whether these findings are
+  generalizable to all First Nations and how adding supports
+  for program implementation would influence these findings.
+publication_date: 2026-01-14
+erct_level: 0
+rct: true
+pdf_link: >-
+  https://link.springer.com/content/pdf/10.1007/s00127-025-03028-6.pdf
+doi: 10.1007/s00127-025-03028-6
+journal: Social Psychiatry and Psychiatric Epidemiology
+date_erct_check: 2026-02-21
+tags:
+  - mathematics
+  - reading
+  - language arts
+  - K12
+  - Canada
+  - gamification
+
+criteria:
+  c:
+    met: true
+    explanation: >-
+      Randomization occurred at the school level, which meets
+      (and exceeds) the class-level RCT requirement.
+    quote: >-
+      "Randomization occurred at the school level."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Randomization occurred at the school level." (page
+      not provided)
+
+      2) "A clustered RCT was conducted in Manitoba, a province
+      in central Canada with a population of 1.4 million in
+      academic year 2011/12 with follow-up data until
+      2019/2020." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion C requires that the study be randomized at the
+      class level or stronger (e.g., school level), to reduce
+      contamination across treatment and control groups within
+      the same classroom.
+
+      The paper explicitly states that randomization occurred
+      at the school level. School-level randomization is
+      stronger than class-level randomization for the purposes
+      of avoiding within-school contamination and therefore
+      satisfies Criterion C.
+
+      Final summary: Criterion C is met because randomization
+      occurred at the school level (stronger than class level).
+
+  e:
+    met: false
+    explanation: >-
+      Academic outcomes were based on teacher assessments of
+      meeting expectations, not standardized exam scores.
+    quote: >-
+      "These assessments were conducted by teachers to
+      evaluate student’s strengths and needs in third grade
+      reading and numeracy, seventh grade student engagement
+      and mathematics, and eighth grade reading and writing."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Academic outcomes were derived from the Department of
+      Education database that included assessments of
+      children’s learning needs early in the school year."
+      (page not provided)
+
+      2) "These assessments were conducted by teachers to
+      evaluate student’s strengths and needs in third grade
+      reading and numeracy, seventh grade student engagement
+      and mathematics, and eighth grade reading and writing."
+      (page not provided)
+
+      3) "Teachers report whether their students: “met academic
+      expectations”, “approached expectations” or “have not met
+      them”." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion E requires standardized, exam-based assessments
+      (i.e., widely recognized standardized tests), rather than
+      teacher ratings or teacher-made assessments.
+
+      The paper describes the academic outcomes as teacher-
+      conducted assessments and explicitly frames the outcome
+      categories as teacher reports (met / approached / have
+      not met). The paper does not describe these as provincial
+      or national standardized exams.
+
+      Final summary: Criterion E is not met because the
+      academic outcomes are teacher assessments rather than
+      standardized exams.
+
+  t:
+    met: true
+    explanation: >-
+      Outcomes were measured at least through the end of the
+      school year (and beyond), meeting the term-duration
+      requirement.
+    quote: >-
+      "Teachers were asked to administer the Strengths and
+      Difficulties Questionnaire (SDQ) before implementing
+      PAX-GBG and again at the end of the school year."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Children assigned to schools in the PAX-GBG group
+      received between three to eight months of intervention
+      during their first-grade school year." (page not
+      provided)
+
+      2) "Teachers were asked to administer the Strengths and
+      Difficulties Questionnaire (SDQ) before implementing
+      PAX-GBG and again at the end of the school year." (page
+      not provided)
+
+      3) "A clustered RCT was conducted in Manitoba, a province
+      in central Canada with a population of 1.4 million in
+      academic year 2011/12 with follow-up data until
+      2019/2020." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion T requires that outcomes be measured at least
+      one academic term (about 3 to 4 months) after the
+      intervention begins.
+
+      The paper reports that the intervention exposure lasted
+      "between three to eight months" during the Grade 1 school
+      year, and it states that teachers completed SDQ measures
+      before implementation and "again at the end of the school
+      year." This indicates that the main short-term outcome
+      measurement was at least term-length after the start of
+      implementation (and in practice appears to be end-of-year
+      follow-up).
+
+      Final summary: Criterion T is met because outcomes were
+      collected at the end of the school year after several
+      months of intervention exposure.
+
+  d:
+    met: true
+    explanation: >-
+      The wait-list control group is clearly described with
+      sample sizes, exposure status, and baseline covariates.
+    quote: >-
+      "Our final sample included 723 students from 20 schools:
+      468 students from 11 schools that had implemented PAX-GBG
+      and 255 students from 9 schools who were in the wait-list
+      control group."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Our cohort from 20 First Nations schools was assigned
+      to PAX-GBG (n = 468) or wait-list control (n = 255)."
+      (page not provided)
+
+      2) "Our final sample included 723 students from 20
+      schools: 468 students from 11 schools that had
+      implemented PAX-GBG and 255 students from 9 schools who
+      were in the wait-list control group." (page not provided)
+
+      3) "Children from wait-list control schools were not
+      exposed to the intervention." (page not provided)
+
+      4) "Table 1 Child and family covariates before PAX-GBG
+      implementation by PAX-GBG and wait-list control groups..."
+      (Table 1; page not provided)
+
+      Detailed Analysis:
+
+      Criterion D requires that the control group be well
+      documented, including who is in it, the control condition
+      itself, and baseline characteristics.
+
+      The paper clearly identifies a wait-list control group,
+      provides sample sizes and numbers of schools in each
+      group, and explicitly states that wait-list control
+      schools were "not exposed to the intervention." Baseline
+      covariates are also reported (Table 1), supporting that
+      the groups are documented and describable.
+
+      Final summary: Criterion D is met because the wait-list
+      control group is clearly defined and documented with
+      sample sizes, exposure status, and baseline covariates.
+
+  s:
+    met: true
+    explanation: >-
+      The unit of randomization was the school, satisfying the
+      school-level RCT requirement.
+    quote: >-
+      "Randomization occurred at the school level."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Randomization occurred at the school level." (page
+      not provided)
+
+      2) "Our cohort from 20 First Nations schools was assigned
+      to PAX-GBG (n = 468) or wait-list control (n = 255)."
+      (page not provided)
+
+      Detailed Analysis:
+
+      Criterion S requires random assignment at the school
+      level.
+
+      The paper explicitly states that randomization occurred
+      at the school level and describes a multi-school sample,
+      which directly meets Criterion S.
+
+      Final summary: Criterion S is met because schools were
+      randomized.
+
+  i:
+    met: true
+    explanation: >-
+      The RCT is described as designed and led by the
+      government of Manitoba rather than the intervention
+      developer.
+    quote: >-
+      "The RCT was designed and led by the government of
+      Manitoba to evaluate PAX-GBG’s effectiveness when
+      implemented with first graders in the province [29]."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The RCT was designed and led by the government of
+      Manitoba to evaluate PAX-GBG’s effectiveness when
+      implemented with first graders in the province [29]."
+      (page not provided)
+
+      2) "Finally, the authors are appreciative of the PAXIS
+      Institute for the ingenuity, generosity, and interest in
+      adapting and developing PAX-GBG for the benefit of
+      Indigenous people." (page not provided)
+
+      3) "Competing interests The authors declare no competing
+      interests." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion I requires that the evaluation be conducted
+      independently of the intervention developer/designer, or
+      that the paper credibly documents independence in the
+      conduct of the trial.
+
+      The paper states the RCT "was designed and led by the
+      government of Manitoba," which indicates leadership of
+      the RCT by government rather than by the PAX-GBG developer
+      (PAXIS Institute). The acknowledgement of PAXIS Institute
+      is consistent with a developer being recognized but not
+      leading the evaluation. The paper also declares no
+      competing interests.
+
+      Final summary: Criterion I is met because the trial is
+      described as government-led rather than developer-led.
+
+  y:
+    met: true
+    explanation: >-
+      Participants were followed from Grade 1 through Grade 9,
+      far exceeding 75% of an academic year.
+    quote: >-
+      "Children in both groups were then followed from first
+      grade to ninth grade (September 2011 – March 2020)..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Children in both groups were then followed from first
+      grade to ninth grade (September 2011 – March 2020) to
+      determine shorter-term mental and behavioural (SDQ)
+      outcomes and longer-term diagnosed mental disorders and
+      academic outcomes." (page not provided)
+
+      2) "Methods In this clustered randomized controlled
+      trial... estimate group differences... over time
+      (2011–2020)." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion Y requires that outcomes be measured at least
+      75% of an academic year after the intervention begins.
+
+      The paper documents follow-up from Grade 1 through Grade
+      9 (2011 to 2020). This is substantially longer than a
+      single academic year and therefore clearly meets the year
+      duration threshold.
+
+      Final summary: Criterion Y is met because outcomes were
+      tracked over multiple years (2011–2020).
+
+  b:
+    met: true
+    explanation: >-
+      The added training/materials are integral to delivering
+      PAX-GBG, and classroom delivery occurs during regular
+      school activities rather than adding extra instructional
+      time.
+    quote: >-
+      "Teachers in schools randomized to PAX-GBG attended a
+      2-day training on PAX-GBG implementation... and were
+      provided the materials to use PAX-GBG in their
+      classrooms."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Teachers receive a 2-day training on how to implement
+      these strategies in their classrooms." (page not
+      provided)
+
+      2) "Teachers in schools randomized to PAX-GBG attended a
+      2-day training on PAX-GBG implementation between November
+      2011 and March 2012 and were provided the materials to
+      use PAX-GBG in their classrooms." (page not provided)
+
+      3) "Children from wait-list control schools were not
+      exposed to the intervention." (page not provided)
+
+      4) "The main strategy, GBG, is played several times a day
+      during regular school activities..." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion B compares time and resources provided to
+      intervention and control groups. If the intervention adds
+      extra resources, the control should receive comparable
+      educational inputs, unless the extra resources are
+      integral to what is being tested (i.e., the intervention
+      package).
+
+      The intervention clearly includes additional resources:
+      teacher training ("2-day training") and provision of
+      materials. The control group is a wait-list group that is
+      "not exposed to the intervention," and the paper does not
+      describe equivalent training/materials for the control.
+
+      However, these resources are not described as optional
+      add-ons; they are inherent requirements for implementing
+      PAX-GBG as defined in the paper. In addition, the core
+      classroom component is stated to occur "during regular
+      school activities," which indicates the intervention is
+      not simply adding extra student instructional time on top
+      of usual schooling.
+
+      Under the updated Criterion B guidance, the imbalance in
+      training/materials does not automatically fail the
+      criterion when those inputs are integral to the treatment
+      package being evaluated against business-as-usual.
+
+      Final summary: Criterion B is met because the additional
+      resources (training/materials) are integral to the
+      PAX-GBG package, and delivery occurs during regular
+      school activities.
+
+  r:
+    met: false
+    explanation: >-
+      No independent peer-reviewed replication of this specific
+      Manitoba First Nations administrative-data clustered RCT
+      was found.
+    quote: >-
+      "Given that these effects have yet to be shown in
+      Indigenous populations..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Given that these effects have yet to be shown in
+      Indigenous populations, a partnership with First Nations
+      communities was created to evaluate PAX-GBG’s
+      effectiveness among First Nations children living in
+      Canada." (page not provided)
+
+      2) "This current study is part of a larger research
+      program that investigated the acceptability, usefulness
+      and effectiveness of PAX-GBG among First Nations
+      children..." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion R requires independent replication of this
+      study by a different research team in a different context
+      in a peer-reviewed journal.
+
+      The paper frames this evaluation as filling a gap for
+      Indigenous populations ("have yet to be shown in
+      Indigenous populations"), which suggests this specific
+      population-context study is novel rather than previously
+      replicated.
+
+      Internet searching for reproductions/replications of this
+      specific study (same Manitoba First Nations cohort /
+      administrative-data clustered RCT context) did not
+      identify any independent peer-reviewed replication paper.
+      While there are many PAX-GBG / GBG trials in other
+      settings, those are not replications of this specific
+      study.
+
+      Final summary: Criterion R is not met because no
+      independent replication of this specific study was found.
+
+  a:
+    met: false
+    explanation: >-
+      Criterion E is not met, so All-subject Exams cannot be
+      met; additionally, outcomes are not standardized exams
+      across all core subjects.
+    quote: >-
+      "These assessments were conducted by teachers..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "These assessments were conducted by teachers to
+      evaluate student’s strengths and needs in third grade
+      reading and numeracy, seventh grade student engagement
+      and mathematics, and eighth grade reading and writing."
+      (page not provided)
+
+      2) "Teachers report whether their students: “met academic
+      expectations”, “approached expectations” or “have not met
+      them”." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion A requires standardized, exam-based assessment
+      across all main subjects and is explicitly not met if
+      Criterion E is not met.
+
+      Here, Criterion E is not met because academic outcomes
+      are teacher assessments rather than standardized exams.
+      Therefore, Criterion A cannot be met. Independently, the
+      outcomes listed are not a full set of standardized exams
+      across all core subjects.
+
+      Final summary: Criterion A is not met because Criterion E
+      is not met and the study does not use standardized exams
+      across all core subjects.
+
+  g:
+    met: false
+    explanation: >-
+      The paper reports follow-up through Grade 9 rather than
+      tracking the cohort through graduation, and no later
+      cohort-follow-up paper to graduation was found online.
+    quote: >-
+      "Children in both groups were then followed from first
+      grade to ninth grade (September 2011 – March 2020)..."
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Children in both groups were then followed from first
+      grade to ninth grade (September 2011 – March 2020) to
+      determine shorter-term mental and behavioural (SDQ)
+      outcomes and longer-term diagnosed mental disorders and
+      academic outcomes." (page not provided)
+
+      2) "Children were followed for an eight-year period
+      (July 1, 2012 – March 31, 2020)..." (page not provided)
+
+      Detailed Analysis:
+
+      Criterion G requires tracking participants until
+      graduation. (Per ERCT rules, Criterion G cannot be met if
+      Criterion Y is not met; here Y is met, so graduation
+      tracking is evaluated normally.)
+
+      The paper documents follow-up through ninth grade and to
+      March 2020, including an "eight-year period" for some
+      outcomes. This is long-term follow-up, but it is not
+      described as tracking participants through high-school
+      graduation (or another explicitly defined graduation
+      endpoint).
+
+      Additional internet searching for subsequent peer-
+      reviewed follow-up publications by the same author team
+      tracking this specific Manitoba First Nations RCT cohort
+      to graduation did not identify a paper that reports
+      graduation outcomes for this cohort.
+
+      Final summary: Criterion G is not met because follow-up
+      ends at Grade 9 / March 2020 and graduation tracking was
+      not found.
+
+  p:
+    met: false
+    explanation: >-
+      No pre-registration registry entry (ID and prospective
+      registration date) for this trial was found or reported.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) (No statement in the paper text provided mentions a
+      trial registry ID, a pre-registration link, or a
+      registration date.) (page not provided)
+
+      Detailed Analysis:
+
+      Criterion P requires that the study protocol be
+      pre-registered before data collection begins, with a
+      verifiable registry entry (and date) demonstrating
+      prospective registration.
+
+      The paper provides ethics and data governance approvals,
+      but it does not report any trial registration number or
+      pre-registration link/date. Internet searching identified
+      that other Good Behaviour Game trials in other countries
+      have been registered (e.g., UK GBG trials in ISRCTN), but
+      no registry record specific to this Manitoba clustered
+      RCT (academic year 2011/12) was found.
+
+      Final summary: Criterion P is not met because no
+      prospective pre-registration evidence (registry ID and
+      date) is reported or found for this trial.
+---
+```
+
+## Change summary (vs. the provided YAML)
+
+- Added `paper_link` as the official DOI landing page.
+- Added `pdf_link` as a direct Springer PDF URL format.
+- Set `date_erct_check` to **2026-02-21**.
+- Re-checked and tightened multiple quotes to match the provided paper
+  text (notably: sample sizes, follow-up wording, and teacher-assessment
+  wording).
+- Rewrote all `analysis` fields into the required
+  **Relevant Quotes / Detailed Analysis / Final summary** structure.
+- Re-checked Criteria **G, R, P** using internet searches; no graduation
+  follow-up paper, no independent replication of this specific study,
+  and no pre-registration record specific to this Manitoba trial were
+  found; conclusions remained **not met** for G/R/P.
+- Kept `erct_level: 0` because Criterion **E** is not met (so Level 1
+  requirements are not all satisfied).

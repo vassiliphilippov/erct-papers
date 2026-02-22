@@ -1,0 +1,517 @@
+---
+title: >-
+  The effect of de-escalation simulation training on empowerment
+  and confidence in managing patient aggression among psychiatric
+  nursing students: an experiential learning approach
+authors: >-
+  Gamal Ali Abdelhamid Eltrass, Sorayia Ramadan Abdelfattah,
+  Ghada Mohammed Mourad, Mostafa Shaban, and Wafaa Osman
+  Abd El-Fatah
+paper_link: ""
+abstract: >-
+  Background Patient aggression is a persistent challenge in
+  mental health settings, and undergraduate preparation in
+  de-escalation remains variable. This study evaluated whether a
+  standardized-patient (SP) de-escalation simulation improves
+  psychological empowerment and confidence in coping with
+  aggression among psychiatric nursing students.
+
+  Methods We conducted a parallel-group randomized controlled
+  trial (pretest–posttest) with undergraduate psychiatric nursing
+  students randomly assigned to either an SP-based de-escalation
+  simulation program or routine curriculum control. The
+  intervention comprised 12 sessions over 8 weeks (4 theory + 8
+  SP practical scenarios with structured debriefs aligned to
+  INACSL standards). Primary outcomes were psychological
+  empowerment and confidence in coping with patient aggression,
+  assessed at baseline and immediately post-intervention using
+  validated scales. Fidelity was supported through scripted
+  scenarios, SP calibration, and facilitator adherence/debrief
+  quality checks. Between-group differences in change scores were
+  examined.
+
+  Results Compared with the control group, students in the
+  simulation arm demonstrated significantly greater gains in both
+  psychological empowerment and confidence in coping with
+  aggression from pretest to posttest. Fidelity indices indicated
+  consistent SP portrayal and facilitator adherence across
+  sessions, and attendance was high. No adverse events were
+  reported.
+
+  Conclusions A structured de-escalation simulation using trained
+  standardized patients significantly improves empowerment and
+  confidence among psychiatric nursing students. The scenario
+  maps, learning outcomes, and debriefing approach described
+  support replication and curriculum integration in undergraduate
+  mental health nursing. Future work should examine longer-term
+  retention, transfer to clinical practice, and curriculum-level
+  outcomes.
+
+  Clinical trial number Not applicable.
+publication_date: 2026-01-12
+erct_level: 0
+rct: true
+pdf_link: ""
+doi: 10.1186/s12912-025-03958-1
+journal: BMC Nursing
+date_erct_check:
+tags:
+  - higher education
+  - Africa
+criteria:
+  c:
+    met: false
+    explanation: >-
+      Randomization was at the individual student level rather
+      than assigning whole classes (and this was not a one-to-one
+      tutoring intervention).
+    quote: >-
+      "Participants were allocated 1:1 to the experimental
+      (de-escalation simulation) or control (routine curriculum)
+      arm using a computer-generated random sequence..." (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "We employed a parallel-group randomized controlled trial
+      with pretest–posttest assessments..." (p. 3)
+
+      2) "Participants were allocated 1:1 to the experimental
+      (de-escalation simulation) or control (routine curriculum)
+      arm using a computer-generated random sequence..." (p. 3)
+
+      3) "The study was conducted at the Psychiatric and Mental
+      Health Nursing Department, Faculty of Nursing, October 6
+      University, located in Giza Governorate, Egypt." (p. 3)
+
+      Detailed Analysis:
+
+      The ERCT C criterion requires random assignment at the class
+      level (or stronger), unless the intervention is explicitly
+      one-to-one tutoring/personal teaching. The paper describes
+      a "parallel-group randomized controlled trial" where
+      "Participants were allocated 1:1" to conditions, which
+      indicates individual-level randomization of students rather
+      than random assignment of intact classes.
+
+      The intervention is a group-based course component (SP
+      simulations delivered as sessions), not a one-to-one
+      tutoring exception.
+
+      Final summary sentence: Criterion C is not met because the
+      study randomized individual students rather than whole
+      classes (and no tutoring exception applies).
+  e:
+    met: false
+    explanation: >-
+      Outcomes were measured with self-report empowerment and
+      confidence scales rather than a widely recognized
+      standardized exam-based assessment.
+    quote: >-
+      "Primary outcomes were psychological empowerment and
+      confidence in coping with patient aggression, assessed at
+      baseline and immediately post-intervention using validated
+      scales." (p. 1)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Primary outcomes were psychological empowerment and
+      confidence in coping with patient aggression, assessed at
+      baseline and immediately post-intervention using validated
+      scales." (p. 1)
+
+      2) "Baseline data (pre-training) were collected... using the
+      structured electronic self-reported questionnaire..."
+      (p. 5)
+
+      3) "Psychological Empowerment Scale (PES)..." (p. 4)
+
+      4) "Clinical confidence in coping with patient aggression
+      questionnaire (CCWPA)..." (p. 4)
+
+      Detailed Analysis:
+
+      The ERCT E criterion requires standardized exam-based
+      assessments (e.g., state/national standardized tests or
+      widely recognized standardized achievement exams). This
+      study assesses outcomes using two questionnaire instruments
+      (PES and CCWPA) administered as self-report measures.
+
+      While these instruments may be "validated scales," they are
+      not standardized exam-based academic assessments of
+      educational achievement (and the paper does not describe
+      use of national/state exams or other standardized testing
+      programs).
+
+      Final summary sentence: Criterion E is not met because the
+      study uses self-report validated scales (PES and CCWPA),
+      not standardized exam-based assessments.
+  t:
+    met: false
+    explanation: >-
+      The intervention lasted 8 weeks and outcomes were measured
+      immediately after training, which is shorter than a full
+      academic term (about 3–4 months) from start to measurement.
+    quote: >-
+      "Immediately after the training, post-intervention data
+      were collected from both groups..." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The intervention comprised 12 sessions over 8 weeks..."
+      (p. 1)
+
+      2) "Immediately after the training, post-intervention data
+      were collected from both groups using the same tools."
+      (p. 5)
+
+      3) "Data collection was carried out... during the Fall
+      semester of the academic year 2023–2024..." (p. 5)
+
+      Detailed Analysis:
+
+      The ERCT T criterion requires that outcomes be measured at
+      least one full academic term after the intervention begins.
+      The paper explicitly states the intervention lasted "8
+      weeks" and that evaluation occurred "Immediately after the
+      training."
+
+      Eight weeks is substantially shorter than a typical academic
+      term (~12–16 weeks). The paper does not describe an
+      additional later follow-up measurement at or beyond a term
+      after the start date.
+
+      Final summary sentence: Criterion T is not met because the
+      study measured outcomes immediately after an 8-week program,
+      which is shorter than one academic term from start to
+      measurement.
+  d:
+    met: true
+    explanation: >-
+      The control condition is clearly described (routine
+      curriculum without simulation) and baseline characteristics
+      and group sizes are documented.
+    quote: >-
+      "Students in the control arm completed the standard
+      psychiatric nursing course content without simulation or
+      role-play." (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The control arm received the routine curriculum without
+      simulation..." (p. 3)
+
+      2) "Students in the control arm completed the standard
+      psychiatric nursing course content without simulation or
+      role-play." (p. 3)
+
+      3) "The curriculum comprised 12 contact hours divided into
+      three thematic blocks..." (p. 3)
+
+      4) "Importantly, no standardized patients, scenarios, or
+      role-play exercises were used in the control condition."
+      (p. 3)
+
+      5) "The results section presents data gathered from 80
+      psychiatric nursing students, distributed equally into
+      experimental (n = 40) and control (n = 40) groups." (p. 6)
+
+      6) "Table 1 presents the socio-demographic characteristics
+      of the nursing students in both the experimental and
+      control groups." (p. 6)
+
+      Detailed Analysis:
+
+      ERCT D requires a well-documented control group including
+      what they received and baseline/demographic information.
+      This paper provides a detailed narrative description of the
+      control curriculum (topics, contact hours, teaching methods,
+      and the explicit absence of simulation/role-play) and also
+      documents sample size by arm and baseline characteristics
+      via Table 1.
+
+      Final summary sentence: Criterion D is met because the
+      control condition and its instruction are described in
+      detail and baseline group characteristics and sizes are
+      reported.
+  s:
+    met: false
+    explanation: >-
+      The paper randomizes students within a single university
+      department rather than randomizing at the school/site level.
+    quote: >-
+      "The study was conducted at the Psychiatric and Mental
+      Health Nursing Department, Faculty of Nursing, October 6
+      University..." (p. 3)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The study was conducted at the Psychiatric and Mental
+      Health Nursing Department, Faculty of Nursing, October 6
+      University, located in Giza Governorate, Egypt." (p. 3)
+
+      2) "Participants were allocated 1:1 to the experimental...
+      or control... arm using a computer-generated random
+      sequence..." (p. 3)
+
+      Detailed Analysis:
+
+      ERCT S requires school-level randomization among schools or
+      equivalent institutions/sites. The paper describes one
+      institutional setting (October 6 University) and describes
+      allocation of participants 1:1, which indicates student-level
+      allocation rather than school/site-level randomization.
+
+      Final summary sentence: Criterion S is not met because the
+      study does not randomize schools/sites, only individual
+      students in one institution.
+  i:
+    met: false
+    explanation: >-
+      Although randomization and assessment roles include
+      "independent" personnel, the intervention was developed and
+      data collection led by study authors, so the trial is not
+      fully independent of the intervention designers.
+    quote: >-
+      "GAE conceived the study, developed the simulation training,
+      and led data collection." (p. 10)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "A computer-generated random sequence was prepared by an
+      independent faculty member..." (p. 3)
+
+      2) "Outcome assessors and data analysts were independent of
+      the teaching team..." (p. 3)
+
+      3) "GAE conceived the study, developed the simulation
+      training, and led data collection." (p. 10)
+
+      Detailed Analysis:
+
+      ERCT I requires that the study be conducted independently
+      from the authors who designed the intervention (to reduce
+      bias in implementation and analysis).
+
+      The paper includes partial independence safeguards: an
+      "independent faculty member" prepared the random sequence,
+      and "Outcome assessors and data analysts" were independent
+      of the teaching team. However, the author contributions
+      state that an author (GAE) "developed the simulation
+      training" and "led data collection," which indicates that
+      key conduct of the study was not fully separated from the
+      intervention designer(s).
+
+      Final summary sentence: Criterion I is not met because the
+      intervention designer (an author) led data collection even
+      though some roles (random sequence, assessors/analysts) were
+      described as independent.
+  y:
+    met: false
+    explanation: >-
+      Year-duration tracking is not present because outcomes were
+      measured immediately after an 8-week intervention (and ERCT
+      Y also cannot be met when ERCT T is not met).
+    quote: >-
+      "Immediately after the training, post-intervention data
+      were collected from both groups..." (p. 5)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The intervention comprised 12 sessions over 8 weeks..."
+      (p. 1)
+
+      2) "Immediately after the training, post-intervention data
+      were collected from both groups using the same tools."
+      (p. 5)
+
+      Detailed Analysis:
+
+      ERCT Y requires outcomes measured at least 75% of an
+      academic year after the intervention begins. The study
+      describes an 8-week intervention with immediate post-test
+      measurement, which is far shorter than an academic year.
+
+      Additionally, per the ERCT instructions provided, if
+      criterion T is not met then criterion Y is not met; here T
+      is not met because the start-to-measurement interval is
+      shorter than a term.
+
+      Final summary sentence: Criterion Y is not met because the
+      study’s start-to-measurement period is only 8 weeks with an
+      immediate post-test, far short of year-long tracking.
+  b:
+    met: true
+    explanation: >-
+      The intervention’s added materials and personnel (trained
+      standardized patients, scripted scenarios, debriefing and
+      fidelity procedures) are integral to the treatment being
+      tested, and the paper documents a structured routine
+      curriculum control rather than leaving control students
+      without educational engagement.
+    quote: >-
+      "The control arm received the routine curriculum without
+      simulation... The intervention comprised 12 sessions over 8
+      weeks (4 theory + 8 SP practical scenarios...)." (p. 1)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "The control arm received the routine curriculum without
+      simulation..." (p. 3)
+
+      2) "The intervention comprised 12 sessions over 8 weeks (4
+      theory + 8 SP practical scenarios with structured debriefs
+      aligned to INACSL standards)." (p. 1)
+
+      3) "Students in the control arm completed the standard
+      psychiatric nursing course content without simulation or
+      role-play. The curriculum comprised 12 contact hours..."
+      (p. 3)
+
+      4) "Fidelity measures included use of scripted cue cards,
+      props, timing windows, and SP calibration workshops."
+      (p. 4)
+
+      Detailed Analysis:
+
+      Criterion B focuses on whether time/budget/resources are
+      balanced across conditions unless the extra resources are
+      explicitly integral to (and intended as) the treatment
+      variable.
+
+      Here, the experimental condition is explicitly defined as an
+      SP-based simulation program, which inherently requires
+      additional resources (standardized patients, simulation
+      setup, scripted scenarios, structured debriefing, and
+      fidelity monitoring). These resources are not optional add-
+      ons; they constitute the intervention being tested.
+
+      The control condition is not a "no-education" group; it is a
+      structured routine curriculum with defined content and "12
+      contact hours," indicating comparable ongoing educational
+      engagement rather than an empty baseline.
+
+      While the paper does not provide a direct minute-by-minute
+      equivalence comparison of total contact time across arms,
+      the key resource differences (SP simulation infrastructure)
+      are integral to the treatment definition, not an unintended
+      imbalance.
+
+      Final summary sentence: Criterion B is met because the
+      resource-intensive elements are integral to the simulation
+      intervention being tested and the control group is given a
+      clearly specified routine curriculum rather than lacking
+      educational inputs.
+  r:
+    met: false
+    explanation: >-
+      The paper does not report an independent replication and no
+      independent replication evidence is provided within the
+      paper text.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Future research should address these limitations by
+      employing multi-site designs... and long-term evaluations..."
+      (p. 9)
+
+      Detailed Analysis:
+
+      ERCT R requires that the study be independently replicated
+      by a different research team in a different context and
+      published in a peer-reviewed journal.
+
+      The paper does not present itself as a replication of a
+      prior trial, does not cite an independent team reproducing
+      this exact intervention and design, and only suggests that
+      future work should include multi-site designs. No external
+      replication studies are identified or quoted within the
+      provided paper content.
+
+      Final summary sentence: Criterion R is not met because there
+      is no quoted evidence of an independent peer-reviewed
+      replication of this specific trial.
+  a:
+    met: false
+    explanation: >-
+      All-subject standardized exams were not used, and because
+      ERCT E is not met, ERCT A is automatically not met.
+    quote: null
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Primary outcomes were psychological empowerment and
+      confidence in coping with patient aggression..." (p. 1)
+
+      2) "Three data collection instruments were utilized..."
+      (p. 4)
+
+      Detailed Analysis:
+
+      ERCT A requires standardized exam-based assessment across
+      all main subjects, and the provided ERCT instructions state
+      that if criterion E is not met then A is not met.
+
+      This paper does not use standardized academic exams at all;
+      outcomes are psychological empowerment and confidence
+      measured via questionnaires, so E is not met and therefore
+      A cannot be met.
+
+      Final summary sentence: Criterion A is not met because the
+      study does not use standardized exams (and E is not met,
+      which makes A automatically not met).
+  g:
+    met: false
+    explanation: >-
+      The study did not track participants to graduation, and
+      because ERCT Y is not met, ERCT G is automatically not met.
+    quote: >-
+      "Second, the study only measured immediate post-intervention
+      outcomes and did not include a longitudinal follow-up."
+      (p. 9)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Second, the study only measured immediate
+      post-intervention outcomes and did not include a longitudinal
+      follow-up." (p. 9)
+
+      Detailed Analysis:
+
+      ERCT G requires follow-up tracking until graduation from the
+      relevant educational stage, and the provided ERCT
+      instructions state that if criterion Y is not met then G is
+      not met.
+
+      The paper explicitly acknowledges it only measured immediate
+      post-intervention outcomes and did not include longitudinal
+      follow-up, which is incompatible with graduation tracking.
+      Also, Y is not met (the study is 8 weeks with immediate
+      post-test), so G cannot be met.
+
+      Final summary sentence: Criterion G is not met because there
+      is no longitudinal follow-up to graduation and Y is not met.
+  p:
+    met: false
+    explanation: >-
+      No pre-registration is provided; the paper explicitly states
+      "Clinical trial number Not applicable."
+    quote: >-
+      "Clinical trial number Not applicable." (p. 2)
+    analysis: >-
+      Relevant Quotes:
+
+      1) "Clinical trial number Not applicable." (p. 2)
+
+      Detailed Analysis:
+
+      ERCT P requires a pre-registered protocol with a registry
+      reference and timing before data collection begins. The
+      paper explicitly indicates there is no trial registration
+      number, and no registry link/ID or registration date is
+      provided in the text.
+
+      Final summary sentence: Criterion P is not met because the
+      study provides no pre-registration ID/date and states the
+      clinical trial number is not applicable.
+---
