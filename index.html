@@ -144,11 +144,8 @@ title: "ERCT - Educational RCT Standard"
   <div class="studies__container">
     <h2 class="studies__title title">ERCT Evaluated Studies</h2>
     <div class="studies__filter filter-banner" role="status" aria-live="polite" hidden>
-      <span class="filter-banner__label">Category:</span>
-      <button type="button" class="filter-banner__tag" title="Remove filter">
-        <span class="filter-banner__name"></span>
-        <span class="filter-banner__x" aria-hidden="true">&times;</span>
-      </button>
+      <span class="filter-banner__label">Filters:</span>
+      <span class="filter-banner__tags"></span>
       <span class="filter-banner__count"></span>
       <button type="button" class="filter-banner__clear">Show all</button>
     </div>
@@ -284,6 +281,7 @@ title: "ERCT - Educational RCT Standard"
       </li>
       {% endfor %}
     </ul>
+    <p class="studies__empty" hidden>No papers match this combination of filters.</p>
   </div>
 </section>
 <script src="{{ '/assets/js/filter.js' | relative_url }}"></script>

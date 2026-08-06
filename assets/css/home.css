@@ -698,3 +698,17 @@
 .block-studies__tags li.tag--active {
   outline: 2px solid currentColor;
 }
+.filter-banner__tags {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem; /* 8/16 */
+}
+.studies__empty {
+  text-align: center;
+  color: var(--level-text);
+  margin-block: 2rem; /* 32/16 */
+}
+.studies__empty[hidden] {
+  display: none;
+}

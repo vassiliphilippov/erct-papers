@@ -48,7 +48,7 @@
 					<ul class="hero__tags">
 						{% for tag in page.tags %}
 						{% assign tag_class = site.data.tags.tags[tag] | default: 'tag-default' %}
-						<li class="{{ tag_class }}">{{ tag }}</li>
+						<li class="{{ tag_class }}"><a href="{{ '/' | relative_url }}?tags={{ tag | url_encode }}">{{ tag }}</a></li>
 						{% endfor %}
 					</ul>
 				</div>

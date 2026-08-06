@@ -601,3 +601,15 @@
     inline-size: 6.25rem; /* 100/16 */
   }
 }
+
+/* Clickable tags linking to the filtered papers list */
+.hero__tags li a {
+  margin-block: -0.25rem; /* -4/16, hit area covers the whole pill */
+  margin-inline: -0.5rem; /* -8/16 */
+  padding-block: 0.25rem; /* 4/16 */
+  padding-inline: 0.5rem; /* 8/16 */
+  border-radius: inherit;
+}
+.hero__tags li:hover {
+  filter: brightness(0.93);
+}
