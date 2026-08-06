@@ -143,6 +143,15 @@ title: "ERCT - Educational RCT Standard"
 <section class="main__studies studies">
   <div class="studies__container">
     <h2 class="studies__title title">ERCT Evaluated Studies</h2>
+    <div class="studies__filter filter-banner" role="status" aria-live="polite" hidden>
+      <span class="filter-banner__label">Category:</span>
+      <button type="button" class="filter-banner__tag" title="Remove filter">
+        <span class="filter-banner__name"></span>
+        <span class="filter-banner__x" aria-hidden="true">&times;</span>
+      </button>
+      <span class="filter-banner__count"></span>
+      <button type="button" class="filter-banner__clear">Show all</button>
+    </div>
     <ul class="studies__block block-studies">
       {% assign sorted_papers = site.papers | sort: 'erct_level' | reverse %}
 
@@ -189,7 +198,7 @@ title: "ERCT - Educational RCT Standard"
 
 
       {% for paper in final_sorted_papers %}
-      <li class="block-studies__card">
+      <li class="block-studies__card" data-tags="{{ paper.tags | join: '|' }}">
         <a href="{{ paper.url | relative_url }}">
           <article class="block-studies__article">
             <div class="block-studies__progress progress">
@@ -253,7 +262,7 @@ title: "ERCT - Educational RCT Standard"
               <ul class="block-studies__tags">
                 {% for tag in paper.tags %}
                 {% assign tag_class = site.data.tags.tags[tag] | default: 'tag-default' %}
-                <li class="{{ tag_class }}">{{ tag }}</li>
+                <li class="{{ tag_class }}" data-tag="{{ tag }}">{{ tag }}</li>
                   {% endfor %}
               </ul>
               <h3 class="block-studies__title title">{{ paper.title }}</h3>
@@ -277,6 +286,7 @@ title: "ERCT - Educational RCT Standard"
     </ul>
   </div>
 </section>
+<script src="{{ '/assets/js/filter.js' | relative_url }}"></script>
 
 <section class="main__suggest suggest">
   <div class="suggest__container">

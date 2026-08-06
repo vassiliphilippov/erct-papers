@@ -618,3 +618,83 @@
     display: none;
   }
 }
+
+/* Tag filtering */
+.studies__filter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.625rem 0.875rem; /* 10/16 14/16 */
+  inline-size: fit-content;
+  margin-inline: auto;
+  margin-block-start: -1.25rem; /* -20/16, tightens gap under title */
+  margin-block-end: 2rem; /* 32/16 */
+  padding-block: 0.625rem; /* 10/16 */
+  padding-inline: 1.25rem; /* 20/16 */
+  border-radius: 2rem; /* 32/16 */
+  background: var(--header-bg);
+  box-shadow: var(--block-studies-box-shadow);
+  font-size: 0.9375rem; /* 15/16 */
+}
+.studies__filter[hidden] {
+  display: none;
+}
+.filter-banner__label {
+  color: var(--level-text);
+  font-weight: 500;
+}
+.filter-banner__tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem; /* 8/16 */
+  padding-inline: 0.875rem; /* 14/16 */
+  padding-block: 0.4375rem; /* 7/16 */
+  border: none;
+  border-radius: 1rem; /* 16/16 */
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+  transition: filter 0.15s;
+}
+.filter-banner__tag:hover {
+  filter: brightness(0.93);
+}
+.filter-banner__x {
+  font-size: 1.25em;
+  line-height: 0.8;
+}
+.filter-banner__count {
+  color: var(--level-text);
+  white-space: nowrap;
+}
+.filter-banner__clear {
+  padding-inline: 0.875rem; /* 14/16 */
+  padding-block: 0.375rem; /* 6/16 */
+  border: 0.0625rem solid var(--link-border);
+  border-radius: 1rem; /* 16/16 */
+  background: var(--header-bg);
+  font: inherit;
+  font-size: 0.875rem; /* 14/16 */
+  font-weight: 500;
+  color: var(--primary-text);
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s, border-color 0.15s;
+}
+.filter-banner__clear:hover {
+  background: var(--primary-title);
+  border-color: var(--primary-title);
+  color: var(--header-bg);
+}
+.block-studies__card[hidden] {
+  display: none;
+}
+.block-studies__tags li {
+  cursor: pointer;
+}
+.block-studies__tags li:hover {
+  filter: brightness(0.93);
+}
+.block-studies__tags li.tag--active {
+  outline: 2px solid currentColor;
+}
